@@ -1,0 +1,111 @@
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 1"
+start_at = 2019-10-27 10:30:00
+duration = 45
+room = "room1"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 2"
+start_at = 2019-10-27 10:30:00
+duration = 45
+room = "room2"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 3"
+start_at = 2019-10-27 10:30:00
+duration = 45
+room = "room3"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 1"
+start_at = 2019-10-27 11:15:00
+duration = 45
+room = "room1"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 2"
+start_at = 2019-10-27 11:15:00
+duration = 45
+room = "room2"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 3"
+start_at = 2019-10-27 11:15:00
+duration = 45
+room = "room3"
+
+[[ slot ]]
+type = "talk"
+name = "Lightning Talks"
+start_at = 2019-10-27 12:00:00
+duration = 30
+room = "room3"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 1"
+start_at = 2019-10-27 14:00:00
+duration = 45
+room = "room1"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 2"
+start_at = 2019-10-27 14:00:00
+duration = 45
+room = "room2"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 3"
+start_at = 2019-10-27 14:00:00
+duration = 45
+room = "room3"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 1"
+start_at = 2019-10-27 14:45:00
+duration = 45
+room = "room1"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 2"
+start_at = 2019-10-27 14:45:00
+duration = 45
+room = "room2"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 3"
+start_at = 2019-10-27 14:45:00
+duration = 45
+room = "room3"
+
+[[ slot ]]
+type = "talk"
+name = "Associação Python Brasil"
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = "room1"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 2"
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = "room1"
+
+[[ slot ]]
+type = "talk"
+name = "Palestra Sala 3"
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = "room3"

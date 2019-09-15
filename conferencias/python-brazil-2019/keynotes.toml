@@ -1,0 +1,41 @@
+[[ slot ]]
+type = "keynote"
+name = "Keynote 1"
+start_at = 2019-10-25 09:00:00
+duration = 60
+room = "keynote-room"
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote 2"
+start_at = 2019-10-25 17:15:00
+duration = 60
+room = "keynote-room"
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote 3"
+start_at = 2019-10-26 11:30:00
+duration = 60
+room = "keynote-room"
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote 4"
+start_at = 2019-10-26 17:15:00
+duration = 60
+room = "keynote-room"
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote 5"
+start_at = 2019-10-27 11:30:00
+duration = 60
+room = "keynote-room"
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote 6"
+start_at = 2019-10-27 17:15:00
+duration = 60
+room = "keynote-room"
