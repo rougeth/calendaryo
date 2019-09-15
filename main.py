@@ -1,0 +1,80 @@
+from pathlib import Path
+from datetime import datetime, timedelta
+
+import toml
+from decouple import config
+from googleapiclient import discovery
+from google.oauth2.service_account import Credentials
+
+
+# Build Google API Client
+credentials = Credentials.from_service_account_file(
+    config("GOOGLE_API_CREDENTIALS"), scopes=["https://www.googleapis.com/auth/calendar"]
+)
+client = discovery.build("calendar", "v3", credentials=credentials)
+
+# Search for calendar related to this year's Python Brasil.
+# Create new one if not found.
+today = datetime.now()
+calendar_name = f"Python Brasil {today.year} - Grade"
+
+for calendar in client.calendarList().list().execute()["items"]:
+    if calendar["summary"] == calendar_name:
+        print("Calendar found")
+        break
+else:
+    print("Calendar not found, creating new one")
+    calendar = client.calendars().insert(body={"summary": calendar_name}).execute()
+
+print("Calendar ID:", calendar["id"])
+
+# Setup read-only access for public user.
+rule = {"scope": {"type": "default"}, "role": "reader"}
+acl = client.acl().insert(calendarId=calendar["id"], body=rule).execute()
+print("ACL created, id:", acl["id"])
+
+# Remove any existent events.
+events = client.events().list(calendarId=calendar["id"]).execute()["items"]
+if len(events) > 0:
+    print(f"Reseting calendar. Removing {len(events)} events found.")
+    for event in events:
+        client.events().delete(calendarId=calendar["id"], eventId=event["id"]).execute()
+
+# Search and read for TOML files. Aggregate the ones that contains `slot` configuration.
+slots = []
+conferences = Path(config("CONFERENCES_PATH", "conferencias"))
+for config_file in conferences.glob("**/*.toml"):
+    with config_file.open() as fp:
+        config = toml.load(fp)
+        slots.extend(config.get("slot", []))
+
+# Create Calendar Event for each slot found on configuration files
+print("Total events found in the configuration files:", len(slots))
+for slot in slots:
+    start_at = slot["start_at"]
+    if not start_at.year == today.year:
+        continue
+
+    duration = slot["duration"]
+    end_at = start_at + timedelta(minutes=duration)
+
+    event = {
+        "summary": slot["name"],
+        "description": slot.get("description", ""),
+        "start": {"dateTime": start_at.isoformat(), "timeZone": "America/Sao_Paulo"},
+        "end": {"dateTime": end_at.isoformat(), "timeZone": "America/Sao_Paulo"},
+        "creator": {
+            "displayName": f"Python Brasil {today.year}",
+            "email": "eventos@python.org.br",
+        },
+        "extendedProperties": {
+            "private": {
+                "room": slot.get("room", ""),
+                "type": slot.get("type", ""),
+            }
+        },
+    }
+    print("Creating event:", event["summary"])
+    client.events().insert(calendarId=calendar["id"], body=event).execute()
+
+print("Calendar ID:", calendar["id"])

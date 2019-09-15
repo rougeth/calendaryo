@@ -1,0 +1,495 @@
+[[package]]
+category = "dev"
+description = "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."
+name = "appdirs"
+optional = false
+python-versions = "*"
+version = "1.4.3"
+
+[[package]]
+category = "dev"
+description = "Disable App Nap on OS X 10.9"
+marker = "python_version >= \"3.4\" and sys_platform == \"darwin\" or sys_platform == \"darwin\""
+name = "appnope"
+optional = false
+python-versions = "*"
+version = "0.1.0"
+
+[[package]]
+category = "dev"
+description = "Classes Without Boilerplate"
+name = "attrs"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "19.1.0"
+
+[package.extras]
+dev = ["coverage", "hypothesis", "pympler", "pytest", "six", "zope.interface", "sphinx", "pre-commit"]
+docs = ["sphinx", "zope.interface"]
+tests = ["coverage", "hypothesis", "pympler", "pytest", "six", "zope.interface"]
+
+[[package]]
+category = "dev"
+description = "Specifications for callback functions passed in to an API"
+name = "backcall"
+optional = false
+python-versions = "*"
+version = "0.1.0"
+
+[[package]]
+category = "dev"
+description = "The uncompromising code formatter."
+name = "black"
+optional = false
+python-versions = ">=3.6"
+version = "18.9b0"
+
+[package.dependencies]
+appdirs = "*"
+attrs = ">=17.4.0"
+click = ">=6.5"
+toml = ">=0.9.4"
+
+[package.extras]
+d = ["aiohttp (>=3.3.2)"]
+
+[[package]]
+category = "main"
+description = "Extensible memoizing collections and decorators"
+name = "cachetools"
+optional = false
+python-versions = "*"
+version = "3.1.1"
+
+[[package]]
+category = "main"
+description = "Python package for providing Mozilla's CA Bundle."
+name = "certifi"
+optional = false
+python-versions = "*"
+version = "2019.9.11"
+
+[[package]]
+category = "main"
+description = "Universal encoding detector for Python 2 and 3"
+name = "chardet"
+optional = false
+python-versions = "*"
+version = "3.0.4"
+
+[[package]]
+category = "dev"
+description = "Composable command line interface toolkit"
+name = "click"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "7.0"
+
+[[package]]
+category = "dev"
+description = "Cross-platform colored terminal text."
+marker = "python_version >= \"3.4\" and sys_platform == \"win32\" or sys_platform == \"win32\""
+name = "colorama"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "0.4.1"
+
+[[package]]
+category = "dev"
+description = "Better living through Python with decorators"
+name = "decorator"
+optional = false
+python-versions = ">=2.6, !=3.0.*, !=3.1.*"
+version = "4.4.0"
+
+[[package]]
+category = "main"
+description = "Google API Client Library for Python"
+name = "google-api-python-client"
+optional = false
+python-versions = ">=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*"
+version = "1.7.11"
+
+[package.dependencies]
+google-auth = ">=1.4.1"
+google-auth-httplib2 = ">=0.0.3"
+httplib2 = ">=0.9.2,<1dev"
+six = ">=1.6.1,<2dev"
+uritemplate = ">=3.0.0,<4dev"
+
+[[package]]
+category = "main"
+description = "Google Authentication Library"
+name = "google-auth"
+optional = false
+python-versions = ">=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*"
+version = "1.6.3"
+
+[package.dependencies]
+cachetools = ">=2.0.0"
+pyasn1-modules = ">=0.2.1"
+rsa = ">=3.1.4"
+six = ">=1.9.0"
+
+[[package]]
+category = "main"
+description = "Google Authentication Library: httplib2 transport"
+name = "google-auth-httplib2"
+optional = false
+python-versions = "*"
+version = "0.0.3"
+
+[package.dependencies]
+google-auth = "*"
+httplib2 = ">=0.9.1"
+
+[[package]]
+category = "main"
+description = "Google Authentication Library"
+name = "google-auth-oauthlib"
+optional = false
+python-versions = "*"
+version = "0.4.0"
+
+[package.dependencies]
+google-auth = "*"
+requests-oauthlib = ">=0.7.0"
+
+[package.extras]
+tool = ["click"]
+
+[[package]]
+category = "main"
+description = "A comprehensive HTTP client library."
+name = "httplib2"
+optional = false
+python-versions = "*"
+version = "0.13.1"
+
+[[package]]
+category = "main"
+description = "Internationalized Domain Names in Applications (IDNA)"
+name = "idna"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "2.8"
+
+[[package]]
+category = "dev"
+description = "IPython-enabled pdb"
+name = "ipdb"
+optional = false
+python-versions = ">=2.7"
+version = "0.12.2"
+
+[package.dependencies]
+setuptools = "*"
+
+[package.dependencies.ipython]
+python = ">=3.4"
+version = ">=5.1.0"
+
+[[package]]
+category = "dev"
+description = "IPython: Productive Interactive Computing"
+name = "ipython"
+optional = false
+python-versions = ">=3.5"
+version = "7.8.0"
+
+[package.dependencies]
+appnope = "*"
+backcall = "*"
+colorama = "*"
+decorator = "*"
+jedi = ">=0.10"
+pexpect = "*"
+pickleshare = "*"
+prompt-toolkit = ">=2.0.0,<2.1.0"
+pygments = "*"
+setuptools = ">=18.5"
+traitlets = ">=4.2"
+
+[package.extras]
+all = ["nbconvert", "notebook", "ipywidgets", "testpath", "qtconsole", "ipyparallel", "nose (>=0.10.1)", "nbformat", "ipykernel", "pygments", "requests", "numpy", "Sphinx (>=1.3)"]
+doc = ["Sphinx (>=1.3)"]
+kernel = ["ipykernel"]
+nbconvert = ["nbconvert"]
+nbformat = ["nbformat"]
+notebook = ["notebook", "ipywidgets"]
+parallel = ["ipyparallel"]
+qtconsole = ["qtconsole"]
+test = ["nose (>=0.10.1)", "requests", "testpath", "pygments", "nbformat", "ipykernel", "numpy"]
+
+[[package]]
+category = "dev"
+description = "Vestigial utilities from IPython"
+name = "ipython-genutils"
+optional = false
+python-versions = "*"
+version = "0.2.0"
+
+[[package]]
+category = "dev"
+description = "An autocompletion tool for Python that can be used for text editors."
+name = "jedi"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "0.15.1"
+
+[package.dependencies]
+parso = ">=0.5.0"
+
+[package.extras]
+testing = ["colorama", "docopt", "pytest (>=3.1.0,<5.0.0)"]
+
+[[package]]
+category = "main"
+description = "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic"
+name = "oauthlib"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "3.1.0"
+
+[package.extras]
+rsa = ["cryptography"]
+signals = ["blinker"]
+signedtoken = ["cryptography", "pyjwt (>=1.0.0)"]
+
+[[package]]
+category = "dev"
+description = "A Python Parser"
+name = "parso"
+optional = false
+python-versions = "*"
+version = "0.5.1"
+
+[package.extras]
+testing = ["docopt", "pytest (>=3.0.7)"]
+
+[[package]]
+category = "dev"
+description = "Pexpect allows easy control of interactive console applications."
+marker = "python_version >= \"3.4\" and sys_platform != \"win32\" or sys_platform != \"win32\""
+name = "pexpect"
+optional = false
+python-versions = "*"
+version = "4.7.0"
+
+[package.dependencies]
+ptyprocess = ">=0.5"
+
+[[package]]
+category = "dev"
+description = "Tiny 'shelve'-like database with concurrency support"
+name = "pickleshare"
+optional = false
+python-versions = "*"
+version = "0.7.5"
+
+[[package]]
+category = "dev"
+description = "Library for building powerful interactive command lines in Python"
+name = "prompt-toolkit"
+optional = false
+python-versions = "*"
+version = "2.0.9"
+
+[package.dependencies]
+six = ">=1.9.0"
+wcwidth = "*"
+
+[[package]]
+category = "dev"
+description = "Run a subprocess in a pseudo terminal"
+marker = "python_version >= \"3.4\" and sys_platform != \"win32\" or sys_platform != \"win32\""
+name = "ptyprocess"
+optional = false
+python-versions = "*"
+version = "0.6.0"
+
+[[package]]
+category = "main"
+description = "ASN.1 types and codecs"
+name = "pyasn1"
+optional = false
+python-versions = "*"
+version = "0.4.7"
+
+[[package]]
+category = "main"
+description = "A collection of ASN.1-based protocols modules."
+name = "pyasn1-modules"
+optional = false
+python-versions = "*"
+version = "0.2.6"
+
+[package.dependencies]
+pyasn1 = ">=0.4.6,<0.5.0"
+
+[[package]]
+category = "dev"
+description = "Pygments is a syntax highlighting package written in Python."
+name = "pygments"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+version = "2.4.2"
+
+[[package]]
+category = "main"
+description = "Strict separation of settings from code."
+name = "python-decouple"
+optional = false
+python-versions = "*"
+version = "3.1"
+
+[[package]]
+category = "main"
+description = "Python HTTP for Humans."
+name = "requests"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+version = "2.22.0"
+
+[package.dependencies]
+certifi = ">=2017.4.17"
+chardet = ">=3.0.2,<3.1.0"
+idna = ">=2.5,<2.9"
+urllib3 = ">=1.21.1,<1.25.0 || >1.25.0,<1.25.1 || >1.25.1,<1.26"
+
+[package.extras]
+security = ["pyOpenSSL (>=0.14)", "cryptography (>=1.3.4)", "idna (>=2.0.0)"]
+socks = ["PySocks (>=1.5.6,<1.5.7 || >1.5.7)", "win-inet-pton"]
+
+[[package]]
+category = "main"
+description = "OAuthlib authentication support for Requests."
+name = "requests-oauthlib"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "1.2.0"
+
+[package.dependencies]
+oauthlib = ">=3.0.0"
+requests = ">=2.0.0"
+
+[package.extras]
+rsa = ["oauthlib (>=3.0.0)"]
+
+[[package]]
+category = "main"
+description = "Pure-Python RSA implementation"
+name = "rsa"
+optional = false
+python-versions = "*"
+version = "4.0"
+
+[package.dependencies]
+pyasn1 = ">=0.1.3"
+
+[[package]]
+category = "main"
+description = "Python 2 and 3 compatibility utilities"
+name = "six"
+optional = false
+python-versions = ">=2.6, !=3.0.*, !=3.1.*"
+version = "1.12.0"
+
+[[package]]
+category = "main"
+description = "Python Library for Tom's Obvious, Minimal Language"
+name = "toml"
+optional = false
+python-versions = "*"
+version = "0.10.0"
+
+[[package]]
+category = "dev"
+description = "Traitlets Python config system"
+name = "traitlets"
+optional = false
+python-versions = "*"
+version = "4.3.2"
+
+[package.dependencies]
+decorator = "*"
+ipython-genutils = "*"
+six = "*"
+
+[package.extras]
+test = ["pytest", "mock"]
+
+[[package]]
+category = "main"
+description = "URI templates"
+name = "uritemplate"
+optional = false
+python-versions = "*"
+version = "3.0.0"
+
+[[package]]
+category = "main"
+description = "HTTP library with thread-safe connection pooling, file post, and more."
+name = "urllib3"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, <4"
+version = "1.25.3"
+
+[package.extras]
+brotli = ["brotlipy (>=0.6.0)"]
+secure = ["pyOpenSSL (>=0.14)", "cryptography (>=1.3.4)", "idna (>=2.0.0)", "certifi", "ipaddress"]
+socks = ["PySocks (>=1.5.6,<1.5.7 || >1.5.7,<2.0)"]
+
+[[package]]
+category = "dev"
+description = "Measures number of Terminal column cells of wide-character codes"
+name = "wcwidth"
+optional = false
+python-versions = "*"
+version = "0.1.7"
+
+[metadata]
+content-hash = "20b6339231fc7fdbe0ffb7e44533762fcaaf12b11eee51c4cc6f06562f3f6d72"
+python-versions = "^3.7"
+
+[metadata.hashes]
+appdirs = ["9e5896d1372858f8dd3344faf4e5014d21849c756c8d5701f78f8a103b372d92", "d8b24664561d0d34ddfaec54636d502d7cea6e29c3eaf68f3df6180863e2166e"]
+appnope = ["5b26757dc6f79a3b7dc9fab95359328d5747fcb2409d331ea66d0272b90ab2a0", "8b995ffe925347a2138d7ac0fe77155e4311a0ea6d6da4f5128fe4b3cbe5ed71"]
+attrs = ["69c0dbf2ed392de1cb5ec704444b08a5ef81680a61cb899dc08127123af36a79", "f0b870f674851ecbfbbbd364d6b5cbdff9dcedbc7f3f5e18a6891057f21fe399"]
+backcall = ["38ecd85be2c1e78f77fd91700c76e14667dc21e2713b63876c0eb901196e01e4", "bbbf4b1e5cd2bdb08f915895b51081c041bac22394fdfcfdfbe9f14b77c08bf2"]
+black = ["817243426042db1d36617910df579a54f1afd659adb96fc5032fcf4b36209739", "e030a9a28f542debc08acceb273f228ac422798e5215ba2a791a6ddeaaca22a5"]
+cachetools = ["428266a1c0d36dc5aca63a2d7c5942e88c2c898d72139fca0e97fdd2380517ae", "8ea2d3ce97850f31e4a08b0e2b5e6c34997d7216a9d2c98e0f3978630d4da69a"]
+certifi = ["e4f3620cfea4f83eedc95b24abd9cd56f3c4b146dd0177e83a21b4eb49e21e50", "fd7c7c74727ddcf00e9acd26bba8da604ffec95bf1c2144e67aff7a8b50e6cef"]
+chardet = ["84ab92ed1c4d4f16916e05906b6b75a6c0fb5db821cc65e70cbd64a3e2a5eaae", "fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691"]
+click = ["2335065e6395b9e67ca716de5f7526736bfa6ceead690adf616d925bdc622b13", "5b94b49521f6456670fdb30cd82a4eca9412788a93fa6dd6df72c94d5a8ff2d7"]
+colorama = ["05eed71e2e327246ad6b38c540c4a3117230b19679b875190486ddd2d721422d", "f8ac84de7840f5b9c4e3347b3c1eaa50f7e49c2b07596221daec5edaabbd7c48"]
+decorator = ["86156361c50488b84a3f148056ea716ca587df2f0de1d34750d35c21312725de", "f069f3a01830ca754ba5258fde2278454a0b5b79e0d7f5c13b3b97e57d4acff6"]
+google-api-python-client = ["3121d55d106ef1a2756e8074239512055bd99eb44da417b3dd680f9a1385adec", "a8a88174f66d92aed7ebbd73744c2c319b4b1ce828e565f9ec721352d2e2fb8c"]
+google-auth = ["0f7c6a64927d34c1a474da92cfc59e552a5d3b940d3266606c6a28b72888b9e4", "20705f6803fd2c4d1cc2dcb0df09d4dfcb9a7d51fd59e94a3a28231fd93119ed"]
+google-auth-httplib2 = ["098fade613c25b4527b2c08fa42d11f3c2037dda8995d86de0745228e965d445", "f1c437842155680cf9918df9bc51c1182fda41feef88c34004bd1978c8157e08"]
+google-auth-oauthlib = ["6a8b0072048940d1f41c23c03576867e577e826fec140a1c7e148ec486e083ba", "904d72541fc92adb2026767dd364ab3a51f6e893d64b13cdc6acbd580c841468"]
+httplib2 = ["6901c8c0ffcf721f9ce270ad86da37bc2b4d32b8802d4a9cec38274898a64044", "cf6f9d5876d796539ec922a2c9b9a7cad9bfd90f04badcdc3bcfa537168052c3"]
+idna = ["c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407", "ea8b7f6188e6fa117537c3df7da9fc686d485087abf6ac197f9c46432f7e4a3c"]
+ipdb = ["473fdd798a099765f093231a8b1fabfa95b0b682fce12de0c74b61a4b4d8ee57"]
+ipython = ["c4ab005921641e40a68e405e286e7a1fcc464497e14d81b6914b4fd95e5dee9b", "dd76831f065f17bddd7eaa5c781f5ea32de5ef217592cf019e34043b56895aa1"]
+ipython-genutils = ["72dd37233799e619666c9f639a9da83c34013a73e8bbc79a7a6348d93c61fab8", "eb2e116e75ecef9d4d228fdc66af54269afa26ab4463042e33785b887c628ba8"]
+jedi = ["786b6c3d80e2f06fd77162a07fed81b8baa22dde5d62896a790a331d6ac21a27", "ba859c74fa3c966a22f2aeebe1b74ee27e2a462f56d3f5f7ca4a59af61bfe42e"]
+oauthlib = ["bee41cc35fcca6e988463cacc3bcb8a96224f470ca547e697b604cc697b2f889", "df884cd6cbe20e32633f1db1072e9356f53638e4361bef4e8b03c9127c9328ea"]
+parso = ["63854233e1fadb5da97f2744b6b24346d2750b85965e7e399bec1620232797dc", "666b0ee4a7a1220f65d367617f2cd3ffddff3e205f3f16a0284df30e774c2a9c"]
+pexpect = ["2094eefdfcf37a1fdbfb9aa090862c1a4878e5c7e0e7e7088bdb511c558e5cd1", "9e2c1fd0e6ee3a49b28f95d4b33bc389c89b20af6a1255906e90ff1262ce62eb"]
+pickleshare = ["87683d47965c1da65cdacaf31c8441d12b8044cdec9aca500cd78fc2c683afca", "9649af414d74d4df115d5d718f82acb59c9d418196b7b4290ed47a12ce62df56"]
+prompt-toolkit = ["11adf3389a996a6d45cc277580d0d53e8a5afd281d0c9ec71b28e6f121463780", "2519ad1d8038fd5fc8e770362237ad0364d16a7650fb5724af6997ed5515e3c1", "977c6583ae813a37dc1c2e1b715892461fcbdaa57f6fc62f33a528c4886c8f55"]
+ptyprocess = ["923f299cc5ad920c68f2bc0bc98b75b9f838b93b599941a6b63ddbc2476394c0", "d7cc528d76e76342423ca640335bd3633420dc1366f258cb31d05e865ef5ca1f"]
+pyasn1 = ["1321d4b2f051410fe7302bb1619903d30b24ba1451d019c11d242d11b2a35444", "2860a047f666afd23b197a65f33145313511c368ce919b2d9b1853ffd3e9d32d", "2919babd43b3b44247c23201b71072c0c65a636daa595cad5bcd276094dbfc2d", "437a23121602c0bb6c65320b27e31e334ffd73a9ca5c6c075b66b6270b1a8184", "5a89df3c62688261e27439d5715fd0d3ca6bf7bf1067e2171642e92aff17e817", "62cdade8b5530f0b185e09855dd422bc05c0bbff6b72ff61381c09dac7befd8c", "67a43aec85f4ea96e72a7b22227ba7a45cf03b7297e1a53418be164bbf68335e", "813b198c169e9442f340743f77093435bf3e1de8d1731f3abc45d44afba17556", "96c44b5604e7674e53e27fce98f3fc68821d9546151b98842c27b533122649da", "a9495356ca1d66ed197a0f72b41eb1823cf7ea8b5bd07191673e8147aecf8604", "bcac468e38d16e94fee4c8f76eef1feb9a06a911e93465f2351a4140fa66d303", "c39d11c72f0e5e71faa35c8c8ef5ee9b810ec99a3c64f05133f1325fe5636bba", "f124185ccc1c1c5e782aa58d46bc28be279673a482334d70de6735d05d8b4b10"]
+pyasn1-modules = ["256c234d85baf315f0e99786d812e68b816e4ee4b35bac982689198ff3df5a61", "3b350a01813f4878f4ebb3e7348d3753556b120145460a810e3121fe78925923", "43c17a83c155229839cc5c6b868e8d0c6041dba149789b6d6e28801c64821722", "525edd202cadbb014587e6e8a82a86424d4c92340222000b300cfd4041625f5a", "5965cb606a914b1b086f6ffdb9e526b5ec21cea81ba0bb75f3b807d5500dda1a", "75819dd99d1be4effd1322859ec8ac3fa7c7503fec0acbce6985b2aae41aa838", "a00100a99dcc71a97b2291fcac868a39f32a72cc54d86a4e5504b34b2f5f8584", "a480489471e67c579f49057a10879cc9a787b64a84af00ed2ed3f68a652b0197", "b3899b59d6c6b4e91e9c5278ec49c0adb971349ef9c3531ae67149e3bb0b272b", "b5e0ab3dc16f42ef0c2e5ebf51db9f1e1aa734a68a4d26a2b475a289182b697f", "bf68431a9043b35aa0a18b865ecbb19ec19f8354488ea0b3b5d9ec33cb4c2be5", "e30199a9d221f1b26c885ff3d87fd08694dbbe18ed0e8e405a2a7126d30ce4c0", "ee0eb28ad9e9c0237954b4ca4c8a91cc2e98476c1dc9a1422310332518b0dd82"]
+pygments = ["71e430bc85c88a430f000ac1d9b331d2407f681d6f6aec95e8bcfbc3df5b0127", "881c4c157e45f30af185c1ffe8d549d48ac9127433f2c380c24b84572ad66297"]
+python-decouple = ["1317df14b43efee4337a4aa02914bf004f010cd56d6c4bd894e6474ec8c4fe2d"]
+requests = ["11e007a8a2aa0323f5a921e9e6a2d7e4e67d9877e85773fba9ba6419025cbeb4", "9cf5292fcd0f598c671cfc1e0d7d1a7f13bb8085e9a590f48c010551dc6c4b31"]
+requests-oauthlib = ["bd6533330e8748e94bf0b214775fed487d309b8b8fe823dc45641ebcd9a32f57", "d3ed0c8f2e3bbc6b344fa63d6f933745ab394469da38db16bdddb461c7e25140", "dd5a0499abfefd087c6dd96693cbd5bfd28aa009719a7f85ab3fabe3956ef19a"]
+rsa = ["14ba45700ff1ec9eeb206a2ce76b32814958a98e372006c8fb76ba820211be66", "1a836406405730121ae9823e19c6e806c62bbad73f890574fff50efa4122c487"]
+six = ["3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c", "d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"]
+toml = ["229f81c57791a41d65e399fc06bf0848bab550a9dfd5ed66df18ce5f05e73d5c", "235682dd292d5899d361a811df37e04a8828a5b1da3115886b73cf81ebc9100e", "f1db651f9657708513243e61e6cc67d101a39bad662eaa9b5546f789338e07a3"]
+traitlets = ["9c4bd2d267b7153df9152698efb1050a5d84982d3384a37b2c1f7723ba3e7835", "c6cb5e6f57c5a9bdaa40fa71ce7b4af30298fbab9ece9815b5d995ab6217c7d9"]
+uritemplate = ["01c69f4fe8ed503b2951bef85d996a9d22434d2431584b5b107b2981ff416fbd", "1b9c467a940ce9fb9f50df819e8ddd14696f89b9a8cc87ac77952ba416e0a8fd", "c02643cebe23fc8adb5e6becffe201185bf06c40bda5c0b4028a93f1527d011d"]
+urllib3 = ["b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1", "dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232"]
+wcwidth = ["3df37372226d6e63e1b1e1eda15c594bca98a22d33a23832a90998faa96bc65e", "f4ebe71925af7b40a864553f761ed559b43544f8f71746c2d756c7fe788ade7c"]
