@@ -1,0 +1,7 @@
+*.pyc
+*.egg-info
+
+build/
+
+.env
+google-api-auth.json
