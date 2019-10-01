@@ -1,104 +1,135 @@
 [[ slot ]]
-type = "talk"
-name = "Assembleia APyB"
-start_at = 2019-10-26 09:30:00
-duration = 120
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-26 09:30:00
-duration = 45
-room = "room2"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-26 09:30:00
-duration = 45
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
+type = 'talk'
+name = 'Em nome das Boas Práticas de Código da Casa Django, Rainha do Backend, eu te sentencio a testar - A Game of Tests'
+author = 'Amanda Savluchinske'
 start_at = 2019-10-26 10:15:00
 duration = 45
-room = "room2"
+room = 'Topázio'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
+type = 'talk'
+name = 'Controle de Backups e rotinas com Django e Fabric'
+author = 'Camilla Martins'
+start_at = 2019-10-26 09:30:00
+duration = 45
+room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'De 100 para 1000: estratégias para quem está começando a se preocupar com performance'
+author = 'Filipe de Alencar Ximenes'
 start_at = 2019-10-26 10:15:00
 duration = 45
-room = "room3"
+room = 'Diamante'
 
 [[ slot ]]
-type = "lightning-talks"
-name = "Lightning Talks"
-start_at = 2019-10-26 11:00:00
-duration = 30
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
+type = 'talk'
+name = 'Migrações de dados sem downtimes! Truques e lições aprendidas com PostgreSQL na Olist'
+author = 'Jéssica Pauli de Castro Bonson'
 start_at = 2019-10-26 14:00:00
 duration = 45
-room = "room1"
+room = 'Diamante'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
+type = 'talk'
+name = 'RabbitMQ, como fazer microsserviços conversarem'
+author = 'João Daher Neto'
+start_at = 2019-10-26 14:45:00
+duration = 45
+room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Ciência de Dados no cotidiano: o que os dados dizem sobre o real comportamento da população?'
+author = 'Juliany Raiol'
+start_at = 2019-10-26 09:30:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Liderança Técnica: Pessoas + Tecnologia'
+author = 'Kátia Nakamura'
 start_at = 2019-10-26 14:00:00
 duration = 45
-room = "room2"
+room = 'Onix'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
+type = 'talk'
+name = 'Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.'
+author = 'Maria Fernanda Souza Andrade'
 start_at = 2019-10-26 14:00:00
 duration = 45
-room = "room3"
+room = 'Topázio'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
+type = 'talk'
+name = 'Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)'
+author = 'Melissa Weber Mendonça'
 start_at = 2019-10-26 14:45:00
 duration = 45
-room = "room1"
+room = 'Diamante'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
+type = 'talk'
+name = 'Python e Psicologia o que uma tem a oferecer a outra: a resposta para a pergunta - Por que Python atravessou a rua?'
+author = 'Nelson de Campos Nolasco'
+start_at = 2019-10-26 10:15:00
+duration = 45
+room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Software Livre e Código Aberto - você também pode contribuir!'
+author = 'Paulo Henrique de Lima Santana'
+start_at = 2019-10-26 15:30:00
+duration = 45
+room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Código à prova de raios cósmicos'
+author = 'Pietra Freitas'
+start_at = 2019-10-26 15:30:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Generating Nintendo Music Over the Phone in Python with Magenta'
+author = 'Samuel'
+start_at = 2019-10-26 15:30:00
+duration = 45
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'Aplicando DevOps com Automações feitas em Python e Flask'
+author = 'William Lino Oliveira'
 start_at = 2019-10-26 14:45:00
 duration = 45
-room = "room2"
+room = 'Esmeralda'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-26 14:45:00
+type = 'talk'
+name = 'Python, Tipos e Segurança'
+author = 'Felipe Videira Rodrigues'
+start_at = 2019-10-26 10:15:00
 duration = 45
-room = "room3"
+room = 'Esmeralda'
 
 [[ slot ]]
-type = "talk"
-name = "Associação Python Brasil"
-start_at = 2019-10-26 15:30:00
+type = 'talk'
+name = 'Empoderando mulheres na Amazônia'
+author = 'PyLadies Manaus'
+start_at = 2019-10-26 09:30:00
 duration = 45
-room = "room1"
+room = 'Onix'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-26 15:30:00
+type = 'talk'
+name = 'Cada um com seu modelo - Criando um modelo de classificação e de sugestão único por usuário'
+author = 'Gabriel Bellon'
+start_at = 2019-10-26 14:00:00
 duration = 45
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-26 15:30:00
-duration = 45
-room = "room3"
+room = 'Esmeralda'

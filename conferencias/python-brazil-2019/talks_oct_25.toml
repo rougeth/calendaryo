@@ -1,111 +1,127 @@
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
+type = 'talk'
+name = 'Aprendendo e ensinando Python para “programadores alternativos”'
+author = 'Alexandre Villares'
 start_at = 2019-10-25 10:30:00
 duration = 45
-room = "room1"
+room = 'Topázio'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
+type = 'talk'
+name = 'Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares'
+author = 'Alexis Jawtuschenko'
+start_at = 2019-10-25 14:45:00
+duration = 45
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'Tecnology is the new freedom'
+author = 'Anicely Santos'
+start_at = 2019-10-25 11:15:00
+duration = 45
+room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar Cultura de Time'
+author = 'Betina Costa'
+start_at = 2019-10-25 14:00:00
+duration = 45
+room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem'
+author = 'Bruno Evangelista'
+start_at = 2019-10-25 14:00:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Otimizando sistemas em Python com Kibana, Elasticsearch e APM'
+author = 'Bruno Gomes França'
+start_at = 2019-10-25 11:15:00
+duration = 45
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'Python e Ciência de Dados no Combate à Corrupção'
+author = 'David Cosac Junior / Cláudio Augusto Soares'
 start_at = 2019-10-25 10:30:00
 duration = 45
-room = "room2"
+room = 'Diamante'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
+type = 'talk'
+name = 'Música com Python e FoxDot'
+author = 'Diego Moreira Guimarães'
+start_at = 2019-10-25 15:30:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Código legado de machine learning? Como migramos para Python 3 sem sofrimento'
+author = 'Eder Ferreira Martins'
+start_at = 2019-10-25 14:45:00
+duration = 45
+room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = '1 + 1 = 1 ou Pareamento de Registros com Python'
+author = 'Flávio Juvenal'
+start_at = 2019-10-25 14:00:00
+duration = 45
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'A anatomia do code review'
+author = 'Guilherme Garnier'
+start_at = 2019-10-25 11:15:00
+duration = 45
+room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Docker: melhorando sua vida como desenvolvedor Python'
+author = 'Gustavo Carvalho'
+start_at = 2019-10-25 14:00:00
+duration = 45
+room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Controlando um braço robótico com MicroPython'
+author = 'Juliana Karoline de Sousa'
+start_at = 2019-10-25 15:30:00
+duration = 45
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'Construindo plugins para o Pytest'
+author = 'Rafael Henrique da Silva Correia'
 start_at = 2019-10-25 10:30:00
 duration = 45
-room = "room3"
+room = 'Esmeralda'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
-start_at = 2019-10-25 11:15:00
-duration = 45
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-25 11:15:00
-duration = 45
-room = "room2"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-25 11:15:00
-duration = 45
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Lightning Talks"
-start_at = 2019-10-25 12:00:00
-duration = 30
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
-start_at = 2019-10-25 14:00:00
-duration = 45
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-25 14:00:00
-duration = 45
-room = "room2"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-25 14:00:00
-duration = 45
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
+type = 'talk'
+name = '1 ano após primeira Python Brasil'
+author = 'Tyrone Macedo Damasceno'
 start_at = 2019-10-25 14:45:00
 duration = 45
-room = "room1"
+room = 'Onix'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-25 14:45:00
-duration = 45
-room = "room2"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-25 14:45:00
-duration = 45
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Associação Python Brasil"
+type = 'talk'
+name = 'Desenhando com Python dentro do Navegador'
+author = 'Bernardo Fontes'
 start_at = 2019-10-25 15:30:00
 duration = 45
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-25 15:30:00
-duration = 45
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-25 15:30:00
-duration = 45
-room = "room3"
+room = 'Esmeralda'
