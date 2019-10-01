@@ -1,111 +1,119 @@
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
-start_at = 2019-10-27 10:30:00
+type = 'talk'
+name = 'Fazendo seu chatbot do zero com Tensorflow'
+author = 'Barbara Barbosa'
+start_at = 2019-10-27 09:30:00
 duration = 45
-room = "room1"
+room = 'Diamante'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-27 10:30:00
+type = 'talk'
+name = 'Desvendando a caixa preta do MongoDB'
+author = 'Danielle Monteiro'
+start_at = 2019-10-27 10:15:00
 duration = 45
-room = "room2"
+room = 'Diamante'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-27 10:30:00
-duration = 45
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
-start_at = 2019-10-27 11:15:00
-duration = 45
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-27 11:15:00
-duration = 45
-room = "room2"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-27 11:15:00
-duration = 45
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Lightning Talks"
-start_at = 2019-10-27 12:00:00
-duration = 30
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
-start_at = 2019-10-27 14:00:00
-duration = 45
-room = "room1"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-27 14:00:00
-duration = 45
-room = "room2"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-27 14:00:00
-duration = 45
-room = "room3"
-
-[[ slot ]]
-type = "talk"
-name = "Palestra Sala 1"
+type = 'talk'
+name = 'Acelerando Aplicações Científicas com Cython'
+author = 'Emanuel Lima'
 start_at = 2019-10-27 14:45:00
 duration = 45
-room = "room1"
+room = 'Topázio'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
+type = 'talk'
+name = 'Como montar um “App” de clima/tempo com Python e dados abertos'
+author = 'Filipe Fernandes'
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'Programando um Emulador de trás pra frente'
+author = 'Henrique Bastos'
+start_at = 2019-10-27 14:00:00
+duration = 45
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'De dias para minutos, de minutos para milisegundos com SQLAlchemy'
+author = 'Leonardo Rochael Almeida'
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Evitando algumas falhas de segurança em aplicações web com Python'
+author = 'Mariana de Albuquerque Campos'
+start_at = 2019-10-27 14:00:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Python para Quants - Como Python pode ajudar na análise de investimentos'
+author = 'Rafael Calixto'
+start_at = 2019-10-27 10:15:00
+duration = 45
+room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Continuous Documentation: se não está documentado, seu projeto não existe'
+author = 'Renne Silva Gomes de Oliveira Rocha'
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Microsserviços prontos para produção'
+author = 'Rodrigo Mendonça'
 start_at = 2019-10-27 14:45:00
 duration = 45
-room = "room2"
+room = 'Esmeralda'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-27 14:45:00
+type = 'talk'
+name = 'Como ensinar Python?'
+author = 'Yan Orestes'
+start_at = 2019-10-27 10:15:00
 duration = 45
-room = "room3"
+room = 'Onix'
 
 [[ slot ]]
-type = "talk"
-name = "Associação Python Brasil"
-start_at = 2019-10-27 15:30:00
+type = 'talk'
+name = 'Título Por onde começar a estudar Ciência de Dados?'
+author = 'Patricia Cucio Guisordi'
+start_at = 2019-10-27 09:30:00
 duration = 45
-room = "room1"
+room = 'Topázio'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 2"
-start_at = 2019-10-27 15:30:00
+type = 'talk'
+name = 'Fazendo as pazes com projetos legados'
+author = 'Matheus Hernandes'
+start_at = 2019-10-27 14:00:00
 duration = 45
-room = "room1"
+room = 'Onix'
 
 [[ slot ]]
-type = "talk"
-name = "Palestra Sala 3"
-start_at = 2019-10-27 15:30:00
+type = 'talk'
+name = 'Tijolinho por tijolinho: Construindo APIs com Django'
+author = 'Ryllari Santana'
+start_at = 2019-10-27 09:30:00
 duration = 45
-room = "room3"
+room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Uma abordagem de Computação Quântica usando a ferramenta Qiskit em Python'
+author = 'Daniele Nazaré Tavares'
+start_at = 2019-10-27 14:00:00
+duration = 45
+room = 'Esmeralda'

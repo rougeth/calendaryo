@@ -26,7 +26,7 @@ room = 'Onix'
 type = 'talk'
 name = 'Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar Cultura de Time'
 author = 'Betina Costa'
-start_at = 2019-10-25 14:0:00
+start_at = 2019-10-25 14:00:00
 duration = 45
 room = 'Onix'
 
@@ -34,7 +34,7 @@ room = 'Onix'
 type = 'talk'
 name = 'Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem'
 author = 'Bruno Evangelista'
-start_at = 2019-10-25 14:0:00
+start_at = 2019-10-25 14:00:00
 duration = 45
 room = 'Topázio'
 
@@ -74,7 +74,7 @@ room = 'Esmeralda'
 type = 'talk'
 name = '1 + 1 = 1 ou Pareamento de Registros com Python'
 author = 'Flávio Juvenal'
-start_at = 2019-10-25 14:0:00
+start_at = 2019-10-25 14:00:00
 duration = 45
 room = 'Diamante'
 
@@ -90,7 +90,7 @@ room = 'Esmeralda'
 type = 'talk'
 name = 'Docker: melhorando sua vida como desenvolvedor Python'
 author = 'Gustavo Carvalho'
-start_at = 2019-10-25 14:0:00
+start_at = 2019-10-25 14:00:00
 duration = 45
 room = 'Esmeralda'
 
