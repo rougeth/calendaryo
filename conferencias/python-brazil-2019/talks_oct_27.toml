@@ -125,3 +125,11 @@ author = 'Rebeca Sarai'
 start_at = 2019-10-27 10:15:00
 duration = 45
 room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Saúde mental e o mercado de tecnologia, vamos falar sobre?'
+author = 'Leonardo Morales Belluzzi'
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = 'Onix'
