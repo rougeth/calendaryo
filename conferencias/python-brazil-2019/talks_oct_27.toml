@@ -117,3 +117,11 @@ author = 'Daniele Nazaré Tavares'
 start_at = 2019-10-27 14:00:00
 duration = 45
 room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = '[algoritmo.infofor algoritmo in algoritmos.sort()]'
+author = 'Rebeca Sarai'
+start_at = 2019-10-27 10:15:00
+duration = 45
+room = 'Topázio'
