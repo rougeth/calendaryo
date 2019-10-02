@@ -1,41 +1,47 @@
 [[ slot ]]
 type = "keynote"
-name = "Keynote 1"
+name = "Laís Verejão (keynote)"
+author = "Laís Verejão"
 start_at = 2019-10-25 09:00:00
 duration = 60
-room = "keynote-room"
+room = "Diamante"
 
 [[ slot ]]
 type = "keynote"
-name = "Keynote 2"
+name = "Carol Willing (keynote)"
+author = "Carol Willing"
 start_at = 2019-10-25 17:15:00
 duration = 60
-room = "keynote-room"
+room = "Diamante"
 
 [[ slot ]]
 type = "keynote"
-name = "Keynote 3"
+name = "Felipe de Morais (keynote)"
+author = "Felipe de Morais"
 start_at = 2019-10-26 11:30:00
 duration = 60
-room = "keynote-room"
+room = "Diamante"
 
 [[ slot ]]
 type = "keynote"
-name = "Keynote 4"
+name = "Lorena Mesa (keynote)"
+author = "Lorena Mesa"
 start_at = 2019-10-26 17:15:00
 duration = 60
-room = "keynote-room"
+room = "Diamante"
 
 [[ slot ]]
 type = "keynote"
-name = "Keynote 5"
+name = "Débora Azevedo (keynote)"
+author = "Débora Azevedo"
 start_at = 2019-10-27 11:30:00
 duration = 60
-room = "keynote-room"
+room = "Diamante"
 
 [[ slot ]]
 type = "keynote"
-name = "Keynote 6"
+name = "Luciano Ramalho (keynote)"
+author = "Luciano Ramalho"
 start_at = 2019-10-27 17:15:00
 duration = 60
-room = "keynote-room"
+room = "Diamante"
