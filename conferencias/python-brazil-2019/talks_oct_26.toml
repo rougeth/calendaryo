@@ -133,3 +133,19 @@ author = 'Gabriel Bellon'
 start_at = 2019-10-26 14:00:00
 duration = 45
 room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Descanso: não um luxo, mas uma necessidade'
+author = 'Fernando Masanori'
+start_at = 2019-10-26 14:45:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Escalabilidade e internacionalização com Django para milhões de acessos'
+author = 'Lidiane de Souza Monteiro'
+start_at = 2019-10-26 15:30:00
+duration = 45
+room = 'Esmeralda'
