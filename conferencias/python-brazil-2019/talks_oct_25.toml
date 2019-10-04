@@ -125,3 +125,11 @@ author = 'Bernardo Fontes'
 start_at = 2019-10-25 15:30:00
 duration = 45
 room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Serveless: zero to hero'
+author = 'Giana de Almeida Pereira'
+start_at = 2019-10-25 14:45:00
+duration = 45
+room = 'Topázio'
