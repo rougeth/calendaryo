@@ -87,12 +87,16 @@ for slot in slots:
         "description": slot.get("description", ""),
         "start": {"dateTime": start_at.isoformat(), "timeZone": "America/Sao_Paulo"},
         "end": {"dateTime": end_at.isoformat(), "timeZone": "America/Sao_Paulo"},
+        "location": slot.get("room", ""),
         "creator": {
             "displayName": f"Python Brasil {today.year}",
             "email": "eventos@python.org.br",
         },
         "extendedProperties": {
-            "private": {"room": slot.get("room", ""), "type": slot.get("type", "")}
+            "private": {
+                "author": slot.get("author", ""),
+                "type": slot.get("type", ""),
+            }
         },
     }
     print("Creating event:", event["summary"])
