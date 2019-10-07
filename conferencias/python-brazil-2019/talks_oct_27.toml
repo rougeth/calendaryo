@@ -133,3 +133,11 @@ author = 'Leonardo Morales Belluzzi'
 start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural'
+author = 'Thais Gomes de Almeida'
+start_at = 2019-10-27 9:30:00
+duration = 45
+room = 'Onix'
