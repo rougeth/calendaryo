@@ -66,7 +66,7 @@ room = 'Topázio'
 type = 'talk'
 name = 'Código legado de machine learning? Como migramos para Python 3 sem sofrimento'
 author = 'Eder Ferreira Martins'
-start_at = 2019-10-25 14:45:00
+start_at = 2019-10-25 15:30:00
 duration = 45
 room = 'Esmeralda'
 
@@ -122,7 +122,7 @@ room = 'Onix'
 type = 'talk'
 name = 'Desenhando com Python dentro do Navegador'
 author = 'Bernardo Fontes'
-start_at = 2019-10-25 15:30:00
+start_at = 2019-10-25 14:45:00
 duration = 45
 room = 'Esmeralda'
 
@@ -133,3 +133,19 @@ author = 'Giana de Almeida Pereira'
 start_at = 2019-10-25 14:45:00
 duration = 45
 room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Ciência de Dados no cotidiano: o que os dados dizem sobre o real comportamento da população?'
+author = 'Juliany Raiol'
+start_at = 2019-10-25 11:15:00
+duration = 45
+room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Como um grupo de estudos estimula a troca de saber dentro da comunidade PyLadies São Paulo'
+author = 'Grupo de Estudos em Data Science'
+start_at = 2019-10-25 10:30:00
+duration = 45
+room = 'Onix'
