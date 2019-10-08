@@ -141,3 +141,11 @@ author = 'Juliany Raiol'
 start_at = 2019-10-25 11:15:00
 duration = 45
 room = 'Topázio'
+
+[[ slot ]]
+type = 'talk'
+name = 'Como um grupo de estudos estimula a troca de saber dentro da comunidade PyLadies São Paulo'
+author = 'Grupo de Estudos em Data Science'
+start_at = 2019-10-25 10:30:00
+duration = 45
+room = 'Onix'
