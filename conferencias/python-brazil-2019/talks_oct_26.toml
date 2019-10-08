@@ -40,14 +40,6 @@ room = 'Onix'
 
 [[ slot ]]
 type = 'talk'
-name = 'Ciência de Dados no cotidiano: o que os dados dizem sobre o real comportamento da população?'
-author = 'Juliany Raiol'
-start_at = 2019-10-26 09:30:00
-duration = 45
-room = 'Topázio'
-
-[[ slot ]]
-type = 'talk'
 name = 'Liderança Técnica: Pessoas + Tecnologia'
 author = 'Kátia Nakamura'
 start_at = 2019-10-26 14:00:00
@@ -124,7 +116,7 @@ name = 'Empoderando mulheres na Amazônia'
 author = 'PyLadies Manaus'
 start_at = 2019-10-26 09:30:00
 duration = 45
-room = 'Onix'
+room = 'Topázio'
 
 [[ slot ]]
 type = 'talk'
@@ -149,3 +141,11 @@ author = 'Lidiane de Souza Monteiro'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Esmeralda'
+
+[[ slot ]]
+type = 'talk'
+name = 'Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto'
+author = 'Arthur Fortes da Costa'
+start_at = 2019-10-26 09:30:00
+duration = 45
+room = 'Diamante'
