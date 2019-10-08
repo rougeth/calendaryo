@@ -141,3 +141,11 @@ author = 'Thais Gomes de Almeida'
 start_at = 2019-10-27 09:30:00
 duration = 45
 room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN'
+author = 'Ingrid Sena'
+start_at = 2019-10-27 14:45:00
+duration = 45
+room = 'Diamante'
