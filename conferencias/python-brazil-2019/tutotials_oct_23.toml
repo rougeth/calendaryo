@@ -1,0 +1,71 @@
+[[ slot ]]
+type = 'tutorial'
+name = 'FastAPI - Primeiros passos para criar uma API robusta, moderna e rapida'
+author = 'Juan Funez e João Lugão'
+start_at = 2019-10-23 08:00:00
+duration = 600
+room = 'Sala 2'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Tudo ao mesmo tempo agora com Python 3.7'
+author = 'Luciano Ramalho'
+start_at = 2019-10-23 08:00:00
+duration = 240
+room = 'Sala 3'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Desenhando Doideras com Python'
+author = 'Bernardo Fontes'
+start_at = 2019-10-23 13:30:00
+duration = 210
+room = 'Sala 3'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Argumentação e propagação da confiança'
+author = 'Danilo Bellini'
+start_at = 2019-10-23 13:30:00
+duration = 210
+room = 'Sala 4'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Aprenda Python implementando o Angry Birds!'
+author = 'Renzo Nuccitelli'
+start_at = 2019-10-23 08:00:00
+duration = 240
+room = 'Sala 5'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Monitorando servidores com Python e Django'
+author = 'Felipe Carvalho'
+start_at = 2019-10-23 13:30:00
+duration = 210
+room = 'Sala 5'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Django Girls'
+author = ''
+start_at = 2019-10-23 08:00:00
+duration = 600
+room = 'Lab 1'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Git: sua maior arma durante o Inverno que Está Chegando'
+author = 'Giulio Cavalcante'
+start_at = 2019-10-23 08:00:00
+duration = 240
+room = 'Lab 2'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Do nada, tudo se constrói: Sobre testes, TDD e pytest'
+author = 'André Pastore'
+start_at = 2019-10-23 13:30:00
+duration = 210
+room = 'Lab 2'
