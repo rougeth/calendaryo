@@ -130,7 +130,7 @@ room = 'Topázio'
 type = 'talk'
 name = 'Saúde mental e o mercado de tecnologia, vamos falar sobre?'
 author = 'Leonardo Morales Belluzzi'
-start_at = 2019-10-27 15:30:00
+start_at = 2019-10-27 14:45:00
 duration = 45
 room = 'Onix'
 
@@ -149,3 +149,11 @@ author = 'Ingrid Sena'
 start_at = 2019-10-27 14:45:00
 duration = 45
 room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'Seis anos de PyLadies Brasil: impactos, perspectivas e desafios'
+author = 'PyLadies Brasil'
+start_at = 2019-10-27 15:30:00
+duration = 45
+room = 'Onix'
