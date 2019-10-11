@@ -120,7 +120,7 @@ room = 'Esmeralda'
 
 [[ slot ]]
 type = 'talk'
-name = '[algoritmo.infofor algoritmo in algoritmos.sort()]'
+name = '[algoritmo.info for algoritmo in algoritmos.sort()]'
 author = 'Rebeca Sarai'
 start_at = 2019-10-27 10:15:00
 duration = 45
