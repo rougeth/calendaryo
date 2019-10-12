@@ -41,7 +41,7 @@ room = 'Topázio'
 [[ slot ]]
 type = 'talk'
 name = 'Otimizando sistemas em Python com Kibana, Elasticsearch e APM'
-author = 'Bruno Gomes França'
+author = 'Bruno França'
 start_at = 2019-10-25 11:15:00
 duration = 45
 room = 'Diamante'
@@ -49,7 +49,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'Python e Ciência de Dados no Combate à Corrupção'
-author = 'David Cosac Junior / Cláudio Augusto Soares'
+author = 'David Cosac Junior e Cláudio Augusto Soares'
 start_at = 2019-10-25 10:30:00
 duration = 45
 room = 'Diamante'
@@ -57,7 +57,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'Música com Python e FoxDot'
-author = 'Diego Moreira Guimarães'
+author = 'Diego Guimarães'
 start_at = 2019-10-25 15:30:00
 duration = 45
 room = 'Topázio'
@@ -65,7 +65,7 @@ room = 'Topázio'
 [[ slot ]]
 type = 'talk'
 name = 'Código legado de machine learning? Como migramos para Python 3 sem sofrimento'
-author = 'Eder Ferreira Martins'
+author = 'Eder Martins'
 start_at = 2019-10-25 15:30:00
 duration = 45
 room = 'Esmeralda'
@@ -97,7 +97,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'Controlando um braço robótico com MicroPython'
-author = 'Juliana Karoline de Sousa'
+author = 'Juliana Karoline'
 start_at = 2019-10-25 15:30:00
 duration = 45
 room = 'Diamante'
@@ -105,7 +105,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'Construindo plugins para o Pytest'
-author = 'Rafael Henrique da Silva Correia'
+author = 'Rafael Henrique'
 start_at = 2019-10-25 10:30:00
 duration = 45
 room = 'Esmeralda'
@@ -113,7 +113,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = '1 ano após primeira Python Brasil'
-author = 'Tyrone Macedo Damasceno'
+author = 'Tyrone Damasceno'
 start_at = 2019-10-25 14:45:00
 duration = 45
 room = 'Onix'
@@ -129,7 +129,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'Serveless: zero to hero'
-author = 'Giana de Almeida Pereira'
+author = 'Giana de Almeida'
 start_at = 2019-10-25 14:45:00
 duration = 45
 room = 'Topázio'

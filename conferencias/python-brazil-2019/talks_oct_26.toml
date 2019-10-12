@@ -17,7 +17,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'De 100 para 1000: estratégias para quem está começando a se preocupar com performance'
-author = 'Filipe de Alencar Ximenes'
+author = 'Filipe Ximenes'
 start_at = 2019-10-26 10:15:00
 duration = 45
 room = 'Diamante'
@@ -25,7 +25,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'Migrações de dados sem downtimes! Truques e lições aprendidas com PostgreSQL na Olist'
-author = 'Jéssica Pauli de Castro Bonson'
+author = 'Jéssica Bonson'
 start_at = 2019-10-26 14:00:00
 duration = 45
 room = 'Diamante'
@@ -33,7 +33,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'RabbitMQ, como fazer microsserviços conversarem'
-author = 'João Daher Neto'
+author = 'João Daher'
 start_at = 2019-10-26 14:45:00
 duration = 45
 room = 'Onix'
@@ -49,7 +49,7 @@ room = 'Onix'
 [[ slot ]]
 type = 'talk'
 name = 'Utilizando os pandas para entender os casos de violência contra a mulher na cidade do Recife.'
-author = 'Maria Fernanda Souza Andrade'
+author = 'Maria Fernanda'
 start_at = 2019-10-26 14:00:00
 duration = 45
 room = 'Topázio'
@@ -57,7 +57,7 @@ room = 'Topázio'
 [[ slot ]]
 type = 'talk'
 name = 'Do cartão perfurado aos supercomputadores: Fortran moderno na prática (e no Python)'
-author = 'Melissa Weber Mendonça'
+author = 'Melissa Weber'
 start_at = 2019-10-26 14:45:00
 duration = 45
 room = 'Diamante'
@@ -65,7 +65,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'Python e Psicologia o que uma tem a oferecer a outra: a resposta para a pergunta - Por que Python atravessou a rua?'
-author = 'Nelson de Campos Nolasco'
+author = 'Nelson Nolasco'
 start_at = 2019-10-26 10:15:00
 duration = 45
 room = 'Onix'
@@ -73,7 +73,7 @@ room = 'Onix'
 [[ slot ]]
 type = 'talk'
 name = 'Software Livre e Código Aberto - você também pode contribuir!'
-author = 'Paulo Henrique de Lima Santana'
+author = 'Paulo Santana'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Onix'
@@ -89,7 +89,7 @@ room = 'Topázio'
 [[ slot ]]
 type = 'talk'
 name = 'Generating Nintendo Music Over the Phone in Python with Magenta'
-author = 'Samuel'
+author = 'Sam Agnew'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Diamante'
@@ -97,7 +97,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'Aplicando DevOps com Automações feitas em Python e Flask'
-author = 'William Lino Oliveira'
+author = 'William Oliveira'
 start_at = 2019-10-26 14:45:00
 duration = 45
 room = 'Esmeralda'
@@ -105,7 +105,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'Python, Tipos e Segurança'
-author = 'Felipe Videira Rodrigues'
+author = 'Felipe Videira'
 start_at = 2019-10-26 10:15:00
 duration = 45
 room = 'Esmeralda'
@@ -137,7 +137,7 @@ room = 'Topázio'
 [[ slot ]]
 type = 'talk'
 name = 'Escalabilidade e internacionalização com Django para milhões de acessos'
-author = 'Lidiane de Souza Monteiro'
+author = 'Lidiane Monteiro'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Esmeralda'
@@ -145,7 +145,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'Aprendizado Profundo Híbrido em Python para Análise de Sentimentos e Reconhecimento de Contexto'
-author = 'Arthur Fortes da Costa'
+author = 'Arthur Fortes'
 start_at = 2019-10-26 09:30:00
 duration = 45
 room = 'Diamante'

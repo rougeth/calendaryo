@@ -41,7 +41,7 @@ room = 'Diamante'
 [[ slot ]]
 type = 'talk'
 name = 'De dias para minutos, de minutos para milisegundos com SQLAlchemy'
-author = 'Leonardo Rochael Almeida'
+author = 'Leonardo Rochael'
 start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Esmeralda'
@@ -49,7 +49,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'Evitando algumas falhas de segurança em aplicações web com Python'
-author = 'Mariana de Albuquerque Campos'
+author = 'Mariana de Albuquerque'
 start_at = 2019-10-27 14:00:00
 duration = 45
 room = 'Topázio'
@@ -65,7 +65,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'Continuous Documentation: se não está documentado, seu projeto não existe'
-author = 'Renne Silva Gomes de Oliveira Rocha'
+author = 'Renne Rocha'
 start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Topázio'
@@ -89,7 +89,7 @@ room = 'Onix'
 [[ slot ]]
 type = 'talk'
 name = 'Título Por onde começar a estudar Ciência de Dados?'
-author = 'Patricia Cucio Guisordi'
+author = 'Patricia Guisordi'
 start_at = 2019-10-27 09:30:00
 duration = 45
 room = 'Topázio'
@@ -113,7 +113,7 @@ room = 'Esmeralda'
 [[ slot ]]
 type = 'talk'
 name = 'Uma abordagem de Computação Quântica usando a ferramenta Qiskit em Python'
-author = 'Daniele Nazaré Tavares'
+author = 'Daniele Tavares'
 start_at = 2019-10-27 14:00:00
 duration = 45
 room = 'Esmeralda'
@@ -129,7 +129,7 @@ room = 'Topázio'
 [[ slot ]]
 type = 'talk'
 name = 'Saúde mental e o mercado de tecnologia, vamos falar sobre?'
-author = 'Leonardo Morales Belluzzi'
+author = 'Leonardo Belluzzi'
 start_at = 2019-10-27 14:45:00
 duration = 45
 room = 'Onix'
@@ -137,7 +137,7 @@ room = 'Onix'
 [[ slot ]]
 type = 'talk'
 name = 'Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural'
-author = 'Thais Gomes de Almeida'
+author = 'Thais Almeida'
 start_at = 2019-10-27 09:30:00
 duration = 45
 room = 'Onix'
