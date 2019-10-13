@@ -1,6 +1,6 @@
 [[ slot ]]
 type = 'tutorial'
-name = 'Encontrando padrões de compras em dados de e-commerce'
+name = 'Desenvolvendo um Crawler API com Scrapy e Klein'
 author = 'Betina Costa'
 start_at = 2019-10-24 10:30:00
 duration = 120
@@ -17,7 +17,7 @@ room = 'Sala 2'
 [[ slot ]]
 type = 'tutorial'
 name = 'Jogando "Super Dados" com o Luigi'
-author = 'Athur Alvim'
+author = 'Arthur Alvim'
 start_at = 2019-10-24 08:00:00
 duration = 240
 room = 'Sala 3'
@@ -56,8 +56,8 @@ room = 'Lab 2'
 
 [[ slot ]]
 type = 'tutorial'
-name = 'Github'
-author = ''
+name = 'Automação do fluxo de desenvolvimento com GitHub Actions'
+author = 'Github'
 start_at = 2019-10-24 13:30:00
 duration = 120
 room = 'Sala 1'
@@ -89,8 +89,7 @@ room = 'Sala 4'
 [[ slot ]]
 type = 'tutorial'
 name = 'RegEx nem é difícil'
-name = 'Sua primeira API assíncrona com deploy no Heroku.b'
 author = 'João Bezerra'
-start_at = 2019-10-23 08:00:00
+start_at = 2019-10-24 08:00:00
 duration = 210
 room = 'Sala 5'
