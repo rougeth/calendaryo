@@ -1,0 +1,95 @@
+[[ slot ]]
+type = 'tutorial'
+name = 'Desenvolvendo um Crawler API com Scrapy e Klein'
+author = 'Betina Costa'
+start_at = 2019-10-24 10:30:00
+duration = 120
+room = 'Sala 1'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Análises Geo-espaciais com GeoPandas, rasterio, fiona e folium'
+author = 'Filipe Fernandes'
+start_at = 2019-10-24 08:00:00
+duration = 240
+room = 'Sala 2'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Jogando "Super Dados" com o Luigi'
+author = 'Arthur Alvim'
+start_at = 2019-10-24 08:00:00
+duration = 240
+room = 'Sala 3'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Machine Learning do Zero'
+author = 'Tarsis Azevedo'
+start_at = 2019-10-24 08:00:00
+duration = 240
+room = 'Sala 4'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Criando bots no Telegram com Python'
+author = 'Marco Rougeth'
+start_at = 2019-10-24 08:00:00
+duration = 240
+room = 'Sala 5'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Django Girls'
+author = ''
+start_at = 2019-10-24 08:00:00
+duration = 600
+room = 'Lab 1'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Introdução ao Python'
+author = 'David Kwast'
+start_at = 2019-10-24 08:00:00
+duration = 600
+room = 'Lab 2'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Automação do fluxo de desenvolvimento com GitHub Actions'
+author = 'Github'
+start_at = 2019-10-24 13:30:00
+duration = 120
+room = 'Sala 1'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Mocks: testando integrações e simulando comportamentos em testes unitários'
+author = 'Patrícia Morimoto'
+start_at = 2019-10-24 13:30:00
+duration = 210
+room = 'Sala 2'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Aprenda Python implementando o Angry Birds!'
+author = 'Renzo Nuccitelli'
+start_at = 2019-10-24 13:30:00
+duration = 210
+room = 'Sala 3'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Sua primeira API assíncrona com deploy no Heroku.'
+author = 'Tyrone Damasceno e Genilson Filho'
+start_at = 2019-10-24 13:30:00
+duration = 210
+room = 'Sala 4'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'RegEx nem é difícil'
+author = 'João Bezerra'
+start_at = 2019-10-24 08:00:00
+duration = 210
+room = 'Sala 5'
