@@ -90,6 +90,6 @@ room = 'Sala 4'
 type = 'tutorial'
 name = 'RegEx nem é difícil'
 author = 'João Bezerra'
-start_at = 2019-10-24 08:00:00
+start_at = 2019-10-24 13:30:00
 duration = 210
 room = 'Sala 5'
