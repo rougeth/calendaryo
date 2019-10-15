@@ -149,3 +149,11 @@ author = 'Arthur Fortes'
 start_at = 2019-10-26 09:30:00
 duration = 45
 room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
+name = 'Python on Kubernetes: Garantindo escalabilidade em aplicações produtivas'
+author = 'Bianca Rosa'
+start_at = 2019-10-26 09:30:00
+duration = 45
+room = 'Onix'
