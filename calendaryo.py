@@ -92,7 +92,7 @@ for slot in slots:
         
     title = slot["name"]
     if author:
-        title = f"{title} ({author})
+        title = f"{title} ({author})"
         
     description = slot.get("description", "")
     location = slot.get("room", "")
