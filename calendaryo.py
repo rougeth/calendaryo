@@ -85,15 +85,18 @@ for slot in slots:
     duration = slot["duration"]
     end_at = start_at + timedelta(minutes=duration)
 
-    title = slot["name"]
-    description = slot.get("description", "")
-    location = slot.get("room", "")
-    event_type = slot.get("type", "")
-
     author = slot.get("author", "")
     photo_url = slot.get("photo_url", "")
     if not photo_url and author:
         photo_url = PHOTO_URL.format(slugify(author, separator="_"))
+        
+    title = slot["name"]
+    if author:
+        title = f"{title} ({author})
+        
+    description = slot.get("description", "")
+    location = slot.get("room", "")
+    event_type = slot.get("type", "")
 
     event = {
         "summary": title,
