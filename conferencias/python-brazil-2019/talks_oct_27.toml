@@ -1,159 +1,176 @@
-[[ slot ]]
-type = 'talk'
-name = 'Fazendo seu chatbot do zero com Tensorflow'
-author = 'Barbara Barbosa'
-start_at = 2019-10-27 09:30:00
+[[slot]]
+type = "talk"
+name = "Fazendo seu chatbot do zero com Tensorflow"
+author = "Barbara Barbosa"
+start_at = 2019-10-27T09:30:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Nesta palestra vou apresentar como criar um chatbot generativo utilizando Deep Learning e NLP, com Tensorflow.\n\nVou utilizar um dataset de falas de filmes e veremos como fazer o pré processamento textual para utilizar uma rede LSTM Dual Encoder. Diferente de um chatbot de recuperação (retrieval), os chatbots generativos não possuem um dataset de respostas prontas e quando recebem uma pergunta, geram a resposta palavra por palavra. Dai veremos evoluções do chatbot com diferentes arquiteturas de redes neurais e suas respectivas respostas.\n\nAo final da palestra apresentarei adaptações que podem ser feitas para utilizar essa arquitetura com um dataset em português."
 
-[[ slot ]]
-type = 'talk'
-name = 'Desvendando a caixa preta do MongoDB'
-author = 'Danielle Monteiro'
-start_at = 2019-10-27 10:15:00
+[[slot]]
+type = "talk"
+name = "Desvendando a caixa preta do MongoDB"
+author = "Danielle Monteiro"
+start_at = 2019-10-27T10:15:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Usar o MongoDB para log, ou atividades secundárias é usar somente 1% do potencial dele! Vamos conversar nesta palestra sobre como usar o MongoDB \"like a boss\" e extrair o melhor deste SGBD incrível, sem sofrer na produção!"
 
-[[ slot ]]
-type = 'talk'
-name = 'Acelerando Aplicações Científicas com Cython'
-author = 'Emanuel Lima'
-start_at = 2019-10-27 14:45:00
+[[slot]]
+type = "talk"
+name = "Acelerando Aplicações Científicas com Cython"
+author = "Emanuel Lima"
+start_at = 2019-10-27T14:45:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "A linguagem de programação Python tem ganho cada vez mais espaço no meio científico por ser de alto nível, multiplataforma, e por possuir uma biblioteca extensa que permite prontamente a análise de dados, de imagens, aplicação de técnicas de aprendizado de máquina, e processamento de grandes quantidades de dados (a área conhecida Ciência de Dados). A linguagem permite uma curva de aprendizado rápida, porém, em certas aplicações, apresenta uma séria limitação de desempenho. O objetivo desta palestra é apresentar a linguagem Cython como opção para estes casos, e de que maneira esta pode ser utilizada para acelerar aplicações científicas em Python.\nCython é um superconjunto do Python, então retêm sua facilidade, adicionando apenas algumas palavras reservadas similares à da linguagem C, que é uma das linguagens de referência quando se fala em programação de alto desempenho. Da forma como funciona, um código Cython é automaticamente “traduzido” para C, e depois compilado e linkado para código de máquina. O resultado pode ser então carregado dentro do ambiente do interpretador Python e executado com uma performance equivalente de um código compilado em C, acelerando significativamente a execução do código. Portanto, Cython preenche uma lacuna importante de certas aplicações que exigem uma linguagem fácil de se programar com Python, mas que seja rápida na execução como a linguagem C."
 
-[[ slot ]]
-type = 'talk'
-name = 'Como montar um “App” de clima/tempo com Python e dados abertos'
-author = 'Filipe Fernandes'
-start_at = 2019-10-27 15:30:00
+[[slot]]
+type = "talk"
+name = "Como montar um “App” de clima/tempo com Python e dados abertos"
+author = "Filipe Fernandes"
+start_at = 2019-10-27T15:30:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
 
-[[ slot ]]
-type = 'talk'
-name = 'Programando um Emulador de trás pra frente'
-author = 'Henrique Bastos'
-start_at = 2019-10-27 14:00:00
+[[slot]]
+type = "talk"
+name = "Programando um Emulador de trás pra frente"
+author = "Henrique Bastos"
+start_at = 2019-10-27T14:00:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Nesta palestra vamos usar TDD (desenvolvimento guiado por testes) para recriar um emulador de jogos da década de 80.\n\nVamos transformar o Python em uma ferramenta de estudos demonstrando na prática como TDD pode te ajudar a transformar assuntos complexos em uma aventura de aprendizagem."
 
-[[ slot ]]
-type = 'talk'
-name = 'De dias para minutos, de minutos para milisegundos com SQLAlchemy'
-author = 'Leonardo Rochael Almeida'
-start_at = 2019-10-27 15:30:00
+[[slot]]
+type = "talk"
+name = "De dias para minutos, de minutos para milisegundos com SQLAlchemy"
+author = "Leonardo Rochael Almeida"
+start_at = 2019-10-27T15:30:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Object Relational Mappers (ORMs) são ferramentas fantásticas de produtividade no desenvolvimento. Mas se você esquece que tem uma base de dados por trás de toda conveniência, a conveniência volta pra te assombrar, sob a forma de queda de performance, quando você menos espera: em produção.\n\nVamos discutir como padrões comuns de programação, quando aplicados a ORMs, se traduzem em sequências de \"queries\" pouco performáticas (o infame problema das 1+N \"queries\"). Então vamos ver soluções práticas, retiradas de casos reais, que resultaram em ganhos expressivos de performance, sem precisar sair do conforto do ORM."
 
-[[ slot ]]
-type = 'talk'
-name = 'Evitando algumas falhas de segurança em aplicações web com Python'
-author = 'Mariana de Albuquerque Campos'
-start_at = 2019-10-27 14:00:00
+[[slot]]
+type = "talk"
+name = "Evitando algumas falhas de segurança em aplicações web com Python"
+author = "Mariana de Albuquerque Campos"
+start_at = 2019-10-27T14:00:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "Já se perguntou sobre a segurança do seu software? Já criou perspectivas de usuários mal-intencionados na sua aplicação, do que eles poderiam explorar?\n\nPreocupações como essa nem sempre estão no nosso dia-a-dia, como desenvolvedores pensamos sempre em boas funcionalidades e uma boa aparência. Proteger os dados dos usuários\nsão fundamentais assim como os requisitos funcionais da sua aplicação. Contruir um software seguro é garantir a proteção de informações de forma que usuários mal-intencionados não possam acessá-los.\nO objetivo desta palestra é indicar algumas atitudes, críticas, que os desenvolvedores precisam ter para evitar brechas de segurança. Além disso, mostrar ferramentas em Python que possam auxiliar no processo\nde desenvolvimento seguro.\nAo final, você como desenvolvedor, terá uma outra percepção sobre proteção dos dados e através de alguns conceitos simples poderá criar aplicações mais seguras. \n\nNada como deitar na cama, no fim do dia sabendo que seu software está seguro não é!?"
 
-[[ slot ]]
-type = 'talk'
-name = 'Python para Quants - Como Python pode ajudar na análise de investimentos'
-author = 'Rafael Calixto'
-start_at = 2019-10-27 10:15:00
+[[slot]]
+type = "talk"
+name = "Python para Quants - Como Python pode ajudar na análise de investimentos"
+author = "Rafael Calixto"
+start_at = 2019-10-27T10:15:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Como cientista de dados voltado para o mercado financeiro, vou contar como utilizo a linguagem Python para entender o mercado e quais ferramentas podem ser úteis para gerar insights sobre investimentos.\nA palestra irá mostrar os benefícios e ferramentas que a linguagem possibilita para economistas e cientistas de dados."
 
-[[ slot ]]
-type = 'talk'
-name = 'Continuous Documentation: se não está documentado, seu projeto não existe'
-author = 'Renne Silva Gomes de Oliveira Rocha'
-start_at = 2019-10-27 15:30:00
+[[slot]]
+type = "talk"
+name = "Continuous Documentation: se não está documentado, seu projeto não existe"
+author = "Renne Silva Gomes de Oliveira Rocha"
+start_at = 2019-10-27T15:30:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "Quantas vezes você encontrou aquela incrível biblioteca de código-aberto que aparentemente resolve o seu problema específico, mas na hora de introduzi-la no seu projeto, você descobre que a documentação está totalmente desatualizada (ou é apenas um arquivo README contendo meia dúzia de exemplos básicos de utilização)? Todo desenvolvedor já passou por isso, mas frequentemente cometemos o mesmo erro em nossos projetos, deixando a documentação para mais tarde ou simplesmente ignorando-a.\n\nNessa palestra iremos falar sobre a importância da documentação de projetos, diferenciando-a da documentação de código, algumas boas práticas e ferramentas disponíveis dentro do universo Python e maneiras de publicá-las e mantê-las facilmente atualizadas através da prática de Continuous Documentation (CD)."
 
-[[ slot ]]
-type = 'talk'
-name = 'Microsserviços prontos para produção'
-author = 'Rodrigo Mendonça'
-start_at = 2019-10-27 14:45:00
+[[slot]]
+type = "talk"
+name = "Microsserviços prontos para produção"
+author = "Rodrigo Mendonça"
+start_at = 2019-10-27T14:45:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "O que torna um microserviço pronto para a produção? Quais os aspectos não funcionais que devem ser atendidos para termos microsserviços confiáveis em ambiente de produção? Durante minha apresentação detalharei cada aspecto, demonstrando em Python os princípios de engenharia de software que apoiam essas implementações."
 
-[[ slot ]]
-type = 'talk'
-name = 'Como ensinar Python?'
-author = 'Yan Orestes'
-start_at = 2019-10-27 10:15:00
+[[slot]]
+type = "talk"
+name = "Como ensinar Python?"
+author = "Yan Orestes"
+start_at = 2019-10-27T10:15:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+description = "Para muitos, Python é a linguagem de programação ideal para iniciantes na área de desenvolvimento. Sendo assim, como nós, já iniciados na linguagem Python, devemos ensiná-la para os que estão querendo começar com ela?\nNessa palestra, discutirei tópicos de didática aplicados na área de conhecimento de programação Python. Veremos quais as formas mais adequadas (e pythônicas!) de se ensinar um conteúdo técnico para um iniciante."
 
-[[ slot ]]
-type = 'talk'
-name = 'Título Por onde começar a estudar Ciência de Dados?'
-author = 'Patricia Cucio Guisordi'
-start_at = 2019-10-27 09:30:00
+[[slot]]
+type = "talk"
+name = "Título Por onde começar a estudar Ciência de Dados?"
+author = "Patricia Cucio Guisordi"
+start_at = 2019-10-27T09:30:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
 
-[[ slot ]]
-type = 'talk'
-name = 'Fazendo as pazes com projetos legados'
-author = 'Matheus Hernandes'
-start_at = 2019-10-27 14:00:00
+[[slot]]
+type = "talk"
+name = "Fazendo as pazes com projetos legados"
+author = "Matheus Hernandes"
+start_at = 2019-10-27T14:00:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+description = "Todo mundo já tocou em um projeto legado. Se isso não aconteceu com você, sinto muito, um dia vai acontecer e é melhor que esteja preparado.\nStyleguides, TDD, CI, CD, políticas de código e mais - tudo isso é possível.\nSeu projeto tem salvação, não desista ainda! Bora ver como tirar esse trem da lama juntos!"
 
-[[ slot ]]
-type = 'talk'
-name = 'Tijolinho por tijolinho: Construindo APIs com Django'
-author = 'Ryllari Santana'
-start_at = 2019-10-27 09:30:00
+[[slot]]
+type = "talk"
+name = "Tijolinho por tijolinho: Construindo APIs com Django"
+author = "Ryllari Santana"
+start_at = 2019-10-27T09:30:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "O propósito desta palestra é apresentar, de forma simples e prática, os conceitos e o processo de desenvolvimento de APIs, cada etapa básica pode ser encontrada em documentações para o cenário ideal, por isso utilizando Django REST Framework iremos criar uma aplicação que nem todo tutorial pode auxiliar. \nExistem passos que só quem já desenvolveu consegue visualizar e auxiliar como fazer. Utilizando essa experiência, será apresentado como construir APIs tijolinho por tijolinho, permitindo com que pessoas que não possuem um conhecimento prévio sobre o assunto possam ter uma bagagem para prosseguir."
 
-[[ slot ]]
-type = 'talk'
-name = 'Uma abordagem de Computação Quântica usando a ferramenta Qiskit em Python'
-author = 'Daniele Nazaré Tavares'
-start_at = 2019-10-27 14:00:00
+[[slot]]
+type = "talk"
+name = "Uma abordagem de Computação Quântica usando a ferramenta Qiskit em Python"
+author = "Daniele Nazaré Tavares"
+start_at = 2019-10-27T14:00:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Essa palestra vai ser dado abordado um pouco de computação quântica e alguns conceitos básicos sobre esse novo paradigma de computação Além de mostrar as principais perspectivas dessa nova tecnologia para o futuro. \nAlém disso vai ser abordado um pouco da ferramenta Quiskit em Python. Além de mostrar a nova arquitetura de linguagens quânticas em cima do framework."
 
-[[ slot ]]
-type = 'talk'
-name = '[algoritmo.info for algoritmo in algoritmos.sort()]'
-author = 'Rebeca Sarai'
-start_at = 2019-10-27 10:15:00
+[[slot]]
+type = "talk"
+name = "[algoritmo.info for algoritmo in algoritmos.sort()]"
+author = "Rebeca Sarai"
+start_at = 2019-10-27T10:15:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "Algoritmos são um grande campo de estudo em ciência da computação, e não por acaso, algoritmos estão em praticamente tudo na programação. Várias das tecnologias que usamos no dia-a-dia dependem diretamente e indiretament de algoritmos. Nessa palestra vamos enteder os algoritmos mais comuns que compõem o mundo digital e conhecer suas aplicações reais.\n\nPor exemplo, sem levar muito tempo, qual algoritmo de ordenação é executado ao chamar o método sort do python?\n\n>>> some_list = [2, 5, 6, 1, 3]\n>>> some_list.sort()\n\nPython usa um algoritmo híbrido chamado Timsort, construído de forma a garantir o desempenho do algoritmo em várias situações reais. Nessa palestra você vai ver vários exemplos similares e descobrir que algoritmos as funções internas da sua linguagem preferida utilizam."
 
-[[ slot ]]
-type = 'talk'
-name = 'Saúde mental e o mercado de tecnologia, vamos falar sobre?'
-author = 'Leonardo Morales Belluzzi'
-start_at = 2019-10-27 14:45:00
+[[slot]]
+type = "talk"
+name = "Saúde mental e o mercado de tecnologia, vamos falar sobre?"
+author = "Leonardo Morales Belluzzi"
+start_at = 2019-10-27T14:45:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+description = "O impacto que o trabalho exerce sobre nós pode gerar prazer ou sofrimento. O sofrimento é atribuído ao choque entre a história individual, desejos, capacidades, ambições, idéias e emoções. Normalmente o ritmo de trabalho intenso e/ou repetitivo, a necessidade de cumprir prazos, os abusos dos superiores, a necessidade constante de desenvolvimento pessoal no mercado de tecnologia, pode representar a porta de entrada para os transtornos mentais."
 
-[[ slot ]]
-type = 'talk'
-name = 'Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural'
-author = 'Thais Gomes de Almeida'
-start_at = 2019-10-27 09:30:00
+[[slot]]
+type = "talk"
+name = "Fato ou Fake? Combatendo desinformação com Aprendizagem de Máquina e Processamento de Linguagem Natural"
+author = "Thais Gomes de Almeida"
+start_at = 2019-10-27T09:30:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+description = "Devido à infraestrutura da Web existente e à popularidade das plataformas de mídias sociais, é fácil compartilhar informações de forma massiva atualmente. Embora esse cenário online traga benefícios para a sociedade, ele também favorece que grupos maliciosos propaguem desinformação (notícias falsas) na Web, causando danos que vão desde afetar a reputação de entidades públicas (empresas, celebridades) a interferir em processos políticos.\n\nNesta palestra, vamos aprender como detectar as famosas \"Fake News\" por meio de propriedades linguísticas (e.g., morfológicas, psicolinguísticas) presentes no conteúdo de notícias veiculadas na Web. Para tanto, serão exploradas as bibliotecas Scikit-Learn, NLTK, LIWC e TextStat."
 
-[[ slot ]]
-type = 'talk'
-name = 'Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN'
-author = 'Ingrid Sena'
-start_at = 2019-10-27 14:45:00
+[[slot]]
+type = "talk"
+name = "Logs: A arte de fazer o software contar sua história - Estudo de caso do projeto FASTEN"
+author = "Ingrid Sena"
+start_at = 2019-10-27T14:45:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
 
-[[ slot ]]
-type = 'talk'
-name = 'Seis anos de PyLadies Brasil: impactos, perspectivas e desafios'
-author = 'PyLadies Brasil'
-start_at = 2019-10-27 15:30:00
+[[slot]]
+type = "talk"
+name = "Seis anos de PyLadies Brasil: impactos, perspectivas e desafios"
+author = "PyLadies Brasil"
+start_at = 2019-10-27T15:30:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+

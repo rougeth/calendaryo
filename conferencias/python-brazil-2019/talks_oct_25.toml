@@ -1,151 +1,169 @@
-[[ slot ]]
-type = 'talk'
-name = 'Aprendendo e ensinando Python para “programadores alternativos”'
-author = 'Alexandre Villares'
-start_at = 2019-10-25 10:30:00
+[[slot]]
+type = "talk"
+name = "Aprendendo e ensinando Python para “programadores alternativos”"
+author = "Alexandre Villares"
+start_at = 2019-10-25T10:30:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
 
-[[ slot ]]
-type = 'talk'
-name = 'Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares'
-author = 'Alexis Jawtuschenko'
-start_at = 2019-10-25 14:45:00
+[[slot]]
+type = "talk"
+name = "Un algoritmo de Mallado Poliedral en 3 Dimensiones para Aproximar Soluciones a Problemas Físicos Singulares"
+author = "Alexis Jawtuschenko"
+start_at = 2019-10-25T14:45:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Muchos problemas de la geometría y de la física se modelizan en términos de ecuaciones diferenciales, que son ecuaciones que relacionan a una función desconocida con algunas de sus derivadas. En casi todos los casos, si bien está demostrada la existencia y unicidad de la solución de una de tales ecuaciones, es imposible computarla analíticamente de manera exacta, y entonces un abordaje posible es construir un método numérico para construir otra función que sea una aproximación (todo lo cercana que se quiera) de esta función desconocida. Estas aproximaciones se dan en forma de una función definida por\npartes, siguiendo una cierta subdivisión de la región del espacio en donde ocurre el fenómeno físico de interés. La definición y construcción de un método numérico propio comienza, entonces, con la explicitación del proceso de mallado, que consiste en una sucesión infinita de subdivisiones del dominio, con elementos de medida tan pequeña como se quiera. Después de esto, la definición de todos los objetos de cálculo concreto y de análisis teórico concernientes al método numérico depende de cuáles son precisamente los puntos, las aristas, las caras y los poliedros de las mallas. Un programa\nde mallado debe tomar como entrada alguna información geométrica sucinta de la región a subdividir y entregar como salida alguna tabulación concreta de los puntos, aristas, caras y poliedros de la malla. Por ejemplo una lista de archivos de texto. Presentamos en esta charla la implementación en Python/NumPy que implementa (y grafica) un algoritmo de mallado propuesto por el autor, junto su método numérico asociado, en su trabajo de tesis doctoral por la Universidad de Buenos Aires. Además mostraremos brevemente parte del segundo programa que ensambla el sistema lineal de ecuaciones, a partir de las mallas, cuya solución son las coordenadas que determinan a la solución aproximada de una ecuación diferencial modelo."
 
-[[ slot ]]
-type = 'talk'
-name = 'Tecnology is the new freedom'
-author = 'Anicely Santos'
-start_at = 2019-10-25 11:15:00
+[[slot]]
+type = "talk"
+name = "Tecnology is the new freedom"
+author = "Anicely Santos"
+start_at = 2019-10-25T11:15:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+description = "O Sistema prisional brasileiro apresenta muitos problemas: Prende-se muito antes de julgar, prende-se muito por crimes sem violência e está chegando a quase o dobro de presos para a oferta de vagas. Além disso, as prisões tem cor e lugar, sendo composto na sua grande maioria por negros que se encontram nas comunidades. Sem contar que tem uma ampla porcentagem de mulheres encarceradas em um ambiente estruturado para homens. No final, das pessoas presas quando posta em liberdade, mais da maioria voltam a cometer crimes e são presas novamente. \n\nPartindo do ponto tecnológico, muito tem sido investido dentro do sistema carcerário a nível de segurança para evitar fugas e ser mais eficaz na busca de outras pessoas que ainda não foram presas. Mas o que se tem feito para que essas pessoas, uma vez em liberdade, possam voltar a sociedade e não volte a ser uma ameça a segurança pública? Como a tecnologia pode atuar no processo de ressocialização? Pessoas são maiores que tecnologia. Quais pessoas?"
 
-[[ slot ]]
-type = 'talk'
-name = 'Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar Cultura de Time'
-author = 'Betina Costa'
-start_at = 2019-10-25 14:00:00
+[[slot]]
+type = "talk"
+name = "Dr. Introvertido ou: Como eu Aprendi a Parar de Me Preocupar e Amar Cultura de Time"
+author = "Betina Costa"
+start_at = 2019-10-25T14:00:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+description = "A tecnologia tornou-se um campo muito sociável: pareamento, agile, tudo voltado para um ambiente mais colaborativo. Isso trouxe resultados surpreendentes, mas também tornou a vida de pessoas introvertidas um pouco mais difícil. Essa palestra falará de como é ser um introvertido em um mundo extrovertido, como se adaptar e tirar o melhor proveito disso."
 
-[[ slot ]]
-type = 'talk'
-name = 'Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem'
-author = 'Bruno Evangelista'
-start_at = 2019-10-25 14:00:00
+[[slot]]
+type = "talk"
+name = "Black Mirror ao contrário - Uso de tecnologia (e dados) para o bem"
+author = "Bruno Evangelista"
+start_at = 2019-10-25T14:00:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "Abra o google notícias e pesquise \"dados\". Você perceberá que, excluindo termos relacionados a publicidades e dados móveis, cerca de dois terços das notícias são negativas. Vazamentos, exposição pública, erros de cálculo, manipulação... Tem de tudo. É natural que, diante do desconhecido e principalmente no mundo da tecnologia, a pergunta seja \"o que acontece se isso cair nas mãos erradas?\".\n\nO Social Good Brasil, organização de Florianópolis precursora do incentivo ao uso de tecnologias para o impacto socioambiental, há 8 anos inspira, conecta e capacita pessoas e empresas para se fazer a pergunta antagônica: \"o que acontece se a tecnologia - tendo dados como matéria-prima - cair nas mãos certas e for usada para ajudar em desafios como saúde, democracia, mobilidade urbana e tantos outros que nossa sociedade enfrenta?\"\n\nDurante a apresentação trago cases, ideias, e mostro como no mundo cientistas de dados estão se unindo para usar seu conhecimento para projetos de grande impacto socioambiental."
 
-[[ slot ]]
-type = 'talk'
-name = 'Otimizando sistemas em Python com Kibana, Elasticsearch e APM'
-author = 'Bruno Gomes França'
-start_at = 2019-10-25 11:15:00
+[[slot]]
+type = "talk"
+name = "Otimizando sistemas em Python com Kibana, Elasticsearch e APM"
+author = "Bruno Gomes França"
+start_at = 2019-10-25T11:15:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Nessa palestra eu apresento o Kibana e APM para o público e demonstro como utilizar essas ferramentas para identificar quais páginas ou endpoints tem maior impacto no uso de recursos do servidor, quais tem uma latência maior e como identificar quais etapas estão deixando esses processos lerdos e/ou pesados. No final da palestra mostro alguns casos reais em que utilizei essas ferramentas para minimizar o custo de infraestrutura e diminuir consideravelmente o tempo de resposta médio de algumas aplicações."
 
-[[ slot ]]
-type = 'talk'
-name = 'Python e Ciência de Dados no Combate à Corrupção'
-author = 'David Cosac Junior / Cláudio Augusto Soares'
-start_at = 2019-10-25 10:30:00
+[[slot]]
+type = "talk"
+name = "Python e Ciência de Dados no Combate à Corrupção"
+author = "David Cosac Junior / Cláudio Augusto Soares"
+start_at = 2019-10-25T10:30:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Descreverei a atuação da área de Ciência de Dados da Controladoria Geral da União (CGU), o Observatório da Despesa Pública,  na criação de aplicações de Mineração de Dados para detecção de fraude e mau uso de recursos públicos. Como exemplo de aplicação, criamos um modelo utilizando redes neurais convolucionais para detecção de empresas de fachada a partir da análise de imagens da empresa. Outro modelo prevê o risco de um convênio resultar em rejeição da prestação de contas. Tudo com Python.\nA ideia da palestra é apresentar o dia-a-dia de uma equipe de cientistas de dados no contexto governamental, detalhando os principais projetos desenvolvidos."
 
-[[ slot ]]
-type = 'talk'
-name = 'Música com Python e FoxDot'
-author = 'Diego Moreira Guimarães'
-start_at = 2019-10-25 15:30:00
+[[slot]]
+type = "talk"
+name = "Música com Python e FoxDot"
+author = "Diego Moreira Guimarães"
+start_at = 2019-10-25T15:30:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "FoxDot é uma biblioteca/Live Coding Environment feita em Python para fazer música com código. Ela vem com vários sintetizadores, samples e efeitos pra fazer qualquer tipo de música/baruilho. Você instancia os players, escolhe o sintetizador de cada um e passa uma lista de notas. Além disso, a teoria musical já vem implementada, então, por exemplo, você não precisa necessariamente saber quais notas tocar, basta escolher uma das escalas que aparecem no autocomplete e aperta ctrl+enter pra ouvir o resultado.\n\nO objetivo dessa palestra é apresentar a FoxDot e mostrar que programação não é apenas para resolver os problemas do seu chefe e garantir o seu emprego. É também para explorar a sua criatividade e te dar uma nova forma de se expressar.\nVão ser apresentados conceitos básicos de teoria musical e composição, como acordes e escalas, e como aplicá-los na FoxDot para fazer música. A palestra vai ser toda mão na massa e todos os conceitos vão ser mostrados na ferramenta. Pelo menos duas músicas vão ser feitas durante a palestra."
 
-[[ slot ]]
-type = 'talk'
-name = 'Código legado de machine learning? Como migramos para Python 3 sem sofrimento'
-author = 'Eder Ferreira Martins'
-start_at = 2019-10-25 15:30:00
+[[slot]]
+type = "talk"
+name = "Código legado de machine learning? Como migramos para Python 3 sem sofrimento"
+author = "Eder Ferreira Martins"
+start_at = 2019-10-25T15:30:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Nessa palestra, vamos mostrar como migramos nosso código legado de Python 2 para 3, usando a ferramenta 2to3. Em particular, explicaremos várias das estratégias usadas durante a migração, especialmente úteis, para projetos que envolvem machine learning. Além disso, destacaremos vários cuidados especiais que esse tipo de projeto requer. Adicionalmente, nessa palestra buscaremos incentivar boas práticas de engenharia, bem como alertar sobre os riscos que quem não migrar para Python 3 correrá nos próximos anos, devido a aposentadoria do Python 2."
 
-[[ slot ]]
-type = 'talk'
-name = '1 + 1 = 1 ou Pareamento de Registros com Python'
-author = 'Flávio Juvenal'
-start_at = 2019-10-25 14:00:00
+[[slot]]
+type = "talk"
+name = "1 + 1 = 1 ou Pareamento de Registros com Python"
+author = "Flávio Juvenal"
+start_at = 2019-10-25T14:00:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Como encontrar duplicatas em um conjunto de dados quando este não tem identificadores únicos como CPF para cidadãos brasileiros? A resposta é usando técnicas de Pareamento de Registros, as quais procuram por correspondências entre registros limpando e comparando seus atributos de maneira difusa. Nesta palestra, você aprenderá com exemplos Python como fazer isso tanto de forma determinística quanto de forma aproximada com classificadores de aprendizagem de máquina."
 
-[[ slot ]]
-type = 'talk'
-name = 'A anatomia do code review'
-author = 'Guilherme Garnier'
-start_at = 2019-10-25 11:15:00
+[[slot]]
+type = "talk"
+name = "A anatomia do code review"
+author = "Guilherme Garnier"
+start_at = 2019-10-25T11:15:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Code review é uma ferramenta muito útil para ajudar a manter a qualidade do seu código, além de trazer outros benefícios para quem o cria e revisa. Nesta palestra, vou apresentar em mais detalhes como funciona um code review e por que todo código do seu time deve passar por este processo"
 
-[[ slot ]]
-type = 'talk'
-name = 'Docker: melhorando sua vida como desenvolvedor Python'
-author = 'Gustavo Carvalho'
-start_at = 2019-10-25 14:00:00
+[[slot]]
+type = "talk"
+name = "Docker: melhorando sua vida como desenvolvedor Python"
+author = "Gustavo Carvalho"
+start_at = 2019-10-25T14:00:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Anos atrás o processo de implantação de uma aplicação era basicamente um serviço como LAMP, que gerenciava interpretador da linguagem, banco de dados e servidor web. Atualmente, a tecnologia evoluiu a ponto de uma aplicação se comunicar com os serviços mais diversos, desde banco de dados até servidor de logs e engines de buscas.\n\nCom essa evolução, cresce também a complexidade de gerenciar tanto ambiente de desenvolvimento, quanto de produção.\nDocker é uma ferramenta que auxilia o provisionamento e execução dos mais variados serviços e linguagens sem muito trabalho, usando um ambiente isolado e controlado chamado de container. Com ele, é possível gerar imagens que se comportam da mesma maneira, independente do ambiente em que estão sendo executadas.\n\nNesta palestra pretendo apresentar uma aplicação que reproduz um cenário real, com banco de dados, webpack, servidor web, Celery, Redis, RabbitMQ e mostrar como Docker pode ajudar a gerenciar tudo isso sem dor de cabeça."
 
-[[ slot ]]
-type = 'talk'
-name = 'Controlando um braço robótico com MicroPython'
-author = 'Juliana Karoline de Sousa'
-start_at = 2019-10-25 15:30:00
+[[slot]]
+type = "talk"
+name = "Controlando um braço robótico com MicroPython"
+author = "Juliana Karoline de Sousa"
+start_at = 2019-10-25T15:30:00
 duration = 45
-room = 'Diamante'
+room = "Diamante"
+description = "Falarei sobre a implementação do Python para microcontroladores (MicroPython) e sobre uma das placas mais acessíveis que possuem suporte a ela, a NodeMCU (ESP8266), detalhando as especificações da placa e o passo a passo da instalação do firmware. Em seguida, explicarei conceitos básicos de eletrônica para permitir o entendimento sobre portas analógicas e digitais, e mostrarei como esse tipo de comunicação é utilizado para a leitura de sensores e controle de atuadores. Após a parte introdutória, mostrarei como exemplo de aplicação do MicroPython o código para controle de um braço robótico, focando nas particularidades da linguagem que facilitam a codificação. Para encerrar, deixarei instruções para quem quiser reproduzir o experimento e algumas ideias de como estender a prova de conceito mostrada."
 
-[[ slot ]]
-type = 'talk'
-name = 'Construindo plugins para o Pytest'
-author = 'Rafael Henrique da Silva Correia'
-start_at = 2019-10-25 10:30:00
+[[slot]]
+type = "talk"
+name = "Construindo plugins para o Pytest"
+author = "Rafael Henrique da Silva Correia"
+start_at = 2019-10-25T10:30:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Já te aconteceu de você estar criando um teste e na hora H você nota que o pytest não te dá AQUELE \"pulo do gato\" que lhe faltava??\n\nNesta talk você aprenderá a criar suas próprias features para rodar em conjunto com o pytest, vamos criar plugins novos! E você poderá se tornar uma nova celebridade do github \\o/"
 
-[[ slot ]]
-type = 'talk'
-name = '1 ano após primeira Python Brasil'
-author = 'Tyrone Macedo Damasceno'
-start_at = 2019-10-25 14:45:00
+[[slot]]
+type = "talk"
+name = "1 ano após primeira Python Brasil"
+author = "Tyrone Macedo Damasceno"
+start_at = 2019-10-25T14:45:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+description = "O objetivo desta palestra é mostrar a importância da interação entre a comunidade, fazer networking e algumas coisas interessantes que aconteceram após 1 ano depois da minha primeira Python Brasil.\nDescontrair as pessoas, incentivar a puxar papo, motivar a aprender coisas novas e lembrar que sempre deve-se ir pro Pybar estão entre os pontos principais."
 
-[[ slot ]]
-type = 'talk'
-name = 'Desenhando com Python dentro do Navegador'
-author = 'Bernardo Fontes'
-start_at = 2019-10-25 14:45:00
+[[slot]]
+type = "talk"
+name = "Desenhando com Python dentro do Navegador"
+author = "Bernardo Fontes"
+start_at = 2019-10-25T14:45:00
 duration = 45
-room = 'Esmeralda'
+room = "Esmeralda"
+description = "Apresentarei a lib pyp5js, seus usos e possibilidades na exploração de arte generativa com Python no navegador.  A lib permite que se transcreva código de Python para Javascript diretamente integrado com o p5.js, uma implementação de Processing em Javascript. Sim, falarei de Python desenhando formas meio doidas e na web."
 
-[[ slot ]]
-type = 'talk'
-name = 'Serveless: zero to hero'
-author = 'Giana de Almeida Pereira'
-start_at = 2019-10-25 14:45:00
+[[slot]]
+type = "talk"
+name = "Serveless: zero to hero"
+author = "Giana de Almeida Pereira"
+start_at = 2019-10-25T14:45:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "Uma visão prática desde conceitos base até o deploy ( - show me the code :DD).\nDependendo do tempo disponibilizado posso converter essa palestra em um workshop\n\nUsarei como cloud a amazon, apresentarei frameworks simples, ensinarei uma aplicação básica, mostrarei aplicações mais complexas e como fazer deploy\n\nStacks:\n- Python 3 \n- IDE: PyCharm\n- AWS: criando uma conta\n- AWS: S3\n- AWS: funções lambdas\n- AWS: cloud watch\n\nBônus: ensinarei como criar um alert na amazon para que você seja notificado caso passe do limite de requisições do modo gratuito"
 
-[[ slot ]]
-type = 'talk'
-name = 'Ciência de Dados no cotidiano: o que os dados dizem sobre o real comportamento da população?'
-author = 'Juliany Raiol'
-start_at = 2019-10-25 11:15:00
+[[slot]]
+type = "talk"
+name = "Ciência de Dados no cotidiano: o que os dados dizem sobre o real comportamento da população?"
+author = "Juliany Raiol"
+start_at = 2019-10-25T11:15:00
 duration = 45
-room = 'Topázio'
+room = "Topázio"
+description = "Com o avanço da globalização e uso de mídias sociais, diversas informações pessoais estão disponíveis na internet. Isto indica que elas podem ser utilizadas em muitos contextos e influenciar debates na sociedade. Pesquisas rápidas no Google, Facebook, Instagram, e envio de mensagem por Whatsapp/Telegram deixam rastros reveladores. Nas eleições presidenciais dos Estados Unidos em 2016, várias pesquisas apontavam que a candidata Hillary Clinton venceria o pleito, entretanto, o resultado foi o oposto. O que esse resultado indica sobre o que as pessoas dizem que fazem e o que realmente praticam?"
 
-[[ slot ]]
-type = 'talk'
-name = 'Como um grupo de estudos estimula a troca de saber dentro da comunidade PyLadies São Paulo'
-author = 'Grupo de Estudos em Data Science'
-start_at = 2019-10-25 10:30:00
+[[slot]]
+type = "talk"
+name = "Como um grupo de estudos estimula a troca de saber dentro da comunidade PyLadies São Paulo"
+author = "Grupo de Estudos em Data Science"
+start_at = 2019-10-25T10:30:00
 duration = 45
-room = 'Onix'
+room = "Onix"
+
