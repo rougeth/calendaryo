@@ -89,11 +89,12 @@ for slot in slots:
     photo_url = slot.get("photo_url", "")
     if not photo_url and author:
         photo_url = PHOTO_URL.format(slugify(author, separator="_"))
-        
-    title = slot["name"]      
+
+    title = slot["name"]
     description = slot.get("description", "")
     location = slot.get("room", "")
     event_type = slot.get("type", "")
+    category = slot.get("category", "")
 
     event = {
         "summary": title,
@@ -109,6 +110,7 @@ for slot in slots:
             "private": {
                 "title": title,
                 "author": author,
+                "category": category,
                 "type": event_type,
                 "photo_url": photo_url,
             }
