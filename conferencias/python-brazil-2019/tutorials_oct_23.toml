@@ -40,13 +40,6 @@ room = 'Sala 5'
 
 [[ slot ]]
 type = 'tutorial'
-name = 'Django Girls'
-start_at = 2019-10-23 08:00:00
-duration = 600
-room = 'Lab 1'
-
-[[ slot ]]
-type = 'tutorial'
 name = 'Git: sua maior arma durante o Inverno que Está Chegando'
 author = 'Giulio Cavalcante'
 start_at = 2019-10-23 08:00:00
