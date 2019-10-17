@@ -1,0 +1,41 @@
+[[ slot ]]
+type = 'Lightning Talks'
+name = 'Lightning Talks'
+start_at = 2019-10-25 12:00:00
+duration = 30
+room = 'Diamante'
+
+[[ slot ]]
+type = 'Lightning Talks'
+name = 'Lightning Talks'
+start_at = 2019-10-25 16:45:00
+duration = 30
+room = 'Diamante'
+
+[[ slot ]]
+type = 'Lightning Talks'
+name = 'Lightning Talks'
+start_at = 2019-10-26 11:00:00
+duration = 30
+room = 'Diamante'
+
+[[ slot ]]
+type = 'Lightning Talks'
+name = 'Lightning Talks'
+start_at = 2019-10-26 16:45:00
+duration = 30
+room = 'Diamante'
+
+[[ slot ]]
+type = 'Lightning Talks'
+name = 'Lightning Talks'
+start_at = 2019-10-27 11:00:00
+duration = 30
+room = 'Diamante'
+
+[[ slot ]]
+type = 'Lightning Talks'
+name = 'Lightning Talks'
+start_at = 2019-10-27 16:45:00
+duration = 30
+room = 'Diamante'
