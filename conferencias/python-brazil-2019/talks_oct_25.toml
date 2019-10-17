@@ -1,5 +1,19 @@
 [[ slot ]]
 type = 'talk'
+name = 'Credenciamento'
+start_at = 2019-10-25 08:00:00
+duration = 45
+room = 'Saguão'
+
+[[ slot ]]
+type = 'talk'
+name = 'Abertura da Python Brasil 2019'
+start_at = 2019-10-25 08:45:00
+duration = 15
+room = 'Diamante'
+
+[[ slot ]]
+type = 'talk'
 name = 'Aprendendo e ensinando Python para “programadores alternativos”'
 author = 'Alexandre Villares'
 category = 'Pessoas'

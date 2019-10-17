@@ -177,3 +177,10 @@ category = 'Python para tudo'
 start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Onix'
+
+[[ slot ]]
+type = 'talk'
+name = 'Encerramento da Python Brasil 2019'
+start_at = 2019-10-27 18:15:00
+duration = 45
+room = 'Diamante'

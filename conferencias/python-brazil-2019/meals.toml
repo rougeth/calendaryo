@@ -3,60 +3,60 @@ type = "coffee"
 name = "Café da Manhã"
 start_at = 2019-10-25 10:00:00
 duration = 30
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "lunch"
 name = "Almoço"
 start_at = 2019-10-25 12:30:00
 duration = 90
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
 name = "Café da Tarde"
 start_at = 2019-10-25 16:15:00
 duration = 30
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
 name = "Café da Manhã"
 start_at = 2019-10-26 09:00:00
 duration = 30
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "lunch"
 name = "Almoço"
 start_at = 2019-10-26 12:30:00
 duration = 90
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
 name = "Café da Tarde"
 start_at = 2019-10-26 16:15:00
 duration = 30
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
 name = "Café da Manhã"
 start_at = 2019-10-27 09:00:00
 duration = 30
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "lunch"
 name = "Almoço"
 start_at = 2019-10-27 12:30:00
 duration = 90
-room = "coffee-room"
+room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
 name = "Café da Tarde"
 start_at = 2019-10-27 16:15:00
 duration = 30
-room = "coffee-room"
+room = "Saguão"
