@@ -11,6 +11,7 @@ google-api-python-client = "^1.7"
 google-auth-httplib2 = "^0.0.3"
 google-auth-oauthlib = "^0.4.0"
 python-decouple = "^3.1"
+python-slugify = "^3.0"
 
 [tool.poetry.dev-dependencies]
 ipython = "^7.8"

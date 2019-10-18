@@ -5,6 +5,10 @@ import toml
 from decouple import config
 from googleapiclient import discovery
 from google.oauth2.service_account import Credentials
+from slugify import slugify
+
+
+PHOTO_URL = "https://2019.pythonbrasil.org.br/assets/images/fotos/{}.jpeg"
 
 
 # Build Google API Client
@@ -78,28 +82,41 @@ for slot in slots:
     start_at = slot["start_at"]
     if not start_at.year == today.year:
         continue
-
     duration = slot["duration"]
     end_at = start_at + timedelta(minutes=duration)
 
+    author = slot.get("author", "")
+    photo_url = slot.get("photo_url", "")
+    if not photo_url and author:
+        photo_url = PHOTO_URL.format(slugify(author, separator="_"))
+
+    title = slot["name"]
+    description = slot.get("description", "")
+    location = slot.get("room", "")
+    event_type = slot.get("type", "")
+    category = slot.get("category", "")
+
     event = {
-        "summary": slot["name"],
-        "description": slot.get("description", ""),
+        "summary": title,
+        "description": description,
         "start": {"dateTime": start_at.isoformat(), "timeZone": "America/Sao_Paulo"},
         "end": {"dateTime": end_at.isoformat(), "timeZone": "America/Sao_Paulo"},
-        "location": slot.get("room", ""),
+        "location": location,
         "creator": {
             "displayName": f"Python Brasil {today.year}",
             "email": "eventos@python.org.br",
         },
         "extendedProperties": {
             "private": {
-                "author": slot.get("author", ""),
-                "type": slot.get("type", ""),
+                "title": title,
+                "author": author,
+                "category": category,
+                "type": event_type,
+                "photo_url": photo_url,
             }
         },
     }
-    print("Creating event:", event["summary"])
+    print("Creating event:", title)
     batch.add(client.events().insert(calendarId=calendar["id"], body=event))
 
 batch.execute()

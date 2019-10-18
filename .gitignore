@@ -5,3 +5,4 @@ build/
 
 .env
 google-api-auth.json
+.vscode
