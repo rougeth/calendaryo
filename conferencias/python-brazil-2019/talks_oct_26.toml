@@ -6,6 +6,7 @@ category = 'Desenvolvimento'
 start_at = 2019-10-26 10:15:00
 duration = 45
 room = 'Topázio'
+description = 'Pitch de elevador:\n\n\nValar Testhaeris, todos os homens devem testar. Muitos desenvolvedores subestimam o poder dos testes, mas a noite é escura e cheia de erros. Nessa palestra, você irá aprender os truques do Game of Tests. Deixe-me ajudar durante a sua jornada, te mostrando boas ferramentas e exemplos práticos. Os testes estão chegando.\n\n\nResumo:\n\n\nValar Testhaeris, todos os homens devem testar. Muitos desenvolvedores subestimam o poder dos testes, mas a noite é escura e cheia de erros. Nessa palestra, você irá aprender os truques do Game of Tests. E porque o homem que passa a sentença deve brandir a espada, nessa palestra, meu objetivo é te ajudar a entender testes automatizados em Django como iniciante, boas ferramentas que podem te ajudar no caminho e mostrar alguns exemplos práticos no assunto. Porque o que dizemos para o deus dos bugs? Hoje não.\n\nPreparem-se, os testes estão chegando.\n\nOutline:\n\n[1 minuto] - Quem sou eu\n\n[5 minutos] - Quando você joga o Game of Tests, você ganha ou chora: Introdução\n- Todos os homens devem testar: por que muitos iniciantes não testam\n- Como não morrer na primeira temporada: dificuldades que você pode encontrar no início\n- A noite é escura e cheia de erros: os reais benefícios dos testes\n\n[19 minutos] - Julgamento por combate: Como testar\n[1 minuto] - O Dragão deve ter três cabeças: Pirâmide dos testes automatizados\n          - Fim-a-Fim\n          - Integração\n          - Unitário\n\n[2 minutos] - A Muralha (de testes): Estrutura de testes\n          - test_views\n          - test_forms\n          - test_helpers\n\n[5 minutos] - Os Primeiros Homens: Ferramentas de teste do Django\n          - TestCase\n          - setUp\n          - Asserts\n\n[5 minutos] - Os Homens Sem Rosto: Fábricas de objetos\n          - Model Mommy\n          - Fixtures\n\n[2 minutos] - A Batalha dos Clientes\n          - Request Factory\n          - Client\n\n[4 minutos] - As coisas que eu faço pelo mock'
 
 [[ slot ]]
 type = 'talk'
@@ -15,6 +16,7 @@ category = 'Arquitetura'
 start_at = 2019-10-26 09:30:00
 duration = 45
 room = 'Esmeralda'
+description = 'Quero mostrar um pouco sobre transformamos nosso django numa ferramenta DevOps de cadastro de tenants, onde conseguimos automatizar backups dentro de uma janela de manutenção para diferentes bases (postgres, ES, vertica) e controle de rotinas. Conseguimos cadastrar estes clientes e associar a hosts, bancos, plataformas diversas, uptimes e servidores http (Apache/nginx). Também com os hosts e chaves setadas, conseguimos rodar scripts dentro das instâncias AWS e criamos grupos de tenants, quando queremos fazer manutenções mais específicas. O Fabric faz esse alinhamento de rodar com conexão ssh comandos dentro dos servidores/plataformas.\nTodos estes backups conseguem ser enviados para o S3, desde o apache até de vertica e psql.\nEssa palestra já foi apresentada na PythonRio e o pessoal ficou bastante interessado! :D'
 
 [[ slot ]]
 type = 'talk'
@@ -24,6 +26,7 @@ category = 'Desenvolvimento'
 start_at = 2019-10-26 10:15:00
 duration = 45
 room = 'Diamante'
+description = 'Eventualmente todo mundo que trabalha com desenvolvimento web vai se deparar com um sistema que precisa lidar com muitas requisições. Para quem nunca passou por isso antes esse é normalmente um momento estressante: clientes reclamam da velocidade do site, o sistema fica fora do ar por algumas horas, coisas que antes funcionavam começam a quebrar ou demorar demais, entre outras situações geralmente não muito divertidas.  Nessa palestra vamos falar da tal "escalabilidade" dos sitemas web. Mas não a escalabilidade necessária para atender milhões de usuários, e sim sobre aquele primeiro passo que é fazer a aplicação começar a lidar com algumas centenas de usuários, talvez milhares.\n\nIremos utilizar o framework Django para guiar os exemplos porém os conceitos poderam ser aplicados em qualquer framework ou linguagem de programação. Vamos mostrar como grande parte dos problemas podem ser resolvidos diretamente no banco de dados e como poucas mudanças no código podem ter um efeito muito grande na performance da sua aplicação. Também exploraremos algumas estratégias um pouco mais avançadas (como por exemplo as diversas formas de se fazer caching) mostrando vantágens e desvantágens.'
 
 [[ slot ]]
 type = 'talk'
@@ -33,6 +36,7 @@ category = 'Arquitetura'
 start_at = 2019-10-26 14:00:00
 duration = 45
 room = 'Diamante'
+description = 'Na Olist tivemos vários problemas de downtimes e de queda de performance do sistema devido à migrações de dados no final do ano passado. Com isso, juntei um conjunto de aprendizados de truques e conhecimentos para fazer migrações de dados de forma mais segura, inclusive durante o horário de trabalho, com pouco ou nenhum impacto na performance do sistema. Esses aprendizados foram obtidos trabalhando com o banco PostgreSQL, tanto em Python/Django no Heroku, como em Go no RDS da AWS, para databases com mais de 100 GB de dados. A idéia é compartilhar esses aprendizados com os participantes, para que também possam fazer migrações com segurança e eficiência, sem impactar o sistema. Além de compartilhar esses aprendizados, a palestra também faz uma introdução a como migrações funcionam no Postgres, junto com conceitos de banco de dados SQL.'
 
 [[ slot ]]
 type = 'talk'
@@ -42,6 +46,7 @@ category = 'Arquitetura'
 start_at = 2019-10-26 14:45:00
 duration = 45
 room = 'Onix'
+description = 'Microsserviços, por definição, devem ser pequenos, sem estado e independentes. Muitos erros comuns acontecem ao tentar comunicar serviços distintos. Ao implementar troca de dados sempre de forma síncrona, esquece-se de que um serviço não deve assumir do estado de outro, causando um efeito em cadeia de dependência. Outros optam pela simplicidade de isolar a aplicação, mas agregar os dados em uma única fonte.\n\n\nA maior dificuldade na migração de um monolito para um ecossistema de microsserviços está em garantir a independência, fazendo com que cada aplicação tenha um domínio de dados bem definido. Mas como isolar aplicações que precisam constantemente trocar informações?\n\nIrei abordar um caso de uso de como o time da eduK arquitetou a comunicação entre microsserviços Python utilizando um serviço de mensageria de protocolo AMQP (RabbitMQ, CloudAMQP, Kafka) através do padrão PubSub. Esta palestra tem o intuito de apontar problemas comuns de configuração e demonstrar boas práticas de implementações a serem consideradas para manter a saúde e integridade dos dados no universo de aplicações.'
 
 [[ slot ]]
 type = 'talk'
@@ -51,6 +56,7 @@ category = 'Pessoas'
 start_at = 2019-10-26 14:00:00
 duration = 45
 room = 'Onix'
+description = 'Liderança técnica vai muito além de TECNOLOGIA, engloba PESSOAS. Nesse 1 ano trabalhando oficialmente como Líder Técnica (Tech Lead), quero compartilhar esse processo de aprendizado durante essa jornada até aqui. Os processos, os medos, os desafios, as tentativas e erros mas também os acertos e as pequenas conquistas diárias. \n\nNessa palestra também vou contar qual era a minha expectativa e qual foi a realidade de virar líder técnica. Quero ajudar vocês a entenderem quais são as responsabilidades de um/a líder técnico/a e te ajudar a entender se esse é um caminho que você se interessa em seguir. Ou se você já é um líder técnico, espero que tire alguma dica valiosa dessa palestra que possa ser aplicada dentro de sua equipe - ou na vida. (:\n\nPS: Nessa palestra vou usar a minha experiência e minha opinião sobre o assunto - nada aqui é certo ou errado. Se você concorda ou não, eu adoraria conversar mais sobre a experiência de vocês também (quem tem ou é um líder técnico).'
 
 [[ slot ]]
 type = 'talk'
@@ -60,6 +66,7 @@ category = 'Data Science'
 start_at = 2019-10-26 14:00:00
 duration = 45
 room = 'Topázio'
+description = 'Na Era da Informação, onde os dados podem ser obtidos mais facilmente, possuir o conhecimento sobre as ferramentas que auxiliem você a alcançar esses dados e fazer boas perguntas faz com que o cidadão tenha cada vez mais poder político e transformador sobre a sociedade.  No meio jurídico, por exemplo, processos podem ser consultados de forma pública por meio dos sites e APIs fornecidas pelos tribunais de justiça. Assim, o cidadão pode acompanhar seus processos sem precisar se locomover a um fórum. Também é possível acompanhar todos os processos do tribunal que não estejam sob segredo de justiça, e obter os dados que não são sigilosos. \n\nDispondo desses recursos, sabendo sobre a importância da lei Maria da Penha, realizou-se a extração dos processos de violência contra a mulher ocorridos na cidade do Recife, que atualmente podem ser consultados através do sistema do Tribunal de Justiça de Pernambuco. Assim permitindo uma análise de 12 anos pra cá e responder perguntas como: \n\n-> Quais os principais motivos de abertura de processos? \n-> Em média, quanto tempo dura um processo? \n-> Existem punições reais aos agressores?\n-> Em quantos processos as vitimas retiraram a queixa?\n-> Ocorreu uma redução na quantidade de processos?\n-> Quantos processos são abertos e finalizados por ano?\n-> Quais os principais assuntos estão relacionados à um processo desse tipo?\n\nAntes de responder essas perguntas a palestra passará pelos seguintes tópicos:\n-> O que é violência contra a mulher?\n-> Os sistemas de tribunais de justiça. \n-> Como são disponibilizados os dados públicos dos tribunais de justiça; \n-> Pandas, comandos iniciais; \n-> Pandas sendo utilizado no tratamento e análise dos dados.'
 
 [[ slot ]]
 type = 'talk'
@@ -69,6 +76,7 @@ category = 'Data Science'
 start_at = 2019-10-26 14:45:00
 duration = 45
 room = 'Diamante'
+description = 'Poucas pessoas sabem que, ainda hoje, o coração das bibliotecas científicas do Python é escrito em Fortran. Além disso, a linguagem Fortran vem sendo atualizada e melhorada ao longo dos anos, com um padrão atual (Fortran 2018) compatível com as versōes anteriores, e que inclui todas as facilidades e vantagens de uma linguagem moderna de alto nível, com o desempenho de uma linguagem rápida e econômica, capaz de resolver problemas numéricos gigantes em pouco tempo. \n\nNesta palestra, discutiremos a importância do Fortran para o funcionamento interno da stack científica do Python, incluindo bibliotecas fundamentais como Numpy e SciPy e aplicaçōes em Computação de Alto Desempenho (HPC). Faremos um panorama da interoperabilidade das duas linguagens, incluindo uma breve descrição das ferramentas e patterns necessários para que elas funcionem juntas.'
 
 [[ slot ]]
 type = 'talk'
@@ -78,6 +86,7 @@ category = 'Data Science'
 start_at = 2019-10-26 10:15:00
 duration = 45
 room = 'Onix'
+description = 'A Análise do Comportamento é uma abordagem da Psicologia que tem como seu objeto de estudo o comportamento humano. Um de seus maiores expoentes foi o psicólogo norte americano B. F. Skinner que tem a Psicologia como sendo uma Ciência Natural, portanto o comportamento humano deve ser explicado por causas naturais. O Comportamento humano deve ser analisado a partir de dados, variáveis ambientais. \n\nPor este pressuposto, a linguagem de programação Python é imprescindível para o analista do comportamento que trabalha numa proposta de ciência baseada em evidências. Encontra seu lugar nos laboratórios de Análise Experimental do Comportamento, nas pesquisas sobre Comportamento Verbal – com grande uso na clínica terapêutica, também para a Análise de Metacontingências - principalmente para análise de Cultura. No final da apresentação, deixaremos de lado respostas mentalistas, metafísicas e daremos respostas ao porquê Python atravessou a rua.'
 
 [[ slot ]]
 type = 'talk'
@@ -87,6 +96,7 @@ category = 'Pessoas'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Onix'
+description = 'Essa palestra não é tecnica, e tem por objetivo estimular aquelas pessoas que tem o conhecimento técnico a passarem a contribuir para projetos de Software Livre e Código Aberto. Vou mostrar o que é Software Livre e Código Aberto para aqueles(as) desenvolvedores(as) que não conhecem, mostrando a história, filosofia, conceitos, diferenças e licenças.  Todo(a) desenvolvedor(a) pode contribuir com projetos de Software Livre e Código Aberto seja profissionalmente dentro de uma empresa ou apenas como hobby nas horas livres, independente da linguagem. A comunidade brasileira é bastante conhecida internacionalmente por ser grande usuária de softwares  livres e de código aberto, devemos passar a ser também grandes desenvolvedores de código aberto, e para isso precisamos desmistificar alguns conceitos e estimular os(as) desenvolvedores(as) que nunca conttribuiram para nenhum projeto.'
 
 [[ slot ]]
 type = 'talk'
@@ -96,6 +106,7 @@ category = 'Desenvolvimento'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Topázio'
+description = 'Você confia no código que produz? Qual a sua estratégia para garantir qualidade de software? Nesta palestra, irei introduzir os conceitos de teste unitário, cobertura de testes e testes de mutação. Através da combinação destes elementos, podemos garantir que cobrimos tudo — e mais um pouco — do software que produzimos. Também irei apresentar, através de exemplos práticos e aplicados, a utilização de bibliotecas Python que implementam tais tecnologias, como a Cosmic Ray e pytest-cov.'
 
 [[ slot ]]
 type = 'talk'
@@ -105,6 +116,7 @@ category = 'Python para tudo'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Diamante'
+description = 'Artificial Creativity in music composition has been a topic of debate among scholars, artists, and computing experts. What's not controversial is that writing code to generate music is a ton of fun, especially with tools like Magenta that make it easier for developers to process music data without being experts on neural networks.\n\nIn this talk we will walk through how to create music with Magenta using a recurrent neural network trained on the soundtracks from classic Nintendo Entertainment System games. We will then live-code a Python web application which uses the Twilio API to provide a phone number people can call to listen to newly-generated music in the style of old Nintendo games in real time.'
 
 [[ slot ]]
 type = 'talk'
@@ -114,6 +126,7 @@ category = 'Arquitetura'
 start_at = 2019-10-26 14:45:00
 duration = 45
 room = 'Esmeralda'
+description = 'Se você é uma pessoa de infraestrutura e sofre com a quantidade de tarefas repetitivas que te pedem todos os dias ou se você é um Dev que sofre com a demora do pessoal de infra que nunca entrega os ambientes que precisa? Nesta palestra irei demonstrar como algumas linhas de código em Python poderão mudar a forma de entregar ambientes completos de infra para desenvolvedores e para o negócio, facilitando a interação entre as áreas com a construção de APIs utilizando Flask e montando portais simples e eficientes.'
 
 [[ slot ]]
 type = 'talk'
@@ -123,6 +136,7 @@ category = 'Arquitetura'
 start_at = 2019-10-26 10:15:00
 duration = 45
 room = 'Esmeralda'
+description = 'O sistema de tipos dinâmico e implícito do Python permite ao programador prestar menos atenção à essa questão da linguagem em seu dia-a-dia do que em linguagens de tipos estáticos e explícitos. Porém, variáveis e seus tipos são partes fundamentais do design e do funcionamento de linguagens de programação e de softwares.\n\nNos últimos anos, Python tem ganho mais e mais ferramentas para sugerir e acompanhar tipos de variáveis ao longo do ciclo de vida de um programa. Nessa palestra irei explorar esse cenário e abordarei o papel que o sistema de tipos tem na segurança da informação.'
 
 [[ slot ]]
 type = 'talk'
@@ -132,6 +146,7 @@ category = 'Pessoas'
 start_at = 2019-10-26 09:30:00
 duration = 45
 room = 'Topázio'
+description = 'O legado de Ada Lovelace como responsável pelo desenvolvimento do primeiro algoritmo a ser processado por uma máquina é amplamente reconhecido e valorizado. Essa valorização, entretanto, não é creditada à tantas outras profissionais importantes da Computação, perpetuando dificuldades em propagar a representatividade feminina na área. Um dos possíveis reflexos dá-se na pouca predominância de mulheres nos cursos de graduação nas áreas de Computação e também no baixo número de carreiras técnicas ocupadas pelas profissionais da área ainda nos dias atuais.\n\nEm um âmbito mais especı́fico, tal como o observado na Universidade do Estado do Amazonas, essa dificuldade também é evidenciada. Trabalhos anteriores mostram que o número de mulheres ingressantes nos cursos de graduação na área de Computação representa apenas 23,18 % do total e há, em média, 48 % de evasão dessas estudantes no perı́odo observado. Considerando o contexto local e a demanda por soluções para problemas nele\nobservados, a palestra irá relatar o histórico e algumas contribuições nesta perspectiva desenvolvidas pela Comunidade PyLadies Manaus, as quais promovem o empoderamento feminino pelas tecnologias Python, incentivando a equidade e criando uma rede de apoio e colaboração profissional.'
 
 [[ slot ]]
 type = 'talk'
@@ -150,6 +165,7 @@ category = 'Pessoas'
 start_at = 2019-10-26 14:45:00
 duration = 45
 room = 'Topázio'
+description = 'Muitas vezes não sabemos descansar, o que pode levar a uma ruína psíquica. Dicas de como descansar. Meu trabalho tem sentido? Ter a coragem de mudar quando estamos num ambiente tóxico. Armadilhas do nosso temperamento. Higiene mental no mundo das redes sociais. Pontos básicos: sono, lidar com o stress, lidar com a diversidade de pessoas. As coisas são o que são e não o que gostaríamos que fossem. Serenidade e bom humor. Lidar com nossas vulnerabilidades psíquicas: minha experiência pessoal.'
 
 [[ slot ]]
 type = 'talk'
@@ -159,6 +175,7 @@ category = 'Desenvolvimento'
 start_at = 2019-10-26 15:30:00
 duration = 45
 room = 'Esmeralda'
+description = 'Iremos apresentar os gargalos de uma aplicação web com milhões de acesso e conteúdo em três idiomas. Neste cenário, mostraremos a implementação do Django para escalar, gerenciar e internacionalizar conteúdo. Além disso, abordaremos o processo de tomada de decisão nas mudanças de tecnologia, arquitetura e infraestrutura.'
 
 [[ slot ]]
 type = 'talk'
@@ -168,6 +185,7 @@ category = 'Data Science'
 start_at = 2019-10-26 09:30:00
 duration = 45
 room = 'Diamante'
+description = 'Análise de contexto e sentimentos em textos tem se tornado um importante tópico na Web, especialmente em redes sociais e em sites de compras, com o desenvolvimento de aplicações para monitoramento de produtos e marcas, assim como a análise da repercussão de eventos importantes. Vários métodos e técnicas vêm sendo propostos de forma independente na literatura. Esta palestra oferece uma introdução de como explorar esses temas utilizando Python e Deep Learning através do framework Keras. \n\n\nInicialmente, será apresentada uma visão geral sobre análise de contexto e sentimentos e suas aplicações mais populares, além de técnicas para tratamento de texto usando processamento de linguagem natural (PLN) . Em seguida, demonstra-se na prática o funcionamento de um modelo híbrido de deep learning para predição de contexto e análise de sentimento, discutindo suas características e formas de execução. Finalmente, apresenta-se as principais vantagens e desvantagens dessa abordagem, possíveis limitações e como avaliar as predições geradas.'
 
 [[ slot ]]
 type = 'talk'
