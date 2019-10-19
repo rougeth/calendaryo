@@ -6,7 +6,7 @@ category = 'Data Science'
 start_at = 2019-10-27 09:30:00
 duration = 45
 room = 'Diamante'
-description = 'Nesta palestra vou apresentar como criar um chatbot generativo utilizando Deep Learning e NLP, com Tensorflow.\n\nVou utilizar um dataset de falas de filmes e veremos como fazer o pré processamento textual para utilizar uma rede LSTM Dual Encoder. Diferente de um chatbot de recuperação (retrieval), os chatbots generativos não possuem um dataset de respostas prontas e quando recebem uma pergunta, geram a resposta palavra por palavra. Dai veremos evoluções do chatbot com diferentes arquiteturas de redes neurais e suas respectivas respostas.\n\nAo final da palestra apresentarei adaptações que podem ser feitas para utilizar essa arquitetura com um dataset em português.'
+description = 'Nesta palestra vou apresentar como criar um chatbot generativo utilizando Deep Learning e NLP, com Tensorflow.\\n\\nVou utilizar um dataset de falas de filmes e veremos como fazer o pré processamento textual para utilizar uma rede LSTM Dual Encoder. Diferente de um chatbot de recuperação (retrieval), os chatbots generativos não possuem um dataset de respostas prontas e quando recebem uma pergunta, geram a resposta palavra por palavra. Dai veremos evoluções do chatbot com diferentes arquiteturas de redes neurais e suas respectivas respostas.\\n\\nAo final da palestra apresentarei adaptações que podem ser feitas para utilizar essa arquitetura com um dataset em português.'
 
 [[ slot ]]
 type = 'talk'
@@ -17,6 +17,7 @@ start_at = 2019-10-27 10:15:00
 duration = 45
 room = 'Diamante'
 description = 'Usar o MongoDB para log, ou atividades secundárias é usar somente 1% do potencial dele! Vamos conversar nesta palestra sobre como usar o MongoDB "like a boss" e extrair o melhor deste SGBD incrível, sem sofrer na produção!'
+minibio = 'Mestra em Engenharia da Computação, autora do blog e do canal DB4Beginners.com, apresentadora do podcast Alto Volume. \nApós anos como desenvolvedora, já foi DBA e hoje é arquiteta de dados.\nGanhadora dos prêmios:\n- Microsoft Regional Director;\n- Microsoft MVP;\n- William Zola (prêmio de inovação da MongoDB), \n- MongoDB Female Innovator\n- Microsoft Innovative Educator Expert  \nTem como objetivo ajudar desenvolvedores iniciantes a modelar e consultar bancos de dados relacionais e NoSQL para que eles possam criar ótimos aplicativos e conquistar os melhores empregos.'
 
 [[ slot ]]
 type = 'talk'
@@ -26,7 +27,8 @@ category = 'Data Science'
 start_at = 2019-10-27 14:45:00
 duration = 45
 room = 'Topázio'
-description = 'A linguagem de programação Python tem ganho cada vez mais espaço no meio científico por ser de alto nível, multiplataforma, e por possuir uma biblioteca extensa que permite prontamente a análise de dados, de imagens, aplicação de técnicas de aprendizado de máquina, e processamento de grandes quantidades de dados (a área conhecida Ciência de Dados). A linguagem permite uma curva de aprendizado rápida, porém, em certas aplicações, apresenta uma séria limitação de desempenho. O objetivo desta palestra é apresentar a linguagem Cython como opção para estes casos, e de que maneira esta pode ser utilizada para acelerar aplicações científicas em Python.\nCython é um superconjunto do Python, então retêm sua facilidade, adicionando apenas algumas palavras reservadas similares à da linguagem C, que é uma das linguagens de referência quando se fala em programação de alto desempenho. Da forma como funciona, um código Cython é automaticamente "traduzido" para C, e depois compilado e linkado para código de máquina. O resultado pode ser então carregado dentro do ambiente do interpretador Python e executado com uma performance equivalente de um código compilado em C, acelerando significativamente a execução do código. Portanto, Cython preenche uma lacuna importante de certas aplicações que exigem uma linguagem fácil de se programar com Python, mas que seja rápida na execução como a linguagem C.'
+description = 'A linguagem de programação Python tem ganho cada vez mais espaço no meio científico por ser de alto nível, multiplataforma, e por possuir uma biblioteca extensa que permite prontamente a análise de dados, de imagens, aplicação de técnicas de aprendizado de máquina, e processamento de grandes quantidades de dados (a área conhecida Ciência de Dados). A linguagem permite uma curva de aprendizado rápida, porém, em certas aplicações, apresenta uma séria limitação de desempenho. O objetivo desta palestra é apresentar a linguagem Cython como opção para estes casos, e de que maneira esta pode ser utilizada para acelerar aplicações científicas em Python.\nCython é um superconjunto do Python, então retêm sua facilidade, adicionando apenas algumas palavras reservadas similares à da linguagem C, que é uma das linguagens de referência quando se fala em programação de alto desempenho. Da forma como funciona, um código Cython é automaticamente “traduzido” para C, e depois compilado e linkado para código de máquina. O resultado pode ser então carregado dentro do ambiente do interpretador Python e executado com uma performance equivalente de um código compilado em C, acelerando significativamente a execução do código. Portanto, Cython preenche uma lacuna importante de certas aplicações que exigem uma linguagem fácil de se programar com Python, mas que seja rápida na execução como a linguagem C.'
+minibio = 'Engenheiro de Blockchain na CloudWalk e Estudante de Física na USP.'
 
 [[ slot ]]
 type = 'talk'
@@ -36,6 +38,8 @@ category = 'Data Science'
 start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Diamante'
+description = 'Existem terabytes de dados meteo-oceanográficos disponíveis, mas é extremamente complicado navegar, obter, e extrair informações relevantes deles. Nessa palestra vamos demostrar como usar bibliotecas Python, que usam os padrões internacionais da Open Geospatial Consortium (OGC), podem nos ajudar a reduzir terabytes à simples mapas temáticos sobre clima/tempo.'
+minibio = 'Oceanógrafo Físico por treino, programador por acaso, educador por paixão\nFilipe trabalha para o U.S. Integrated Ocean Observing System (IOOS),\numa força tarefa da NOAA que visa integrar pessoas e tecnologias para melhor\ndesenvolver ferramentas de observação e modelagem oceânica, onde\nPython, R, e várias tecnologias\nde "data server" são centrais para seu sucesso.\nEm seu tempo livre Filipe se "diverte" distribuindo pacotes binários\npelo conda-forge,\ne ensinado boas práticas de computação científica como instrutor do\nSoftware Carpentry.'
 
 [[ slot ]]
 type = 'talk'
@@ -46,6 +50,7 @@ start_at = 2019-10-27 14:00:00
 duration = 45
 room = 'Diamante'
 description = 'Nesta palestra vamos usar TDD (desenvolvimento guiado por testes) para recriar um emulador de jogos da década de 80.\n\nVamos transformar o Python em uma ferramenta de estudos demonstrando na prática como TDD pode te ajudar a transformar assuntos complexos em uma aventura de aprendizagem.'
+minibio = 'Henrique Bastos é instrutor, palestrante, desenvolvedor, consultor com experiência internacional e fundador da Autonomize.se, uma empresa que promove a autonomia das pessoas; da Dekode, que atua em consultoria e treinamento; e da Seasoned, que atende o mercado de startups com desenvolvimento de softwares.\n\nApaixonado por programação há mais de 15 anos, é especialista em Python, Django e Métodos Ágeis, membro da Django Software Foundation, da Python Software Foundation e diretor da Associação Python Brasil.\n\nHoje, se orgulha de já ter capacitado mais de 4 mil programadores e se concentra em compartilhar uma melhor forma de programar para ajudar as pessoas a terem mais autonomia em suas vidas.'
 
 [[ slot ]]
 type = 'talk'
@@ -55,7 +60,7 @@ category = 'Desenvolvimento'
 start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Esmeralda'
-description = 'Object Relational Mappers (ORMs) são ferramentas fantásticas de produtividade no desenvolvimento. Mas se você esquece que tem uma base de dados por trás de toda conveniência, a conveniência volta pra te assombrar, sob a forma de queda de performance, quando você menos espera: em produção.\n\nVamos discutir como padrões comuns de programação, quando aplicados a ORMs, se traduzem em sequências de "queries" pouco performáticas (o infame problema das 1+N "queries"). Então vamos ver soluções práticas, retiradas de casos reais, que resultaram em ganhos expressivos de performance, sem precisar sair do conforto do ORM.'
+description = 'Object Relational Mappers (ORMs) são ferramentas fantásticas de produtividade no desenvolvimento. Mas se você esquece que tem uma base de dados por trás de toda conveniência, a conveniência volta pra te assombrar, sob a forma de queda de performance, quando você menos espera: em produção.\\n\\nVamos discutir como padrões comuns de programação, quando aplicados a ORMs, se traduzem em sequências de "queries" pouco performáticas (o infame problema das 1+N "queries"). Então vamos ver soluções práticas, retiradas de casos reais, que resultaram em ganhos expressivos de performance, sem precisar sair do conforto do ORM.'
 
 [[ slot ]]
 type = 'talk'
@@ -65,7 +70,7 @@ category = 'Python para tudo'
 start_at = 2019-10-27 14:00:00
 duration = 45
 room = 'Topázio'
-description = 'Já se perguntou sobre a segurança do seu software? Já criou perspectivas de usuários mal-intencionados na sua aplicação, do que eles poderiam explorar?\n\nPreocupações como essa nem sempre estão no nosso dia-a-dia, como desenvolvedores pensamos sempre em boas funcionalidades e uma boa aparência. Proteger os dados dos usuários\nsão fundamentais assim como os requisitos funcionais da sua aplicação. Contruir um software seguro é garantir a proteção de informações de forma que usuários mal-intencionados não possam acessá-los.\nO objetivo desta palestra é indicar algumas atitudes, críticas, que os desenvolvedores precisam ter para evitar brechas de segurança. Além disso, mostrar ferramentas em Python que possam auxiliar no processo\nde desenvolvimento seguro.\nAo final, você como desenvolvedor, terá uma outra percepção sobre proteção dos dados e através de alguns conceitos simples poderá criar aplicações mais seguras. \n\nNada como deitar na cama, no fim do dia sabendo que seu software está seguro não é!?'
+description = 'Já se perguntou sobre a segurança do seu software? Já criou perspectivas de usuários mal-intencionados na sua aplicação, do que eles poderiam explorar?\\n\\nPreocupações como essa nem sempre estão no nosso dia-a-dia, como desenvolvedores pensamos sempre em boas funcionalidades e uma boa aparência. Proteger os dados dos usuários\\nsão fundamentais assim como os requisitos funcionais da sua aplicação. Contruir um software seguro é garantir a proteção de informações de forma que usuários mal-intencionados não possam acessá-los.\\nO objetivo desta palestra é indicar algumas atitudes, críticas, que os desenvolvedores precisam ter para evitar brechas de segurança. Além disso, mostrar ferramentas em Python que possam auxiliar no processo\\nde desenvolvimento seguro.\\nAo final, você como desenvolvedor, terá uma outra percepção sobre proteção dos dados e através de alguns conceitos simples poderá criar aplicações mais seguras. \\n\\nNada como deitar na cama, no fim do dia sabendo que seu software está seguro não é!?'
 
 [[ slot ]]
 type = 'talk'
@@ -76,6 +81,7 @@ start_at = 2019-10-27 10:15:00
 duration = 45
 room = 'Esmeralda'
 description = 'Como cientista de dados voltado para o mercado financeiro, vou contar como utilizo a linguagem Python para entender o mercado e quais ferramentas podem ser úteis para gerar insights sobre investimentos.\nA palestra irá mostrar os benefícios e ferramentas que a linguagem possibilita para economistas e cientistas de dados.'
+minibio = 'Cientista de Dados formado pela UEZO com MBA em Big Data pelo IGTI. Palestrante em diversos eventos de tecnologia, dentre eles a Python Sul, GopherCon Brasil, Facebook Developer’s Circle, Semana da Engenharia e The Developer’s Conference. Atuou no projeto de Big Data do IRB Brasil desenvolvendo aplicações para ingestão de dados no ecossistema Hadoop. Também atuou em projetos de Machine Learning e Data Science em diversas empresas do Rio de Janeiro e Florianópolis. Em 2019 ministrou o curso "Análise de Dados com Python" na Fundação Certi para os profissionais envolvidos em projetos de Big Data e Data Science. Atualmente foca na análise de dados do mercado financeiro construindo algoritmos para processar a grande massa de dados do mercado financeiro, analisando tanto ativos tradicionais como criptomoedas.'
 
 [[ slot ]]
 type = 'talk'
@@ -86,6 +92,7 @@ start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Topázio'
 description = 'Quantas vezes você encontrou aquela incrível biblioteca de código-aberto que aparentemente resolve o seu problema específico, mas na hora de introduzi-la no seu projeto, você descobre que a documentação está totalmente desatualizada (ou é apenas um arquivo README contendo meia dúzia de exemplos básicos de utilização)? Todo desenvolvedor já passou por isso, mas frequentemente cometemos o mesmo erro em nossos projetos, deixando a documentação para mais tarde ou simplesmente ignorando-a.\n\nNessa palestra iremos falar sobre a importância da documentação de projetos, diferenciando-a da documentação de código, algumas boas práticas e ferramentas disponíveis dentro do universo Python e maneiras de publicá-las e mantê-las facilmente atualizadas através da prática de Continuous Documentation (CD).'
+minibio = 'Renne Rocha é programador Python na Scrapinghub onde passa o dia desenvolvendo webcrawlers para os mais diferentes tipos de sites, cofundador do Laboratório Hacker de Campinas, o primeiro hackerspace do interior de SP. Cervejeiro caseiro e aprendiz de marceneiro nas horas vagas.'
 
 [[ slot ]]
 type = 'talk'
@@ -96,6 +103,7 @@ start_at = 2019-10-27 14:45:00
 duration = 45
 room = 'Esmeralda'
 description = 'O que torna um microserviço pronto para a produção? Quais os aspectos não funcionais que devem ser atendidos para termos microsserviços confiáveis em ambiente de produção? Durante minha apresentação detalharei cada aspecto, demonstrando em Python os princípios de engenharia de software que apoiam essas implementações.'
+minibio = 'Mais de 17 anos no mercado de TI atuando em diversos projetos para os setores público e privado, formado em Processamento de Dados, possui diversas certificações em arquitetura e desenvolvimento de software, já trabalhou em multinacionais como IBM, OpenText e Oracle. Atualmente é o CTO da Legalbot, uma startup que produz tecnologia e IA para o setor de Compliance.'
 
 [[ slot ]]
 type = 'talk'
@@ -106,6 +114,7 @@ start_at = 2019-10-27 10:15:00
 duration = 45
 room = 'Onix'
 description = 'Para muitos, Python é a linguagem de programação ideal para iniciantes na área de desenvolvimento. Sendo assim, como nós, já iniciados na linguagem Python, devemos ensiná-la para os que estão querendo começar com ela?\nNessa palestra, discutirei tópicos de didática aplicados na área de conhecimento de programação Python. Veremos quais as formas mais adequadas (e pythônicas!) de se ensinar um conteúdo técnico para um iniciante.'
+minibio = 'Yan Orestes é um desenvolvedor Python e entusiasta de segurança de 18 anos de idade. Já trabalhou como professor e leva a educação como uma verdadeira paixão em sua vida. Sempre que encontra tempo, Yan acaba escrevendo posts para blogs e artigos e palestrando em conferências pelo Brasil e pelo mundo, seguindo o que ele acredita que é o mais importante no mundo - compartilhar conhecimento.'
 
 [[ slot ]]
 type = 'talk'
@@ -125,6 +134,7 @@ start_at = 2019-10-27 14:00:00
 duration = 45
 room = 'Onix'
 description = 'Todo mundo já tocou em um projeto legado. Se isso não aconteceu com você, sinto muito, um dia vai acontecer e é melhor que esteja preparado.\nStyleguides, TDD, CI, CD, políticas de código e mais - tudo isso é possível.\nSeu projeto tem salvação, não desista ainda! Bora ver como tirar esse trem da lama juntos!'
+minibio = 'Engenheiro de Software, community manager @ BackEndBrasil, podcaster @ QuebraDev & curioso sobre quase tudo. Amo StarWars, cervejas, rolês & história.'
 
 [[ slot ]]
 type = 'talk'
@@ -135,6 +145,7 @@ start_at = 2019-10-27 09:30:00
 duration = 45
 room = 'Esmeralda'
 description = 'O propósito desta palestra é apresentar, de forma simples e prática, os conceitos e o processo de desenvolvimento de APIs, cada etapa básica pode ser encontrada em documentações para o cenário ideal, por isso utilizando Django REST Framework iremos criar uma aplicação que nem todo tutorial pode auxiliar. \nExistem passos que só quem já desenvolveu consegue visualizar e auxiliar como fazer. Utilizando essa experiência, será apresentado como construir APIs tijolinho por tijolinho, permitindo com que pessoas que não possuem um conhecimento prévio sobre o assunto possam ter uma bagagem para prosseguir.'
+minibio = 'Potiguar com feeling cearense. Membro organizadora da PyLadies Fortaleza com muita honra e alegria. É desenvolvedora na Conceptu, onde também contribui para um mundo mais sustentável como backend no ClubeWatt. Estudante de Engenharia de Computação no IFCE - Campus Fortaleza. Tem 23 anos e programa desde os 16. Por não ter encontrado muitas referências quando iniciou sua carreira, faz o que tiver ao seu alcance para motivar mais mulheres a seguirem na TI.'
 
 [[ slot ]]
 type = 'talk'
@@ -144,7 +155,7 @@ category = 'Data Science'
 start_at = 2019-10-27 14:00:00
 duration = 45
 room = 'Esmeralda'
-description = 'Essa palestra vai ser dado abordado um pouco de computação quântica e alguns conceitos básicos sobre esse novo paradigma de computação Além de mostrar as principais perspectivas dessa nova tecnologia para o futuro. \nAlém disso vai ser abordado um pouco da ferramenta Quiskit em Python. Além de mostrar a nova arquitetura de linguagens quânticas em cima do framework.'
+description = 'Essa palestra vai ser dado abordado um pouco de computação quântica e alguns conceitos básicos sobre esse novo paradigma de computação Além de mostrar as principais perspectivas dessa nova tecnologia para o futuro. \\nAlém disso vai ser abordado um pouco da ferramenta Quiskit em Python. Além de mostrar a nova arquitetura de linguagens quânticas em cima do framework.'
 
 [[ slot ]]
 type = 'talk'
@@ -155,6 +166,7 @@ start_at = 2019-10-27 10:15:00
 duration = 45
 room = 'Topázio'
 description = 'Algoritmos são um grande campo de estudo em ciência da computação, e não por acaso, algoritmos estão em praticamente tudo na programação. Várias das tecnologias que usamos no dia-a-dia dependem diretamente e indiretament de algoritmos. Nessa palestra vamos enteder os algoritmos mais comuns que compõem o mundo digital e conhecer suas aplicações reais.\n\nPor exemplo, sem levar muito tempo, qual algoritmo de ordenação é executado ao chamar o método sort do python?\n\n>>> some_list = [2, 5, 6, 1, 3]\n>>> some_list.sort()\n\nPython usa um algoritmo híbrido chamado Timsort, construído de forma a garantir o desempenho do algoritmo em várias situações reais. Nessa palestra você vai ver vários exemplos similares e descobrir que algoritmos as funções internas da sua linguagem preferida utilizam.'
+minibio = 'Se formou em Engenharia da Computação pela Universidade de Pernambuco e trabalha como desenvolvedora full stack na Vinta Software. No seu dia-a-dia, usa Python e Javascript para transformar a visão do clientes em produto. No seu tempo livre acompanha os jogos do Náutico, escuta podcasts, estuda machine learning e anda de moto.'
 
 [[ slot ]]
 type = 'talk'
@@ -174,7 +186,7 @@ category = 'Data Science'
 start_at = 2019-10-27 09:30:00
 duration = 45
 room = 'Onix'
-description = 'Devido à infraestrutura da Web existente e à popularidade das plataformas de mídias sociais, é fácil compartilhar informações de forma massiva atualmente. Embora esse cenário online traga benefícios para a sociedade, ele também favorece que grupos maliciosos propaguem desinformação (notícias falsas) na Web, causando danos que vão desde afetar a reputação de entidades públicas (empresas, celebridades) a interferir em processos políticos.\n\nNesta palestra, vamos aprender como detectar as famosas "Fake News" por meio de propriedades linguísticas (e.g., morfológicas, psicolinguísticas) presentes no conteúdo de notícias veiculadas na Web. Para tanto, serão exploradas as bibliotecas Scikit-Learn, NLTK, LIWC e TextStat.'
+description = 'Devido à infraestrutura da Web existente e à popularidade das plataformas de mídias sociais, é fácil compartilhar informações de forma massiva atualmente. Embora esse cenário online traga benefícios para a sociedade, ele também favorece que grupos maliciosos propaguem desinformação (notícias falsas) na Web, causando danos que vão desde afetar a reputação de entidades públicas (empresas, celebridades) a interferir em processos políticos.\\n\\nNesta palestra, vamos aprender como detectar as famosas "Fake News" por meio de propriedades linguísticas (e.g., morfológicas, psicolinguísticas) presentes no conteúdo de notícias veiculadas na Web. Para tanto, serão exploradas as bibliotecas Scikit-Learn, NLTK, LIWC e TextStat.'
 
 [[ slot ]]
 type = 'talk'
@@ -184,6 +196,8 @@ category = 'Desenvolvimento'
 start_at = 2019-10-27 14:45:00
 duration = 45
 room = 'Diamante'
+description = 'Vamos ir além do print() e aprender o que é e como utilizar logs para contar a história do nosso software. Nos ajudando a compreender o caminho das informações e também facilitando na captura de erros e falhas silenciosas do sistema em seu respectivo contexto. Apresentando, como nosso estudo de caso, a cadeia de ferramentas FOSS desenvolvida para o FASTEN, um projeto de pesquisa e inovação H2020 da União Europeia.'
+minibio = 'Open Source Compliance Software Engineer na Endocode AG, Ingrid também é mãe de gato e amante de café e cerveja. Apaixonada por desenvolvimento e FOSS, quando não está transformando café em algoritmos, ela adora ajudar outros a aprender sendo voluntária em projetos como PyLadies e Django Girls. Em seu tempo livre, descobre novos restaurantes asiáticos e lugares para estar em contato com a natureza e apenas apreciar o belo céu de Berlim.'
 
 [[ slot ]]
 type = 'talk'
@@ -193,6 +207,8 @@ category = 'Python para tudo'
 start_at = 2019-10-27 15:30:00
 duration = 45
 room = 'Onix'
+description = 'No Brasil desde 2013, a organização tem enfrentado inúmeros desafios e alcançado diversas conquistas nunca imaginadas. Em meio a isso, fica o questionamento: qual é o impacto que o PyLadies Brasil tem provocado durante esses anos?\nTrazendo casos reais, mostraremos a importância da iniciativa no cenário da TI.'
+minibio = 'Grupo internacional, que possui foco em ajudar mulheres a tornarem-se participantes ativas e líderes da comunidade de código aberto Python.'
 
 [[ slot ]]
 type = 'talk'
@@ -200,3 +216,4 @@ name = 'Encerramento da Python Brasil 2019'
 start_at = 2019-10-27 18:15:00
 duration = 45
 room = 'Diamante'
+
