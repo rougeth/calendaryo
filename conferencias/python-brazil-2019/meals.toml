@@ -10,7 +10,6 @@ type = "lunch"
 name = "Almoço"
 start_at = 2019-10-25 12:30:00
 duration = 90
-room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
@@ -31,7 +30,6 @@ type = "lunch"
 name = "Almoço"
 start_at = 2019-10-26 12:30:00
 duration = 90
-room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
@@ -52,7 +50,6 @@ type = "lunch"
 name = "Almoço"
 start_at = 2019-10-27 12:30:00
 duration = 90
-room = "Saguão"
 
 [[ slot ]]
 type = "coffee"
