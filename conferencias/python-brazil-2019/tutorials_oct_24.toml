@@ -7,7 +7,7 @@ duration = 120
 room = 'Sala 1'
 description = 'Já pensou em enviar parâmetros para um crawler e obter informações em tempo real via json em um simples request? Nesse tutorial você irá aprender como montar uma API que fornece dados obtidos por um  scrapy spider, utilizando um micro-framework baseado em eventos assim como o Scrapy.\n\nPré-requisitos:\n- Python 3\n- pip/pipev'
 minibio = 'Sou Engenheira de software desde 2012 e estudante de Machine Learning que adora resolver problemas e compartilhar conhecimento. Eu acredito que tecnologia pode empoderar pessoas e colaboro com iniciativas que tentam alcançar isso e fazer da TI um lugar mais inclusivo. Além disso, sou uma louca por cultura pop que ama filmes, gatos e histórias de detetive.'
-setup = 'Preciso que a entrada seja HDMI ou tenha um adaptador. Sobre os requisitos do tutorial:\n\n- Python3\n- Pip\n- Pipenv\n- Scrapy\n- Klein (\n\nhttps://klein.readthedocs.io/en/latest/introduction/1-gettingstarted.html)'
+setup = '- Python3\n- Pip\n- Pipenv\n- Scrapy\n- Klein (\n\nhttps://klein.readthedocs.io/en/latest/introduction/1-gettingstarted.html)'
 
 [[ slot ]]
 type = 'tutorial'
@@ -27,6 +27,7 @@ author = 'Arthur Alvim'
 start_at = 2019-10-24 08:00:00
 duration = 240
 room = 'Sala 3'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -35,6 +36,7 @@ author = 'Tarsis Azevedo'
 start_at = 2019-10-24 08:00:00
 duration = 240
 room = 'Sala 4'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -54,6 +56,7 @@ author = ''
 start_at = 2019-10-24 08:00:00
 duration = 600
 room = 'Lab 1'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -73,6 +76,7 @@ author = 'Github'
 start_at = 2019-10-24 13:30:00
 duration = 120
 room = 'Sala 1'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -103,6 +107,7 @@ author = 'Tyrone Damasceno e Genilson Filho'
 start_at = 2019-10-24 13:30:00
 duration = 210
 room = 'Sala 4'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -111,4 +116,4 @@ author = 'João Bezerra'
 start_at = 2019-10-24 13:30:00
 duration = 210
 room = 'Sala 5'
-
+setup = ''

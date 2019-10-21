@@ -5,6 +5,7 @@ author = 'Github'
 start_at = 2019-10-23 13:30:00
 duration = 120
 room = 'Sala 1'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -13,6 +14,7 @@ author = 'Juan Funez e João Lugão'
 start_at = 2019-10-23 08:00:00
 duration = 600
 room = 'Sala 2'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -54,6 +56,7 @@ author = 'Giulio Cavalcante'
 start_at = 2019-10-23 08:00:00
 duration = 240
 room = 'Lab 2'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -64,5 +67,5 @@ duration = 210
 room = 'Lab 2'
 description = 'Testes nos ajudam a construir softwares melhores.\n\nDesenvolvimento orientado a testes é uma técnica excelente para entregar softwares funcionais, soluções confiáveis e em evolução contínua.\n\nPytest nos ajuda a escrever testes melhores.\n\nNeste tutorial, teoria e prática são apresentados e experimentados, conduzido passo a passo com os participantes.\n\nIniciando por um problema simples e um editor de textos vazio, uma solução é escrita. Simples perguntas e verificações são propostas e conceitos como testes, cobertura de testes, mocks e espiões, integração são introduzidos.\n\nPor sua simplicidade e poder, o framework pytest será utilizado para apresentar conceitos e recursos como fixtures, parametrização, plugins, tornando-se uma ferramenta essencial para a construção de um ambiente de desenvolvimento e ecossistema escalável de poucos testes a milhares.\n\n\nAgenda\n- Teoria: Breve introdução sobre Testes de Software\n- Solução a ser construida: Conversor de Moedas\n- Isto pode ser simples. Ou tão complicado quanto quisermos.\n- Teoria: Desenvolvimento Guiado por Testes (Test Driven Development)\n- Prática: Primeiro assert (nativo Python)\n- Prática: pip install pytest\n- Primeiro teste com pytest\n- Prática: utilizando pytest\n- Prática: utilizando @pytest.mark.parametrize\n- Prática: utilizando @pytest.mark.fixtures\n- Prática: utilizando @pytest.mark.raises\n- pytest plugins\n- Teoria: Cobertura de Testes\n- Prática: pip install pytest-cov\n- Prática: Avaliando a Cobertura de Testes\n- Teoria: Mocks & Spies\n- Prática: Criando mocks\n- Prática: Colocando na web, Guiado por Testes (utilizando módulo nativo http)\n- Tópicos especiais: Ouvir perguntas de participantes e buscar soluções\n- Conclusão teórica, referência bibliográfica e outras ferramentas'
 minibio = 'Andre Pastore busca conexões com pessoas pelo mundo, compartilhando experiências, leituras, viagens, conhecimentos pessoais, técnicos, arquiteturas distruibuídas, projetos, cafés e pizzas. É um membro ativo da comunidade Python de Florianópolis e brasileira, cientista da computação, desenvolvedor de produtos e softwares por mais de 23 anos. Nos últimos anos, após adotar testes como ferramenta básica, a qualidade e evolução do software produzido aumentou muito, principalmente com o framwework pytest. Por isso, estará na Python Brasil 2019 compartilhando um pouco desta experiência com outras pessoas!'
-setup = ''
+setup = 'python 3.6 ou superior'
 
