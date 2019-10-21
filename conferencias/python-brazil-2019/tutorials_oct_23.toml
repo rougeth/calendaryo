@@ -5,6 +5,7 @@ author = 'Github'
 start_at = 2019-10-23 13:30:00
 duration = 120
 room = 'Sala 1'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -13,6 +14,7 @@ author = 'Juan Funez e João Lugão'
 start_at = 2019-10-23 08:00:00
 duration = 600
 room = 'Sala 2'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -23,6 +25,7 @@ duration = 240
 room = 'Sala 3'
 description = 'Se o sistema que você desenvolve está ligado à internet de alguma forma, é importante saber o básico sobre programação concorrente -- ou como programar ações que devem ocorrer "ao mesmo tempo". Mesmo que o seu framework favorito não te obrigue a codar concorrência diretamente, quando seu sistema estiver lento você vai precisar saber como as coisas funcionam por baixo do pano para buscar soluções.\n\nNeste tutorial vamos iniciar em conceitos básicos como concorrência x paralelismo, processos x threads x corrotinas, e a infame GIL do Python. Vamos entender porque funções que fazem E/S e funções intensivas em processamento precisam de tratamento diferente. Vamos comparar o desempenho e o código de exemplos usando os pacotes threading, concurrent.futures, multiprocessing, e asyncio, resolvendo problemas intensivos em E/S e problemas intensivos em CPU.'
 minibio = 'Luciano Ramalho escreveu Python Fluente, publicado em 9 idiomas. É\nconsultor na ThoughtWorks, e ajudou a criar o Garoa Hacker Clube.'
+setup = '- Python 3.7\n- PyTest 5.1\n- aiohttp 3.6'
 
 [[ slot ]]
 type = 'tutorial'
@@ -33,6 +36,7 @@ duration = 210
 room = 'Sala 3'
 description = 'Atualmente, em que o software está presente em todas as esferas da nossa vida, com a criação e a arte não seria diferente. Neste tutorial vamos aprender como utilizar a linguagem Python não para colocar código em produção, mas sim para substituir as canetas e os pincéis.\n\nPor conta de seu uso simples e rápido, Python é também uma ferramenta ideal para rapidamente dar forma a desenhos. Vamos utilizar o Processing como ferramental através do modo Python.'
 minibio = 'Trabalha com Python faz anos, desenvolvendo aplicações web, criando serviços e processando dados. É o criador do pyp5.js, ferramenta que traduz código em Python para p5.js, e mantém a biblioteca de Python model_mommy, feita para ajudar a escrever testes para aplicações Django. Além disso, utiliza a computação para exercer sua criatividade, escrevendo poesias, compondo músicas e desenhando usando matemática. Tudo isso com Python.'
+setup = 'https://medium.com/@bernardofontes/come%C3%A7ando-a-desenhar-doideras-com-python-a041e1fbf39c'
 
 [[ slot ]]
 type = 'tutorial'
@@ -43,6 +47,7 @@ duration = 210
 room = 'Sala 5'
 description = 'Nesta atividades, os participantes irão ver como utilizar bibliotecas e comandos do Python para monitorar servidores e automatizar tarefas como transferir arquivos grandes, rodar scripts em máquinas remotas, gerar e ler arquivos de logs, entre outras. As libs utilizadas neste tutorial serão Paramiko, scp, os e sys. O framework Django será usado para visualizar dados dos servidores.'
 minibio = 'Possui mais de seis anos de experiência profissional como desenvolvedor de software. Nascido em Manaus (AM), já foi repórter de política, baterista e garçom. Participou de projetos com Javascript, Java e principalmente Python. Gosta de empreender e aprender coisas novas. Recentemente se tornou Certified Scrum Master e pai da terceira filha.'
+setup = 'Virtual env, Python 3 e Django 2'
 
 [[ slot ]]
 type = 'tutorial'
@@ -51,6 +56,7 @@ author = 'Giulio Cavalcante'
 start_at = 2019-10-23 08:00:00
 duration = 240
 room = 'Lab 2'
+setup = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -61,4 +67,5 @@ duration = 210
 room = 'Lab 2'
 description = 'Testes nos ajudam a construir softwares melhores.\n\nDesenvolvimento orientado a testes é uma técnica excelente para entregar softwares funcionais, soluções confiáveis e em evolução contínua.\n\nPytest nos ajuda a escrever testes melhores.\n\nNeste tutorial, teoria e prática são apresentados e experimentados, conduzido passo a passo com os participantes.\n\nIniciando por um problema simples e um editor de textos vazio, uma solução é escrita. Simples perguntas e verificações são propostas e conceitos como testes, cobertura de testes, mocks e espiões, integração são introduzidos.\n\nPor sua simplicidade e poder, o framework pytest será utilizado para apresentar conceitos e recursos como fixtures, parametrização, plugins, tornando-se uma ferramenta essencial para a construção de um ambiente de desenvolvimento e ecossistema escalável de poucos testes a milhares.\n\n\nAgenda\n- Teoria: Breve introdução sobre Testes de Software\n- Solução a ser construida: Conversor de Moedas\n- Isto pode ser simples. Ou tão complicado quanto quisermos.\n- Teoria: Desenvolvimento Guiado por Testes (Test Driven Development)\n- Prática: Primeiro assert (nativo Python)\n- Prática: pip install pytest\n- Primeiro teste com pytest\n- Prática: utilizando pytest\n- Prática: utilizando @pytest.mark.parametrize\n- Prática: utilizando @pytest.mark.fixtures\n- Prática: utilizando @pytest.mark.raises\n- pytest plugins\n- Teoria: Cobertura de Testes\n- Prática: pip install pytest-cov\n- Prática: Avaliando a Cobertura de Testes\n- Teoria: Mocks & Spies\n- Prática: Criando mocks\n- Prática: Colocando na web, Guiado por Testes (utilizando módulo nativo http)\n- Tópicos especiais: Ouvir perguntas de participantes e buscar soluções\n- Conclusão teórica, referência bibliográfica e outras ferramentas'
 minibio = 'Andre Pastore busca conexões com pessoas pelo mundo, compartilhando experiências, leituras, viagens, conhecimentos pessoais, técnicos, arquiteturas distruibuídas, projetos, cafés e pizzas. É um membro ativo da comunidade Python de Florianópolis e brasileira, cientista da computação, desenvolvedor de produtos e softwares por mais de 23 anos. Nos últimos anos, após adotar testes como ferramenta básica, a qualidade e evolução do software produzido aumentou muito, principalmente com o framwework pytest. Por isso, estará na Python Brasil 2019 compartilhando um pouco desta experiência com outras pessoas!'
+setup = 'python 3.6 ou superior'
 
