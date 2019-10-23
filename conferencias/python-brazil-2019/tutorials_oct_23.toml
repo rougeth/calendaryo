@@ -25,7 +25,7 @@ description = 'Se o sistema que você desenvolve está ligado à internet de alg
 minibio = 'Luciano Ramalho escreveu Python Fluente, publicado em 9 idiomas. É\nconsultor na ThoughtWorks, e ajudou a criar o Garoa Hacker Clube.'
 
 [[ slot ]]
-type = 'tutorial'
+type = 'coffee'
 name = 'Café da Manahã'
 author = 'Python Brasil'
 start_at = 2019-10-23 10:00:00
