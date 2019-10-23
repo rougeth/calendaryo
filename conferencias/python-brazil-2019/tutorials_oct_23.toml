@@ -78,7 +78,7 @@ name = 'Argumentação e propagação da confiança'
 author = 'Danilo Bellini'
 start_at = 2019-10-23 13:30:00
 duration = 210
-room = 'Sala 5B'
+room = 'Sala 6B'
 description = 'Tutorial prático e interativo de introdução à teoria dos jogos, incluindo uma breve introdução à teoria da argumentação, com o objetivo de mostrar a importância da confiança nas relações sociais, bem como alguns mecanismos pelos quais ela pode ser adquirida ou perdida. A dinâmica social da confiança será analisada por meio de jogos iterados, em especial o dilema do prisioneiro, utilizando como base a pesquisa de Robert Axelrod.'
 minibio = 'Pela USP, é engenheiro eletricista, bacharel em música e mestre em ciência da computação. Como desenvolvedor de FLOSS, colaborou em projetos como openModeller, py.test, IPython e simplekv, criou projetos como a biblioteca DSP AudioLazy e o Dose, GUI de semáforo para TDD agnóstica de linguagem criada para Coding Dojos, e mantém repositórios contendo notebooks/tutoriais/explicações sobre ciência de dados, machine learning e áreas afins. Além do mestrado, trabalhou com processamento de sinais, estatística e desenvolvimento de software para empresa/instituições/projetos incluindo Fuvest, Playax, Jeitto, SCCON, IDwall, Ahnex e SciELO. Sócio da HexD Tech, empresa que presta serviços de consultoria, desenvolvimento e outras atividades em TI.'
 
