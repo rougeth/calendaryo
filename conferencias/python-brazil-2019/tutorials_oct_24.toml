@@ -4,7 +4,7 @@ name = 'Desenvolvendo um Crawler API com Scrapy e Klein'
 author = 'Betina Costa'
 start_at = 2019-10-24 10:30:00
 duration = 120
-room = 'Sala 1'
+room = 'Sala 3H'
 description = 'Já pensou em enviar parâmetros para um crawler e obter informações em tempo real via json em um simples request? Nesse tutorial você irá aprender como montar uma API que fornece dados obtidos por um  scrapy spider, utilizando um micro-framework baseado em eventos assim como o Scrapy.\n\nPré-requisitos:\n- Python 3\n- pip/pipev'
 minibio = 'Sou Engenheira de software desde 2012 e estudante de Machine Learning que adora resolver problemas e compartilhar conhecimento. Eu acredito que tecnologia pode empoderar pessoas e colaboro com iniciativas que tentam alcançar isso e fazer da TI um lugar mais inclusivo. Além disso, sou uma louca por cultura pop que ama filmes, gatos e histórias de detetive.'
 
@@ -14,7 +14,7 @@ name = 'Análises Geo-espaciais com GeoPandas, rasterio, fiona e folium'
 author = 'Filipe Fernandes'
 start_at = 2019-10-24 08:00:00
 duration = 240
-room = 'Sala 2'
+room = 'Sala 9F'
 description = 'O objetivo do tutorial é apresentar ferramentas para manipulação de dados geo-espaciais, raster e vetor, e alguns conceitos e operações básicas de SIG.\n \nObjetos de aprendizagem:\n- compreender a diferenças entre dados raster e vetor;\n- ler, explorar, e graficar dados geo-espaciais;\n- conceitos e operações básicas de SIG;\n- compor mapas temáticos estáticos e interativos.'
 minibio = 'Oceanógrafo Físico por treino, programador por acaso, educador por paixão\nFilipe trabalha para o U.S. Integrated Ocean Observing System (IOOS),\numa força tarefa da NOAA que visa integrar pessoas e tecnologias para melhor\ndesenvolver ferramentas de observação e modelagem oceânica, onde Python, R, e várias técnicas \nde "data server" são centrais para seu sucesso.\nEm seu tempo livre Filipe se "diverte" distribuindo pacotes binários pelo conda-forge,\ne ensinado boas práticas de computação científica como instrutor do Software Carpentry.'
 
@@ -24,7 +24,7 @@ name = 'Jogando "Super Dados" com o Luigi'
 author = 'Arthur Alvim'
 start_at = 2019-10-24 08:00:00
 duration = 240
-room = 'Sala 3'
+room = 'Sala 8F'
 
 [[ slot ]]
 type = 'tutorial'
@@ -32,7 +32,7 @@ name = 'Machine Learning do Zero'
 author = 'Tarsis Azevedo'
 start_at = 2019-10-24 08:00:00
 duration = 240
-room = 'Sala 4'
+room = 'Sala 2D'
 
 [[ slot ]]
 type = 'tutorial'
@@ -40,7 +40,7 @@ name = 'Criando bots no Telegram com Python'
 author = 'Marco Rougeth'
 start_at = 2019-10-24 08:00:00
 duration = 240
-room = 'Sala 5'
+room = 'Sala 5E'
 description = 'Um bot no Telegram gera e envia ebooks para o Kindle! Outro, rastreia mais de 15k pedidos nos Correios. Nesse tutorial, mostrarei o que é possível fazer com a API do Telegram. Indo desde um simples "Olá Mundo", botões e teclados personalizados até controle de fluxo de conversas.'
 minibio = 'r'
 
@@ -50,7 +50,7 @@ name = 'Django Girls'
 author = ''
 start_at = 2019-10-24 08:00:00
 duration = 600
-room = 'Lab 1'
+room = 'Lab Redes'
 
 [[ slot ]]
 type = 'tutorial'
@@ -68,7 +68,7 @@ name = 'Automação do fluxo de desenvolvimento com GitHub Actions'
 author = 'Github'
 start_at = 2019-10-24 13:30:00
 duration = 120
-room = 'Sala 1'
+room = 'Sala 3H'
 
 [[ slot ]]
 type = 'tutorial'
@@ -76,7 +76,7 @@ name = 'Mocks: testando integrações e simulando comportamentos em testes unit�
 author = 'Patrícia Morimoto'
 start_at = 2019-10-24 13:30:00
 duration = 210
-room = 'Sala 2'
+room = 'Sala 9F'
 description = 'Testes unitários são importantes para garantir que seu objeto de teste está funcionando como esperado. E como isolar seu teste unitários de comportamentos externos, conexões indesejadas ou mesmo simular aquele erro para saber como seu objeto de teste vai se comportar? E como garantir que seu objeto de teste está instanciando um outro objeto com os parâmetros corretos? A proposta deste tutorial é mostrar os recursos built-in, disponíveis desde a versão 3.3, com mão na massa!'
 minibio = 'Gosta muito do que faz, adora aprender e é apaixonada pela troca de experiências. Desenvolvedora há mais de 15 anos e PyLady desde 2016, se tornou dev WEB graças à comunidade. Atualmente, trabalha no Projeto SciELO e na MariaLab.'
 
@@ -86,7 +86,7 @@ name = 'Aprenda Python implementando o Angry Birds!'
 author = 'Renzo Nuccitelli'
 start_at = 2019-10-24 13:30:00
 duration = 210
-room = 'Sala 3'
+room = 'Sala 8F'
 description = 'Durante o módulo será desenvolvida uma versão simplificada do jogo Angry Birds. Assim o aluno aprenderá os conceitos ao mesmo tempo em que implementa um projeto prático.'
 minibio = 'Engenheiro de Computação formado pelo ITA. Apaixonado por dar aulas, ajuda pessoas a alcançarem a carreira dos sonhos na area de desenvolvimento em www.python.pro.br.'
 
@@ -96,7 +96,7 @@ name = 'Sua primeira API assíncrona com deploy no Heroku.'
 author = 'Tyrone Damasceno e Genilson Filho'
 start_at = 2019-10-24 13:30:00
 duration = 210
-room = 'Sala 4'
+room = 'Sala 2D'
 
 [[ slot ]]
 type = 'tutorial'
@@ -104,5 +104,5 @@ name = 'RegEx nem é difícil'
 author = 'João Bezerra'
 start_at = 2019-10-24 13:30:00
 duration = 210
-room = 'Sala 5'
+room = 'Sala 5E'
 
