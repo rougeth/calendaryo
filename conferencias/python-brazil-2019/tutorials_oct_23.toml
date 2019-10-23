@@ -26,7 +26,7 @@ minibio = 'Luciano Ramalho escreveu Python Fluente, publicado em 9 idiomas. É\n
 
 [[ slot ]]
 type = 'coffee'
-name = 'Café da Manahã'
+name = 'Café da Manhã'
 author = 'Python Brasil'
 start_at = 2019-10-23 10:00:00
 duration = 30
