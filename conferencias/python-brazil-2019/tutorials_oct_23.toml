@@ -50,7 +50,7 @@ name = 'Monitorando servidores com Python e Django'
 author = 'Felipe Carvalho'
 start_at = 2019-10-23 13:30:00
 duration = 210
-room = 'Sala 3D'
+room = 'Sala 2F'
 description = 'Nesta atividades, os participantes irão ver como utilizar bibliotecas e comandos do Python para monitorar servidores e automatizar tarefas como transferir arquivos grandes, rodar scripts em máquinas remotas, gerar e ler arquivos de logs, entre outras. As libs utilizadas neste tutorial serão Paramiko, scp, os e sys. O framework Django será usado para visualizar dados dos servidores.'
 minibio = 'Possui mais de seis anos de experiência profissional como desenvolvedor de software. Nascido em Manaus (AM), já foi repórter de política, baterista e garçom. Participou de projetos com Javascript, Java e principalmente Python. Gosta de empreender e aprender coisas novas. Recentemente se tornou Certified Scrum Master e pai da terceira filha.'
 
