@@ -20,9 +20,19 @@ name = 'Tudo ao mesmo tempo agora com Python 3.7'
 author = 'Luciano Ramalho'
 start_at = 2019-10-23 08:00:00
 duration = 240
-room = 'Lab Redes'
+room = 'Sala 2H'
 description = 'Se o sistema que você desenvolve está ligado à internet de alguma forma, é importante saber o básico sobre programação concorrente -- ou como programar ações que devem ocorrer "ao mesmo tempo". Mesmo que o seu framework favorito não te obrigue a codar concorrência diretamente, quando seu sistema estiver lento você vai precisar saber como as coisas funcionam por baixo do pano para buscar soluções.\n\nNeste tutorial vamos iniciar em conceitos básicos como concorrência x paralelismo, processos x threads x corrotinas, e a infame GIL do Python. Vamos entender porque funções que fazem E/S e funções intensivas em processamento precisam de tratamento diferente. Vamos comparar o desempenho e o código de exemplos usando os pacotes threading, concurrent.futures, multiprocessing, e asyncio, resolvendo problemas intensivos em E/S e problemas intensivos em CPU.'
 minibio = 'Luciano Ramalho escreveu Python Fluente, publicado em 9 idiomas. É\nconsultor na ThoughtWorks, e ajudou a criar o Garoa Hacker Clube.'
+
+[[ slot ]]
+type = 'coffee'
+name = 'Café da Manahã'
+author = 'Python Brasil'
+start_at = 2019-10-23 10:00:00
+duration = 30
+room = 'Sala 9F'
+description = 'Café da Manhã'
+minibio = ''
 
 [[ slot ]]
 type = 'tutorial'
@@ -61,4 +71,14 @@ duration = 210
 room = 'Lab 2'
 description = 'Testes nos ajudam a construir softwares melhores.\n\nDesenvolvimento orientado a testes é uma técnica excelente para entregar softwares funcionais, soluções confiáveis e em evolução contínua.\n\nPytest nos ajuda a escrever testes melhores.\n\nNeste tutorial, teoria e prática são apresentados e experimentados, conduzido passo a passo com os participantes.\n\nIniciando por um problema simples e um editor de textos vazio, uma solução é escrita. Simples perguntas e verificações são propostas e conceitos como testes, cobertura de testes, mocks e espiões, integração são introduzidos.\n\nPor sua simplicidade e poder, o framework pytest será utilizado para apresentar conceitos e recursos como fixtures, parametrização, plugins, tornando-se uma ferramenta essencial para a construção de um ambiente de desenvolvimento e ecossistema escalável de poucos testes a milhares.\n\n\nAgenda\n- Teoria: Breve introdução sobre Testes de Software\n- Solução a ser construida: Conversor de Moedas\n- Isto pode ser simples. Ou tão complicado quanto quisermos.\n- Teoria: Desenvolvimento Guiado por Testes (Test Driven Development)\n- Prática: Primeiro assert (nativo Python)\n- Prática: pip install pytest\n- Primeiro teste com pytest\n- Prática: utilizando pytest\n- Prática: utilizando @pytest.mark.parametrize\n- Prática: utilizando @pytest.mark.fixtures\n- Prática: utilizando @pytest.mark.raises\n- pytest plugins\n- Teoria: Cobertura de Testes\n- Prática: pip install pytest-cov\n- Prática: Avaliando a Cobertura de Testes\n- Teoria: Mocks & Spies\n- Prática: Criando mocks\n- Prática: Colocando na web, Guiado por Testes (utilizando módulo nativo http)\n- Tópicos especiais: Ouvir perguntas de participantes e buscar soluções\n- Conclusão teórica, referência bibliográfica e outras ferramentas'
 minibio = 'Andre Pastore busca conexões com pessoas pelo mundo, compartilhando experiências, leituras, viagens, conhecimentos pessoais, técnicos, arquiteturas distruibuídas, projetos, cafés e pizzas. É um membro ativo da comunidade Python de Florianópolis e brasileira, cientista da computação, desenvolvedor de produtos e softwares por mais de 23 anos. Nos últimos anos, após adotar testes como ferramenta básica, a qualidade e evolução do software produzido aumentou muito, principalmente com o framwework pytest. Por isso, estará na Python Brasil 2019 compartilhando um pouco desta experiência com outras pessoas!'
+
+[[ slot ]]
+type = 'tutorial'
+name = 'Argumentação e propagação da confiança'
+author = 'Danilo Bellini'
+start_at = 2019-10-23 13:30:00
+duration = 210
+room = 'Sala 5B'
+description = 'Tutorial prático e interativo de introdução à teoria dos jogos, incluindo uma breve introdução à teoria da argumentação, com o objetivo de mostrar a importância da confiança nas relações sociais, bem como alguns mecanismos pelos quais ela pode ser adquirida ou perdida. A dinâmica social da confiança será analisada por meio de jogos iterados, em especial o dilema do prisioneiro, utilizando como base a pesquisa de Robert Axelrod.'
+minibio = 'Pela USP, é engenheiro eletricista, bacharel em música e mestre em ciência da computação. Como desenvolvedor de FLOSS, colaborou em projetos como openModeller, py.test, IPython e simplekv, criou projetos como a biblioteca DSP AudioLazy e o Dose, GUI de semáforo para TDD agnóstica de linguagem criada para Coding Dojos, e mantém repositórios contendo notebooks/tutoriais/explicações sobre ciência de dados, machine learning e áreas afins. Além do mestrado, trabalhou com processamento de sinais, estatística e desenvolvimento de software para empresa/instituições/projetos incluindo Fuvest, Playax, Jeitto, SCCON, IDwall, Ahnex e SciELO. Sócio da HexD Tech, empresa que presta serviços de consultoria, desenvolvimento e outras atividades em TI.'
 
