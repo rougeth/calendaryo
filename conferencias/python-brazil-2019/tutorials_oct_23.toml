@@ -26,6 +26,16 @@ minibio = 'Luciano Ramalho escreveu Python Fluente, publicado em 9 idiomas. É\n
 
 [[ slot ]]
 type = 'tutorial'
+name = 'Café da Manahã'
+author = 'Python Brasil'
+start_at = 2019-10-23 10:00:00
+duration = 30
+room = 'Sala 9F'
+description = 'Café da Manhã'
+minibio = ''
+
+[[ slot ]]
+type = 'tutorial'
 name = 'Desenhando Doideras com Python'
 author = 'Bernardo Fontes'
 start_at = 2019-10-23 13:30:00
