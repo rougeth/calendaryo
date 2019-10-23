@@ -4,7 +4,7 @@ name = 'Automação do fluxo de desenvolvimento com GitHub Actions'
 author = 'Github'
 start_at = 2019-10-23 13:30:00
 duration = 120
-room = 'Sala 1'
+room = 'Sala 2H'
 
 [[ slot ]]
 type = 'tutorial'
@@ -12,7 +12,7 @@ name = 'FastAPI - Primeiros passos para criar uma API robusta, moderna e rapida'
 author = 'Juan Funez e João Lugão'
 start_at = 2019-10-23 08:00:00
 duration = 600
-room = 'Sala 2'
+room = 'Sala 5E'
 
 [[ slot ]]
 type = 'tutorial'
@@ -20,7 +20,7 @@ name = 'Tudo ao mesmo tempo agora com Python 3.7'
 author = 'Luciano Ramalho'
 start_at = 2019-10-23 08:00:00
 duration = 240
-room = 'Sala 3'
+room = 'Lab Redes'
 description = 'Se o sistema que você desenvolve está ligado à internet de alguma forma, é importante saber o básico sobre programação concorrente -- ou como programar ações que devem ocorrer "ao mesmo tempo". Mesmo que o seu framework favorito não te obrigue a codar concorrência diretamente, quando seu sistema estiver lento você vai precisar saber como as coisas funcionam por baixo do pano para buscar soluções.\n\nNeste tutorial vamos iniciar em conceitos básicos como concorrência x paralelismo, processos x threads x corrotinas, e a infame GIL do Python. Vamos entender porque funções que fazem E/S e funções intensivas em processamento precisam de tratamento diferente. Vamos comparar o desempenho e o código de exemplos usando os pacotes threading, concurrent.futures, multiprocessing, e asyncio, resolvendo problemas intensivos em E/S e problemas intensivos em CPU.'
 minibio = 'Luciano Ramalho escreveu Python Fluente, publicado em 9 idiomas. É\nconsultor na ThoughtWorks, e ajudou a criar o Garoa Hacker Clube.'
 
@@ -30,7 +30,7 @@ name = 'Desenhando Doideras com Python'
 author = 'Bernardo Fontes'
 start_at = 2019-10-23 13:30:00
 duration = 210
-room = 'Sala 3'
+room = 'Lab Redes'
 description = 'Atualmente, em que o software está presente em todas as esferas da nossa vida, com a criação e a arte não seria diferente. Neste tutorial vamos aprender como utilizar a linguagem Python não para colocar código em produção, mas sim para substituir as canetas e os pincéis.\n\nPor conta de seu uso simples e rápido, Python é também uma ferramenta ideal para rapidamente dar forma a desenhos. Vamos utilizar o Processing como ferramental através do modo Python.'
 minibio = 'Trabalha com Python faz anos, desenvolvendo aplicações web, criando serviços e processando dados. É o criador do pyp5.js, ferramenta que traduz código em Python para p5.js, e mantém a biblioteca de Python model_mommy, feita para ajudar a escrever testes para aplicações Django. Além disso, utiliza a computação para exercer sua criatividade, escrevendo poesias, compondo músicas e desenhando usando matemática. Tudo isso com Python.'
 
@@ -40,7 +40,7 @@ name = 'Monitorando servidores com Python e Django'
 author = 'Felipe Carvalho'
 start_at = 2019-10-23 13:30:00
 duration = 210
-room = 'Sala 5'
+room = 'Sala 3D'
 description = 'Nesta atividades, os participantes irão ver como utilizar bibliotecas e comandos do Python para monitorar servidores e automatizar tarefas como transferir arquivos grandes, rodar scripts em máquinas remotas, gerar e ler arquivos de logs, entre outras. As libs utilizadas neste tutorial serão Paramiko, scp, os e sys. O framework Django será usado para visualizar dados dos servidores.'
 minibio = 'Possui mais de seis anos de experiência profissional como desenvolvedor de software. Nascido em Manaus (AM), já foi repórter de política, baterista e garçom. Participou de projetos com Javascript, Java e principalmente Python. Gosta de empreender e aprender coisas novas. Recentemente se tornou Certified Scrum Master e pai da terceira filha.'
 
