@@ -4,7 +4,7 @@ name = 'Desenvolvendo um Crawler API com Scrapy e Klein'
 author = 'Betina Costa'
 start_at = 2019-10-24 10:30:00
 duration = 120
-room = 'Sala 3H'
+room = 'Sala 2D'
 description = 'Já pensou em enviar parâmetros para um crawler e obter informações em tempo real via json em um simples request? Nesse tutorial você irá aprender como montar uma API que fornece dados obtidos por um  scrapy spider, utilizando um micro-framework baseado em eventos assim como o Scrapy.\n\nPré-requisitos:\n- Python 3\n- pip/pipev'
 minibio = 'Sou Engenheira de software desde 2012 e estudante de Machine Learning que adora resolver problemas e compartilhar conhecimento. Eu acredito que tecnologia pode empoderar pessoas e colaboro com iniciativas que tentam alcançar isso e fazer da TI um lugar mais inclusivo. Além disso, sou uma louca por cultura pop que ama filmes, gatos e histórias de detetive.'
 
@@ -14,7 +14,7 @@ name = 'Análises Geo-espaciais com GeoPandas, rasterio, fiona e folium'
 author = 'Filipe Fernandes'
 start_at = 2019-10-24 08:00:00
 duration = 240
-room = 'Sala 9F'
+room = 'Sala 0G'
 description = 'O objetivo do tutorial é apresentar ferramentas para manipulação de dados geo-espaciais, raster e vetor, e alguns conceitos e operações básicas de SIG.\n \nObjetos de aprendizagem:\n- compreender a diferenças entre dados raster e vetor;\n- ler, explorar, e graficar dados geo-espaciais;\n- conceitos e operações básicas de SIG;\n- compor mapas temáticos estáticos e interativos.'
 minibio = 'Oceanógrafo Físico por treino, programador por acaso, educador por paixão\nFilipe trabalha para o U.S. Integrated Ocean Observing System (IOOS),\numa força tarefa da NOAA que visa integrar pessoas e tecnologias para melhor\ndesenvolver ferramentas de observação e modelagem oceânica, onde Python, R, e várias técnicas \nde "data server" são centrais para seu sucesso.\nEm seu tempo livre Filipe se "diverte" distribuindo pacotes binários pelo conda-forge,\ne ensinado boas práticas de computação científica como instrutor do Software Carpentry.'
 
@@ -32,7 +32,7 @@ name = 'Machine Learning do Zero'
 author = 'Tarsis Azevedo'
 start_at = 2019-10-24 08:00:00
 duration = 240
-room = 'Sala 2D'
+room = 'Sala 3H'
 
 [[ slot ]]
 type = 'tutorial'
@@ -50,7 +50,7 @@ name = 'Django Girls'
 author = ''
 start_at = 2019-10-24 08:00:00
 duration = 600
-room = 'Lab Redes'
+room = 'Lab 2'
 
 [[ slot ]]
 type = 'tutorial'
@@ -58,7 +58,7 @@ name = 'Introdução ao Python'
 author = 'David Kwast'
 start_at = 2019-10-24 08:00:00
 duration = 600
-room = 'Lab 2'
+room = 'Lab Redes'
 description = 'Tipos built-in (int, float, str, bool, list, dict, tuple...), básico sobre controle de fluxo e programação orientada à objetos. Uso de interpretador, IDLE e de básico de Jupyter Notebook. Exemplos didáticos com módulos da stdlib e de terceiros como requests, openpyxl e python-dateutil. Exercícios práticos utlizando arquivos TXT, CSV, planilhas XLSX e obtenção de arquivos servidos via HTTP(S) na Internet.'
 minibio = 'Programador Python com Django desde 2008. Foco em conversão e integração de dados semi-estrutuados. GIS, PostGIS e GDAL. "Ex-monitor" de treinamentos presenciais do Luciano Ramalho. Technology Specialist @ SciCrop. Instrutor de treinamentos in-company de Python.'
 
@@ -68,7 +68,7 @@ name = 'Automação do fluxo de desenvolvimento com GitHub Actions'
 author = 'Github'
 start_at = 2019-10-24 13:30:00
 duration = 120
-room = 'Sala 3H'
+room = 'Sala 0G'
 
 [[ slot ]]
 type = 'tutorial'
@@ -76,7 +76,7 @@ name = 'Mocks: testando integrações e simulando comportamentos em testes unit�
 author = 'Patrícia Morimoto'
 start_at = 2019-10-24 13:30:00
 duration = 210
-room = 'Sala 9F'
+room = 'Sala 3H'
 description = 'Testes unitários são importantes para garantir que seu objeto de teste está funcionando como esperado. E como isolar seu teste unitários de comportamentos externos, conexões indesejadas ou mesmo simular aquele erro para saber como seu objeto de teste vai se comportar? E como garantir que seu objeto de teste está instanciando um outro objeto com os parâmetros corretos? A proposta deste tutorial é mostrar os recursos built-in, disponíveis desde a versão 3.3, com mão na massa!'
 minibio = 'Gosta muito do que faz, adora aprender e é apaixonada pela troca de experiências. Desenvolvedora há mais de 15 anos e PyLady desde 2016, se tornou dev WEB graças à comunidade. Atualmente, trabalha no Projeto SciELO e na MariaLab.'
 
@@ -96,7 +96,7 @@ name = 'Sua primeira API assíncrona com deploy no Heroku.'
 author = 'Tyrone Damasceno e Genilson Filho'
 start_at = 2019-10-24 13:30:00
 duration = 210
-room = 'Sala 2D'
+room = 'Sala 5E'
 
 [[ slot ]]
 type = 'tutorial'
@@ -104,5 +104,5 @@ name = 'RegEx nem é difícil'
 author = 'João Bezerra'
 start_at = 2019-10-24 13:30:00
 duration = 210
-room = 'Sala 5E'
+room = 'Sala 2D'
 
