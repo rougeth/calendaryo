@@ -130,14 +130,14 @@ minibio = 'Engenheiro de software com mais de 15 anos de experiência, já traba
 
 [[ slot ]]
 type = 'talk'
-name = 'Docker: melhorando sua vida como desenvolvedor Python'
-author = 'Gustavo Carvalho'
+name = 'Controle de Backups e rotinas com Django e Fabric'
+author = 'Camilla Martins'
 category = 'Arquitetura'
-start_at = 2019-10-25 14:00:00
+start_at = 2019-10-56 14:00:00
 duration = 45
 room = 'Esmeralda'
-description = 'Anos atrás o processo de implantação de uma aplicação era basicamente um serviço como LAMP, que gerenciava interpretador da linguagem, banco de dados e servidor web. Atualmente, a tecnologia evoluiu a ponto de uma aplicação se comunicar com os serviços mais diversos, desde banco de dados até servidor de logs e engines de buscas.\n\nCom essa evolução, cresce também a complexidade de gerenciar tanto ambiente de desenvolvimento, quanto de produção.\nDocker é uma ferramenta que auxilia o provisionamento e execução dos mais variados serviços e linguagens sem muito trabalho, usando um ambiente isolado e controlado chamado de container. Com ele, é possível gerar imagens que se comportam da mesma maneira, independente do ambiente em que estão sendo executadas.\n\nNesta palestra pretendo apresentar uma aplicação que reproduz um cenário real, com banco de dados, webpack, servidor web, Celery, Redis, RabbitMQ e mostrar como Docker pode ajudar a gerenciar tudo isso sem dor de cabeça.'
-minibio = 'Desenvolvedor Full Stack na Vinta Software. Piauiense morando em Pernambuco, apaixonado por Python, Django e open source.'
+description = 'Quero mostrar um pouco sobre como transformamos nosso django numa ferramenta DevOps de cadastro de tenants, onde conseguimos automatizar backups dentro de uma janela de manutenção para diferentes bases e controle de rotinas. Conseguimos cadastrar estes clientes e associar a hosts, bancos, plataformas diversas, uptimes e servidores http. Também com os hosts e chaves setadas, conseguimos rodar scripts dentro das instâncias AWS e criamos grupos de tenants, quando queremos fazer manutenções mais específicas. O Fabric faz esse alinhamento de rodar com conexão ssh comandos dentro dos servidores/plataformas.'
+minibio = 'Punk, paulista, santista e alucinada pela Marvel. Fundadora da iniciativa NodeGirls e Docker Community Leader no Rio. Atualmente trabalho como DevOps Engineer na Cortex Intelligence e sou desenvolvedora há mais de 6 anos, com foco em fullstack development. Nas horas vagas, estou codando (também!) e cuidando de ratinhos de estimação.'
 
 [[ slot ]]
 type = 'talk'
