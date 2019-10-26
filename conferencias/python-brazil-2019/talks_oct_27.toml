@@ -1,5 +1,15 @@
 [[ slot ]]
 type = 'talk'
+name = 'Assembleia APyB'
+author = 'APyB'
+category = 'Assembleia'
+start_at = 2019-10-27 10:15:00
+duration = 135
+room = 'Open Space'
+description = ''
+
+[[ slot ]]
+type = 'talk'
 name = 'Fazendo seu chatbot do zero com Tensorflow'
 author = 'Barbara Barbosa'
 category = 'Data Science'
