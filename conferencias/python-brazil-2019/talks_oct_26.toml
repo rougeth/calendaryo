@@ -11,6 +11,17 @@ minibio = 'Amanda Savluchinske tem 21 anos e é Desenvolvedora Web Full-Stack na
 
 [[ slot ]]
 type = 'talk'
+name = 'Assembleia Pyladies'
+author = 'Pyladies'
+category = 'Assembleia'
+start_at = 2019-10-26 09:30:00
+duration = 120
+room = 'Open Space'
+description = ''
+minibio = ''
+
+[[ slot ]]
+type = 'talk'
 name = 'Docker: melhorando sua vida como desenvolvedor Python'
 author = 'Gustavo Carvalho'
 category = 'Arquitetura'
