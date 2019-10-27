@@ -234,3 +234,14 @@ duration = 45
 room = 'Onix'
 description = 'Já se pegou com dores estranhas, desconforto ao digitar, mesmo com seu ambiente ergonomicamente correto? Já tentou trocar seu teclado? Qual escolher?\\n\\nNessa apresentação será contada uma breve história de como os teclados evoluíram, os tipos diferentes de teclado existentes no mercado (membrana, semi-mecânicos e mecânicos), a principal diferença entre eles, como escolher um teclado para o uso pessoal/trabalho e conselhos de como adquirir seu primeiro teclado mecânico.'
 minibio = 'Site Reliability Engineer, Ex-Full Baidu Remover Overflow e Professor, trabalhou com infraestrutura de servidores Linux e redes por mais de 10 anos. Trabalha com educação a mais de 15 anos, ensinando desde como ligar um computador até programação, hardware, servidores e redes. Evangelista Open Source e entusiasta de Hardware, nas horas vagas joga FPS e tenta experimentos na cozinha. Cat lover e acredita que teclados mecânicos podem mudar a vida das pessoas.'
+
+[[ slot ]]
+type = 'talk'
+name = 'Do nada, tudo se constrói: Sobre testes, TDD e pytest'
+author = 'André Pastore'
+category = 'Desenvolvimento'
+start_at = 2019-10-27 14:00:00
+duration = 45
+room = 'Onix'
+description = 'Testes nos ajudam a construir softwares melhores.\\n\\nDesenvolvimento orientado a testes é uma técnica excelente para entregar softwares funcionais, soluções confiáveis e em evolução contínua.\\n\\nPytest nos ajuda a escrever testes melhores.\\n\\nNesta talk, teoria e prática são apresentadas e conduzidas passo a passo com os participantes.\\n\\nIniciando por um problema simples e um editor de textos vazio, uma solução é escrita. Simples perguntas e verificações são propostas e conceitos sobre testes são apresentados.\\n\\nPor sua simplicidade e poder, o framework pytest será utilizado para apresentar conceitos e recursos como fixtures, parametrização, plugins, tornando-se uma ferramenta essencial para a construção de um ambiente de desenvolvimento e ecossistema escalável de poucos a milhares de testes.'
+minibio = 'Andre Pastore busca conexões com pessoas pelo mundo, compartilhando experiências, leituras, viagens, conhecimentos pessoais, técnicos, arquiteturas distruibuídas, projetos, cafés e pizzas. É um membro ativo da comunidade Python de Florianópolis e brasileira, cientista da computação, desenvolvedor de produtos e softwares por mais de 23 anos. Nos últimos anos, após adotar testes como ferramenta básica, a qualidade e evolução do software produzido aumentou muito, principalmente com o framwework pytest. Por isso, estará na Python Brasil 2019 compartilhando um pouco desta experiência com outras pessoas!'
