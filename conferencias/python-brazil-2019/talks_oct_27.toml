@@ -107,7 +107,7 @@ minibio = 'Mais de 17 anos no mercado de TI atuando em diversos projetos para os
 
 [[ slot ]]
 type = 'talk'
-name = 'Como ensinar Python?'
+name = '**CANCELADO** Como ensinar Python?'
 author = 'Yan Orestes'
 category = 'Pessoas'
 start_at = 2019-10-27 10:15:00
@@ -127,7 +127,7 @@ room = 'Topázio'
 
 [[ slot ]]
 type = 'talk'
-name = 'Fazendo as pazes com projetos legados'
+name = '**CANCELADO** Fazendo as pazes com projetos legados'
 author = 'Matheus Hernandes'
 category = 'Desenvolvimento'
 start_at = 2019-10-27 14:00:00
@@ -223,3 +223,14 @@ name = 'Assembleia Associação Python Brasil'
 start_at = 2019-10-27 10:15:00
 duration = 135
 room = 'Open Space'
+
+[[ slot ]]
+type = 'talk'
+name = 'Teclados Mecânicos - Conheça sua principal ferramenta de trabalho'
+author = 'André Girol'
+category = 'Diversos'
+start_at = 2019-10-27 10:15:00
+duration = 45
+room = 'Onix'
+description = 'Já se pegou com dores estranhas, desconforto ao digitar, mesmo com seu ambiente ergonomicamente correto? Já tentou trocar seu teclado? Qual escolher?\\n\\nNessa apresentação será contada uma breve história de como os teclados evoluíram, os tipos diferentes de teclado existentes no mercado (membrana, semi-mecânicos e mecânicos), a principal diferença entre eles, como escolher um teclado para o uso pessoal/trabalho e conselhos de como adquirir seu primeiro teclado mecânico.'
+minibio = 'Site Reliability Engineer, Ex-Full Baidu Remover Overflow e Professor, trabalhou com infraestrutura de servidores Linux e redes por mais de 10 anos. Trabalha com educação a mais de 15 anos, ensinando desde como ligar um computador até programação, hardware, servidores e redes. Evangelista Open Source e entusiasta de Hardware, nas horas vagas joga FPS e tenta experimentos na cozinha. Cat lover e acredita que teclados mecânicos podem mudar a vida das pessoas.'
