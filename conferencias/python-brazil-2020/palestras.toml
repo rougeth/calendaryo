@@ -50,7 +50,7 @@ minibio = "Amanda é desenvolvedora full stack na Vinta Software. Ela vem trabal
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-03T15:50:00
+start_at = 2020-11-02T15:50:00
 duration = 45
 room = "PEP 404"
 author = "Ana Paula da Silva Mendes"
@@ -560,7 +560,7 @@ minibio = "Meu nome é Joab Leite, sou Cientista de Dados e atualmente lidero o 
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-02T15:50:00
+start_at = 2020-11-03T15:50:00
 duration = 45
 room = "PEP 404"
 author = "Leonardo Larsen Rocha"
@@ -833,7 +833,7 @@ type = "talk"
 start_at = 2020-11-04T16:40:00
 duration = 45
 room = "PEP 0"
-author = "ronald rodrigues farias"
+author = "Ronald Rodrigues Farias"
 name = "Introdução à automatização de Apps Microsoft com Python"
 description = "Se seu dia a dia envolve trabalhos repetitivos como operar sistemas, sites, disparar emails, editar planilhas, documentos, etc. Venha conhecer um pouco do que o Python pode fazer para lhe ajudar a economizar a mais valiosa das moedas, o tempo."
 minibio = "Graduado em Ciência da Computação e atualmente Engenheiro de Software na Nuveo, trabalho construindo automações, integrações e mantendo microserviços em algumas linguagens, mas sempre mantendo o prediletismo por Python."
