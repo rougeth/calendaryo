@@ -1,189 +1,189 @@
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T10:00:00
 author = "Cesar Augusto Bruschetta"
 name = "Criando um simples sistema de recomendação para e-commerce"
 description = "Neste tutorial vamos aprender um pouco do ecossistema de recomendações. Criando um algoritmo baseado nas interações dos usuários, construindo uma API que consultará os dados processados e para unir tudo isso, utilizando Docker, JS, Júpiter e Python."
 minibio = "Sou o Cesar, tenho 10 anos com programação em especial com Python, com conhecimento em big data e aspirante a Data Science e Data Engineer. Participo das comunidades de Python e comecei a palestrar para compartilhar conhecimento e aprender em conjunto."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 360
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T10:00:00
 author = "Ricardo Manhães Savii"
 name = "Programação para seu projeto de Machine Learning"
 description = "Organização e padrões em projetos são importantes para auxiliar na replicabilidade de seu experimento. Neste workshop veremos tecnologias para estes passos e colocaremos mãos na massa para contruir o pipeline básico de deploy de uma API para um modelo de Machine Learning."
 minibio = "\nTrabalho como Coordenador de Pesquisa e Desenvolvimento do Grupo Dafiti. Gosto de participar de projetos de pesquisa e organizações de eventos para capacitação tecnológica individual. Também sou um eterno aluno com foco na construção de Sistemas Inteligentes."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 360
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T10:00:00
 author = "Natalia Raythz"
 name = "Python e Load Balancer"
 description = "Neste tutorial vamos abordar o que é um load balancer e como ele funciona e também vamos aprender sobre duas ferramentas que atuam com isso, o tornado e o famoso NGINX. Para esse tutorial é preciso ter python, tornado e NGINX instalado no seu computador."
 minibio = "Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Natalia também foca em mentorar pessoas negras na área."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T10:00:00
 author = "Alexandre B A Villares e Bernardo Fontes"
 name = "Desenhando e se divertindo com Python"
 description = ""
 minibio = "Bernardo: Desenvolvedor há alguns anos; mantém as libs model-bakery e pyp5js e contribui para o Brasil.IO; membro do grupo de pesquisa GAIA-USP; membro do duo de live coding Pietro Bapthysthe; desenha umas doideras com código. Resumo: programador/artista que faz de tudo com Python!"
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T10:00:00
 author = "Débora Atanes Buss"
 name = "Criando seu próprio bot no telegram (do zero!) usando Flask"
 description = "Essa é para você, que sempre teve vontade de criar um chatbot, mas nunca tirou a ideia do papel porque achou que seria muito complicado. Aqui vamos explorar a API de bots do telegram e criar um bot DO ZERO! Com direito a deixá-lo disponível para poder mostrar pro crush depois. 😉"
 minibio = "Débora é engenheira de software com um pézin em ciência de dados. Trabalha com python para desenvolvimento backend e sempre vai estar envolvida com algum projeto de ensino de programação. Em um churrasco você encontra ela fazendo caipirinha ou dançando o que estiver tocando 🍹"
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T10:00:00
 author = "Melissa Weber Mendonça"
 name = "Uma introdução ao Python Científico: NumPy, SciPy e Matplotlib"
 description = "Implementaremos um modelo básico de regressão linear usando técnicas simples, incluindo visualização e interpretação dos resultados, discussão sobre boas práticas e ferramentas para apresentação dos resultados."
 minibio = "Melissa é matemática, mãe e apaixonada por ciência e computação científica. Mantenedora da NumPy, entusiasta de Python, LaTeX, Fortran e software livre em geral."
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T14:00:00
 author = "Fernando Masanori"
 name = "Estrutura de Dados é ❤️"
 description = "A falha mais comum no ensino da computação, é dar ênfase às regras específicas da linguagem, em vez de realçar o algoritmo\". Knuth. Veja, em Python, na essência: Recursão. Vetores. Pilhas e Filas. Algoritmos de Ordenação. Algoritmos de Enumeração. Boyer-Moore. Teoria dos Grafos."
 minibio = "Fernando é docente da FATEC São José dos Campos, graduado em Ciências da Computação pelo IME-USP, mestrado em Engenharia de Computação pelo ITA. \nOs contatos dele você encontra em https://fmasanori.com/\nÉ o criador do Python para Zumbis http://pycursos.com/Python-para-zumbis "
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T14:00:00
 author = "Raissa Bergamini"
 name = "Desenvolvendo pyspark localmente com Docker"
 description = "Veremos o básico sobre spark, docker e como usar essas ferramentas para desenvolver localmente de forma a reduzir custos de desenvolvimento e facilitar a portabilidade dos projetos para a nuvem em ferramentas como EMR e Glue."
 minibio = "Eng. de sistemas, atuou por mais de 4 anos com a aplicação das tecnologias mais recentes na área de dados e computação em nuvem na industria, trabalha como senior devops para uma empresa nos Estados Unidos e desenvolvendo uma ferramenta de ETL. Nas horas vagas cuida de seu server"
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T14:00:00
 author = "Lucas Grassano Lattari"
 name = "Criando Aplicações com Python e OpenCV 4"
 description = "Ao longo desta exposição, serão apresentados os elementos básicos para uso do OpenCV por meio do Python, enfatizando seu uso por meio da plataforma Google Colab, o manuseio de pixels, extração de objetos em imagens, sobreposição de imagens, dentre outros. "
 minibio = "Sou Graduado, Mestre e Doutor em Ciência da Computação, Professor de Ensino Básico, Técnico e Tecnológico no Instituto Federal do Sudeste de Minas Gerais, Campus Rio Pomba e Criador de Conteúdo no Universo Discreto (www.youtube.com/universodiscreto e www.universodiscreto.com). \n"
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-07T14:00:00
 author = "Nayane Jaqueline Costa Maia"
 name = "Mapas interativos para a agricultura em Python"
 description = "Vamos construir um mapa interativo usando dados abertos sobre a agricultura no Brasil. Nesse tutorial é necessário o conhecimento em Python entre o básico ou intermediário para acompanhar o processo da construção dos mapas. Necessário instalação dos pacotes: geopandas, geoviews."
 minibio = "Eng. Agrônoma, Cientista de Dados e Doutoranda na área no GAS da UNESP-Campus Jaboticabal. Formada em Data Science pelo SAIFR do Brasil e pelo ICTP da Itália. Integrante de grupos para a inserção de mulheres Pyladies São Paulo e o Data Girls – Neuron da USP-Campus Ribeirão Preto."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T10:00:00
 author = "João Sebastião de Oliveira Bueno"
 name = "Criação de jogo retrô com Python e Pygame"
 description = "Vamos usar o Pygame, uma biblioteca pythonica de acesso a imagens, sons, teclado e mouse para criar um jogo 'retrô' completo, no estilo Space Invaders. No processo exploramos Orientação a Objetos e herança de classes de uma forma bem concreta."
 minibio = "João S. O. Bueno, participa da comunidade Python no Brasil há vários anos. Trabalha com a linguagem desde 2001  e prefere explorar e expor aspectos avançados da linguagem de forma lúdica em seus projetos de hobby. Atualmente atua como Líder Técnico na Júlios Baer Family Office."
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 360
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T10:00:00
 author = "Rafael Souza da Silva"
 name = "Testes de Integração de APIs com Django"
 description = "Uma introdução à testes de integração de APIs com Python utilizando Django framework. O principal objetivo será o entendimento e o desenvolvimento de casos de teste para os endpoints da API e aprender sobre algumas boas práticas no desenvolvimento dos testes."
 minibio = "Desenvolvedor Backend na Pixelwolf. Trabalho com Python há quase 7 anos e tenho colaborado no desenvolvimento de APIs para plataformas WEB e Mobile. Formado em Análise e Desenvolvimento de Software em 2014 e me especializando em Data Science."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T14:00:00
 author = "Arthur Henrique Dell' Antonia"
 name = "Criando uma aplicação de dados com Streamlit e deployando a mesma com Heroku"
 description = "Tutorial que visa um aprendizado inicial da ferramenta Streamlit, a qual permite a criação de aplicações de dados performáticas e bonitas, de forma simples, em Python, e de graça. Feito isso, partiremos para o deploy da mesma usando Heroku, para deixá-la disponível na internet!"
 minibio = "Joinvilense, amante de música e videogames, me considero um cara muito empenhado em ajudar pessoas. Já fui voluntário em vários projetos, passando por áreas bem diferentes. Hoje sou engenheiro de dados na Conta Azul, empresa em que aprendi muito do que sei hoje em programação."
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T10:00:00
 author = "André Luiz Figueiredo de Castro"
 name = "Machine Learning: a pythonic introduction"
 description = ""
 minibio = "Bacharel em Ciência da Computação, e também Mestre em Informática pela \nUniversidade Federal da Paraíba. Cyber geek em Visão Computacional, \nRobótica e IA, possui interesses em redes neurais, ficção, futurismo, \ncultura cyberpunk, rock, cerveja artesanal e blends especiais de café."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T14:00:00
 author = "Camila Laranjeira"
 name = "Redes Neurais com PyTorch"
 description = "Vamos construir um modelo de classificação com uma Rede Neural de perceptrons, o neurônio mais utilizado dentre as arquiteturas neurais. Usaremos o framework PyTorch para um desenvolvimento simples e efetivo e conheceremos os principais elementos de uma Rede Neural no processo."
 minibio = "Doutoranda em Ciência da Computação na UFMG e criadora do canal Peixe Babel no YouTube. Também é instrutora no curso Hands-on Deep Learning da UFMG. Seus interesses sempre envolvem popularizar conhecimento tecnológico e/ou capacitar futuros profissionais da área."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T10:00:00
 author = "Bruna Nayara Moreira Lima"
 name = "From zero to hero: Chegue sem saber nada de chatbot e faça um que fala mais que minha vó na fila da lotérica"
 description = "Não sabe nada sobre chatbot e quer aprender? Esse é seu momento. \nNesse tutorial, passaremos pelos principais conceitos e criaremos um chatbot baseado num projeto de software livre brasileiro. Veremos também ferramentas para avaliar e melhorar o vocabulário dos nossos bots."
 minibio = "Bruna Moreira é engenheira de software, professora, e desenvolvedora de chatbot nas horas pagas. \nNas horas vagas, dança forró, pole dance, tira cochilo na rede com seus gatos e agita comunidades de software livre: AcompanhaLegis, Big Open Source Sister, e PyLadies DF."
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T14:00:00
 author = "João Paulo Carvalho"
 name = "Criando seu primeiro jogo com Python e PyGame"
 description = "Iremos nos familiarizar com conceitos primordiais do desenvolvimento de jogos como sprites, loop, clock, entre outros e conhecer a poderosa biblioteca PyGame. Tentaremos traçar uma trajetória descontraída e divertida rumo à criação do nosso primeiro jogo usando unicamente Python."
 minibio = "Estudou Informática no IFPI Campus Parnaíba. Entusiasta do mundo Open-Source. Programador Python e JavaScript por amor. Trabalha principalmente com desenvolvimento full stack de aplicações web, hoje usando principalmente Python no back-end. Apaixonado pela arte dos jogos."
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T10:00:00
 author = "Matheus Batista Silva"
 name = "ETL em python: trabalhando com dados abertos no mundo real"
 description = "O que é ETL e como pode te ajudar nas suas experimentações com dados do mundo real? Vamos passar por cada etapa desse processo explorando uma fonte de dados abertos utilizando ferramentas consolidadas do Python para manipular as informações."
 minibio = "Graduando em Engenharia de Software pela Universidade de Brasília, com três anos de experiência em Python incluindo implementação de pipelines de dados e modelos de machine learning. Cofundador da Sharke Investimentos e desenvolvedor fullstack no Fretadão;"
-room = "PEP 8"
-duration = 45
+level = "Intermediário"
+duration = 180
 
 [[slot]]
-type = "talk"
+type = "tutorial"
 start_at = 2020-11-08T14:00:00
 author = "Felipe Nornberg Schuch"
 name = "Xarray, estruturas para dados multidimensionais"
 description = "Tutorial introdutório para Xarray, um pacote Python de código aberto que é capaz de tornar o trabalho com arranjos de dados multidimensionais e catalogados uma tarefa simples e eficiente. Destaca-se a sua sinergia com outras ferramentas para I/O, plotagem e computação paralela."
 minibio = "Pesquisador em Fluidodinâmica Computacional na PUCRS, com interesse em: Escoamentos turbulentos, transferência de calor e massa, e interação fluido-estrutura; Processamento e visualização de dados em Python; Jupyter Notebook como uma ferramenta de colaboração, pesquisa e ensino."
-room = "PEP 0"
-duration = 45
+level = "Iniciante"
+duration = 180
