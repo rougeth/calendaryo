@@ -25,7 +25,7 @@ duration = 45
 room = "PEP 8"
 author = "Alejandro Mesias André Nebra Perez"
 name = "Ganhando performance no python com Numba em projetos não científicos"
-description = "- Introdução ao Numba, motivação, história, utilidades."
+description = "Introdução ao Numba, motivação, história, utilidades. Instalação e integração da biblioteca em scripts python. Exemplo prático de otimização matemática em script existente. Perguntas e respostas."
 minibio = " Experiência: Python, Java, Android, C/C++ Embarcado, React\nEntusiasta de IoT e cultura Maker. Ando de bike, assisto\nanimes e crio filhos.\nStartups:Avicultura, Elet.Automotiva, Logística.\nTrabalhei:Capgemini,Thomson Reuters,CI&T,Everis,DXC.\nAtual: Dev. Sênior na Zup Innovation."
 
 [[slot]]
@@ -620,7 +620,7 @@ minibio = "Além de astronauta e inventor, Luciano queria ser cientista, mas odi
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-02T16:40:00
+start_at = 2020-11-05T16:40:00
 duration = 45
 room = "PEP 8"
 author = "Luis Vinicius Lauriano de França"
@@ -730,7 +730,7 @@ minibio = "Autor, desenvolvedor de software e consultor de empresas que constroe
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-05T16:40:00
+start_at = 2020-11-02T16:40:00
 duration = 45
 room = "PEP 8"
 author = "Otavio Gomes"
