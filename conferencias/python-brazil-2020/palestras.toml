@@ -620,7 +620,7 @@ minibio = "Além de astronauta e inventor, Luciano queria ser cientista, mas odi
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-02T16:40:00
+start_at = 2020-11-05T16:40:00
 duration = 45
 room = "PEP 8"
 author = "Luis Vinicius Lauriano de França"
@@ -730,7 +730,7 @@ minibio = "Autor, desenvolvedor de software e consultor de empresas que constroe
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-05T16:40:00
+start_at = 2020-11-02T16:40:00
 duration = 45
 room = "PEP 8"
 author = "Otavio Gomes"
