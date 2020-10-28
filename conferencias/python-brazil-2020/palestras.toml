@@ -135,7 +135,7 @@ duration = 45
 room = "PEP 8"
 author = "Bruna Nayara Moreira Lima"
 name = "Usando RASA Boilerplate para criar um chatbot mais rápido que maratonar senhor dos anéis"
-description = ""
+description = "Quer criar um chatbot, mas parece que é muita coisa pra aprender em pouco tempo? Que tal começar a se aventurar no mundo dos bot conversacionais com um projeto de software livre brasileiro que já vai facilitar sua vida? Parece difícil, mas não é. Vem que eu te mostro como."
 minibio = "Bruna Moreira é engenheira de software, professora, e desenvolvedora de chatbot nas horas pagas.xa0Nas horas vagas, dança forró, pole dance, tira cochilo na rede com seus gatos e agita comunidades de software livre: AcompanhaLegis, Big Open Source Sister, e PyLadies DF."
 
 [[slot]]
