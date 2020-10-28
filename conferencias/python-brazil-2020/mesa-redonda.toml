@@ -1,7 +1,7 @@
 [[ slot ]]
 type = "mesa-redonda"
 name = "Mesa Redonda - PyLadies"
-description = "Mesa redonda das PyLagies"
+description = "Mesa redonda das PyLadies"
 start_at = 2020-11-02T10:00:00
 duration = 120
 
