@@ -24,8 +24,8 @@ start_at = 2020-11-03T18:20:00
 duration = 45
 room = "PEP 8"
 author = "Alejandro Mesias André Nebra Perez"
-name = "Ganhando performance no python com Numba em projetos não científicos"
-description = "- Introdução ao Numba, motivação, história, utilidades."
+name = "Ganhando performance no Python com Numba em projetos não científicos"
+description = "- Introdução ao Numba, motivação, história, utilidades.\n- Instalação e integração da biblioteca em scripts python.\n- Exemplo prático de otimização matemática em script existente.\n- Perguntas e respostas."
 minibio = " Experiência: Python, Java, Android, C/C++ Embarcado, React\nEntusiasta de IoT e cultura Maker. Ando de bike, assisto\nanimes e crio filhos.\nStartups:Avicultura, Elet.Automotiva, Logística.\nTrabalhei:Capgemini,Thomson Reuters,CI&T,Everis,DXC.\nAtual: Dev. Sênior na Zup Innovation."
 
 [[slot]]
