@@ -24,8 +24,8 @@ start_at = 2020-11-03T18:20:00
 duration = 45
 room = "PEP 8"
 author = "Alejandro Mesias André Nebra Perez"
-name = "Ganhando performance no python com Numba em projetos não científicos"
-description = "Introdução ao Numba, motivação, história, utilidades. Instalação e integração da biblioteca em scripts python. Exemplo prático de otimização matemática em script existente. Perguntas e respostas."
+name = "Ganhando performance no Python com Numba em projetos não científicos"
+description = "- Introdução ao Numba, motivação, história, utilidades.\n- Instalação e integração da biblioteca em scripts python.\n- Exemplo prático de otimização matemática em script existente.\n- Perguntas e respostas."
 minibio = " Experiência: Python, Java, Android, C/C++ Embarcado, React\nEntusiasta de IoT e cultura Maker. Ando de bike, assisto\nanimes e crio filhos.\nStartups:Avicultura, Elet.Automotiva, Logística.\nTrabalhei:Capgemini,Thomson Reuters,CI&T,Everis,DXC.\nAtual: Dev. Sênior na Zup Innovation."
 
 [[slot]]
@@ -620,7 +620,7 @@ minibio = "Além de astronauta e inventor, Luciano queria ser cientista, mas odi
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-05T16:40:00
+start_at = 2020-11-02T16:40:00
 duration = 45
 room = "PEP 8"
 author = "Luis Vinicius Lauriano de França"
@@ -730,7 +730,7 @@ minibio = "Autor, desenvolvedor de software e consultor de empresas que constroe
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-02T16:40:00
+start_at = 2020-11-05T16:40:00
 duration = 45
 room = "PEP 8"
 author = "Otavio Gomes"
@@ -834,7 +834,7 @@ start_at = 2020-11-04T16:40:00
 duration = 45
 room = "PEP 0"
 author = "ronald rodrigues farias"
-name = "Introdução à automatização de Apps Microsoft com Python"
+name = "Introdução à automação de processos robóticos com Python"
 description = "Se seu dia a dia envolve trabalhos repetitivos como operar sistemas, sites, disparar emails, editar planilhas, documentos, etc. Venha conhecer um pouco do que o Python pode fazer para lhe ajudar a economizar a mais valiosa das moedas, o tempo."
 minibio = "Graduado em Ciência da Computação e atualmente Engenheiro de Software na Nuveo, trabalho construindo automações, integrações e mantendo microserviços em algumas linguagens, mas sempre mantendo o prediletismo por Python."
 
