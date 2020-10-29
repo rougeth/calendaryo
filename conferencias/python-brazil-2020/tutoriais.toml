@@ -187,3 +187,13 @@ description = "Tutorial introdutório para Xarray, um pacote Python de código a
 minibio = "Pesquisador em Fluidodinâmica Computacional na PUCRS, com interesse em: Escoamentos turbulentos, transferência de calor e massa, e interação fluido-estrutura; Processamento e visualização de dados em Python; Jupyter Notebook como uma ferramenta de colaboração, pesquisa e ensino."
 level = "Iniciante"
 duration = 180
+
+[[slot]]
+type = "tutorial"
+start_at = 2020-11-08T14:00:00
+author = "Alejandro Mesias"
+name = "Simplificando criar telas para desktop em tkinter com o PAGE"
+description = "Desenvolvimento de aplicação desktop com o Tkinter com o PAGE: Python Automatic GUI Generator. Aprendizado prático de instalação, desenho de tela na ferramenta, geração de scripts e integração com sistema. Dicas para gerar com facilidade telas na sua aplicação python."
+minibio = "Experiência: Python, Java, Android, C/C++ Embarcado, React Entusiasta de IoT e cultura Maker. Ando de bike, assisto animes e crio filhos. Startups:Avicultura, Elet.Automotiva, Logística.Trabalhei:Capgemini,Thomson Reuters,CI&T,Everis,DXC.Atual: Dev. Sênior na Zup Innovation."
+level = "Iniciante"
+duration = 180
