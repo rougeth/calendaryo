@@ -1,0 +1,34 @@
+[[ slot ]]
+type = "keynote"
+name = "Keynote"
+author = "Melissa Weber Mendonça"
+start_at = 2019-11-02 20:00:00
+duration = 90
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote"
+author = "Diana Rodriguez"
+start_at = 2019-11-03 20:00:00
+duration = 90
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote"
+author = "Thais Viana"
+start_at = 2019-11-04 20:00:00
+duration = 90
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote"
+author = "Álvaro Justen (Turicas)"
+start_at = 2019-11-05 20:00:00
+duration = 90
+
+[[ slot ]]
+type = "keynote"
+name = "Keynote"
+author = "Ana Paula Gomes"
+start_at = 2019-11-06 18:30:00
+duration = 90
