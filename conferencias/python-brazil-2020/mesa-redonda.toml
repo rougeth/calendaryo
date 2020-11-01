@@ -1,7 +1,14 @@
 [[ slot ]]
+type = "abertura"
+name = "Abertura Oficial da Python Brasil 2020"
+description = ""
+start_at = 2020-11-02T09:30:00
+duration = 120
+
+[[ slot ]]
 type = "mesa-redonda"
-name = "Mesa Redonda - PyLadies"
-description = "Mesa redonda das PyLadies"
+name = "PyLadies pelo Brasil: construção coletiva, diversidade e inclusão"
+description = ""
 start_at = 2020-11-02T10:00:00
 duration = 120
 
@@ -10,4 +17,25 @@ type = "mesa-redonda"
 name = "Os desafios da transformação digital nos municípios brasileiros"
 description = "A mesa redonda discutirá, entre outros pontos, as dificuldades, financeiras e de capacitação técnica, enfrentadas pelos municípios brasileiros, para prover serviços que possam facilitar a participação do cidadão na vida política brasileira e para atender as exigências de transparência da sociedade. Do outro lado as iniciativas que visam facilitar o provimento de serviços e soluções utilizando tecnologias baseadas em código aberto e comunidades técnicas, e a importância de se fomentar esse tipo de iniciativa no Brasil."
 start_at = 2020-11-03T10:00:00
+duration = 120
+
+[[ slot ]]
+type = "mesa-redonda"
+name = "Pizza de Dados Ao Vivo: Divulgação Científica"
+description = "A Leticia Portella e a Jéssica Temporal do Pizza de Dados vão estar com a Carla Vieira do canal E ai Carla e a Mila Laranjeira e a Vivi Mota do canal Peixe Babel para falar de divulgação científica e ciência de dados no Brasil"
+start_at = 2020-11-04T10:30:00
+duration = 120
+
+[[ slot ]]
+type = "mesa-redonda"
+name = "Associação Python Brasil (APyB)"
+description = "Espaço para a Associação Python Brasil (APyB)"
+start_at = 2020-11-05T10:00:00
+duration = 120
+
+[[ slot ]]
+type = "mesa-redonda"
+name = "Transmissão de conhecimento dentro da comunidade"
+description = ""
+start_at = 2020-11-06T10:00:00
 duration = 120
