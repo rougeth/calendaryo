@@ -3,7 +3,7 @@ type = "abertura"
 name = "Abertura Oficial da Python Brasil 2020"
 description = ""
 start_at = 2020-11-02T09:30:00
-duration = 120
+duration = 30
 
 [[ slot ]]
 type = "mesa-redonda"
