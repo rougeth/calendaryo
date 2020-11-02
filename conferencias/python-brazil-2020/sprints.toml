@@ -1,0 +1,90 @@
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T10:00:00
+author = "Rafael Ferreira Fontenelle"
+name = "Tradução da documentação do Python"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "Rafael Ferreira Fontenelle"
+name = "Tradução da documentação do Python"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-09T10:00:00
+author = "Bernardo Fontes"
+name = "model-bakery"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "Bernardo Fontes"
+name = "pyp5js"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T10:00:00
+author = "Alexandre B A Villares"
+name = "(material didático aberto de) introdução à programação com Python em um contexto visual"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "Alexandre B A Villares"
+name = "(material didático aberto de) introdução à programação com Python em um contexto visual"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-07T10:00:00
+author = "Ana Paula Gomes"
+name = "Dados Abertos de Feira"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T10:00:00
+author = "Bianca Rosa"
+name = "PyLadies Brasil"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "Bianca Rosa"
+name = "PyLadies Brasil"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "João Sebastião de Oliveira Bueno"
+name = "terminedia"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T10:00:00
+author = "Álvaro Justen"
+name = "Brasil.IO"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "Álvaro Justen"
+name = "Brasil.IO"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-07T14:00:00
+author = "Edward de Oliveira Ribeiro"
+name = "Testes automatizados no projeto SAPL"
+duration = 180
