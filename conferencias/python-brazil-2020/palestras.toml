@@ -36,9 +36,7 @@ duration = 45
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-02T18:20:00
-duration = 45
-room = "PEP 20"
+start_at = 2020-11-04T19:10:00
 author = "Allana Dabia Cardoso Teixeira de Paula"
 name = "PyBR 2019: o impacto das comunidades na transição de carreira de uma mulher preta e a criação de novas perspectivas"
 description = "O protagonismo profissional de grupos minoritários foi, historicamente, algo utópico. A área de TI tem se tornado mais acessível à esses grupos a partir da articulação destas comunidades, a estas ações dá-se o nome de devolutivas: doar após receber. Contarei um pouco sobre isto."
@@ -986,9 +984,7 @@ duration = 45
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-04T19:10:00
-duration = 45
-room = "PEP 20"
+start_at = 2020-11-02T18:20:00
 author = "Rafael Ferreira Fontenelle"
 name = "Automatização da documentação traduzida do Python"
 description = "As traduções publicadas da documentação do Python não eram atualizadas automaticamente, exigindo que alguém o fizesse manualmente. Veja como usamos integração contínua para automatizar a atualização das traduções publicadas e, de quebra, implementar outras verificações."
