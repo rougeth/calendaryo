@@ -1,919 +1,1104 @@
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T19:10:00
-duration = 45
-room = "PEP 0"
 author = "Pedro Lealdino Filho"
 name = "Python Aplicado ao Mercado Financeiro - Automação de Investimentos"
 description = "A palestra vai abordar a utilização da linguagem de programação Python para desenvolvimento de um sistema de negociação na bolsa de valores baseado em dados coletados em tempo real. "
 minibio = "Pedro Lealdino Filho é doutor em Educação Matemática pela Université Claude Bernard - Lyon, França. Desenvolvedor Python e divulgador científico, produz conteúdo na internet sobre matemática, finanças pessoais e investimentos quantitativos. "
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T16:40:00
-duration = 45
-room = "PEP 404"
 author = "Alexandre Fernandes dos Santos"
 name = "FastAPI tão rápido quanto Node?"
 description = "Dar um mergulho no framework FastAPI, mostrando o potencial do uso de tarefas assíncronas no Python, trazendo uma comparação performática com ferramentas conhecidamente rápidas e populares como Node.js."
 minibio = "Um apaixonado em usar tecnologia em algo que mude e facilite a vida das pessoas, interessado em desenvolvimento web e escrevo algumas coisas também.Tenho experiência com algumas ferramentas e tecnologias como Python, Angular e bancos de dados NoSql."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T18:20:00
-duration = 45
-room = "PEP 8"
 author = "Alejandro Mesias André Nebra Perez"
 name = "Ganhando performance no Python com Numba em projetos não científicos"
 description = "- Introdução ao Numba, motivação, história, utilidades.\n- Instalação e integração da biblioteca em scripts python.\n- Exemplo prático de otimização matemática em script existente.\n- Perguntas e respostas."
 minibio = " Experiência: Python, Java, Android, C/C++ Embarcado, React\nEntusiasta de IoT e cultura Maker. Ando de bike, assisto\nanimes e crio filhos.\nStartups:Avicultura, Elet.Automotiva, Logística.\nTrabalhei:Capgemini,Thomson Reuters,CI&T,Everis,DXC.\nAtual: Dev. Sênior na Zup Innovation."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-02T18:20:00
-duration = 45
-room = "PEP 20"
+start_at = 2020-11-04T19:10:00
 author = "Allana Dabia Cardoso Teixeira de Paula"
 name = "PyBR 2019: o impacto das comunidades na transição de carreira de uma mulher preta e a criação de novas perspectivas"
 description = "O protagonismo profissional de grupos minoritários foi, historicamente, algo utópico. A área de TI tem se tornado mais acessível à esses grupos a partir da articulação destas comunidades, a estas ações dá-se o nome de devolutivas: doar após receber. Contarei um pouco sobre isto."
 minibio = "Sou Allana Cardoso, mineira criada na periferia de SP, sou graduada em História e sou pós-graduanda em Ciência de Dados e Big Data pela PUC Minas. Atuo como Cientista de Dados Jr. na Qintess e sou co-fundadora da KilomboTech, um Hub de inovação e transformação social."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T16:40:00
-duration = 45
-room = "PEP 20"
 author = "Amanda Fonseca Savluchinske"
 name = "Essa documentação só falta falar - Escrevendo, revisando e testando (isso mesmo!) documentação para usuários finais"
 description = "Muitos acham que escrever documentação é fácil, mas não é a toa que existe uma profissão inteira dedicada a isso. Nessa palestra, pretendo apresentar o processo que levou a nossa equipe de pessoas desenvolvedoras a escrever documentação de qualidade e padronizada"
 minibio = "Amanda é desenvolvedora full stack na Vinta Software. Ela vem trabalhando com Django e React há cerca de três anos. É organizadora do Django Girls e palestrante de segunda viagem na Python Brasil."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:50:00
-duration = 45
-room = "PEP 404"
 author = "Ana Paula da Silva Mendes"
 name = "Dados categóricos em árvore de decisão utilizando libs Python"
 description = "Alguns algoritmos de árvore de decisão com Python são restritos a dados numéricos. A palestra irá abordar o uso de dados categóricos em árvore de decisão utilizando libs Python abordando algumas dificuldades em problemas restritos ao uso de dados categóricos."
 minibio = "Bacharelanda em Ciência da Computação na UFPI, técnica em Desenvolvimento de Software pelo IFPI. Desenvolvedora Full Stack na Quiploy. Pesquisadora no Laboratório de Inteligência Artificial do Departamento de Computação da UFPI."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = "https://www.youtube.com/watch?v=SHyHQzp7sVI"
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T18:20:00
-duration = 45
-room = "PEP 404"
 author = "André Luiz Girol"
 name = "Desmistificando o git rebase"
 description = "Ao integrar seu software, você usa git merge ou git rebase? Nesse bate-papo, além de aprender como funciona a árvore de commits, entenda como e quando utilizar cada comando para te dar superpoderes na hora de montar seus Pull Requests e deixar supimpa o seu histórico de commits."
 minibio = "Software Engineer e Professor, trabalhou com infraestrutura de servidores Linux e redes por mais de 10 anos. Trabalha com educação a mais de 15 anos, ensinando desde a ligar um computador até programação, hardware, servidores e redes. Nas horas vagas, maratona séries e joga FPS."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:00:00
-duration = 45
-room = "PEP 404"
 author = "Andryw Marques Ramos"
 name = "Melhorando o desenvolvimento de Machine Learning utilizando MLFlow"
 description = "Machine Learning (ML) é uma área que está no hype. Porém, para um desenvolvimento maduro de projetos de ML no longo prazo, é necessário um bom gerenciamento do código, dos dados, dos modelos, etc. Nesta palestra iremos mostrar como a ferramenta MLFlow auxilia nesse gerenciamento"
 minibio = "Cientista de Dados Sênior na empresa de recrutamento online SEEK, trabalhando com projetos de Recomendação e Busca para diferentes países. Com mestrado em Ciência da Computação pela UFCG (Paraíba), atualmente mora em São Paulo, trazendo um pouco de forró para a selva de pedra"
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T19:10:00
-duration = 45
-room = "PEP 20"
 author = "Anicely Santos"
 name = "Fala pra Geral - Popularizando o acesso aos Dados Abertos Locais"
 description = "Abordar sobre a importância de facilitar o acesso do povo periférico a informações abertas, com o intuito de ajudar na construção de políticas públicas eficazes nesses territórios."
 minibio = "Sou formada em análise e desenvolvimento de sistemas. Analiso dados no programa Mãe Coruja e no Empodera Lab - Laboratório de Inovação Social da Favela. Participo das comunidades Afropython, Pyladies Recife e do Inspirada na computação."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:50:00
-duration = 45
-room = "PEP 0"
 author = "Artur Baruchi"
 name = "Estruturas de Dados Probabilísticas"
 description = "A palestra tem como objetivo apresentar e discutir as principais estruturas de dados probabilísticas. Serão abordadas as respectivas implementações, casos de uso, vantagens e desvantagens e, por fim, bibliotecas python que podem ser usadas no dia-a-dia do programador."
 minibio = "Artur Baruchi possui Mestrado e Doutorado em engenharia da computação pela Poli/USP e possui +15 anos de experiência no mercado. Atualmente é Engenheiro de Software na LexisNexis onde também atua como embaixador da plataforma de Big Data HPCC."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:00:00
-duration = 45
-room = "PEP 8"
 author = "Artur Vieira de Sousa"
 name = "Tornando os Jupyter Notebooks mais legíveis para quem não é cientista de dados"
 description = "Quem faz Ciência de Dados com o Jupyter Notebook geralmente se vê obrigado a criar um relatório depois de todo o trabalho, para que pessoas de fora possam entender as suas conclusões e o caminho feito até elas. E se nós pudéssemos usar o próprio notebook como relatório?"
 minibio = "Artur V. Sousa é cientista de dados com foco em Marketing. Formado em Comunicação pela UFPI, pós-graduado em Tecnologias para Desenvolvimento Web pela Unopar-Anhanguera, hoje presta serviços de Ciência de Dados pela Nimbus Inteligência para Negócios."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T16:40:00
-duration = 45
-room = "PEP 0"
 author = "Tiago Bacciotti Moreira"
 name = "Uso de Python para ensino de POO em um curso de Graduação de Sistemas de Informação"
 description = "Compartilhar a experiência de usar Python na disciplina de Programação orientada a Objetos. Dificuldades, abordagem pedagógica, práticas de exercícios realizadas com os alunos além, claro, da experiência em desenvolver isso de forma online durante a pandemia da COVID-19."
 minibio = "Professor do curso de Sistemas de Informação na UEMG Unidade de Ituiutaba desde 2010. Já trabalhou como analista de sistemas atuando na área de TI há mais de 20 anos. Doutorando em Educação pela UNR."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = "https://www.youtube.com/watch?v=NqqieeA5noA"
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:50:00
-duration = 45
-room = "PEP 0"
 author = "Bernardo Fontes"
 name = "Criando Simetrias Pythônicas"
 description = "A apresentação discute alguns conceitos de simetria e os exemplifica com implementações em código evoluindo do mais cru até uma estrutura pythônica. O código será produzido usando o modo Python do Processing, uma ferramenta para a prática da programação criativa e arte gerativa."
 minibio = "Desenvolvedor há alguns anos; mantém as libs model-bakery e pyp5js e contribui para o projeto Brasil.IO; membro do grupo de pesquisa GAIA-USP; membro do duo de live coding Pietro Bapthysthe; desenha umas doideras com código. Resumo: programador/artista que faz de tudo com Python!"
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:50:00
-duration = 45
-room = "PEP 8"
 author = "Bruna Nayara Moreira Lima"
 name = "Usando RASA Boilerplate para criar um chatbot mais rápido que maratonar senhor dos anéis"
 description = "Quer criar um chatbot, mas parece que é muita coisa pra aprender em pouco tempo? Que tal começar a se aventurar no mundo dos bot conversacionais com um projeto de software livre brasileiro que já vai facilitar sua vida? Parece difícil, mas não é. Vem que eu te mostro como."
 minibio = "Bruna Moreira é engenheira de software, professora, e desenvolvedora de chatbot nas horas pagas.xa0Nas horas vagas, dança forró, pole dance, tira cochilo na rede com seus gatos e agita comunidades de software livre: AcompanhaLegis, Big Open Source Sister, e PyLadies DF."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T16:40:00
-duration = 45
-room = "PEP 404"
 author = "Bruno Casella"
 name = "Django, kubernetes e deadlocks - qual a solução ?"
 description = "Um cluster Kubernetes com Galera MariaDB como banco, e Django como framework. O que poderia dar errado ? Aqui vou mostrar como um problema de Deadlock apareceu em produção, como foi feito o debug do problema, qual foi a solução mais rápida e qual a final para essa dor de cabeça!"
 minibio = "Me chamo Bruno Casella, cresci na Springfield Brasileira (Bauru) e hoje moro em São Paulo. Sou formado em Ciência da Computação pela Unesp, e com uma especialização em Eng. de Software pela Unicamp. Atualmente trabalho no recém formado Laboratório de Inovação da Tivit :)"
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T18:20:00
-duration = 45
-room = "PEP 0"
 author = "Robson Luis Monteiro Junior"
 name = "Desmitificando pipeline de dados com python: o que aprendi em 6 anos."
 description = "Quais os problemas da engenharia de dados? Python é uma ferramenta que importa nessa jornada. Conceitos básicos serão apresentados para desmistificar erros mais comuns ao projetar pipelines usando Python, desde aquisição, ingestão, transformação, armazenamento e gerenciamento."
 minibio = "Robson é desenvolvedor a mais de 16 anos e é envolvido nas comunidades de software, especialmente a comunidade Python. Organiza e fala em conferências e encontros desde 2011. Trabalha com dados a 6 anos e atualmente é desenvolvedor na Microsoft/GitHub."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T18:20:00
-duration = 45
-room = "PEP 404"
 author = "Camilla Martins"
 name = "Reconhecimento de texto e imagem com Python e CloudFunctions automatizando processos de TV :)"
 description = "Vamos ver um pouquinho de machine learning na prática, aplicado a processos de TV? Vamos mostrar como líamos informações de claquetes em vídeos e outras que queríamos para automatizar processos operacionais invisíveis às nossas telinhas :)"
 minibio = "Punk, paulista, santista e alucinada pela Marvel. Fundadora de iniciativas pra minas em TI e Docker Community Leader. Sou DevOps e trampo na Descomplica e pós-graduanda em Forense Computacional. Nas horas vagas, estou codando (também!) e cuidando de ratinhos de estimação. "
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T19:10:00
-duration = 45
-room = "PEP 8"
 author = "Marcel Pinheiro Caraciolo"
 name = "Como Análise de Dados com Python me ajudou a correr melhor!"
 description = "Apresentarei como podemos analisar dados históricos de corridas para avaliar desempenho e traçar estratégias para corridas de rua. Para fãs de data science, python em sports analytics, uma oportunidade de conhecer aplicações diferentes e ainda sair com vontade de praticar sua primeira corrida! "
 minibio = "Marcel Pinheiro Caraciolo, criador do pacote runpandas. Quando não estou correndo ou programando, gerencio um time de bioinformática e de sistemas no laboratório clínico de genética Genomika. Corredor amador, fã de lego e apaixonado por data science, produtividade e agilidade."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T19:10:00
-duration = 45
-room = "PEP 20"
 author = "Carla Vieira"
 name = "Empatia, ética, algoritmos e o futuro"
 description = "Você é responsável pelo código que escreve? É fácil esquecer que o código que escrevemos afeta vidas reais. Precisamos estar cientes de quanto poder nos foi dado e assumir a responsabilidade pelo que construímos."
 minibio = "Carla Vieira é Bacharel em Sistemas de Informação pela USP, mestranda em Inteligência Artificial pela USP, engenheira de software e Google Developer Expert em Machine Learning. Co-fundadora da perifaCode, buscando levar a tecnologia para dentro das periferias."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = "https://www.youtube.com/watch?v=JM2BSgSDmi8"
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T19:10:00
-duration = 45
-room = "PEP 0"
 author = "Carolina Fernanda da Silva"
 name = "Deep Learning com Python"
 description = "Breve abordagem das principais técnicas de deep learning com python. Apresentando exemplos, ferramentas comuns e uma discursão sobre os principais desafios da área."
 minibio = "Carol Silva é divulgadora científica pelo PretaTech, podcaster no Cientistas Criativas Cast, desenvolvedora, pesquisadora na área de visão computacional e compartilha os casos da vida no Twitter. É muito possível encontra-la no discord discutindo alguma estratégia de Overwatch."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T19:10:00
-duration = 45
-room = "PEP 8"
 author = "Michael de Mattos Ortiz"
 name = "Interface gráfica para seu script Python com Gtk e o Glade"
 description = " Conheça como implementar GUI para seus scripts Python de forma interativa utilizando o Python Gtk e o Glade. Assim como as vantagens de se utilizar a classe Builder do Gtk para manipular widgets construídos de forma interativa utilizando o “arrasta e solta” com o Glade. "
 minibio = "Meu nome é Michael de Mattos, tenho 26 anos, sou casado e pai do pequeno Júlio César.\nSou técnico em Informática licenciado pelo Senac – SP e estudante de analise e desenvolvimento de sistemas na universidade paulista UNIP."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T19:10:00
-duration = 45
-room = "PEP 404"
 author = "Lidiane de Souza Monteiro"
 name = "Dev, Ops!"
 description = ""
 minibio = "Lidiane Monteiro é graduanda do curso de Licenciatura em Computação na UFRPE, Fundadora da InspirAda na Computação, Desenvolvedora de Software, Professora de Computação e co-fundadora do PyLadies Recife. "
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:00:00
-duration = 45
-room = "PEP 8"
 author = "Paula Grangeiro"
 name = "Construindo aplicações orientada a eventos utilizando serverless com Python"
 description = "Discutiremos conceitos de uma arquitetura orientada a eventos, com suas vantagens e desafios, e como microsserviços se beneficiam dela. A nível de implantação, vamos conhecer o padrão serverless (com foco em AWS Serverless) e como podemos nos utilizar do Python nessa arquitetura."
 minibio = "Paula Grangeiro é consultora de software sênior na Thoughtworks Brasil, com especialidade em desenvolvimento de APIs e microsserviços. Nas horas vagas, é desenhista, dragonborn e colecionadora de gatos."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T16:40:00
-duration = 45
-room = "PEP 0"
 author = "Dandara Maria Costa de Sousa"
 name = "Análise de Dados e Forró - Dois amores, duas paixões"
 description = "Python, análise de dados e forró estão no coração da PyLadies Paraíba. Com o questionamento sobre os grandes sucessos da banda Calcinha Preta, veio também a ideia de misturar tudo isso. Começou assim a saga Análise de Dados e Forró para ensinar python e o melhor do nordeste!\n"
 minibio = "Cientista de dados e mestranda em Ciência da Computação. Ama comunidades e fomentar a diversidade na área da computação. Uma das fundadoras da PyLadies Paraíba e do Elas@Computação. Acredita no uso da ciência de dados para bem social. Ps.: dona das melhores playlists do Spotify.\n"
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:50:00
-duration = 45
-room = "PEP 8"
 author = "Daniel Henrique da Silva"
 name = "Construindo chatbots com Rasa Framework"
 description = "Vamos explorar fundamentos do Rasa e como ele pode simplificar a construção de Chatbots baseados em IA. Além disso, vamos entender como o CDD (Conversatiom Driven Develpment) ajudou na construção da Bel. Bot da Serasa que atende milhares de brasileiros diariamente."
 minibio = "Com o propósito de impactar vidas através da tecnologia, diariamente levo saúde financeira a milhares de brasileiros. Backend developer, especialista em aplicações web resilientes, distribuídas e de alto desempenho. Rasa Framework, IA e Chatbots é o que me move no momento."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T18:20:00
-duration = 45
-room = "PEP 20"
 author = "Daniele Nazaré Tavares"
 name = "Como submeter uma PEP pra comunidade : - Python"
 description = "O que são Propostas de Enriquecimento do Python ou PEP's?Elas são documentos da linguagem Python que descrevem as suas mudanças,sendo dividido de 3 modalidades distinta. Sendo assim iremos entender quais são os passos necessários para a públicação de uma PEP em cada modalidade."
 minibio = "Sou Engenheira de Computação e possuo experiência em desenvolvimento web.Sou amante de Python desde os 15 anos de idade quando tive contato a linguagem. Além disso contribuo com as comunidades ministrando palestras Pois acredito no poder que o conhecimento aberto possui!"
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T16:40:00
-duration = 45
-room = "PEP 404"
 author = "David Pierre Alves"
 name = "Driblando Redes Neurais: uma introdução a ataques adversários"
 description = "Nessa palestra veremos como funciona, de forma básica, o processo de aprendizagem de máquina e como podemos propositalmente enganar inteligências artificiais usando técnicas de ataques adversários."
 minibio = "Estudante de ciência da computação na UFRPE e desenvolvedor de software na Vinta Software. Entusiasta de open source, também gosta de brincar com aprendizagem de máquina e segurança."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:50:00
-duration = 45
-room = "PEP 0"
 author = "Débora Karoline Silva de Azevedo"
 name = "Software educativo: o que é? como faz?"
 description = "Essa é uma palestra pra conhecer como se desenvolve software educativo. Nela, detalharemos as etapas de desenvolvimento desse tipo de software: concepção, elaboração, finalização e viabilização desse software, e de como a inovação precisa estar presente nesse tipo de ferramenta."
 minibio = "Essa é uma palestra pra conhecer como se desenvolve software educativo. Nela, detalharemos as etapas de desenvolvimento desse tipo de software: concepção, elaboração, finalização e viabilização desse software, e de como a inovação precisa estar presente nesse tipo de ferramenta."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:50:00
-duration = 45
-room = "PEP 0"
 author = "Danilo de Nadai Sícari"
 name = "Empoderamento Intergalático do Radioamadorismo utilizando Python"
 description = "O radioamadorismo é um hobby muito versátil e se torna ainda mais poderoso quando Python dá poderes intergaláticos a ele. Iremos entender como podemos contar descargas elétricas e enviar estas informações pelo rádio, além de postar todo dia um timelapse no twitter!"
 minibio = "Nascido em 1990 e criado com muito sucrilhos no prato, acredita em vida extraterrestre mas não acha que a terra é plana. É eletrônico de berço e dev de dia de semana. Adora cortar madeira, tocar bateria e fazer download de imagens de satélites no quintal da vó Nélis."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = "https://www.youtube.com/watch?v=NqqieeA5noA"
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:00:00
-duration = 45
-room = "PEP 20"
 author = "Mariana Dias Guilardi e Beatriz Milz"
 name = "Ensino de programação: Como fazer parte da comunidade global The Carpentries?"
 description = "Você gosta de compartilhar conhecimento? Nessa palestra iremos apresentar a comunidade The Carpentries, que ensina habilidades computacionais e de ciência de dados para pessoas pesquisadoras ao redor do mundo, ao mesmo tempo que fomenta uma comunidade ativa, inclusiva e diversa."
 minibio = " Mariana Guilardi está em processo para ser instrutora na The Carpentries. Participa das comunidades PyLadies SP e R-Ladies SP. É bióloga e mestranda em Biotecnologia (USP/IPT/IBu), e estuda biodiversidade. Busca mostrar a importância da tecnologia em áreas não correlatas a ela.\n\nBeatriz Milz é instrutora da The Carpentries e RStudio, participante ativa da comunidade da linguagem R e co-organizadora da R-Ladies SP. Faz doutorado em Ciência Ambiental na USP, pesquisando o tema de transparência na gestão da água. Adora ensinar e contribuir com comunidades.\n"
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T18:20:00
-duration = 45
-room = "PEP 0"
 author = "Diego Moreira Guimarães"
 name = "FoxDot: fazendo a pista dançar com Python"
 description = "FoxDot é uma biblioteca feita em Python para fazer música com código. Essa palestra vai te ensinar a escrever suas próprias músicas com FoxDot. Não precisa saber nada de música pra entender. Depois daqui você já vai estar apta pra mandar um som nas Algoraves."
 minibio = "Pythonista há muito tempo. Ex-baixista e cantor de hardcore, hoje faz música eletrônica frita com código. É metade do Pietro Bapthysthe, duo de livecoding que lança mensalmente músicas novas feitas em Python."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = "https://www.youtube.com/watch?v=NqqieeA5noA"
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:00:00
-duration = 45
-room = "PEP 8"
 author = "Daniel Drumond Augusto"
 name = "Como e por que automatizar testes de integração da sua API? - ScanAPI"
 description = "A ScanAPI é um framework de código aberto escrito em Python que possibilita a criação de testes de integração para REST APIs. Essa palestra visa mostrar um pouco do funcionamento da ScanAPI, da sua implementação, discutir os próximos passos a serem seguidos e também divulgar a ferramenta para quem possa ter interesse, seja para sua utilização ou contribuição com o projeto."
 minibio = "Carioca, Engenheiro backend na Loadsmart"
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:00:00
-duration = 45
-room = "PEP 8"
 author = "Érico Andrei"
 name = "Construindo uma plataforma colaborativa de notícias com Python e código aberto"
 description = "Nesta apresentação teremos o passo a passo, principais desafios e soluções encontradas na construção da Pendect.com. Daremos dicas de como atualizar código legado, e como o uso extensivo de type-hints e Dataclasses tornou o processo de desenvolvimento mais robusto e confiável."
 minibio = "Érico Andrei é CTO da Pendect.com, uma platforma colaborativa de notícias construída com Plone, Python e soluções de código aberto. Érico é co-fundador da APyB, Fellow da PSF, membro do conselho da Plone Foudation e tem mais de 20 anos de experiência com soluções web."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T18:20:00
-duration = 45
-room = "PEP 20"
 author = "Andreza Rocha"
 name = "Cara Gente Branca...da TI:"
 description = ""
 minibio = ""
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T16:40:00
-duration = 45
-room = "PEP 20"
 author = "Fabíola Mariana Aguiar Ribeiro"
 name = "Uma proposta para introdução de programação no ensino de engenharias"
 description = "Nessa palestra apresento uma metodologia para ensino de programação para cursos de engenharia usando linguagem Python, Google Colab e Jupyter notebook. O enfoque é utilizar a programação python para a resolução de problemas de física."
 minibio = "Fabíola Ribeiro é bacharel em Física com habilitação em Astronomia e doutora em Astrofísica. Desde 2009 ministra aulas de física, cálculo e programação para o ciclo básico de engenharia. Acompanha as atividades das Pyladies São Paulo desde 2018."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:00:00
-duration = 45
-room = "PEP 20"
 author = "Felipe Cabrera Ribeiro dos Santos"
 name = "O Python e o Mercado de Trabalho"
 description = "Abordarei sobre o mercado de trabalho com o Python, quais áreas de atuação nós temos, mostrando as principais e abordados as tecnologias e conhecimentos de cada uma."
 minibio = "Sou Felipe Cabrera, desenvolvo Softwares desde 2007.\nMeus focos principais são Inteligência Artificial, Engenharia de Software e Jogos Digitais.\nPossuo conhecimento em Python, C#, Unity, Java, C++, Banco de Dados, Design Patterns e Metodologias Ágeis."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = "https://www.youtube.com/watch?v=JM2BSgSDmi8"
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:00:00
-duration = 45
-room = "PEP 404"
 author = "Bruno Ferreira da Paixão"
 name = "Transformação Digital da Ouvidoria na pandemia COVID-19"
 description = "Criação e deploy de cluster de textos. A apresentação busca evidenciar como ocorreu a transformação dos canais de ouvidoria por meio de técnicas de aprendizado de máquina e visualizações de dados"
 minibio = "Possui graduação em Análise e Desenvolvimento de Sistemas e Administração, Pós Graduação em Ciência de Dados e Inteligência Artificial pelo Centro Universitário de Brasília, Mestrando em Economia pela Universidade de Sorbonne. Atualmente atua como consultor em machine learning."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:00:00
-duration = 45
-room = "PEP 0"
 author = "Fernando Masanori"
 name = "Ensino Remoto Emergencial de Python"
 description = "Experiências no Ensino Remoto Emergencial, devido ao COVID-19. Estatísticas: 4M de visualizações, 90% de concluintes entre os alunos da FATEC, 4.5K novos alunos no site; 17.5K inscritos na playlist do YouTube; 1M de Downloads nos materiais didáticos. Qual o segredo do sucesso?"
 minibio = "Fernando é docente da FATEC São José dos Campos, graduado em Ciências da Computação pelo IME-USP, mestrado em Engenharia de Computação pelo ITA.\nOs contatos dele você encontra em https://fmasanori.com/\nÉ o criador do Python para Zumbis http://pycursos.com/Python-para-zumbis"
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T19:10:00
-duration = 45
-room = "PEP 404"
 author = "Arthur Fortes da Costa"
 name = "Como encontrar o Wally utilizando Deep Learning e Python"
 description = "Nesta apresentação, o principal objetivo é fazer com que as pessoas consigam desenvolver uma ferramenta capaz de encontrar o Wally em diversas e diferentes tipos de ilustrações. Para isso, irei utilizar a arquitetura YOLO, através de um framework desenvolvido em Tensorflow."
 minibio = "Cientista de dados na empresa Cellere e professor de pós-graduação de IA. Possui graduação, mestrado e doutorado em Computação e suas áreas de atuação são ciência de dados, visão computacional, processamento de linguagem natural, sistemas de recomendação e deep learning."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T18:20:00
-duration = 45
-room = "PEP 0"
 author = "Maria Fernanda Souza Andrade"
 name = "Ambientes Virtuais, o que são e para que servem?"
 description = "Você já teve problema na hora de instalar pacotes ou executar um projeto antigo? Se você já passou por momentos assim, sei como é, por isso vem comigo desbravar os ambientes virtuais. E se tu ainda não passou, relaxe, você estará preparada depois dessa palestra."
 minibio = "Recifense, mãe de gatas, um dia será cientista da computação pela UFRPE, paga boletos mexendo com dados e ensinando. Participa ativamente do PUG-PE, PyLadies Recife e AI Girls, além das diversas comunidades, ela é uma das embaixadoras do WiDS Recife."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T19:10:00
-duration = 45
-room = "PEP 8"
 author = "Gabriela Cavalcante da Silva"
 name = "WebScraping, Python e Ordem da Câmara dos Vereadores"
 description = "Vamos conversar sobre algumas ferramentas e recursos python que temos disponível para fazer projetos de raspagem de dados. Vou dividir um pouco da minha experiência analisando documentos da Câmara dos Vereadores de Natal usando Python e WebScraping."
 minibio = "Com um pé na faculdade e outro no mercado, sou formada em TI e dev fullstack na Stone. Tenho paixão por Python e pela comunidade, e estou sempre ativa no PyLadies Natal tentando contribuir para que mais mulheres entrem/e permaneçam nesse mundo da programação :)"
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = "https://www.youtube.com/watch?v=HGB7DpeCNWE"
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T16:40:00
-duration = 45
-room = "PEP 8"
 author = "Giovana Vieira de Morais"
 name = "Introdução à recuperação de informação musical"
 description = "Nessa palestra, exploraremos a Recuperação de Informação Musical, mostrando como um computador pode entender sinais musicais, que tipo de informações podemos relevantes podemos extrair e quais os desafios mais recentes, usando a librosa, uma biblioteca para análise de áudio."
 minibio = "Mestranda em Ciência da Computação, focando em Computação Musical, e Cientista de Dados. Toca bateria em uma banda de rock ruim, gosta de cachorros e de cochilos, mas não gosta de escrever minibios porque nunca sabe o que colocar."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:50:00
-duration = 45
-room = "PEP 8"
 author = "Giovana Oliveira de Lucca"
 name = "Reconhecimento Facial em 5 passos"
 description = "A palestra tem como objetivo apresentar os métodos da biblioteca Face Recognition da linguagem Python em apenas 5 passos e demonstrar, por meio de exemplos, a simplicidade da utilização destes métodos para implementar as técnicas de Reconhecimento Facial."
 minibio = "Giovana de Lucca é pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas e trabalha como Engenheira de Dados na Bemol Digital. Além disso, ela adora aplicar Python em diversos contextos e é membro organizadora da comunidade PyLadies Manaus."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = "https://www.youtube.com/watch?v=HGB7DpeCNWE"
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T19:10:00
-duration = 45
-room = "PEP 0"
 author = "Giulio Carvalho Cavalcante"
 name = "Querido Diário, hoje raspei dados usando... método científico?!"
 description = "O projeto Querido Diário tem como objetivo tornar acessíveis dados de diários oficiais de todos os municípios. Mas, se eu quiser contribuir, por onde eu começo? Iremos analisar um site de diário oficial para a criação de um raspador com um Método Científico para nos ajudar."
 minibio = "Brotei das terras de Recife, curso Engenharia da Computação mas foi durante o estágio que comecei a mexer e me apaixonar por Python e pela comunidade. Hoje sou da organização do PUG-PE e do Projeto Embaixadoras da OKFN-BR, onde ajudo a manter o projeto Querido Diário."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = "https://www.youtube.com/watch?v=NqqieeA5noA"
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:00:00
-duration = 45
-room = "PEP 20"
 author = "Nivaldo Gomes da Silva Filho"
 name = "Como Gerenciar Trocas de Contexto em tempo de Pandemia: Um Guia para melhorar a sua saúde mental no trabalho"
 description = "Trocar bastante de contexto (slack, reunião, código) sobrecarrega o nosso cérebro. No fim, acabamos nos sentindo desgastado e no pior dos casos, achamos que não produzimos nada. Com o isolamento social, tudo isso se agravou. Vem comigo para eu te mostrar como mudar esta realidade"
 minibio = "Sou altamente preguiçoso. Sabendo disso, tento ser produtivo e fazer as coisas da melhor forma possível, assim não tenho que refazer só porque fiz mal feito. Escrevo o que aprendi no meu blog pessoal Quebrando o Caminho e sou Business Development na Labcodes."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:50:00
-duration = 45
-room = "PEP 404"
 author = "Guilherme Vierno"
 name = "Observabilidade de sistemas distribuídos em Python"
 description = "Nesta talk irei apresentar o conceito de observabilidade, sua importância e os desafios encontrados no mundo de microsserviços. Baseado em case real, irei mostrar como métricas, logging e tracing bem implementados ajudam o desenvolvedor a fazer o seu trabalho: resolver problemas."
 minibio = "Desenvolvedor full stack e trabalha com Python há mais de dez anos. Entusiasta de open-source e bacharel em Física, caiu na TI de pára-quedas. Mineiro de Belo Horizonte, trabalha na globo.com, focado em experiência do desenvolvedor e plataformas de desenvolvimento."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T16:40:00
-duration = 45
-room = "PEP 20"
 author = "Guilherme Viegas de Faria"
 name = "Ecossistemas de Colaboração: O que podemos dizer sobre as colaborações em redes sociais a partir da biologia?"
 description = "É possível misturar biologia e análise de dados? Analisaremos o Reddit a luz de alguns modelos biológicos. Modelos que explicam, por exemplo, porque determinada espécie de pássaros na África guia humanos para a localização de colmeias."
 minibio = "Apaixonado por Python, já trabalhei no desenvolvimento de sistemas escritos em diferentes linguagens de programação (C, C#, Java, JavaScript e Go) e frameworks (Flask, SQLAlchemy, Django, React, etc). Tenho uma mente inquieta e estou sempre querendo aprender coisas novas."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T16:40:00
-duration = 45
-room = "PEP 0"
 author = "Gustavo Voltani von Atzingen"
 name = "Micropython na Indústria"
 description = "Abordaremos o uso dos microcontroladores nas indústrias e como estes podem baixar o custo da automatização de sistemas industriais e como os novos hardwares de baixo custo compatível com micropython podem representar uma mudança de paradigma nos controles industriais."
 minibio = "Formado em Física, atuei durante o doutorado em aplicações industriais envolvendo sistemas embarcados e controle inteligente em tempo real. Em 2019 fui um dos fundadores da Quickium, Startup que atua na área de IA e Sistemas Embarcados usando python e micropython extensivamente."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T16:40:00
-duration = 45
-room = "PEP 404"
 author = "João Sebastião de Oliveira Bueno"
 name = "Design Patterns, Orientação a Objetos por Fora dos Frameworks"
 description = "Dentro do código de um projeto com fins artísticos: o Terminedia, exploramos usos diversos de decoradores, herança múltipla, sobrecarga de operadores, slicing avançado de uma matriz 2D, generators, e outros elementos mais avançados de OOP, tudo em Python puro."
 minibio = "João S. O. Bueno, participa da comunidade Python no Brasil há vários anos. Trabalha com a linguagem desde 2001 e prefere explorar e expor aspectos avançados da linguagem de forma lúdica em seus projetos de hobby. Atualmente atua como Líder Técnico na Júlios Baer Family Office."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T18:20:00
-duration = 45
-room = "PEP 20"
 author = "Igor dos Santos Montagner"
 name = "Mas não dá pra aprender tudo na internet? Entenda o por que fazer faculdade ainda vale a pena"
 description = "A quantidade de informações online faz muitos se perguntarem se fazer faculdade é necessário. Nesta palestra irei pesar as vantagens e desvantagens do ensino formal, apontar o que procurar em um curso e exemplificar como conteúdos teóricos podem ser aplicados na prática."
 minibio = "Igor Montagner é Bacharel e Doutor em Ciência da Computação pela USP e professor de Engenharia de Computação no Insper. Entusiasta de Software Livre e tecnologia, se dedica atualmente a entender como aliar conhecimento teórico e prático na formação universitária."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:50:00
-duration = 45
-room = "PEP 8"
 author = "Jessica dos Santos de Oliveira"
 name = "Como usamos IA para auxiliar médicos a lerem ECGs"
 description = "Aplicações de IA na Saúde vêm aumentando consideravelmente, especialmente no cenário atual. Geralmente o uso em imagens médicas é mais discutido, mas nesta apresentação iremos explorar outro tipo de exame: ECGs. Iremos ver desde o pré-processamento até a etapa de classificação."
 minibio = "Mestra em Sistemas de informação com pesquisa em Reconhecimento de Padrões pela USP, já trabalhou como cientista de dados no setor financeiro e imobiliário, atualmente é Líder de Ciência de Dados na NeuralMed, fazendo modelos que auxiliema a área da Saúde."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:50:00
-duration = 45
-room = "PEP 20"
 author = "Jerônimo Medina Madruga"
 name = "Muito além de Bhaskara: Como utilizar Python para ensinar matemática"
 description = "Nesta palestra falaremos sobre educação matemática, e sobre como o desenvolvimento do pensamento computacional e de linguagens de programação como Python podem transformar o o processo de ensino em uma experiência mais efetiva e construtiva para os alunos!"
 minibio = "Jerônimo é usuário de código aberto, trabalha no suporte técnico a EAD desde a época que conexão discada ainda existia, eterno estudante (atualmente mestrando em educação matemática na UFPel) e criador de palestras nem um pouco convencionais."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:00:00
-duration = 45
-room = "PEP 404"
 author = "Jéssica Pauli de Castro Bonson"
 name = "Uma Black Friday sem Catástrofes"
 description = "A Black Friday exige muitos preparos e melhorias na arquitetura do Olist para aguentarmos os milhões de vendas e acessos no e-commerce. Nessa palestra vou compartilhar o que fizemos para dessa data com tranquilidade e o que planejamos para que a desse ano também seja um sucesso."
 minibio = "Jéssica é Principal Engineer no Olist, responsável por arquitetar sistemas, liderar seu time, e implementar soluções inovadoras para lidar com os desafios de uma plataforma de e-commerce baseada em microserviços. Tem 8 anos de experiência como dev backend e/ou pesquisadora de CS."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = "https://www.youtube.com/watch?v=SHyHQzp7sVI"
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T19:10:00
-duration = 45
-room = "PEP 8"
 author = "José Estevam de Andrade Junior"
 name = "The black box of the black boxes: Uma introdução a AutoML com Python"
 description = "Nesta palestra iremos ter uma introdução a área de AutoML (Automated Machine Learning), entendendo de forma intuitiva os principais métodos e como funcionam os sistemas mais populares. Para exemplificar iremos mostrar os sistemas na linguagem Python como AutoSklearn e AutoKeras."
 minibio = "Cientista de Dados na Data Science Brigade e mestrando na área de Inteligência Computacional na UFRN. Mora em Natal e trabalha de forma remota há mais de três anos na área de dados e machine learning e ultimamente tem explorado pesquisas na área de NLP e AutoML."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T18:20:00
-duration = 45
-room = "PEP 8"
 author = "Juliany Raiol"
 name = "I know what you heard last summer: utilizando python para entender estilos musicais"
 description = "Nesta palestra será apresentado uma análise dos dados coletados através do Twitter e com o uso de bibliotecas do Spotify e Last.fm para entender os estilos musicais mais ouvidos durante o período de quarentena. "
 minibio = "É pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas(UEA). Organiza o PyLadies e o PyData Manaus. Além de ser Embaixadora de Inovação Cívica na Open Knowledge Brasil. Gosta de danças urbanas e escuta vários tipos de música."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:50:00
-duration = 45
-room = "PEP 20"
 author = "Joab Leite da Silva Neto"
 name = "Como a Hand Talk torna o mundo mais acessível utilizando Python?"
 description = "Na palestra irei falar sobre acessibilidade na web, apresentar como a Hand Talk ajuda a tornar os sites acessíveis para surdos e por fim falar, superficialmente, sobre Processamento de Linguagem Natural, Tradução e Visão Computacional"
 minibio = "Meu nome é Joab Leite, sou Cientista de Dados e atualmente lidero o time de Inteligência Artificial na Hand Talk. Sou apaixonado por programação, e um pythonista de carteirinha."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:50:00
-duration = 45
-room = "PEP 404"
 author = "Leonardo Larsen Rocha"
 name = "Microsserviço da ideia a nuvem"
 description = "Iremos demonstrar como se cria um microsserviço em Python, um pipeline na Azure, um Dockerfile e swagger, para publicação do seu microsserviço. Falaremos em como criar pipelines usando Python como linguagem de suporte, o microsserviço será para busca de endereço por CEP."
 minibio = "Estudou matemática na USP de 96 a 98, ciências da computação na FURB, desde 1997 trabalha como desenvolvedor, já programou em C, C++, Delphi, Perl e Python, que usa desde 2014. Usa Linux desde sempre. Trabalha atualmente na HBSIS Soluções em TI, uma subsidiária da AmBev"
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T18:20:00
-duration = 45
-room = "PEP 404"
 author = "Lis Ramos Barreto de Almeida"
 name = "Análise Numérica com Python: O Poder da Linguagem que Conquistou o Coração de Cientistas e Engenheiros"
 description = "Este é um convite ao universo onde a linguagem Python pode nos ajudar a resolver equações que parecem ser insolúveis. Como a Análise Numérica pode fazer uso de técnicas computacionais robustas para resolver problemas do universo que vai da escala quântica à extragaláctica?"
 minibio = "PyLady e entusiasta da Diversidade & Inclusão na Tecnologia. Graduanda em Engenharia de Computação, atua na área da Física Computacional como bolsista CNPq de Iniciação Tecnológica no Laboratório de Preparação e Caracterização de Materiais da Universidade Federal de Sergipe."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:50:00
-duration = 45
-room = "PEP 20"
 author = "Loyanne Repolho"
 name = "Como a programação mudou a minha vida - de médica a programadora"
 description = "Como foi o processo de transição de carreira de 4 anos como clinico geral para programadora em menos de 1 ano e o que me inspirou a desenvolver uma skill para Alexa direcionada à pacientes em suspeita ou com diagnóstico de Hipertensão Arterial usando Python e Lambda."
 minibio = "Loyanne além de uma médica com a mente inquieta e disruptiva, se tornou programadora."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = "https://www.youtube.com/watch?v=JM2BSgSDmi8"
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T19:10:00
-duration = 45
-room = "PEP 0"
 author = "Luan Fonseca de Farias"
 name = "Débito Técnico: Porque isso vai estragar teu software"
 description = "Software de baixa qualidade se tornou um dos tópicos mais caros da história da humanidade, uma das principais razões pelas quais softwares falham é o alto nível de Débito Técnico, esta palestra traz uma visão geral sobre esse problema e como podemos lidar com ele."
 minibio = "Entusiasta e apaixonada por ciência de dados, inteligência artificial e design thinking."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:50:00
-duration = 45
-room = "PEP 8"
 author = "Lucas Grassano Lattari"
 name = "Detecção e Reconhecimento de Faces usando Python e DLib"
 description = "A ideia dessa apresentação é demonstrar como desenvolver aplicações de detecção e reconhecimento de faces usando Python e a biblioteca DLib, além de descrever algumas aplicações e usos. À medida do possível, também será explicado o funcionamento do método."
 minibio = "Sou Graduado, Mestre e Doutor em Ciência da Computação, Professor de Ensino Básico, Técnico e Tecnológico no Instituto Federal do Sudeste de Minas Gerais, Campus Rio Pomba e Criador de Conteúdo no Universo Discreto (www.youtube.com/universodiscreto e www.universodiscreto.com). \n"
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:00:00
-duration = 45
-room = "PEP 8"
 author = "Luciano Ramalho"
 name = "Protocolos: duck-typing estático FTW"
 description = "Os tipos estáticos do Python 3.5 são úteis mas ignoram o duck typing, uma forma de tipagem estrutural essencial para estilo Pythônico de programar. Isso foi resolvido com \"duck typing estático\", novidade no Python 3.8. Veremos problemas reais resolvidos com typing.Protocol."
 minibio = "Além de astronauta e inventor, Luciano queria ser cientista, mas odiava listas de exercícios. Então virou programador auto-didata e professor de programação em cursos livres. Escreveu Fluent Python (O'Reilly), publicado em 9 idiomas. É consultor na ThoughtWorks."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = "https://www.youtube.com/watch?v=HGB7DpeCNWE"
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T16:40:00
-duration = 45
-room = "PEP 8"
 author = "Luis Vinicius Lauriano de França"
 name = "O que acontece se juntar Spotify & Python & Data Science"
 description = "Na palestra será apresentada a API do Spotify e como ela pode ser útil para nós desenvolvedores e principalmente profissionais da área de dados. A partir disso, será visto como podemos coletar e analisar os dados do Spotify apenas utilizando a linguagem de programação Python."
 minibio = "Atualmente graduando em Gestão da Informação na UFPE e Estagiário de TI na PFN. Entusiasta em Ciência de Dados (um quase Cientista de Dados) e um desenvolvedor apaixonado por Python. Nas horas vagas, jogar um League of Legends cai bem."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T16:40:00
-duration = 45
-room = "PEP 0"
 author = "Maria Fernanda Deveza Leitão"
 name = "Renda, Python e Covid-19: como avaliar a experiência do cliente e gerar renda durante a pandemia"
 description = "Durante o pico da pandemia de covid-19 em Manaus, uma solução foi responsável por gerar renda e aumentar a capacidade de entrega da região norte. Entenda como Python foi importante neste trabalho e como nos ajudou na análise de dados do projeto."
 minibio = " Palestrante 1: Fernanda Deveza \n\nBiografia: “Graduanda em Engenharia de Software na UFAM, há 1 ano dei meus primeiros passos com Python, imergindo no mundo dos dados. Atualmente trabalho como Trainee Digital na Bemol Digital contribuindo com análise de dados e melhoria de processos na unidade de pessoas.”\n\nPalestrante 2: Willander Buraslan\n\nBiografia: “Economista pela UFAM e está cursando MBA em Economia Brasileira na FEA-RP/USP. Atualmente atua na unidade de Supplychain Management da Bemol Digital, onde entrou como trainee digital, foi analista de dados e hoje compõe o time de Product Owners da organização.” "
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T18:20:00
-duration = 45
-room = "PEP 8"
 author = "Victor Maricato"
 name = "Reprodutibilidade e Produtização de Modelos Preditivos em Jupyter Notebook "
 description = "Jupyter é provavelmente a interface mais vista por cientistas de dados e entusiastas. Porém, tende facilmente ao caos devido a ausência de testes, códigos macarrônicos, dificuldade de escalar, produtizar e até reproduzir experimentos. Mas será que é necessário deixa-lo de lado?"
 minibio = "Biotecnólogo, cursando Sistemas de Informação, trabalho como Cientista de Dados na Mendelics, lidando com dados em Bioinformática e Sequenciamento de Genoma. Atuo em pesquisa pelo MIT e FIOCRUZ-RJ onde usamos Machine Learning para identificar potenciais fármacos para Hepatite C."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = "https://www.youtube.com/watch?v=HGB7DpeCNWE"
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T16:40:00
-duration = 45
-room = "PEP 404"
 author = "Matheus Queiroz"
 name = "Colocando Modelos de Machine Learning em Produção com o Amazon Sagemaker"
 description = "Nesta palestra vou contar a minha experiência na utilização do Amazon Sagemaker e como ele facilitou o processo de colocar em produção modelos de Machine Learning. Explicarei como funciona a sua arquitetura, realização do treinamento e da predição, suas vantagens e desvantagens."
 minibio = "Sou um cientista econômico que se apaixonou pela área de ciência de dados. Gosto de aprender novas tecnologias, investigando como elas funcionam por baixo dos panos. Trabalho na Conta Azul como engenheiro de dados especializado em colocar modelos de Machine Learning em produção."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = "https://www.youtube.com/watch?v=SHyHQzp7sVI"
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T16:40:00
-duration = 45
-room = "PEP 20"
 author = "Leticia Portella"
 name = "Impulsionando sua carreira em tecnologia"
 description = "A palestra aborda aprendizagens que tive e o como isso afeta o desenvolvimento dos programas com os quais trabalho. Abordarei não só as questões técnicas, mas também a parte mais humana desse processo."
 minibio = "Leticia trabalha hoje como engenheira de software na Stripe. Foi diretora da Associação Python Brasil (2017-2019) e organizadora de diversos eventos. Ela também é uma das anfitriãs da Pizza de Dados, o primeiro e mais amado podcast brasileiro sobre ciência de dados."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = "https://www.youtube.com/watch?v=JM2BSgSDmi8"
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:50:00
-duration = 45
-room = "PEP 0"
 author = "Mirlla Marques Santana Alves"
 name = "Human Learning: Por que ensinar e aprender Python?"
 description = "Venha descobrir como o ser humano aprende ensinando, os porquês de aprender Python e formas de criar materiais para ensinar pessoas. Não importa o seu nível de conhecimento na linguagem, vamos aprender juntos!"
 minibio = "Olá, eu sou Mirlla Marques, graduanda em Ciência da computação na Universidade Federal de Campina Grande, amante de Python, Mirlla News no Instagram das PyLadies Paraíba, garota das mídias do Elas@Computação, dou dicas de programação para iniciantes no Instagram."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T19:10:00
-duration = 45
-room = "PEP 20"
 author = "Ingrid Murielem Sebastiana"
 name = "Como sobreviver a um time que fala um idioma que você não é fluente"
 description = "Nessa palestra eu resolvi trazer dicas e dividir as minhas experiências viajando para um país que não falava o mesmo idioma que eu sou fluente e também como foi trabalhar em equipes que se comunicam em um idioma que eu não sou fluente. Tudo baseado em experiênciais reais."
 minibio = "Ingrid Murielem, desenvolvedora de software, tutora do Guinazu um Pastor Alemão, atualmente correndo atrás de um diploma mas já conquistou algo que diploma nenhum oferece alegria de viver. Co-organizadora do Program.Ada da UFRGS, AfroPython e do Mais Bela Negra de Esteio/RS"
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:00:00
-duration = 45
-room = "PEP 0"
 author = "Naomi Ceder"
 name = "Iteração: A história secreta"
 description = "Usar loops \"for\" é comum e até básico em Python. Mas como a iteração realmente funciona em Python? Você sabe o que um \"iterador\" realmente faz em comparação com um \"iterável\"? Nesta palestra você aprenderá a história secreta da iteração, com um pouco de codificação ao vivo."
 minibio = "Desde 2001, Naomi Ceder aprende, ensina, escreve e usa Python. Ela é um membro eleito da Python Software Foundation e a ex-presidente de seu conselho de diretores. Em seu tempo livre, ela gosta de esboçar, tricotar e conversar sobre filosofia com sua cachorrinha."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:00:00
-duration = 45
-room = "PEP 0"
 author = "Natalia Raythz"
 name = "Qualidade vai além - Molecule"
 description = "Essa palestra vai mostrar alguns principios da qualidade de software e como ela esta presente em cada parte do desenvolvimento e também falar sobre uma ferramenta escrita em Python que nos ajuda a testar a nossa infraestrutura, o molecule."
 minibio = "Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Natalia também foca em mentorar pessoas negras na área."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:50:00
-duration = 45
-room = "PEP 20"
 author = "Nelson de Campos Nolasco"
 name = "O Uso da Análise do Comportamento para a Melhoria da Qualidade de Vida do Desenvolvedor Python."
 description = "A vida de DEV, por mais que se seja apaixonado pelo que faz, é por demais estressante. A Psicologia Comportamental auxilia no entendimento e identificação de processos causadores de comportamentos ansiosos, depressivos, de adoecimento. Cuidar-se e buscar ajuda é necessário."
 minibio = "Psicólogo em BH, Mestre em Análise do Comportamento pela PUC-SP, graduando em Ciência de Dados pelo IMIH e em Engenharia de Software pela PUCMINAS. Conjugo Python com Psicologia e Tecnologia. Oxalá no futuro tenhamos uma inteligência artificial atendendo em Psicologia clínica!"
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:00:00
-duration = 45
-room = "PEP 404"
 author = "Nilo Ney Coutinho Menezes"
 name = "Integração Continua com Python - Proposta de Stack"
 description = "Como obter a alta produtividade da linguagem Python sem abrir mão de recursos usados em linguagens tipadas? Como configurar seu ambiente de integração contínua para integrar testes, análise estática, verificação de tipos e formatação de código."
 minibio = "Autor, desenvolvedor de software e consultor de empresas que constroem software para nuvem. Formado em Processamento de Dados e Mestre em Informática pela Universidade Federal do Amazonas. Membro ativo da comunidade Python do Brasil e do PyNorte. Na Belgica há muito tempo."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T16:40:00
-duration = 45
-room = "PEP 8"
 author = "Otavio Gomes"
 name = "Open3D para Reconstrução 3D em Python"
 description = "Técnicas para reconstrução tridimensional de ambientes reais possuem muitas aplicações em jogos, produção visual, impressão 3D e robótica. O objetivo desta palestra é introduzir de forma simplificada e prática o tema usando Python e a biblioteca Open3D."
 minibio = "Engenheiro de software no Instituto de Pesquisas Eldorado, trabalha com pesquisa e desenvolvimento nas áreas de visão computacional e aprendizado de máquina. Atualmente cursa mestrado na UNICAMP, dedicando-se a pesquisas sobre visão computacional."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = "https://www.youtube.com/watch?v=HGB7DpeCNWE"
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T16:40:00
-duration = 45
-room = "PEP 8"
 author = "Pablo Henrique Aguilar"
 name = "Tipos de tipos?"
 description = "Demonstração de como usar tipagem estatica em Python, do básico até chegar em Higher Kinded Type"
 minibio = "Software Engineer na Globo.com apaixonado por desafios, tecnologia e boas práticas. dry-python core developer"
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T15:00:00
-duration = 45
-room = "PEP 20"
 author = "Pâmella Araújo Balcaçar"
 name = "Inovação e Tecnologia na educação: python como objeto de aprendizagem multidisciplinar"
 description = "Serão abordados os impactos possíveis da tecnologia na educação. Veremos a aplicação da taxonomia de Bloom considerando python como objeto de aprendizagem multidisciplinar. Por meio de metodologias inovadoras e de Python, suas aulas nunca mais serão as mesmas."
 minibio = "É Bióloga e Tecnóloga em Informática, com MBA em Perícia, Auditoria e Análise Ambiental e Especialista em Biotecnologia e Bioprocessos. Atua na educação desde 2011. Também é Pylady e entusiasta da iniciativa do grupo de estudo de Bioinformática na Pyladies Brasil."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:00:00
-duration = 45
-room = "PEP 20"
 author = "Patrícia do Nascimento"
 name = "Mercado de Trabalho em Dados - rotina de uma analista"
 description = "O mercado da área de dados (empresas e requisitos). Pretendo mostrar através de dados o pipeline de uma analista de dados ao abordar um problema: obtenção de dados, análise dos dados e apresentação de resultados - utilizando Python como ferramenta."
 minibio = "Pessoa voltada à área de dados. Graduada em Ciências Sociais, foi professora de Sociologia. Tem focado os estudos em programação (Python, R e SQL) e Estatística para atuação em análise de dados."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T19:10:00
-duration = 45
-room = "PEP 404"
 author = "Paulo Henrique Silva"
 name = "Django como um detalhe de implementação"
 description = "Por que mesmo sem abrir um único arquivo podemos saber que um projeto foi feito em Django? Veremos como aproveitar o melhor do Django usando uma arquitetura limpa, com clara separação de papéis, testes unitários rápidos e sem dependências e programadorxs felizes."
 minibio = "Oi, sou o pH, programador, pai, esposo, usando Python há algumas décadas (e em boa parte feliz com isso), contribuidor de diversos projetos de código aberto, engenheiro de software sênior na Carta, astrônomo amador, maker, cervejeiro. @phsilva na maioria das plataformas."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T18:20:00
-duration = 45
-room = "PEP 404"
 author = "Henrique Gabriel Gularte Pereira"
 name = "É Python isso?"
 description = "Python é uma linguagem simples, elegante, e de fácil aprendizado. Isso não é novidade para ninguém. Mas você sabe que Python também tem um lado nem tão bonito e elegante? Bem-vindo ao mundo dos one-liners, lambda functions e code golf."
 minibio = "Henrique Pereira, o @ikkebr, é doutorando em Computação na University of Calgary. Trabalha com Python e Django desde o final dos anos 2000, tendo atuado como analista de TI e professor, introduzindo Python a centenas de alunos."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = "https://www.youtube.com/watch?v=SHyHQzp7sVI"
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:00:00
-duration = 45
-room = "PEP 404"
 author = "Rafael Capaci Pereira"
 name = "Utilizando Dataloaders para melhorar o desempenho das suas queries no GraphQL"
 description = "GraphQL tem se apresentado como uma boa ferramenta para consultar os dados de API's web, porém alguns problemas podem surgir com a sua utilização. A palestra abordará como resolver o problema do número de consultas ao banco de dados através do uso de Dataloaders."
 minibio = "Bacharel em Ciência da Computação pela UFPR, atua como Desenvolvedor de Software na Fohat e tem Python como linguagem principal há 1 ano e meio."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T18:20:00
-duration = 45
-room = "PEP 8"
 author = "Rafael Calixto Ferreira de Araújo"
 name = "O Python fofoqueiro: Utilizando Spacy e outras bibliotecas Python para ler conteúdos da Internet"
 description = "Dentre as diversas aplicações para a inteligência artificial o Processamento de Linguagem Natural (NLP) vem crescendo em demanda e novas abordagens. Esta palestra irá explorar a utilização da bibliotecas como a Spacy para leitura de conteúdos da internet.\n"
 minibio = "Sou entusiasta e pesquisador de tecnologias relacionadas à inteligência artificial. Atualmente atuo como líder técnico de projetos de IA na Fundação CERTI e estou iniciando os meus estudos no mestrado em Ciência da Computação na UFSC."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:00:00
-duration = 45
-room = "PEP 0"
 author = "Ricardo Cappellano"
 name = "Lidando com sistemas legados"
 description = "\nDurante nossa carreira talvez passemos mais tempo lidando com sistemas legados do que criando novos sistemas. Mas na maior parte das vezes só falamos das glórias de um novo produto ou sua nova versão. Aqui falaremos sobre desafios e estratégias ao lidarmos com sistemas legados."
 minibio = "Mineiro da Zona da Mata, formado em Sistemas de Informação. Desde a faculdade trabalhei majoritariamente com PHP e Java, sendo Python uma linguagem secundária. Hoje trabalho com Python em um projeto de captação e análise de dados sobre comportamento de compra e anti-fraude."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-04T19:10:00
-duration = 45
-room = "PEP 20"
+start_at = 2020-11-02T18:20:00
 author = "Rafael Ferreira Fontenelle"
 name = "Automatização da documentação traduzida do Python"
 description = "As traduções publicadas da documentação do Python não eram atualizadas automaticamente, exigindo que alguém o fizesse manualmente. Veja como usamos integração contínua para automatizar a atualização das traduções publicadas e, de quebra, implementar outras verificações."
 minibio = "Apaixonado por FOSS, contribui principalmente com a tradução em diversos projetos (incluindo Python Docs, GNOME, Fedora, ArchWiki, bash, coreutils e outras ferramentas do GNU). Ama scripts, sempre criando-os e melhorando-os para facilitar as tarefas diárias."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = "https://www.youtube.com/watch?v=JM2BSgSDmi8"
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T16:40:00
-duration = 45
-room = "PEP 0"
 author = "Ronald Rodrigues Farias"
 name = "Introdução a automação de processos robóticos com Python"
 description = "Se seu dia a dia envolve trabalhos repetitivos como operar sistemas, sites, disparar emails, editar planilhas, documentos, etc. Venha conhecer um pouco do que o Python pode fazer para lhe ajudar a economizar a mais valiosa das moedas, o tempo."
 minibio = "Graduado em Ciência da Computação e atualmente Engenheiro de Software na Nuveo, trabalho construindo automações, integrações e mantendo microserviços em algumas linguagens, mas sempre mantendo o prediletismo por Python."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-03T16:40:00
-duration = 45
-room = "PEP 20"
 author = "Salete Silva Farias"
 name = "Sub-representação e invisibilidade feminina na STEM (Science, Technology, Engineering and Mathematics): uma análise de estereótipos, educação e plataformas de carreira"
 description = "O que dizem os relatórios mundiais sobre a representatividade das mulheres na STEM e os próximos 100 anos? Na educação e nas carreiras emergentes, entenda como estereótipos de gênero tem impacto no protagonismo feminino na ciência e na visibilidade em plataformas de carreira.\n"
 minibio = "Doutoranda em Lisboa. Mestra em Ciência da Computação. Professora de Computação do Instituto Federal do Maranhão. Founder PyLadies São Luís. Co-Founder do Projeto Minha Voz (www.minhavoz.com) contra a violência de gênero. Atualmente trabalha a temática Mulheres nos campos STEM."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T16:40:00
-duration = 45
-room = "PEP 8"
 author = "Sarah Tuyani Araújo Soares"
 name = "Utilizando Análise de Sentimentos para identificar comportamentos de consumo nas redes sociais"
 description = "Análise de Sentimentos é uma ótima técnica para identificar padrões de comportamento de consumo nas redes sociais. Vamos falar sobre o que essa técnica pode nos proporcionar, desde aplicação em contextos publicitários até em estudos sobre fraudes ao consumidor na psicologia."
 minibio = "Sarah Tuyani é publicitária, psicóloga, atualmente é mestranda em Psicologia Jurídica e é entusiasta na área de ciência de dados. Todas as escolhas acadêmicas envolvem uma grande paixão: estudar o consumidor e como as tecnologias podem contribuir no dia a dia dessas pessoas."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = ""
+room = "PEP 8"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T15:00:00
-duration = 45
-room = "PEP 0"
 author = "Antonio Terceiro"
 name = "Como você pode ajudar o Debian programando em Python"
 description = "O projeto Debian é um dos maiores e mais antigos e projetos de Software Livre. A infraestrutura necessária para o seu funcionamento inclui vários serviços e ferramentes que são projetos Python, e com os quais você pode colaborar. Vamos conhecê-los neste palestra."
 minibio = "Desenvolvedor de Software Livre e membro do projeto Debian. Doutor em Computação pela UFBA e Mestre em Computação pela UFRGS. Engenheiro de Software na Linaro Limited, e onde trabalha em plataformas pra Controle de Qualidade de Software."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = "https://www.youtube.com/watch?v=NqqieeA5noA"
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T15:50:00
-duration = 45
-room = "PEP 20"
 author = "Vinicius Hartmann Ferreira"
 name = "“Pensam que a gente é secretária”: trajetórias femininas em cursos técnicos de informática"
 description = "Serão apresentados e discutidos os resultados de uma pesquisa realizada com alunas de um curso técnico em informática integrado ao ensino médio sobre a inserção no mercado de trabalho através da realização do estágio obrigatório."
 minibio = "Doutor em Informática na Educação e professor da área de Informática no Instituto Federal do Rio Grande do Sul (IFRS). Líder do Laboratório de Pesquisa em Vida Digital atua como pesquisador nas áreas de Cibercultura, Game Studies e Tecnologia na Educação."
+discord_channel = "https://discord.gg/Mn6FM3Hhvn"
+youtube_channel = ""
+room = "PEP 20"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-04T15:50:00
-duration = 45
-room = "PEP 404"
 author = "Victor Paiva Torres"
 name = "Separando a lógica de extração da lógica de navegação com Scrapy"
 description = "Nesta apresentação, dividirei um pouco da minha experiência ao longo de 2 anos criando, mantendo e escalando soluções de extração de dados da web e tocarei em pontos importantes sobre como você pode separar a lógica de extração da lógica de crawling melhorando seus spiders."
 minibio = "Desenvolvedor de software full-stack e entusiasta do gerenciamento de processos e pessoas. Mais de 5 anos de experiência em desenvolvimento de software para a web, já liderou times ágeis e multidisciplinares. Há 2 anos trabalha criando e escalando soluções de raspagem de dados."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-06T15:50:00
-duration = 45
-room = "PEP 404"
 author = "Walter Silva Martins Filho"
 name = "Processamento de Laudos Médicos usando BERT e Hugginface/Pytorch"
 description = "Laudos médicos são uma forma de texto livre que contém informações descritivas de patologias e conclusões médicas relevantes. Apresentarei resultados da NeuralMed na análise de laudos usando o BERT e fornecerei exemplos de classificação e NER usando BERT/Pytorch."
 minibio = "Walter Silva Martins Filho Me. é um Cientista de Dados em NLP na NeuralMed; uma startup de saúde com foco em inteligência artificial para imagens e textos médicos, onde se dedica a modelagem de compreensão de linguagem natural. Doutorando em Astronomia pelo Observatório Nacional."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = ""
+room = "PEP 404"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-05T18:20:00
-duration = 45
-room = "PEP 0"
 author = "Werberth Vinícius Souza Gomes"
 name = "Scrapy 101: raspando dados na web com Python"
 description = "Atualmente a quantidade de dados disponíveis na web é gigantesca, porém a maioria dos sites não disponibilizam nenhum tipo de integração para obtenção dessas informações. A ideia dessa palestra é apresentar um exemplo real de como conseguir raspar dados na rede utilizando Scrapy."
 minibio = "Cientista da computação por formação, desenvolvedor Python por profissão. Atualmente faz parte do time de crawlers da Orchard Mile, uma startup do ramo da moda sediada em Nova York."
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = ""
+room = "PEP 0"
+duration = 45
 
 [[slot]]
 type = "talk"
 start_at = 2020-11-02T19:10:00
-duration = 45
-room = "PEP 404"
 author = "William Lino Oliveira"
 name = "Entregando Infraestrutura Automatizada com Serverlesse Python"
 description = "Infraestrutura é um mundo que envolve diversos componentes, tecnologias e processos. Automatizar a criação de infraestrutura tornando-a em código tem sido uma necessidade latente para empresas que possuem grandes ambientes. Vamos automatizar infra usando Servless na Cloud!"
 minibio = "Apaixonado por Infraestrutura, Banco de Dados, Cultura DevOps e Empreendedorismo. William é Co-Fundador e Cloud Solutions Architect na Data Tuning, Co-Fundador e Head de Infraestrutura de TI na Flapper e DBA Senior no maior banco de privado da LATAM."
+discord_channel = "https://discord.gg/Xbd5t6ngVr"
+youtube_channel = "https://www.youtube.com/watch?v=SHyHQzp7sVI"
+room = "PEP 404"
+duration = 45
+
