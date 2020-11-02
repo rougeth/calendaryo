@@ -95,6 +95,8 @@ for slot in slots:
     location = slot.get("room", "")
     event_type = slot.get("type", "")
     category = slot.get("category", "")
+    discord_channel = slot.get("discord_channel", "")
+    youtube_channel = slot.get("youtube_channel", "")
 
     event = {
         "summary": title,
@@ -113,6 +115,8 @@ for slot in slots:
                 "category": category,
                 "type": event_type,
                 "photo_url": photo_url,
+                "discord_channel": discord_channel,
+                "youtube_channel": youtube_channel,
             }
         },
     }
