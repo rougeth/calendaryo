@@ -315,7 +315,7 @@ duration = 45
 room = "PEP 8"
 author = "Daniel Drumond Augusto"
 name = "Como e por que automatizar testes de integração da sua API? - ScanAPI"
-description = "- Exemplo prático de otimização matemática em script existente"
+description = "A ScanAPI é um framework de código aberto escrito em Python que possibilita a criação de testes de integração para REST APIs. Essa palestra visa mostrar um pouco do funcionamento da ScanAPI, da sua implementação, discutir os próximos passos a serem seguidos e também divulgar a ferramenta para quem possa ter interesse, seja para sua utilização ou contribuição com o projeto."
 minibio = "Carioca, Engenheiro backend na Loadsmart"
 
 [[slot]]
