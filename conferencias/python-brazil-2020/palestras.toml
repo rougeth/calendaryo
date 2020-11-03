@@ -18,7 +18,7 @@ name = "FastAPI tão rápido quanto Node?"
 description = "Dar um mergulho no framework FastAPI, mostrando o potencial do uso de tarefas assíncronas no Python, trazendo uma comparação performática com ferramentas conhecidamente rápidas e populares como Node.js."
 minibio = "Um apaixonado em usar tecnologia em algo que mude e facilite a vida das pessoas, interessado em desenvolvimento web e escrevo algumas coisas também.Tenho experiência com algumas ferramentas e tecnologias como Python, Angular e bancos de dados NoSql."
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM"
+youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM&t=6313s"
 room = "PEP 404"
 duration = 45
 
@@ -90,7 +90,7 @@ name = "Melhorando o desenvolvimento de Machine Learning utilizando MLFlow"
 description = "Machine Learning (ML) é uma área que está no hype. Porém, para um desenvolvimento maduro de projetos de ML no longo prazo, é necessário um bom gerenciamento do código, dos dados, dos modelos, etc. Nesta palestra iremos mostrar como a ferramenta MLFlow auxilia nesse gerenciamento"
 minibio = "Cientista de Dados Sênior na empresa de recrutamento online SEEK, trabalhando com projetos de Recomendação e Busca para diferentes países. Com mestrado em Ciência da Computação pela UFCG (Paraíba), atualmente mora em São Paulo, trazendo um pouco de forró para a selva de pedra"
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM"
+youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM&t=310s"
 room = "PEP 404"
 duration = 45
 
@@ -114,7 +114,7 @@ name = "Estruturas de Dados Probabilísticas"
 description = "A palestra tem como objetivo apresentar e discutir as principais estruturas de dados probabilísticas. Serão abordadas as respectivas implementações, casos de uso, vantagens e desvantagens e, por fim, bibliotecas python que podem ser usadas no dia-a-dia do programador."
 minibio = "Artur Baruchi possui Mestrado e Doutorado em engenharia da computação pela Poli/USP e possui +15 anos de experiência no mercado. Atualmente é Engenheiro de Software na LexisNexis onde também atua como embaixador da plataforma de Big Data HPCC."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM"
+youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM&t=3511s"
 room = "PEP 0"
 duration = 45
 
@@ -126,7 +126,7 @@ name = "Tornando os Jupyter Notebooks mais legíveis para quem não é cientista
 description = "Quem faz Ciência de Dados com o Jupyter Notebook geralmente se vê obrigado a criar um relatório depois de todo o trabalho, para que pessoas de fora possam entender as suas conclusões e o caminho feito até elas. E se nós pudéssemos usar o próprio notebook como relatório?"
 minibio = "Artur V. Sousa é cientista de dados com foco em Marketing. Formado em Comunicação pela UFPI, pós-graduado em Tecnologias para Desenvolvimento Web pela Unopar-Anhanguera, hoje presta serviços de Ciência de Dados pela Nimbus Inteligência para Negócios."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24"
+youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24&t=225s"
 room = "PEP 8"
 duration = 45
 
@@ -294,7 +294,7 @@ name = "Construindo chatbots com Rasa Framework"
 description = "Vamos explorar fundamentos do Rasa e como ele pode simplificar a construção de Chatbots baseados em IA. Além disso, vamos entender como o CDD (Conversatiom Driven Develpment) ajudou na construção da Bel. Bot da Serasa que atende milhares de brasileiros diariamente."
 minibio = "Com o propósito de impactar vidas através da tecnologia, diariamente levo saúde financeira a milhares de brasileiros. Backend developer, especialista em aplicações web resilientes, distribuídas e de alto desempenho. Rasa Framework, IA e Chatbots é o que me move no momento."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24"
+youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24&t=3132s"
 room = "PEP 8"
 duration = 45
 
@@ -498,7 +498,7 @@ name = "Introdução à recuperação de informação musical"
 description = "Nessa palestra, exploraremos a Recuperação de Informação Musical, mostrando como um computador pode entender sinais musicais, que tipo de informações podemos relevantes podemos extrair e quais os desafios mais recentes, usando a librosa, uma biblioteca para análise de áudio."
 minibio = "Mestranda em Ciência da Computação, focando em Computação Musical, e Cientista de Dados. Toca bateria em uma banda de rock ruim, gosta de cachorros e de cochilos, mas não gosta de escrever minibios porque nunca sabe o que colocar."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24"
+youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24&t=6131s"
 room = "PEP 8"
 duration = 45
 
@@ -570,7 +570,7 @@ name = "Micropython na Indústria"
 description = "Abordaremos o uso dos microcontroladores nas indústrias e como estes podem baixar o custo da automatização de sistemas industriais e como os novos hardwares de baixo custo compatível com micropython podem representar uma mudança de paradigma nos controles industriais."
 minibio = "Formado em Física, atuei durante o doutorado em aplicações industriais envolvendo sistemas embarcados e controle inteligente em tempo real. Em 2019 fui um dos fundadores da Quickium, Startup que atua na área de IA e Sistemas Embarcados usando python e micropython extensivamente."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM"
+youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM&t=6725s"
 room = "PEP 0"
 duration = 45
 
@@ -618,7 +618,7 @@ name = "Muito além de Bhaskara: Como utilizar Python para ensinar matemática"
 description = "Nesta palestra falaremos sobre educação matemática, e sobre como o desenvolvimento do pensamento computacional e de linguagens de programação como Python podem transformar o o processo de ensino em uma experiência mais efetiva e construtiva para os alunos!"
 minibio = "Jerônimo é usuário de código aberto, trabalha no suporte técnico a EAD desde a época que conexão discada ainda existia, eterno estudante (atualmente mestrando em educação matemática na UFPel) e criador de palestras nem um pouco convencionais."
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk"
+youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk&t=4616s"
 room = "PEP 20"
 duration = 45
 
@@ -678,7 +678,7 @@ name = "Microsserviço da ideia a nuvem"
 description = "Iremos demonstrar como se cria um microsserviço em Python, um pipeline na Azure, um Dockerfile e swagger, para publicação do seu microsserviço. Falaremos em como criar pipelines usando Python como linguagem de suporte, o microsserviço será para busca de endereço por CEP."
 minibio = "Estudou matemática na USP de 96 a 98, ciências da computação na FURB, desde 1997 trabalha como desenvolvedor, já programou em C, C++, Delphi, Perl e Python, que usa desde 2014. Usa Linux desde sempre. Trabalha atualmente na HBSIS Soluções em TI, uma subsidiária da AmBev"
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM"
+youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM&t=3345s"
 room = "PEP 404"
 duration = 45
 
@@ -846,7 +846,7 @@ name = "Qualidade vai além - Molecule"
 description = "Essa palestra vai mostrar alguns principios da qualidade de software e como ela esta presente em cada parte do desenvolvimento e também falar sobre uma ferramenta escrita em Python que nos ajuda a testar a nossa infraestrutura, o molecule."
 minibio = "Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Natalia também foca em mentorar pessoas negras na área."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM"
+youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM&t=358s"
 room = "PEP 0"
 duration = 45
 
@@ -906,7 +906,7 @@ name = "Inovação e Tecnologia na educação: python como objeto de aprendizage
 description = "Serão abordados os impactos possíveis da tecnologia na educação. Veremos a aplicação da taxonomia de Bloom considerando python como objeto de aprendizagem multidisciplinar. Por meio de metodologias inovadoras e de Python, suas aulas nunca mais serão as mesmas."
 minibio = "É Bióloga e Tecnóloga em Informática, com MBA em Perícia, Auditoria e Análise Ambiental e Especialista em Biotecnologia e Bioprocessos. Atua na educação desde 2011. Também é Pylady e entusiasta da iniciativa do grupo de estudo de Bioinformática na Pyladies Brasil."
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk"
+youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk&t=1560s"
 room = "PEP 20"
 duration = 45
 
@@ -1010,11 +1010,11 @@ duration = 45
 type = "talk"
 start_at = 2020-11-03T16:40:00
 author = "Salete Silva Farias"
-name = "Sub-representação e invisibilidade feminina na STEM (Science, Technology, Engineering and Mathematics): uma análise de estereótipos, educação e plataformas de carreira"
+name = "SUB-REPRESENTAÇÃO E INVISIBILIDADE FEMININA NA STEM (SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS): uma análise de estereótipos, educação e plataformas de carreira"
 description = "O que dizem os relatórios mundiais sobre a representatividade das mulheres na STEM e os próximos 100 anos? Na educação e nas carreiras emergentes, entenda como estereótipos de gênero tem impacto no protagonismo feminino na ciência e na visibilidade em plataformas de carreira.\n"
 minibio = "Doutoranda em Lisboa. Mestra em Ciência da Computação. Professora de Computação do Instituto Federal do Maranhão. Founder PyLadies São Luís. Co-Founder do Projeto Minha Voz (www.minhavoz.com) contra a violência de gênero. Atualmente trabalha a temática Mulheres nos campos STEM."
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk"
+youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk&t=7614s"
 room = "PEP 20"
 duration = 45
 
