@@ -18,7 +18,7 @@ name = "FastAPI tão rápido quanto Node?"
 description = "Dar um mergulho no framework FastAPI, mostrando o potencial do uso de tarefas assíncronas no Python, trazendo uma comparação performática com ferramentas conhecidamente rápidas e populares como Node.js."
 minibio = "Um apaixonado em usar tecnologia em algo que mude e facilite a vida das pessoas, interessado em desenvolvimento web e escrevo algumas coisas também.Tenho experiência com algumas ferramentas e tecnologias como Python, Angular e bancos de dados NoSql."
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM"
+youtube_channel = "https://www.youtube.com/watch?v=QSVR8RBjNDM&t=6313s"
 room = "PEP 404"
 duration = 45
 
@@ -498,7 +498,7 @@ name = "Introdução à recuperação de informação musical"
 description = "Nessa palestra, exploraremos a Recuperação de Informação Musical, mostrando como um computador pode entender sinais musicais, que tipo de informações podemos relevantes podemos extrair e quais os desafios mais recentes, usando a librosa, uma biblioteca para análise de áudio."
 minibio = "Mestranda em Ciência da Computação, focando em Computação Musical, e Cientista de Dados. Toca bateria em uma banda de rock ruim, gosta de cachorros e de cochilos, mas não gosta de escrever minibios porque nunca sabe o que colocar."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24"
+youtube_channel = "https://www.youtube.com/watch?v=z9ePkyOFD24&t=6131s"
 room = "PEP 8"
 duration = 45
 
@@ -570,7 +570,7 @@ name = "Micropython na Indústria"
 description = "Abordaremos o uso dos microcontroladores nas indústrias e como estes podem baixar o custo da automatização de sistemas industriais e como os novos hardwares de baixo custo compatível com micropython podem representar uma mudança de paradigma nos controles industriais."
 minibio = "Formado em Física, atuei durante o doutorado em aplicações industriais envolvendo sistemas embarcados e controle inteligente em tempo real. Em 2019 fui um dos fundadores da Quickium, Startup que atua na área de IA e Sistemas Embarcados usando python e micropython extensivamente."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM"
+youtube_channel = "https://www.youtube.com/watch?v=bY_uJCIbDaM&t=6725s"
 room = "PEP 0"
 duration = 45
 
@@ -1010,11 +1010,11 @@ duration = 45
 type = "talk"
 start_at = 2020-11-03T16:40:00
 author = "Salete Silva Farias"
-name = "Sub-representação e invisibilidade feminina na STEM (Science, Technology, Engineering and Mathematics): uma análise de estereótipos, educação e plataformas de carreira"
+name = "SUB-REPRESENTAÇÃO E INVISIBILIDADE FEMININA NA STEM (SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATICS): uma análise de estereótipos, educação e plataformas de carreira"
 description = "O que dizem os relatórios mundiais sobre a representatividade das mulheres na STEM e os próximos 100 anos? Na educação e nas carreiras emergentes, entenda como estereótipos de gênero tem impacto no protagonismo feminino na ciência e na visibilidade em plataformas de carreira.\n"
 minibio = "Doutoranda em Lisboa. Mestra em Ciência da Computação. Professora de Computação do Instituto Federal do Maranhão. Founder PyLadies São Luís. Co-Founder do Projeto Minha Voz (www.minhavoz.com) contra a violência de gênero. Atualmente trabalha a temática Mulheres nos campos STEM."
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk"
+youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk&t=7614s"
 room = "PEP 20"
 duration = 45
 
