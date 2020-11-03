@@ -3,6 +3,10 @@
 
 name: Upload Python Package
 
+env:
+  LC_ALL: "pt_BR.UTF-8"
+  LC_CTYPE: "pt_BR.UTF-8"
+
 on:
   push:
     branches: 
