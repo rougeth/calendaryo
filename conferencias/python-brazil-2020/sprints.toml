@@ -2,89 +2,133 @@
 type = "sprint"
 start_at = 2020-11-08T10:00:00
 author = "Rafael Ferreira Fontenelle"
-name = "Tradução da documentação do Python"
+name = "Sprint: Tradução da documentação do Python"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T14:00:00
 author = "Rafael Ferreira Fontenelle"
-name = "Tradução da documentação do Python"
+name = "Sprint: Tradução da documentação do Python"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-09T10:00:00
 author = "Bernardo Fontes"
-name = "model-bakery"
+name = "Sprint: model-bakery"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T14:00:00
 author = "Bernardo Fontes"
-name = "pyp5js"
+name = "Sprint: pyp5js"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T10:00:00
 author = "Alexandre B A Villares"
-name = "(material didático aberto de) introdução à programação com Python em um contexto visual"
+name = "Sprint: (material didático aberto de) introdução à programação com Python em um contexto visual"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T14:00:00
 author = "Alexandre B A Villares"
-name = "(material didático aberto de) introdução à programação com Python em um contexto visual"
+name = "Sprint: (material didático aberto de) introdução à programação com Python em um contexto visual"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-07T10:00:00
 author = "Ana Paula Gomes"
-name = "Dados Abertos de Feira"
+name = "Sprint: Dados Abertos de Feira"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T10:00:00
 author = "Bianca Rosa"
-name = "PyLadies Brasil"
+name = "Sprint: PyLadies Brasil"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T14:00:00
 author = "Bianca Rosa"
-name = "PyLadies Brasil"
+name = "Sprint: PyLadies Brasil"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T14:00:00
 author = "João Sebastião de Oliveira Bueno"
-name = "terminedia"
+name = "Sprint: terminedia"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T10:00:00
 author = "Álvaro Justen"
-name = "Brasil.IO"
+name = "Sprint: Brasil.IO"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-08T14:00:00
 author = "Álvaro Justen"
-name = "Brasil.IO"
+name = "Sprint: Brasil.IO"
 duration = 180
 
 [[slot]]
 type = "sprint"
 start_at = 2020-11-07T14:00:00
 author = "Edward de Oliveira Ribeiro"
-name = "Testes automatizados no projeto SAPL"
+name = "Sprint: Testes automatizados no projeto SAPL"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-07T14:00:00
+author = "Pedro Baesse Alves Pereira"
+name = "Sprint: Dados Livres"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-07T10:00:00
+author = "Renne Silva Gomes de Oliveira Rocha"
+name = "Sprint: Querido Diário"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-07T14:00:00
+author = "Renne Silva Gomes de Oliveira Rocha"
+name = "Sprint: Querido Diário"
+duration = 180
+
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T10:00:00
+author = "Renne Silva Gomes de Oliveira Rocha"
+name = "Sprint: Querido Diário"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "Renne Silva Gomes de Oliveira Rocha"
+name = "Sprint: Querido Diário"
+duration = 180
+
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-08T14:00:00
+author = "Fernanda Scovino"
+name = "Sprint: Base dos Dados Mais"
 duration = 180
