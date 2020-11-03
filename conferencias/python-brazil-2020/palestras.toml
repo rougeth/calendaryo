@@ -96,18 +96,6 @@ duration = 45
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-03T19:10:00
-author = "Anicely Santos"
-name = "Fala pra Geral - Popularizando o acesso aos Dados Abertos Locais"
-description = "Abordar sobre a importância de facilitar o acesso do povo periférico a informações abertas, com o intuito de ajudar na construção de políticas públicas eficazes nesses territórios."
-minibio = "Sou formada em análise e desenvolvimento de sistemas. Analiso dados no programa Mãe Coruja e no Empodera Lab - Laboratório de Inovação Social da Favela. Participo das comunidades Afropython, Pyladies Recife e do Inspirada na computação."
-discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=P29fXS60vhk"
-room = "PEP 20"
-duration = 45
-
-[[slot]]
-type = "talk"
 start_at = 2020-11-03T15:50:00
 author = "Artur Baruchi"
 name = "Estruturas de Dados Probabilísticas"
