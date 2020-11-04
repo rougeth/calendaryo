@@ -150,7 +150,7 @@ name = "Usando RASA Boilerplate para criar um chatbot mais rápido que maratonar
 description = ""
 minibio = "Bruna Moreira é engenheira de software, professora, e desenvolvedora de chatbot nas horas pagas.xa0Nas horas vagas, dança forró, pole dance, tira cochilo na rede com seus gatos e agita comunidades de software livre: AcompanhaLegis, Big Open Source Sister, e PyLadies DF."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I"
+youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I&t=4019s"
 room = "PEP 8"
 duration = 45
 
@@ -342,7 +342,7 @@ name = "Ensino de programação: Como fazer parte da comunidade global The Carpe
 description = "Você gosta de compartilhar conhecimento? Nessa palestra iremos apresentar a comunidade The Carpentries, que ensina habilidades computacionais e de ciência de dados para pessoas pesquisadoras ao redor do mundo, ao mesmo tempo que fomenta uma comunidade ativa, inclusiva e diversa."
 minibio = " Mariana Guilardi está em processo para ser instrutora na The Carpentries. Participa das comunidades PyLadies SP e R-Ladies SP. É bióloga e mestranda em Biotecnologia (USP/IPT/IBu), e estuda biodiversidade. Busca mostrar a importância da tecnologia em áreas não correlatas a ela.\n\nBeatriz Milz é instrutora da The Carpentries e RStudio, participante ativa da comunidade da linguagem R e co-organizadora da R-Ladies SP. Faz doutorado em Ciência Ambiental na USP, pesquisando o tema de transparência na gestão da água. Adora ensinar e contribuir com comunidades.\n"
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM"
+youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM&t=1088s"
 room = "PEP 20"
 duration = 45
 
@@ -378,7 +378,7 @@ name = "Construindo uma plataforma colaborativa de notícias com Python e códig
 description = "Nesta apresentação teremos o passo a passo, principais desafios e soluções encontradas na construção da Pendect.com. Daremos dicas de como atualizar código legado, e como o uso extensivo de type-hints e Dataclasses tornou o processo de desenvolvimento mais robusto e confiável."
 minibio = "Érico Andrei é CTO da Pendect.com, uma platforma colaborativa de notícias construída com Plone, Python e soluções de código aberto. Érico é co-fundador da APyB, Fellow da PSF, membro do conselho da Plone Foudation e tem mais de 20 anos de experiência com soluções web."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I"
+youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I&t=960s"
 room = "PEP 8"
 duration = 45
 
@@ -438,7 +438,7 @@ name = "Ensino Remoto Emergencial de Python"
 description = "Experiências no Ensino Remoto Emergencial, devido ao COVID-19. Estatísticas: 4M de visualizações, 90% de concluintes entre os alunos da FATEC, 4.5K novos alunos no site; 17.5K inscritos na playlist do YouTube; 1M de Downloads nos materiais didáticos. Qual o segredo do sucesso?"
 minibio = "Fernando é docente da FATEC São José dos Campos, graduado em Ciências da Computação pelo IME-USP, mestrado em Engenharia de Computação pelo ITA.\nOs contatos dele você encontra em https://fmasanori.com/\nÉ o criador do Python para Zumbis http://pycursos.com/Python-para-zumbis"
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY"
+youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY&t=408s"
 room = "PEP 0"
 duration = 45
 
@@ -642,7 +642,7 @@ name = "Como a Hand Talk torna o mundo mais acessível utilizando Python?"
 description = "Na palestra irei falar sobre acessibilidade na web, apresentar como a Hand Talk ajuda a tornar os sites acessíveis para surdos e por fim falar, superficialmente, sobre Processamento de Linguagem Natural, Tradução e Visão Computacional"
 minibio = "Meu nome é Joab Leite, sou Cientista de Dados e atualmente lidero o time de Inteligência Artificial na Hand Talk. Sou apaixonado por programação, e um pythonista de carteirinha."
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM"
+youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM&t=4053s"
 room = "PEP 20"
 duration = 45
 
@@ -786,7 +786,7 @@ name = "Human Learning: Por que ensinar e aprender Python?"
 description = "Venha descobrir como o ser humano aprende ensinando, os porquês de aprender Python e formas de criar materiais para ensinar pessoas. Não importa o seu nível de conhecimento na linguagem, vamos aprender juntos!"
 minibio = "Olá, eu sou Mirlla Marques, graduanda em Ciência da computação na Universidade Federal de Campina Grande, amante de Python, Mirlla News no Instagram das PyLadies Paraíba, garota das mídias do Elas@Computação, dou dicas de programação para iniciantes no Instagram."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY"
+youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY&t=3503s"
 room = "PEP 0"
 duration = 45
 
@@ -930,7 +930,7 @@ name = "Utilizando Dataloaders para melhorar o desempenho das suas queries no Gr
 description = "GraphQL tem se apresentado como uma boa ferramenta para consultar os dados de API's web, porém alguns problemas podem surgir com a sua utilização. A palestra abordará como resolver o problema do número de consultas ao banco de dados através do uso de Dataloaders."
 minibio = "Bacharel em Ciência da Computação pela UFPR, atua como Desenvolvedor de Software na Fohat e tem Python como linguagem principal há 1 ano e meio."
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU"
+youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU&t=967s"
 room = "PEP 404"
 duration = 45
 
@@ -1038,7 +1038,7 @@ name = "Separando a lógica de extração da lógica de navegação com Scrapy"
 description = "Nesta apresentação, dividirei um pouco da minha experiência ao longo de 2 anos criando, mantendo e escalando soluções de extração de dados da web e tocarei em pontos importantes sobre como você pode separar a lógica de extração da lógica de crawling melhorando seus spiders."
 minibio = "Desenvolvedor de software full-stack e entusiasta do gerenciamento de processos e pessoas. Mais de 5 anos de experiência em desenvolvimento de software para a web, já liderou times ágeis e multidisciplinares. Há 2 anos trabalha criando e escalando soluções de raspagem de dados."
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU"
+youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU&t=3990s"
 room = "PEP 404"
 duration = 45
 
