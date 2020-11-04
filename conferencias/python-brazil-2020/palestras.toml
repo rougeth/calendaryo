@@ -174,7 +174,7 @@ name = "Desmitificando pipeline de dados com python: o que aprendi em 6 anos."
 description = "Quais os problemas da engenharia de dados? Python é uma ferramenta que importa nessa jornada. Conceitos básicos serão apresentados para desmistificar erros mais comuns ao projetar pipelines usando Python, desde aquisição, ingestão, transformação, armazenamento e gerenciamento."
 minibio = "Robson é desenvolvedor a mais de 16 anos e é envolvido nas comunidades de software, especialmente a comunidade Python. Organiza e fala em conferências e encontros desde 2011. Trabalha com dados a 6 anos e atualmente é desenvolvedor na Microsoft/GitHub."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY"
+youtube_channel = "https://www.youtube.com/watch?v=jivXBdTsybk&t=648s"
 room = "PEP 0"
 duration = 45
 
@@ -186,7 +186,7 @@ name = "Reconhecimento de texto e imagem com Python e CloudFunctions automatizan
 description = "Vamos ver um pouquinho de machine learning na prática, aplicado a processos de TV? Vamos mostrar como líamos informações de claquetes em vídeos e outras que queríamos para automatizar processos operacionais invisíveis às nossas telinhas :)"
 minibio = "Punk, paulista, santista e alucinada pela Marvel. Fundadora de iniciativas pra minas em TI e Docker Community Leader. Sou DevOps e trampo na Descomplica e pós-graduanda em Forense Computacional. Nas horas vagas, estou codando (também!) e cuidando de ratinhos de estimação. "
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU"
+youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU&t=12949s"
 room = "PEP 404"
 duration = 45
 
@@ -222,7 +222,7 @@ name = "Deep Learning com Python"
 description = "Breve abordagem das principais técnicas de deep learning com python. Apresentando exemplos, ferramentas comuns e uma discursão sobre os principais desafios da área."
 minibio = "Carol Silva é divulgadora científica pelo PretaTech, podcaster no Cientistas Criativas Cast, desenvolvedora, pesquisadora na área de visão computacional e compartilha os casos da vida no Twitter. É muito possível encontra-la no discord discutindo alguma estratégia de Overwatch."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY"
+youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM"
 room = "PEP 0"
 duration = 45
 
@@ -294,7 +294,7 @@ name = "Como submeter uma PEP pra comunidade : - Python"
 description = "O que são Propostas de Enriquecimento do Python ou PEP's?Elas são documentos da linguagem Python que descrevem as suas mudanças,sendo dividido de 3 modalidades distinta. Sendo assim iremos entender quais são os passos necessários para a públicação de uma PEP em cada modalidade."
 minibio = "Sou Engenheira de Computação e possuo experiência em desenvolvimento web.Sou amante de Python desde os 15 anos de idade quando tive contato a linguagem. Além disso contribuo com as comunidades ministrando palestras Pois acredito no poder que o conhecimento aberto possui!"
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM"
+youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM&t=13022s"
 room = "PEP 20"
 duration = 45
 
@@ -942,7 +942,7 @@ name = "O Python fofoqueiro: Utilizando Spacy e outras bibliotecas Python para l
 description = "Dentre as diversas aplicações para a inteligência artificial o Processamento de Linguagem Natural (NLP) vem crescendo em demanda e novas abordagens. Esta palestra irá explorar a utilização da bibliotecas como a Spacy para leitura de conteúdos da internet.\n"
 minibio = "Sou entusiasta e pesquisador de tecnologias relacionadas à inteligência artificial. Atualmente atuo como líder técnico de projetos de IA na Fundação CERTI e estou iniciando os meus estudos no mestrado em Ciência da Computação na UFSC."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I"
+youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I&t=12990s"
 room = "PEP 8"
 duration = 45
 
