@@ -54,7 +54,7 @@ name = "Essa documentação só falta falar - Escrevendo, revisando e testando (
 description = "Muitos acham que escrever documentação é fácil, mas não é a toa que existe uma profissão inteira dedicada a isso. Nessa palestra, pretendo apresentar o processo que levou a nossa equipe de pessoas desenvolvedoras a escrever documentação de qualidade e padronizada"
 minibio = "Amanda é desenvolvedora full stack na Vinta Software. Ela vem trabalhando com Django e React há cerca de três anos. É organizadora do Django Girls e palestrante de segunda viagem na Python Brasil."
 discord_channel = "https://discord.gg/Mn6FM3Hhvn"
-youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM"
+youtube_channel = "https://www.youtube.com/watch?v=jaM88MGaJQM&t=7022s"
 room = "PEP 20"
 duration = 45
 
@@ -558,7 +558,7 @@ name = "Design Patterns, Orientação a Objetos por Fora dos Frameworks"
 description = "Dentro do código de um projeto com fins artísticos: o Terminedia, exploramos usos diversos de decoradores, herança múltipla, sobrecarga de operadores, slicing avançado de uma matriz 2D, generators, e outros elementos mais avançados de OOP, tudo em Python puro."
 minibio = "João S. O. Bueno, participa da comunidade Python no Brasil há vários anos. Trabalha com a linguagem desde 2001 e prefere explorar e expor aspectos avançados da linguagem de forma lúdica em seus projetos de hobby. Atualmente atua como Líder Técnico na Júlios Baer Family Office."
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
-youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU"
+youtube_channel = "https://www.youtube.com/watch?v=iQhqxkgqXrU&t=6973s"
 room = "PEP 404"
 duration = 45
 
@@ -870,7 +870,7 @@ name = "Tipos de tipos?"
 description = "Demonstração de como usar tipagem estatica em Python, do básico até chegar em Higher Kinded Type"
 minibio = "Software Engineer na Globo.com apaixonado por desafios, tecnologia e boas práticas. dry-python core developer"
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I"
+youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I&t=7000s"
 room = "PEP 8"
 duration = 45
 
@@ -978,7 +978,7 @@ name = "Introdução a automação de processos robóticos com Python"
 description = "Se seu dia a dia envolve trabalhos repetitivos como operar sistemas, sites, disparar emails, editar planilhas, documentos, etc. Venha conhecer um pouco do que o Python pode fazer para lhe ajudar a economizar a mais valiosa das moedas, o tempo."
 minibio = "Graduado em Ciência da Computação e atualmente Engenheiro de Software na Nuveo, trabalho construindo automações, integrações e mantendo microserviços em algumas linguagens, mas sempre mantendo o prediletismo por Python."
 discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY"
+youtube_channel = "https://www.youtube.com/watch?v=1HhMeU9dpZY&t=6561s"
 room = "PEP 0"
 duration = 45
 
