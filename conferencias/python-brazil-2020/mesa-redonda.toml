@@ -13,6 +13,7 @@ description = ""
 start_at = 2020-11-02T10:00:00
 duration = 120
 youtube_channel = "https://www.youtube.com/watch?v=-DFgRTGRCA8&t=2305"
+discord_channel = "https://discord.com/channels/767870635874582600/772807508963753994"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -22,6 +23,7 @@ start_at = 2020-11-03T10:00:00
 duration = 120
 author = "Mario Sérgio, Maria Vitória Ramos, Luis Kimaid, Márcio Coimbra"
 youtube_channel = "https://www.youtube.com/watch?v=a1LHfsYq8rU"
+discord_channel = "https://discord.com/channels/767870635874582600/772807508963753994"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -31,6 +33,7 @@ start_at = 2020-11-04T10:30:00
 duration = 120
 author = "Letícia Portella, Jessica Temporal, Carla Vieira, Mila Laranjeira e Vivi Mota"
 youtube_channel = "https://www.youtube.com/watch?v=ruaGqonhT7w"
+discord_channel = "https://discord.com/channels/767870635874582600/772807508963753994"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -39,6 +42,7 @@ description = "Espaço para a Associação Python Brasil (APyB)"
 start_at = 2020-11-05T10:00:00
 duration = 120
 author = "Patrick Mazulo e Gustavo Carvalho"
+discord_channel = "https://discord.com/channels/767870635874582600/772807508963753994"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -46,3 +50,4 @@ name = "Transmissão de conhecimento dentro da comunidade"
 description = ""
 start_at = 2020-11-06T10:00:00
 duration = 120
+discord_channel = "https://discord.com/channels/767870635874582600/772807508963753994"
