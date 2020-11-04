@@ -4,6 +4,7 @@ name = "Abertura Oficial da Python Brasil 2020"
 description = ""
 start_at = 2020-11-02T09:30:00
 duration = 30
+youtube_channel = "https://www.youtube.com/watch?v=-DFgRTGRCA8&t=537"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -11,6 +12,7 @@ name = "PyLadies pelo Brasil: construção coletiva, diversidade e inclusão"
 description = ""
 start_at = 2020-11-02T10:00:00
 duration = 120
+youtube_channel = "https://www.youtube.com/watch?v=-DFgRTGRCA8&t=2305"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -19,6 +21,7 @@ description = "A mesa redonda discutirá, entre outros pontos, as dificuldades, 
 start_at = 2020-11-03T10:00:00
 duration = 120
 author = "Mario Sérgio, Maria Vitória Ramos, Luis Kimaid, Márcio Coimbra"
+youtube_channel = "https://www.youtube.com/watch?v=a1LHfsYq8rU"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -27,6 +30,7 @@ description = "Nessa atividade vocês vão poder acompanhar a gravação de um e
 start_at = 2020-11-04T10:30:00
 duration = 120
 author = "Letícia Portella, Jessica Temporal, Carla Vieira, Mila Laranjeira e Vivi Mota"
+youtube_channel = "https://www.youtube.com/watch?v=ruaGqonhT7w"
 
 [[ slot ]]
 type = "mesa-redonda"
