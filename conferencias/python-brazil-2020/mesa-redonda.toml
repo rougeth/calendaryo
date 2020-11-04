@@ -25,6 +25,7 @@ name = "Pizza de Dados Ao Vivo: Divulgação Científica"
 description = "Nessa atividade vocês vão poder acompanhar a gravação de um episódio do Podcast Pizza de Dados e vai ter a oportunidade de mandar sua pergunta ao vivo para todas as participantes! O Pizza é o primeiro e mais querido podcast brasileiro sobre ciência de dados. Fundado em 2017, o podcast mensalmente conversa pessoas especialistas na área de dados e leva ao público de forma leve e divertida conhecimento sobre as mais diversas subáreas dentro da ciência de dados. Nesta edição especial ao vivo, vamos ter a participação de Carla Vieira do canal E A.I Carla, Mila Laranjeira e Vivi Mota do canal Peixe Babel e iremos discutir sobre a divulgação científica e ciência de dados no Brasil! Não deixe de assistir esse episódio inédito pela primeira vez ao vivo. Essa atividade é voltada para o públicos de todos os níveis e não precisa ter conhecimento prévio do tema."
 start_at = 2020-11-04T10:30:00
 duration = 120
+author = "Letícia Portella, Jessica Temporal, Carla Vieira, Mila Laranjeira e Vivi Mota"
 
 [[ slot ]]
 type = "mesa-redonda"
@@ -32,6 +33,7 @@ name = "Associação Python Brasil (APyB)"
 description = "Espaço para a Associação Python Brasil (APyB)"
 start_at = 2020-11-05T10:00:00
 duration = 120
+author = "Patrick Mazulo e Gustavo Carvalho"
 
 [[ slot ]]
 type = "mesa-redonda"
