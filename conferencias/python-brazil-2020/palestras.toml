@@ -192,13 +192,13 @@ duration = 45
 
 [[slot]]
 type = "talk"
-start_at = 2020-11-04T19:10:00
+start_at = 2020-11-05T18:20:00
 author = "Marcel Pinheiro Caraciolo"
 name = "Como Análise de Dados com Python me ajudou a correr melhor!"
 description = "Apresentarei como podemos analisar dados históricos de corridas para avaliar desempenho e traçar estratégias para corridas de rua. Para fãs de data science, python em sports analytics, uma oportunidade de conhecer aplicações diferentes e ainda sair com vontade de praticar sua primeira corrida! "
 minibio = "Marcel Pinheiro Caraciolo, criador do pacote runpandas. Quando não estou correndo ou programando, gerencio um time de bioinformática e de sistemas no laboratório clínico de genética Genomika. Corredor amador, fã de lego e apaixonado por data science, produtividade e agilidade."
 discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I"
+youtube_channel = ""
 room = "PEP 8"
 duration = 45
 
@@ -243,7 +243,7 @@ type = "talk"
 start_at = 2020-11-05T19:10:00
 author = "Lidiane de Souza Monteiro"
 name = "Dev, Ops!"
-description = ""
+description = "Nesta palestra vamos apresentar os dilemas da pessoa desenvolvedora que precisa aprender DevOps e mostrar na prática como Docker, Kubernetes e Integração contínua podem ser utilizados em uma aplicação Django. Para isso, vamos mostrar como aprender e ter como base o Django Girls Tutorial para aprofundar conhecimentos em outras ferramentas."
 minibio = "Lidiane Monteiro é graduanda do curso de Licenciatura em Computação na UFRPE, Fundadora da InspirAda na Computação, Desenvolvedora de Software, Professora de Computação e co-fundadora do PyLadies Recife. "
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
 youtube_channel = ""
@@ -500,18 +500,6 @@ minibio = "Giovana de Lucca é pós-graduanda em Ciência de Dados pela Unive
 discord_channel = "https://discord.gg/BkZT9NHMkF"
 youtube_channel = "https://www.youtube.com/watch?v=HGB7DpeCNWE&t=3028s"
 room = "PEP 8"
-duration = 45
-
-[[slot]]
-type = "talk"
-start_at = 2020-11-02T19:10:00
-author = "Giulio Carvalho Cavalcante"
-name = "Querido Diário, hoje raspei dados usando... método científico?!"
-description = "O projeto Querido Diário tem como objetivo tornar acessíveis dados de diários oficiais de todos os municípios. Mas, se eu quiser contribuir, por onde eu começo? Iremos analisar um site de diário oficial para a criação de um raspador com um Método Científico para nos ajudar."
-minibio = "Brotei das terras de Recife, curso Engenharia da Computação mas foi durante o estágio que comecei a mexer e me apaixonar por Python e pela comunidade. Hoje sou da organização do PUG-PE e do Projeto Embaixadoras da OKFN-BR, onde ajudo a manter o projeto Querido Diário."
-discord_channel = "https://discord.gg/mMwUPn4pA8"
-youtube_channel = "https://www.youtube.com/watch?v=NqqieeA5noA&t=14334s"
-room = "PEP 0"
 duration = 45
 
 [[slot]]
@@ -1076,5 +1064,17 @@ minibio = "Apaixonado por Infraestrutura, Banco de Dados, Cultura DevOps e Empre
 discord_channel = "https://discord.gg/Xbd5t6ngVr"
 youtube_channel = "https://www.youtube.com/watch?v=SHyHQzp7sVI&t=14945s"
 room = "PEP 404"
+duration = 45
+
+[[slot]]
+type = "talk"
+start_at = 2020-11-04T19:10:00
+author = "Giulio Carvalho Cavalcante"
+name = "Querido Diário, hoje raspei dados usando... método científico?!"
+description = "O projeto Querido Diário tem como objetivo tornar acessíveis dados de diários oficiais de todos os municípios. Mas, se eu quiser contribuir, por onde eu começo? Iremos analisar um site de diário oficial para a criação de um raspador com um Método Científico para nos ajudar."
+minibio = "Brotei das terras de Recife, curso Engenharia da Computação mas foi durante o estágio que comecei a mexer e me apaixonar por Python e pela comunidade. Hoje sou da organização do PUG-PE e do Projeto Embaixadoras da OKFN-BR, onde ajudo a manter o projeto Querido Diário."
+discord_channel = "https://discord.gg/BkZT9NHMkF"
+youtube_channel = "https://www.youtube.com/watch?v=fnGw9-xYq6I"
+room = "PEP 8"
 duration = 45
 
