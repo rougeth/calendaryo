@@ -245,12 +245,12 @@ author = "Marcel Pinheiro Caraciolo"
 name = "Como Análise de Dados com Python me ajudou a correr melhor!"
 description = "Apresentarei como podemos analisar dados históricos de corridas para avaliar desempenho e traçar estratégias para corridas de rua. Para fãs de data science, python em sports analytics, uma oportunidade de conhecer aplicações diferentes e ainda sair com vontade de praticar sua primeira corrida! "
 minibio = "Marcel Pinheiro Caraciolo, criador do pacote runpandas. Quando não estou correndo ou programando, gerencio um time de bioinformática e de sistemas no laboratório clínico de genética Genomika. Corredor amador, fã de lego e apaixonado por data science, produtividade e agilidade."
-discord_channel = "https://discord.gg/BkZT9NHMkF"
-youtube_channel = "https://www.youtube.com/watch?v=JogBuLVpsoM"
+discord_channel = "https://discord.gg/mMwUPn4pA8"
+youtube_channel = "https://www.youtube.com/watch?v=wNnkGFaUZVM"
 slides_url = ""
 slides_filename = ""
 about_url = ""
-room = "PEP 8"
+room = "PEP 0"
 duration = 45
 
 [[slot]]
