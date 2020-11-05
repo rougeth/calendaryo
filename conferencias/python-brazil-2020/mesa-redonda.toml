@@ -38,7 +38,7 @@ discord_channel = "https://discord.com/channels/767870635874582600/7728075089637
 [[ slot ]]
 type = "mesa-redonda"
 name = "Associação Python Brasil (APyB)"
-description = "Espaço para a Associação Python Brasil (APyB)"
+description = "Neste espaço, a Associação Python Brasil (APyB) terá uma conversa aberta com pessoas que contribuiram com a história da APyB, e apresentará o papel da Associação como suporte à comunidade Python brasileira. As pessoas convidadas para esta mesa redonda são: Tania Almeida, Luciano Ramalho, Erico Andrei, Osvaldo Santana, Leo Rochael"
 start_at = 2020-11-05T10:00:00
 duration = 120
 author = "Patrick Mazulo e Gustavo Carvalho"
