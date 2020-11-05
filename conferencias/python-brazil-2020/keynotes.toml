@@ -31,7 +31,7 @@ name = "Keynote"
 author = "Álvaro Justen (Turicas)"
 start_at = 2020-11-05T20:00:00
 duration = 90
-youtube_channel = ""
+youtube_channel = "https://www.youtube.com/watch?v=cUYFIga_JXU"
 discord_channel = "https://discord.com/channels/767870635874582600/772949769857269831"
 
 [[ slot ]]
