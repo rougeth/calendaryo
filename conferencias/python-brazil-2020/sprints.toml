@@ -1,27 +1,27 @@
 [[slot]]
 type = "sprint"
+start_at = 2020-11-07T10:00:00
+author = "Rafael Ferreira Fontenelle"
+name = "Sprint: Tradução da documentação do Python"
+duration = 180
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-07T14:00:00
+author = "Rafael Ferreira Fontenelle"
+name = "Sprint: Tradução da documentação do Python"
+duration = 180
+
+[[slot]]
+type = "sprint"
 start_at = 2020-11-08T10:00:00
-author = "Rafael Ferreira Fontenelle"
-name = "Sprint: Tradução da documentação do Python"
-duration = 180
-
-[[slot]]
-type = "sprint"
-start_at = 2020-11-08T14:00:00
-author = "Rafael Ferreira Fontenelle"
-name = "Sprint: Tradução da documentação do Python"
-duration = 180
-
-[[slot]]
-type = "sprint"
-start_at = 2020-11-09T10:00:00
 author = "Bernardo Fontes"
 name = "Sprint: model-bakery"
 duration = 180
 
 [[slot]]
 type = "sprint"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-07T14:00:00
 author = "Bernardo Fontes"
 name = "Sprint: pyp5js"
 duration = 180
@@ -63,7 +63,7 @@ duration = 180
 
 [[slot]]
 type = "sprint"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-07T14:00:00
 author = "João Sebastião de Oliveira Bueno"
 name = "Sprint: terminedia"
 duration = 180
@@ -131,4 +131,12 @@ type = "sprint"
 start_at = 2020-11-08T14:00:00
 author = "Fernanda Scovino"
 name = "Sprint: Base dos Dados Mais"
+duration = 180
+
+
+[[slot]]
+type = "sprint"
+start_at = 2020-11-07T10:00:00
+author = "Rafahela Garcia Bazzanella"
+name = "Sprint: Portal Modelo"
 duration = 180
