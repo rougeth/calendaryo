@@ -15,6 +15,7 @@ start_at = 2020-11-03T20:00:00
 duration = 90
 youtube_channel = "https://www.youtube.com/watch?v=2DhFUMwAGyI"
 discord_channel = "https://discord.com/channels/767870635874582600/772949769857269831"
+slides_url = "http://turicas.info/slides/sobre-os-ombros-de-gigantes/pybr2020.html"
 
 [[ slot ]]
 type = "keynote"
