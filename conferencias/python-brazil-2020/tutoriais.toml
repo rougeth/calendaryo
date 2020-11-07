@@ -60,7 +60,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-07T14:00:00
+start_at = 2020-11-07T15:00:00
 author = "Fernando Masanori"
 name = "Estrutura de Dados é ❤️"
 description = "A falha mais comum no ensino da computação, é dar ênfase às regras específicas da linguagem, em vez de realçar o algoritmo\". Knuth. Veja, em Python, na essência: Recursão. Vetores. Pilhas e Filas. Algoritmos de Ordenação. Algoritmos de Enumeração. Boyer-Moore. Teoria dos Grafos."
@@ -70,7 +70,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-07T14:00:00
+start_at = 2020-11-07T15:00:00
 author = "Raissa Bergamini"
 name = "Desenvolvendo pyspark localmente com Docker"
 description = "Veremos o básico sobre spark, docker e como usar essas ferramentas para desenvolver localmente de forma a reduzir custos de desenvolvimento e facilitar a portabilidade dos projetos para a nuvem em ferramentas como EMR e Glue."
@@ -80,7 +80,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-07T14:00:00
+start_at = 2020-11-07T15:00:00
 author = "Lucas Grassano Lattari"
 name = "Criando Aplicações com Python e OpenCV 4"
 description = "Ao longo desta exposição, serão apresentados os elementos básicos para uso do OpenCV por meio do Python, enfatizando seu uso por meio da plataforma Google Colab, o manuseio de pixels, extração de objetos em imagens, sobreposição de imagens, dentre outros. "
@@ -90,7 +90,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-07T14:00:00
+start_at = 2020-11-07T15:00:00
 author = "Nayane Jaqueline Costa Maia"
 name = "Mapas interativos para a agricultura em Python"
 description = "Vamos construir um mapa interativo usando dados abertos sobre a agricultura no Brasil. Nesse tutorial é necessário o conhecimento em Python entre o básico ou intermediário para acompanhar o processo da construção dos mapas. Necessário instalação dos pacotes: geopandas, geoviews."
@@ -120,7 +120,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-08T15:00:00
 author = "Arthur Henrique Dell' Antonia"
 name = "Criando uma aplicação de dados com Streamlit e deployando a mesma com Heroku"
 description = "Tutorial que visa um aprendizado inicial da ferramenta Streamlit, a qual permite a criação de aplicações de dados performáticas e bonitas, de forma simples, em Python, e de graça. Feito isso, partiremos para o deploy da mesma usando Heroku, para deixá-la disponível na internet!"
@@ -140,7 +140,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-08T15:00:00
 author = "Camila Laranjeira"
 name = "Redes Neurais com PyTorch"
 description = "Vamos construir um modelo de classificação com uma Rede Neural de perceptrons, o neurônio mais utilizado dentre as arquiteturas neurais. Usaremos o framework PyTorch para um desenvolvimento simples e efetivo e conheceremos os principais elementos de uma Rede Neural no processo."
@@ -160,7 +160,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-08T15:00:00
 author = "João Paulo Carvalho"
 name = "Criando seu primeiro jogo com Python e PyGame"
 description = "Iremos nos familiarizar com conceitos primordiais do desenvolvimento de jogos como sprites, loop, clock, entre outros e conhecer a poderosa biblioteca PyGame. Tentaremos traçar uma trajetória descontraída e divertida rumo à criação do nosso primeiro jogo usando unicamente Python."
@@ -180,7 +180,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-08T15:00:00
 author = "Felipe Nornberg Schuch"
 name = "Xarray, estruturas para dados multidimensionais"
 description = "Tutorial introdutório para Xarray, um pacote Python de código aberto que é capaz de tornar o trabalho com arranjos de dados multidimensionais e catalogados uma tarefa simples e eficiente. Destaca-se a sua sinergia com outras ferramentas para I/O, plotagem e computação paralela."
@@ -190,7 +190,7 @@ duration = 180
 
 [[slot]]
 type = "tutorial"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-08T15:00:00
 author = "Alejandro Mesias"
 name = "Simplificando criar telas para desktop em tkinter com o PAGE"
 description = "Desenvolvimento de aplicação desktop com o Tkinter com o PAGE: Python Automatic GUI Generator. Aprendizado prático de instalação, desenho de tela na ferramenta, geração de scripts e integração com sistema. Dicas para gerar com facilidade telas na sua aplicação python."
