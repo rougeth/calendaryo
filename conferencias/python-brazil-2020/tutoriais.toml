@@ -11,10 +11,10 @@ duration = 360
 [[slot]]
 type = "tutorial"
 start_at = 2020-11-07T10:00:00
-author = "Ricardo Manhães Savii"
-name = "Programação para seu projeto de Machine Learning"
-description = "Organização e padrões em projetos são importantes para auxiliar na replicabilidade de seu experimento. Neste workshop veremos tecnologias para estes passos e colocaremos mãos na massa para contruir o pipeline básico de deploy de uma API para um modelo de Machine Learning."
-minibio = "\nTrabalho como Coordenador de Pesquisa e Desenvolvimento do Grupo Dafiti. Gosto de participar de projetos de pesquisa e organizações de eventos para capacitação tecnológica individual. Também sou um eterno aluno com foco na construção de Sistemas Inteligentes."
+author = "Glauco de Souza Rolim"
+name = "Introdução à Machine Learning com Regressão Linear Múltipla (RLM) e seleção de variáveis por stewise"
+description = "Apresentamos um histórico de Machine Learning e desenvolvemos um tutorial completo de como trabalhar com RLM utilizando stasmodels, sklearn e mlxtend."
+minibio = "Glauco de Souza Rolim é prof. Dr. na Universidade Estadual Paulista- UNESP/Jaboticabal."
 level = "Intermediário"
 duration = 360
 
