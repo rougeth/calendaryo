@@ -128,7 +128,7 @@ duration = 180
 
 [[slot]]
 type = "sprint"
-start_at = 2020-11-08T14:00:00
+start_at = 2020-11-08T10:00:00
 author = "Fernanda Scovino"
 name = "Sprint: Base dos Dados Mais"
 duration = 180
