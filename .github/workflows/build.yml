@@ -1,0 +1,27 @@
+name: Build
+on: push
+env:
+  LC_ALL: pt_BR.UTF-8
+  LC_CTYPE: pt_BR.UTF-8
+  GOOGLE_API_CREDENTIALS: google-api-auth.json
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Locale
+        run: sudo dpkg-reconfigure locales
+      - name: Setup token
+        env: # Or as an environment variable
+          GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
+        run: printf "%s" "$GOOGLE_KEY" > google-api-auth.json
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+      - name: Install Poetry
+        uses: abatilo/actions-poetry@v2.0.0
+      - name: Install dependencies
+        run: poetry install
+      - name: Build calendar
+        run: poetry run python calendaryo.py

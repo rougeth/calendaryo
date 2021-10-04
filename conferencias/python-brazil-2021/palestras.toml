@@ -1,4 +1,4 @@
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Paulo Vasconcellos"
 minibio = "Machine Learning Specialist na Hotmart, Mestrando na PUC Minas e Cofundador do Data Hackers. Com mais de 10 anos de experiência em Tecnologia, atua desde 2016 em projetos de Data Science e Machine Learning, desde liderança técnica e construção de times de dados, até projetos de ML de alto impacto, como Detecção de Fraudes, NLP, Sistemas de Recomendação e Forecasting. Já trabalhou em parceria com empresas referentes na indústria como Udacity e Datacamp."
@@ -6,8 +6,9 @@ description = "Conheça como a Hotmart resolveu um problema antigo de negócio e
 name = "Detecção de anomalias em séries temporais de produtos digitais"
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Camila Maia"
 minibio = "Dev backend que ama arquitetar sistemas, criar DevTools e automatizar processos. 1º perfil aceito no GitHub Sponsors Brasil. Entusiasta de open-source que acredita no poder das comunidades na tecnologia."
@@ -15,8 +16,9 @@ description = "Como testar objetos complexos utilizando factory_boy. Aprendizado
 name = "factory_boy: testando objetos complexos"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "André Carneiro"
 minibio = "Pythonista desde 2013, André já foi salvo pelo admin do Django mais vezes do que consegue lembrar. Hoje trabalha como full-stack developer na Vinta Software."
@@ -24,8 +26,9 @@ description = "Aprenderemos sobre Widgets, peça chave dos formulários Django, 
 name = "Ativando superpoderes do Django Admin com Widgets"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Israel Teixeira"
 minibio = "Sócio da NaN Systems e pythonista de longa data, tem levado tecnologia para o universo do direito desde 2013 ensinando advogados a programar e criando soluções como o minutario.online."
@@ -33,8 +36,9 @@ description = "Compartilharemos nossa experiência criando aplicações full-sta
 name = "Full-stack Django Rest Framework"
 start_at = 2021-10-11T19:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Arthur Dell'Antonia"
 minibio = "Sou o Tuio, um cara que ama música e é fascinado pela ideia de automatizar coisas. Tenho tido o privilégio de atuar como eng. de dados desde jan/20, na Conta Azul, sempre animado com os desafios."
@@ -42,8 +46,9 @@ description = "Engenheiros de Dados devem se preocupar em automatizar o processo
 name = "Porque engenheiros de dados não devem escrever DAGs no Airflow"
 start_at = 2021-10-12T15:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Marcelo Mine"
 minibio = "Cientista de Dados no Santander/F1rst. Mestre em Computação, bacharel em Sistemas de Informação e Físico. Co-fundador do Data Science Sanca e Grupy-Sanca, Co-organizador do Opensanca e Barista."
@@ -51,8 +56,9 @@ description = "Venha ouvir a palavra do Aprendizado Semissupervisionado, um tipo
 name = "Aprendizado Semissupervisionado - Diminua a Esparsidade e seja feliz!"
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "João Bueno"
 minibio = "\nJoão S. O. Bueno atua com Python desde 2001 e ministrou inúmeras palestras e cursos, trabalhando em projetos em diversos domínios da computação com. Em 2021 recebeu a honraria de Fellow of The Python Software Foundation.\n"
@@ -60,8 +66,9 @@ description = "Como usar os mecanismos internos do Python para criar as ferramen
 name = "Python avançado por fora dos frameworks: decorators para cache coordenado e propriedades reativas"
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Mayara Machado"
 minibio = "Amante de pizza, forró e python. Atualmente sou Data Engineer no Mercado Livre e também faço parte do PyLadies Sergipe, onde tento contribuir para que tenhamos cada vez mais mulheres em TI."
@@ -69,8 +76,9 @@ description = "Aprenda sobre o que é e onde utilizar o Airflow para automatizar
 name = "Usando Airflow para orquestrar sua ETL."
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Arthur Fortes"
 minibio = "Desenvolvedor Python desde 2009, possui graduação, mestrado e doutorado (USP, 2019) em Ciências da Computação nas áreas de aprendizagem de máquina, sistemas de recomendação e recuperação de informação. Atualmente trabalha como especialista em modelagem na empresa ClearSale e tem como áreas de interesse: análise de dados, aprendizagem de máquina, deep learning, visão computacional e processamento de linguagem natural. "
@@ -78,8 +86,9 @@ description = "Conheça um algoritmo que infere informações como: idade, gêne
 name = "Explorando características faciais para inferir informações demográficas utilizando Python, Deep Learning e OpenCV"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Dani Monteiro"
 minibio = "Mestra em Engenharia da Computação, TEDx Speaker, autora do blog e do canal DB4Beginners.com, criadora da Dani Academy.\nApós anos como desenvolvedora, já foi DBA, arquiteta e engenheira de dados, hoje é consultora de dados. \nGanhadora dos prêmios:\n- MongoDB Champion\n- Google Developer Expert (GDE);\n- Microsoft Regional Director;\n- Microsoft MVP;\n- Women in IA (prêmio concedido pela I2AI)\n- William Zola (prêmio de inovação da MongoDB), \n- MongoDB Female Innovator\n- Microsoft Innovative Educator Expert  "
@@ -87,8 +96,9 @@ description = "Quantas vezes você já reclamou do seu banco de dados hoje?\nO d
 name = "O limite do seu Banco de Dados Relacional"
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Miguel Brito"
 minibio = "Engenheiro de Software com foco em IA, mora em Londres e trabalha na Paige, onde usa Python e IA para combater câncer. Nas horas vagas escreve sobre Python em seu blog pessoal https://miguendes.me."
@@ -96,8 +106,9 @@ description = "Venha conhecer o pyperf, uma biblioteca para escrita, análise e 
 name = "Benchmark de Aplicações Python com pyperf"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Vinicius Sato"
 minibio = "Bacharel em Economia pela UnB, Mestre em Desenvolvimento Econômico pela UFPR, Consultor, Nômade, que ama carnaval e atualmente contribuindo para área de cenários econômicos de um banco."
@@ -105,8 +116,9 @@ description = "Já pensou em encarar o desafio de otimizar espacialmente uma red
 name = "Desafio da otimização geoespacial da rede de ensino bahiana"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Nelson Forte"
 minibio = "Master of Science in computer vision with large machine learning expertise."
@@ -114,8 +126,9 @@ description = "pupyl - A biblioteca de busca por imagem para Python"
 name = "pupyl - A biblioteca de busca por imagem para Python"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Inácio Medeiros"
 minibio = "Bacharel em TI e Doutor em Bioinformática pela UFRN. Trabalho com análise de dados genômicos e machine learning aplicado a eles. Pythonista desde 2009 e headbanger desde 2007."
@@ -123,8 +136,9 @@ description = "Conheça a biblioteca Hyperactive, destinada a otimização de pa
 name = "Overhauling em IA: Tunando parâmetros de modelos de machine learning de forma otimizada"
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "André Silva"
 minibio = "Engenheiro de Machine Learning especialista na Creditas e experiência prévia em desenvolvimento de Software. Graduado em Engenharia de Automação e Controle e MBA em IA e Machine Learning."
@@ -132,8 +146,9 @@ description = "Abordaremos a etapa final de um fluxo de um projeto de Data Scien
 name = "Terminei a modelagem, e agora?"
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Vivian Yamassaki"
 minibio = "Mestra em Sistemas de Informação pela USP, é Cientista de Dados na Creditas. Também atua em projetos para incentivar mulheres na área de dados, como a comunidade Mulheres em Inteligência Artificial."
@@ -141,8 +156,9 @@ description = "Abordaremos a etapa final de um fluxo de um projeto de Data Scien
 name = "Terminei a modelagem, e agora?"
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Irene Pinheiro"
 minibio = "Técnica em Informática pelo IFRN, Bacharel em Tecnologia da Informação pela UFRN, atualmente trabalha na Thoughtworks e cursa Ciência da Computação na Universidade Federal do Rio Grande do Norte. Amante das ações que auxiliam a diversidade e inclusão na área de Tecnologia da Informação, além de ser ativista em causas como igualdade de gênero e empoderamento feminino. Por fim, jogadora de xadrez."
@@ -150,8 +166,9 @@ description = "Algoritmos de otimização são frequentemente utilizados para re
 name = "Como algoritmos de otimização podem auxiliar a engenharia de software"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Emanuel Lima"
 minibio = "Emanuel é research engineer na Block Science, uma consultoria de ciência de dados para sistemas complexos, onde reescreve a biblioteca de simulação cadCAD em Julia."
@@ -159,161 +176,179 @@ description = "Conheça a biblioteca cadCAD, escrita em Python, que é usada na 
 name = "cadCAD: Simulação de Sistemas Complexos em Python"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
+room = "Timnit Gebru"
 
-[[slots]]
-type = "talk"
-author = "Ramiro Caro"
-minibio = "Científico de datos e Ingeniero Electrónico, egresado de la Universidad Nacional de Córdoba. Más de 10 años trabajando en proyectos enfocados en datos en industrias como ecommerce, petróleo/gas y distribución de energía eléctrica. Actualmente me desempeño como Senior Data Scientist en Mercado Libre en el área de detección de artículos prohibidos."
-description = "En muchos casos se considera que cuando iniciamos con un problema de ML, todos los datos de entrenamiento se encuentran evaluados con un 100% de precisión. Sin embargo, en sistemas productivos online, rara vez se nos presenta dicho escenario. En esta charla deseo mostrar cómo se atacaron problemas como targets incompletos, no confiables o feedback incompleto en el monitoreo, dentro de la iniciativa de moderación de artículos prohibidos en el marketplace de MercadoLibre."
-name = "¿Que hacer cuando no puedo confiar en mis labels?"
-start_at = 2021-10-13T16:40:00-03:00
-duration = 50
-
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Laura López"
 minibio = "Soy ingeniera de telecomunicaciones y científica de datos en formación. Me dedico a buscar soluciones basadas en datos. Soy voluntaria en Pyladies Medellín. Me apasiona la fotografía y el aprender cosas nuevas."
 description = "Hablaremos sobre ciencia de datos, algunos conceptos generales y limpieza de datos con pandas. Daremos una introducción al análisis descriptivo y limpieza de datos, los pasos que podemos seguir y algunas herramientas."
 name = "Al mal tiempo, buena data: Limpieza de datos con Python"
 start_at = 2021-10-12T15:00:00-03:00
-duration = 50
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
-type = "talk"
-author = "Marcelo Landó"
-minibio = "Marcelo Elizeche es un desarrollador de Asunción, Paraguay con background en Seguridad de la Información que usualmente pasa la mayoría de su tiempo haciendo proyectos que no le generan rédito económico pero que son divertidos, como organizar la comunidad Python Paraguay e impulsar la defensa de derechos digitales y privacidad"
-description = "Cuando una pandemia ataca donde el estado está ausente la única opción es recurrir a la creatividad y a la comunidad\n\nComo una idea simple terminó cambiando la vida de muchas personas durante la cuarentena sanitaria y el viaje de crear, mantener y sobrevivir al crecimiento exponencial de un proyecto social"
-name = "AyudaPy.org: De proyecto de fin de semana a movimiento ciudadano clave durante la pandemia"
-start_at = 2021-10-14T16:40:00-03:00
-duration = 50
-
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Denny Perez"
 minibio = "Es analista QA. Co-fundadora de Pyladies Santiago Chile. Co-organizadora de  PyConLatam y PyCon Chile. Le encanta involucrarse con conferencias en las que se promueve la diversidad y la inclusión."
 description = "PSF la organización que rige la comunidad de programadores del lenguaje Python. Los tipos de membresía para pertenecer a esta organización y las diferentes vías para colaborar con la comunidad Python."
 name = "Colaborando con la Comunidad Python a través de la PSF\""
 start_at = 2021-10-15T15:00:00-03:00
-duration = 50
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
-type = "talk"
-author = "Roberto Esteves"
-minibio = "Emprendedor, buscando siempre las mejores soluciones a los problemas, Innovador, descubriendo que cada problema tiene más de una solución\n\nProfesional en Transformación Digital con +20 años de experiencia, en desarrollo de estrategias digitales, manejo de crisis en redes sociales e innovación.\n\nManejo fluido del inglés y español."
-description = "Vamos a revisar el estado de los datos abiertos en Ecuador y un análisis de las compras públicas realizadas durante la emergencia declarada por el COVID - 19, utilizando PANDAS, MATPLOTLIB, SEABORN, PLOTLY, Procesamiento de Lenguaje Natural, y una introducción al OPEN CONTRACT STANDAR"
-name = "Datos Abiertos en Ecuador, un análisis a las compras públicas durante la emergencia Covid-19"
-start_at = 2021-10-12T16:40:00-03:00
-duration = 50
-
-[[slots]]
-type = "talk"
-author = "Federico Ramírez"
-minibio = "Economista y Matemático aplicado. He trabajado para el Banco de México, Banorte, Abraxas y actualmente soy cofundador y CDO de Nixtla, donde buscamos democratizar el uso de modelos estado del arte para series de tiempo usando machine learning y deep learning.  Creo en la ternura. https://github.com/FedericoGarza"
-description = "Presentaremos nixtlats (https://github.com/Nixtla/nixtlats/), librería de python que facilita el uso de modelos de deep learning para series de tiempo a data scientists y developers."
-name = "Deep Learning para pronóstico de series de tiempo"
-start_at = 2021-10-13T19:00:00-03:00
-duration = 50
-
-[[slots]]
-type = "talk"
-author = "Leandro lecovi)"
-minibio = "FLOSS enthusiast. Python Lover. PSF Managing Member. Python Argentina treasurer. Entrepreneur. Currently working as Manager at Mercado Libre to improve Developer Experience inside MELI."
-description = "Una breve introducción al mundo Open Source y una guía para todos aquellos que quieran empezar a contribuir con el Open Source."
-name = "I want to do Open Source, but I don't know how"
-start_at = 2021-10-14T15:50:00-03:00
-duration = 50
-
-[[slots]]
-type = "talk"
-author = "Jesús García"
-minibio = "Jesús Armando es un apasionado de la ciencia y la tecnología, actualmente es fundador y lead del Google Developer Student Club para la Universidad de Guanajuato, es coordinador en una comunidad de tecnología como Future Lab. Asimismo a colaborado en proyectos internacionales en el desarrollo de procesos químicos entre Kyoto University - Universidad de Guanajuato."
-description = "El caso de estudio propone usar una versión adaptada del algoritmo Simulated Annealing (SA) para la búsqueda del optimo global en carga energética y costos mediante un proceso de destilación."
-name = "Ingeniería Química aplicando algoritmos de optimización estocástica con Python"
-start_at = 2021-10-14T19:00:00-03:00
-duration = 50
-
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Maris Botero"
 minibio = "De profesión soy ingenieria Electrónica, me apasiona la inteligencia artificial y las matemáticas. Me dedico a buscar soluciones y responder preguntas usando datos y algortimos.Disfruto aprender cosas nuevas, escuchar historias y ver la belleza de lo simple"
 description = "Cientifica de datos apasado por la inteligencia artificial, por los patrones matemáticos y por contar historias con datos"
 name = "Inteligencia artificial creativa con python"
 start_at = 2021-10-13T15:00:00-03:00
-duration = 50
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Patricia Vong"
 minibio = "Técnico en ingenería con especialización en desarrollo de software y estudiante de ingeniería estadística en la Universidad de Panamá"
 description = "Explicacion sobre qué es la programación, sus elementos y como comenzar a programar con Python."
 name = "Introducción a la programación con Python\n"
 start_at = 2021-10-14T15:00:00-03:00
-duration = 50
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
-type = "talk"
-author = "Juana Cadeñanes"
-minibio = "•Ingeniera de datos\n• CoFundadora Women in Data Science, Power and Engineering A.C.\n\nApasionada por la tecnología y demostrar como esta nos ayuda a encontrar que siempre hay una manera más eficaz, mejor y sencilla de hacer las cosas, es una de mis grandes metas en la vida; tanto personal, como profesionalmente. Dejar en claro que el principal beneficio de ejercer lo que amas es ser tú mismo ya que esto te hace ser más creativo y entrar en un círculo de renovación continuo que no solo te hace feliz, aun mejor, beneficia a tus clientes. La parte del pago del esfuerzo debe ser la libertad de ayudar a otros a descubrirse y crecer.\n\n"
-description = "Platicaremos como Python se ha posicionado como una herramienta mas para el personal de salud enfocado en la investigación y análisis de datos generados en los procesos dentro de las instituciones de salud; dando lugar a la creación de nuevas aéreas y roles que enriquecen el ecosistema de salud."
-name = "Python como herramienta de análisis para el personal de salud"
-start_at = 2021-10-12T19:00:00-03:00
-duration = 50
-
-[[slots]]
-type = "talk"
-author = "Marco Carranza"
-minibio = "Cofundador técnico de Teamcore Solutions, empresa encargada de crear soluciones para la industria de Retail utilizando diversos modelos de machine learning y big data."
-description = "Las pruebas de mutación buscan asegurar que las pruebas unitarias fallen cuando el código fuente se cambia arbitrariamente y que estas sean capaces de distinguir el programa original del mutante"
-name = "Python Mutant Nation"
-start_at = 2021-10-11T15:50:00-03:00
-duration = 50
-
-[[slots]]
-type = "talk"
-author = "Alison Rios"
-minibio = "Ing. Informática de la Universidad Mayor de San Simón, Cochabamba - Bolivia\nMaestrante de Diseño y Producción Multimedia\nLead de Comunidad PyLadies Cochabamba\nInstructora en Cisco Networking Academy"
-description = "Conocer el área de Visión Artificial mediante la librería OpenCV con Python, y ver el procesamiento de imágenes en tiempo real para identificar elementos mediante reconocimiento de colores y formas. "
-name = "Reconocimiento de colores y formas con Visión Artificial en tiempo real"
-start_at = 2021-10-13T15:50:00-03:00
-duration = 50
-
-[[slots]]
-type = "talk"
-author = "Pamela Faúndez"
-minibio = "Doctora(c) en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile. Magíster en Ingeniería Industrial e Ingeniera Civil Industrial de la Universidad del Bío-Bío."
-description = "Teoría de Juegos estudia a través de modelos matemáticos la competencia y cooperación entre agentes racionales. Esta charla se centra en el área de \"Juegos de Stackelberg\" en contextos de seguridad."
-name = "Teoría de juegos en la vida cotidiana"
-start_at = 2021-10-15T16:40:00-03:00
-duration = 50
-
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Nury Yanque"
 minibio = "Eu sou MSc. em Ciências da Computação pela USP,  sou peruana e venho trabalhando no mercado brasileiro a mais de um ano na area de Inteligencia Artificial com Visão Computacional para o AgroTec. "
 description = "Testes unitarios interrogam a lógica aprendida durante o treinamento, principalmente quando o modelo de clasificação de imagenes performa no ambiente real."
 name = "Testes Unitarios para Clasificación de Imágenes"
 start_at = 2021-10-11T15:00:00-03:00
-duration = 50
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
+[[slot]]
 type = "talk"
-author = "Itzá Hernández"
-minibio = "Itzá Hernández es consultora en tecnologías geoespaciales para plataformas de monitoreo de la agricultura, el ambiente y prevención de desastres naturales. "
-description = "Cuando hablamos de tierra digital nos referimos a los sistemas de información geográfica, imágenes satelitales y sistemas de posicionamiento global. Pero, ¿qué tiene que ver python en todo esto?"
-name = "Tierra digital, tecnologías geoespaciales y python"
-start_at = 2021-10-11T16:40:00-03:00
-duration = 50
+author = "Leandro lecovi)"
+minibio = "FLOSS enthusiast. Python Lover. PSF Managing Member. Python Argentina treasurer. Entrepreneur. Currently working as Manager at Mercado Libre to improve Developer Experience inside MELI."
+description = "Una breve introducción al mundo Open Source y una guía para todos aquellos que quieran empezar a contribuir con el Open Source."
+name = "I want to do Open Source, but I don't know how"
+start_at = 2021-10-14T15:50:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
+[[slot]]
+type = "talk"
+author = "Marco Carranza"
+minibio = "Cofundador técnico de Teamcore Solutions, empresa encargada de crear soluciones para la industria de Retail utilizando diversos modelos de machine learning y big data."
+description = "Las pruebas de mutación buscan asegurar que las pruebas unitarias fallen cuando el código fuente se cambia arbitrariamente y que estas sean capaces de distinguir el programa original del mutante"
+name = "Python Mutant Nation"
+start_at = 2021-10-11T15:50:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Alison Rios"
+minibio = "Ing. Informática de la Universidad Mayor de San Simón, Cochabamba - Bolivia\nMaestrante de Diseño y Producción Multimedia\nLead de Comunidad PyLadies Cochabamba\nInstructora en Cisco Networking Academy"
+description = "Conocer el área de Visión Artificial mediante la librería OpenCV con Python, y ver el procesamiento de imágenes en tiempo real para identificar elementos mediante reconocimiento de colores y formas. "
+name = "Reconocimiento de colores y formas con Visión Artificial en tiempo real"
+start_at = 2021-10-13T15:50:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
 type = "talk"
 author = "Arnulfo Reyes"
 minibio = "Arnulfo Reyes es un apasionado por los datos con más de 5 años de experiencia en el sector de transporte.\nEs voluntario en las comunidades de Python Panamá y Fedora Panamá promoviendo la participación y aprendizaje del público en general."
 description = "¿Cuánto tiempo debes invertir para aprender Python, vale la pena todo este tiempo?\nPosiblemente has encontrado al menos un curso, un video o una publicación donde revelen que aprendieron Python en unos días y rápidamente pasaron a un trabajo bien remunerado. Algunas de estas historias pueden ser ciertas, pero no te ayudan a prepararte para un aprendizaje constante.\nObservaremos algunos de los motivos por el cual las personas quieren aprender a programar en Python. Tomaremos en cuenta algunos objetivos personales y luego podremos identificar dónde nos encontramos nosotros. Nos enfocaremos en las principales razones para aprender Python y que tanto nos afecta este enfoque en la cantidad de tiempo que necesita invertir."
 name = "Transforma tu vida personal y profesional con Python"
 start_at = 2021-10-15T15:50:00-03:00
-duration = 50
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
+[[slot]]
+type = "talk"
+author = "Ana Kuhn"
+minibio = ""
+description = ""
+name = "Pobreza, detrás del dato y propósito"
+start_at = 2021-10-12T15:50:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Ramiro Caro"
+minibio = "Científico de datos e Ingeniero Electrónico, egresado de la Universidad Nacional de Córdoba. Más de 10 años trabajando en proyectos enfocados en datos en industrias como ecommerce, petróleo/gas y distribución de energía eléctrica. Actualmente me desempeño como Senior Data Scientist en Mercado Libre en el área de detección de artículos prohibidos."
+description = "En muchos casos se considera que cuando iniciamos con un problema de ML, todos los datos de entrenamiento se encuentran evaluados con un 100% de precisión. Sin embargo, en sistemas productivos online, rara vez se nos presenta dicho escenario. En esta charla deseo mostrar cómo se atacaron problemas como targets incompletos, no confiables o feedback incompleto en el monitoreo, dentro de la iniciativa de moderación de artículos prohibidos en el marketplace de MercadoLibre."
+name = "¿Que hacer cuando no puedo confiar en mis labels?"
+start_at = 2021-10-13T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Marcelo Landó"
+minibio = "Marcelo Elizeche es un desarrollador de Asunción, Paraguay con background en Seguridad de la Información que usualmente pasa la mayoría de su tiempo haciendo proyectos que no le generan rédito económico pero que son divertidos, como organizar la comunidad Python Paraguay e impulsar la defensa de derechos digitales y privacidad"
+description = "Cuando una pandemia ataca donde el estado está ausente la única opción es recurrir a la creatividad y a la comunidad\n\nComo una idea simple terminó cambiando la vida de muchas personas durante la cuarentena sanitaria y el viaje de crear, mantener y sobrevivir al crecimiento exponencial de un proyecto social"
+name = "AyudaPy.org: De proyecto de fin de semana a movimiento ciudadano clave durante la pandemia"
+start_at = 2021-10-14T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Roberto Esteves"
+minibio = "Emprendedor, buscando siempre las mejores soluciones a los problemas, Innovador, descubriendo que cada problema tiene más de una solución\n\nProfesional en Transformación Digital con +20 años de experiencia, en desarrollo de estrategias digitales, manejo de crisis en redes sociales e innovación.\n\nManejo fluido del inglés y español."
+description = "Vamos a revisar el estado de los datos abiertos en Ecuador y un análisis de las compras públicas realizadas durante la emergencia declarada por el COVID - 19, utilizando PANDAS, MATPLOTLIB, SEABORN, PLOTLY, Procesamiento de Lenguaje Natural, y una introducción al OPEN CONTRACT STANDAR"
+name = "Datos Abiertos en Ecuador, un análisis a las compras públicas durante la emergencia Covid-19"
+start_at = 2021-10-12T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Pamela Faúndez"
+minibio = "Doctora(c) en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile. Magíster en Ingeniería Industrial e Ingeniera Civil Industrial de la Universidad del Bío-Bío."
+description = "Teoría de Juegos estudia a través de modelos matemáticos la competencia y cooperación entre agentes racionales. Esta charla se centra en el área de \"Juegos de Stackelberg\" en contextos de seguridad."
+name = "Teoría de juegos en la vida cotidiana"
+start_at = 2021-10-15T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Itzá Hernández"
+minibio = "Itzá Hernández es consultora en tecnologías geoespaciales para plataformas de monitoreo de la agricultura, el ambiente y prevención de desastres naturales. "
+description = "Cuando hablamos de tierra digital nos referimos a los sistemas de información geográfica, imágenes satelitales y sistemas de posicionamiento global. Pero, ¿qué tiene que ver python en todo esto?"
+name = "Tierra digital, tecnologías geoespaciales y python"
+start_at = 2021-10-11T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Federico Ramírez"
+minibio = "Economista y Matemático aplicado. He trabajado para el Banco de México, Banorte, Abraxas y actualmente soy cofundador y CDO de Nixtla, donde buscamos democratizar el uso de modelos estado del arte para series de tiempo usando machine learning y deep learning.  Creo en la ternura. https://github.com/FedericoGarza"
+description = "Presentaremos nixtlats (https://github.com/Nixtla/nixtlats/), librería de python que facilita el uso de modelos de deep learning para series de tiempo a data scientists y developers."
+name = "Deep Learning para pronóstico de series de tiempo"
+start_at = 2021-10-13T19:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
+type = "talk"
+author = "Jesús García"
+minibio = "Jesús Armando es un apasionado de la ciencia y la tecnología, actualmente es fundador y lead del Google Developer Student Club para la Universidad de Guanajuato, es coordinador en una comunidad de tecnología como Future Lab. Asimismo a colaborado en proyectos internacionales en el desarrollo de procesos químicos entre Kyoto University - Universidad de Guanajuato."
+description = "El caso de estudio propone usar una versión adaptada del algoritmo Simulated Annealing (SA) para la búsqueda del optimo global en carga energética y costos mediante un proceso de destilación."
+name = "Ingeniería Química aplicando algoritmos de optimización estocástica con Python"
+start_at = 2021-10-14T19:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+
+[[slot]]
 type = "talk"
 author = "Ana Gomes"
 minibio = "Baiana vivendo em Berlim, engenheira de software e mestre em Ciência da Computação (UFMG). Embaixadora de inovação cívica na Open Knowledge Brasil e fundadora do Dados Abertos de Feira, uma iniciativa de fomento à transparência em Feira de Santana - BA. A louca do open source."
@@ -321,8 +356,9 @@ description = "Venha conversar sobre como é possível melhorar habilidades prof
 name = "HACKER na empresa CIDADE"
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "André Girol"
 minibio = "Hoje SRE, atua na área de infraestrutura por mais de 10 anos. Palestrante e professor, trabalhou com educação por mais de 15 anos. Nas horas vagas tenta experimentos na cozinha e joga FPS."
@@ -330,8 +366,9 @@ description = "Aprenda técnicas de Code Review, para melhorar a qualidade de so
 name = "Code Review"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Naomi Ceder"
 minibio = "Desde 2001, Naomi Ceder aprende, ensina, escreve e usa Python. Ela é um membro eleito da Python Software Foundation e a ex-presidenta de seu conselho de diretores. Em seu tempo livre, ela gosta de esboçar, tricotar e conversar sobre filosofia com sua cachorrinha."
@@ -339,8 +376,9 @@ description = "A famosa Adm Grace Hopper disse  \"é mais fácil pedir perdão d
 name = "Na verdade, é mais fácil pedir perdão do que permissão"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Melissa Mendonça"
 minibio = "Melissa é matemática e trabalha com desenvolvimento de software na Quansight. É líder do time de documentação do NumPy, entusiasta de Python, LaTeX, Fortran e software livre em geral."
@@ -348,8 +386,9 @@ description = "Vamos explorar o conceito de arrays no Python (e em outras lingua
 name = "Fatos interessantes sobre arrays, matrizes e tensores: o número 3 vai te surpreender"
 start_at = 2021-10-11T19:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Lidiane Monteiro"
 minibio = "Fundadora da InspirAda na Computação, desenvolvedora de software na LuizaLabs e graduanda em Licenciatura em Computação na UFRPE. Pesquisadora na área de Game Learning Analytics no Laboratório Evante e professora de Computação para Educação Básica e profissionalizante. Participou da fundação do Women Who Code – Recife e da PyLadies Recife."
@@ -357,8 +396,9 @@ description = "Será abordada a educação em computação para a aprendizagem e
 name = "Para além da treta \"lógica de programação primeiro\""
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Capi Etheriel"
 minibio = "Capi Etheriel é instrutor especialista em ciência da computação na Trybe (betrybe.com), contribuidor de softwares livres para a web e trupe do Ônibus Hacker!"
@@ -366,8 +406,9 @@ description = "Já se frustrou que seu import não funciona -- ou pior, as vezes
 name = "Tudo que você sempre quis saber sobre importar e empacotar código"
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Judite Cypreste"
 minibio = "É jornalista de dados no Metrópoles e diretora do projeto Colaboradados. Já passou pelo jornal Folha de S.Paulo, Aos Fatos, UOL e GloboNews. É entusiasta do uso da programação no jornalismo e foi indicada ao Prêmio The Sigma Awards na categoria Open Data em 2020."
@@ -375,8 +416,9 @@ description = "A ideia desta atividade é sair das telas e se aprofundar no que 
 name = "Levando seus dados pra passear: conhecendo a realidade por detrás dos números"
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Luciana Abud"
 minibio = "Luciana Abud é mestre em Ciência da Computação pelo IME-USP e atualmente trabalha como Program Manager da extensão de Python para o Visual Studio Code na Microsoft."
@@ -384,8 +426,9 @@ description = "Serão apresentadas 11 features (e um segredo 🤫) da extensão 
 name = "Python em VS Code: 11 features e um segredo"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Diego Guimarães"
 minibio = "Programador há muito tempo e músico desde sempre, curte unir as duas coisas e lança mensalmente músicas feitas por código. Trabalha no Aos Fatos, grava discos de vinil e lê quadrinhos aos montes."
@@ -393,8 +436,9 @@ description = "FoxDot é uma biblioteca/IDE para fazer música escrita em Python
 name = "Do Funk ao Punk com Python"
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Elayni Franco"
 minibio = "Ex-enfermeira, que ama coisas de papelaria e tem uma coleção de sobrinhos. Faz graduação em Ciência de Dados e é estagiária de IA na Dataprev."
@@ -402,8 +446,9 @@ description = "Nos cursos de saúde as pessoas costumam fugir de tudo que envolv
 name = "Meu TCC em Saúde: como eu poderia ter usado python e ciência de dados?"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Adorilson Araújo"
 minibio = "Professor no IFRN, atualmente no Campus Ceará-Mirim, que incentiva e orienta as pessoas estudantes não só utilizarem mas também contribuírem com software livre."
@@ -411,8 +456,9 @@ description = "Conheça o Free Python Games e como estudantes de cursos técnico
 name = "Free Python Games, uma coleção de jogos para ensino/aprendizagem de programação de computadores"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Oswaldin Santos"
 minibio = "Coordenador do BB Data Driven,xa0um programa de transformação cultural dedicado a promover a cultura de dados no Banco do Brasil. Nerd, entusiasta da Transformação Digital, Educação e Ciência de Dados."
@@ -420,8 +466,9 @@ description = "Oswaldin Santos mostra como os Nerds (e todas as outras pessoas) 
 name = "Os Nerds e a Ciência de Dados na Guerra dos Mundos"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Juliana Alves"
 minibio = "Juliana Ferreira é graduanda em Eng. da Computação, faz IC em Bioinformática e Aprendizado de Máquina. Conselheira global das PyLadies eleita em 2020 e integrante do PyLadies São Carlos desde 2018."
@@ -429,8 +476,9 @@ description = "Essa palestra é pra quem está se perguntando o que é (e como f
 name = "Machine Learning! Conhecimentos que eu gostaria de ter aprendido como iniciante"
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Yan Orestes"
 minibio = "Yan é um desenvolvedor Python e entusiasta de segurança. Gosta de escrever para blogs e participar de conferências, seguindo o que acredita ser mais importante na vida - compartilhar conhecimento."
@@ -438,8 +486,9 @@ description = "A palestra analisará uma série de vulnerabilidades que, dados a
 name = "Escrevendo códigos seguros em Python"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Bruna Moreira"
 minibio = "Bruna Moreira é engenheira de software nas horas pagas, agita comunidades de software livre e dança nas horas vagas. Bonita e hidratada em tempo integral."
@@ -447,8 +496,9 @@ description = "Sabe aqueles testes técnicos que até o texto é difícil de ent
 name = "How to get away with algorithms: como ir bem em testes técnicos de processos seletivos com juízes eletrônicos"
 start_at = 2021-10-15T15:00:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Fernando Masanori"
 minibio = "Fernando é docente da FATEC, criador do Python para Zumbis, tem dado cursos de programação para filósofos, biólogos, advogados, jornalistas, economistas, etc. https://linktr.ee/fmasanori"
@@ -456,8 +506,9 @@ description = "não lembro preciso acessar o formulário"
 name = "Teoria dos Grafos com Python"
 start_at = 2021-10-15T15:50:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Débora Atanes"
 minibio = "Debs é Tech Lead na Outsmart e mentora na comunidade Big Open Source Sibling. É apaixonada por desenvolvimento de software e também por ciência de dados. Nas horas vagas, você a encontra assistindo animes ou dançando o que estiver tocando 🍹 "
@@ -465,8 +516,9 @@ description = "Se você quer aprender mais sobre os segredos das páginas web e 
 name = "Conquiste a pessoa amada com Web Scraping: usando BeautifulSoup para pegar dados que vão impressionar qualquer crush"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "João Golias"
 minibio = "Goli é Tech Lead na Outsmart e estudante de ciência da computação na USP. Já trabalhou como professor de programação e é apaixonado por desenvolvimento, principalmente com backend. "
@@ -474,8 +526,9 @@ description = "Se você quer aprender mais sobre os segredos das páginas web e 
 name = "Conquiste a pessoa amada com Web Scraping: usando BeautifulSoup para pegar dados que vão impressionar qualquer crush"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
+room = "Shirley Ann Jackson"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Filipe Cifali"
 minibio = "Sysadmin por vocação, pythonista nas horas pagas e vagas, tenta fazer sistemas legado permanecerem no ar desde 2007."
@@ -483,8 +536,9 @@ description = "Venha descobrir como Python evoluiu ao longo do tempo e quais as 
 name = "Deploy: tudo que nunca te contaram sobre como colocar uma aplicação Python no ar"
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Andressa Valadares"
 minibio = "Nas horas pagas sou desenvolvedora back-end, trabalho com desenvolvimento de jogos em python. Já nas horas não pagas eu gosto de participar de comunidades como a BOSS que incentiva a contribuição de minorias para o open-source, dançar e fazer bons drinks. "
@@ -492,8 +546,9 @@ description = "Uma breve introdução ao paralelismo em python: conceitos básic
 name = "Paralelismo em python: dá pra assobiar e chupar cana ao mesmo tempo?"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Giulio Carvalho"
 minibio = "Trabalha há 4 anos com raspagem e engenharia de dados e é graduando do curso de Engenharia da Computação pela UFPE. Desde 2019, é membro ativo e faz parte da organização do Grupo de Usuários de Python de Pernambuco (PUG-PE). Desde 2020, integra a equipe de mantenedoras do projeto Querido Diário e também a rede de Pessoas Embaixadoras de Inovação Cívica da Open Knowledge Brasil. Hoje atua como coordenador de Inovação Cívica da OKBR."
@@ -501,8 +556,9 @@ description = "Como conseguimos converter diários oficiais de diversos formatos
 name = "Experimentando a caixa de ferramentas do Querido Diário: trabalhando com dados não estruturados"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Angélica Custódio"
 minibio = "Estatística, mestra em Ciência da Computação e pesquisadora sobre interpretabilidade de modelos opacos. Cientista de Dados atuando em Recuperação. Membra das comunidades R-Ladies e Pyladies São Paulo."
@@ -510,8 +566,9 @@ description = "Abordaremos as etapas que envolvem um projeto de Machine Learning
 name = "Machine Learning do início ao fim: uma breve visão de um projeto de ML"
 start_at = 2021-10-11T19:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Andrews Medina"
 minibio = "Andrews Medina é um software developer, co-creator do tsuru.io e do splinter, e tem experiência liderando times de desenvolvimento e tecnologia. No passado fez parte do time de tecnologia da Globo.com e do Jusbrasil. Atualmente trabalha liderando o time de tecnologia do Indaband."
@@ -519,8 +576,9 @@ description = "Nessa palestra vamos entender porque analisar áudio é diferente
 name = "Analisando e processando sinais de áudio em Python"
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Jessica Temporal"
 minibio = "Jessica Temporal é Sr Developer Advocate na Auth0, co-fundadora do Pizza de Dados. É parte do PyLadies, nordestina e se mantém aquecida no sul do Brasil com o tricô que ela mesma faz."
@@ -528,8 +586,9 @@ description = "Venha ver como construir um mapa para mostrar por onde você ando
 name = "Viajando por uma API segura com Flask"
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Rafael Calixto"
 minibio = "Rafael Calixto atua como líder técnico de projetos de IA na Fundação CERTI, possui MBA em Ciência de Dados pelo IGTI e atualmente cursa o mestrado em ciência da computação na UFSC."
@@ -537,8 +596,9 @@ description = "Venha conhecer o projeto Carla, que nos permite desenvolver um ca
 name = "Desenvolvendo um carro autônomo com Python e Carla"
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Pablo Aguilar"
 minibio = "Amante de cerveja e entusiasta em FP! Gosto bastante de desafios e tecnologia, quando junta os dois é melhor ainda!  Atualmente atuo como Backend Engineer e contribuo com alguns projetos open-sources."
@@ -546,8 +606,9 @@ description = "Será apresentado o problema que temos quando nossa callstack cre
 name = "A recursão que pula"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Beatriz Milz"
 minibio = "Beatriz Milz é doutoranda em Ciência Ambiental (PROCAM/IEE/USP) na Universidade de São Paulo. É co-organizadora da R-Ladies São Paulo, uma comunidade que tem como objetivo promover a diversidade de gênero na comunidade da linguagem R. Instrutora de tidyverse certificada pela RStudio, e professora na Curso-R (https://curso-r.com/)"
@@ -555,8 +616,9 @@ description = "Quer ir além da treta 'qual linguagem é melhor?' e saber mais s
 name = "Fazendo amizade com a Phyton reticulada: Introdução ao uso de Python e R no RStudio com o pacote reticulate"
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Beto Dealmeida"
 minibio = "Beto Dealmeida descobriu Python em 2002, fazendo seu doutorado em oceanografia. A paixão foi tanta que ele mudou de área, e hoje é um dos principais desenvolvedores do Apache Superset."
@@ -564,8 +626,9 @@ description = "A biblioteca \"shillelagh\" permite acessar APIs usando SQL, faci
 name = "Usando Python e SQL para acessar APIs"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Andreza Oliveira"
 minibio = "Sou Andreza, mestranda e pesquisadora na área de NLP no Insight Data Science Lab e Engenheira de Dados na Sankhya. No tempo livre gosto de fazer coisas pela primeira vez e aprender por meio de conversas."
@@ -573,8 +636,9 @@ description = "Vamos esclarecer as principais palavras chaves do mundo de Proces
 name = "Botando os pés no mundo de Processamento de Linguagem Natural"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Ana Mendes"
 minibio = "Desenvolvedora Consultora na Thoughtworks, bacharelanda em Ciência da Computação na UFPI, técnica em Desenvolvimento de Software pelo IFPI, pesquisadora na área de Inteligência Artificial."
@@ -582,8 +646,9 @@ description = "Essa palestra visa dar uma introdução do protocolo de aplicaç�
 name = "Desbravando HTTP com http.server"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Werberth Gomes"
 minibio = "Cientista da computação por formação, programador por profissão e pythonista de coração. Atualmente é desenvolvedor python na Zyte (formerly Scrapinghub)."
@@ -591,8 +656,9 @@ description = "Por depender de recursos de terceiros, crawlers podem ser bem imp
 name = "Criando monitores para spiders scrapy usando Spidermon"
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Rhenan Ferreira"
 minibio = "Rhenan Bartels é programador e desenvolvedor de software com mais de 10 anos de experiência, cursou Sistemas de Computação na UFF e possui Mestrado e Doutorado em Engenharia Biomédica pela COPPE/UFRJ. Sua especialidade é a linguagem de programação Python e a utiliza tanto no desenvolvimento de ferramentas que facilitam e automatizam tarefas, quanto na análise de dados."
@@ -600,8 +666,9 @@ description = "Com o advento da tecnologia, a desinformação é produzida e dis
 name = "Combatendo fakenews com Python"
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Vicente Marçal"
 minibio = "Filósofo, professor e pesquisador do Departamento de Filosofia da Universidade Federal de Rondônia e Pythonista de coração."
@@ -609,8 +676,9 @@ description = "Uma apresentação sucinta de como criar APIs RESTful utilizando 
 name = "Construindo API's REST de forma rápida e eficiente com fastAPI"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Felipe Martins"
 minibio = "Cearense habitante do Recife, desenvolve software há mais dez anos com foco em sistemas distribuídos e arquiteturas de micro-serviços.\nFã de práticas de Extreme Programming, faz bacharelado em Filosofia nas horas vagas e gasta mais dinheiro do que deveria com cafés."
@@ -618,8 +686,9 @@ description = "Nessa palestra, vamos aprender como converter scripts Python em �
 name = "As árveres somos nozes - manipulação de código via árvores sintáticas em Python"
 start_at = 2021-10-15T15:00:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Thais Viana"
 minibio = "Dev e sócia na grama.cc, diretora de TI da APyB, mestra em Inteligência Artificial e entusiasta de comunidades e tecnologia."
@@ -627,8 +696,9 @@ description = "Com o passar dos anos, a engenharia de software adquiriu o hábit
 name = "Democratizando informações com visualização de dados"
 start_at = 2021-10-15T15:50:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Júlio Melo"
 minibio = "Hacker desde de 1985, atuo no mercado de T.I a mais de 13 anos e sou fundador do site eufuihackeado.com.br, entusiasta do mundo open source. "
@@ -636,8 +706,9 @@ description = "Tudo usando o Docker para desenvolver suas aplicações. Mas ser�
 name = "Desenvolvendo com segurança usando o Docker"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
+room = "Marie Van Brittan Brown"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Silvia Jesus"
 minibio = "Ecóloga, Mestre em Sensoriamento Remoto, Doutoranda no Programa de Pós-Graduação em Ciências Ambientais da UFSCar. Membro do Grupo de Pesquisa GEOSUS - Geotecnologias, Meio Ambiente e Sustentabilidade da UFSCar. Integro as PyLadies São Carlos nas pastas de Minicursos e Palestras. Fiz parte da equipe Queimadas do INPE e atuei no setor privado na área de Geotecnologias."
@@ -645,8 +716,9 @@ description = "A palestra visa motivar o direcionamento de pesquisas e análises
 name = "Pesquisa reprodutível: como tornar sua análise de dados aberta e colaborativa?"
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Thiago Ferreira"
 minibio = "Olá! Sou o Thiago e trabalho como software engineer no whatsgood.com.br usando tecnologia para fortalecer os pequenos produtores e as economias locais. Amo cozinhar e faço parte da @samambaialucinante"
@@ -654,8 +726,9 @@ description = "A pandemia revolucionou a forma que trabalhamos e ao mesmo agravo
 name = "Desafios do Home Office - Como melhorar o equilíbrio entre vida pessoal e trabalho"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Pâmella Balcaçar"
 minibio = "É Bióloga e Tecnóloga em Informática, com MBA em Perícia, Auditoria e Análise Ambiental e Especialista em Biotecnologia e Bioprocessos. Atua na educação desde 2011. É Pylady e participante do grupo das Pyladies Bioinfo. "
@@ -663,8 +736,9 @@ description = "Será abordado a obra do Pesquisador George Siemens a respeito da
 name = "Conectivismo Pedagógico: novas formas de ensinar e aprender no século XXI"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Eric Hideki"
 minibio = "Python Programmer & former @grupysp co-organizer."
@@ -672,8 +746,9 @@ description = "Nessa apresentação falaremos sobre alguns aprendizados sobre es
 name = "Traga mais valor e qualidade em suas entregas de desenvolvimento"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Vinicius Mendes"
 minibio = "Senior Back-end Engineer na Loadsmart desde abril de 2021. A Loadsmart é uma startup americana de logística com crescimento acelerado. Confiante que a tendência de crescimento do trabalho distribuído é cada vez mais uma realidade.\n\nJá participou de outras 4 edições da Python Brasil, sendo a primeira em 2009 em Caxias do Sul.\n\nFundou uma empresa de desenvolvimento de sites, foi líder técnico de uma das equipes de desenvolvimento do G1 na Globo.com, foi funcionário público na Dataprev onde atuou como programador e gerente de projetos e foi professor na UFRN, onde também se formou em Engenharia de Computação. Também é especialista em Desenvolvimento de Sistemas Corporativos pela UNI-RN."
@@ -681,8 +756,9 @@ description = "O manifesto ágil fala em valorizar software em funcionamento mai
 name = "A importância da documentação no trabalho distribuído"
 start_at = 2021-10-12T15:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Rafaella Junqueira"
 minibio = "Me chamo Rafaella Junqueira, sou graduanda em Engenharia de Software, atualmente trabalhando com web scraping em python. Adoro um forró, programa natureza ou qualquer coisa aleatória em boa companhia."
@@ -690,8 +766,9 @@ description = "História da iniciativa BOSS, a mentoria que visa impulsionar gru
 name = "The oscar goes to BOSS: software livre com mais diversidade"
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Murilo Viana"
 minibio = "Bacharel em Ciência da Computação, entusiasta da comunidade Python, contribuidor em projetos open source e engenheiro de software há aproximadamente 10 anos."
@@ -699,8 +776,9 @@ description = "Vamos desmistificar o mito do \"programador brilhante\" e dar alg
 name = "Eu não sinto que sou uma boa pessoa programadora"
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Felipe Morais"
 minibio = "Felipe de Morais, também conhecido como FeliPython, é um Engenheiro de software, co-fundador do AfroPython e empreendedor carioca mas que vive em Porto Alegre - RS"
@@ -708,8 +786,9 @@ description = "Nessa palestra vou compartilhar a evolução que tive em minha ca
 name = "Como conseguir trabalhar pra fora e ganhar o salário do meu pai de 1 ano em 1 mês"
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Beatriz Angelo"
 minibio = "Sou a Bia, tenho 22 anos, curso Engenharia de Computação na UNIFESP e trabalho como desenvolvedora web na Buser. Cada vez mais, tenho o desejo de incentivar mulheres para ingressarem na área de Tech."
@@ -717,8 +796,9 @@ description = "Esta palestra é sobre a minha experiência em Tech e como foi pa
 name = "Como uma mulher se descobriu em Tech"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Érico Andrei"
 minibio = "Érico Andrei, fundou duas empresas, trabalhou em várias startups, é co-fundador da APyB, fellow da PSF, vice-presidente da Plone Foundation e foi Big Kahuna da PythonBrasil[7]."
@@ -726,8 +806,9 @@ description = "\"Python é uma realidade em 2021, a comunidade está muito bem e
 name = "Porque Python importa"
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Iele Passos"
 minibio = "Graduanda em Ciência da Computação pela Universidade Federal de Campina Grande. Membro do PyladiesPB e da OpenDevUFCG. Apaixonada por tecnologia na educação, opensource e fotografia."
@@ -735,8 +816,9 @@ description = "Apresentação a respeito do uso de sucata tecnológica como obje
 name = "Sucata eletrônica e seu potencial educacional"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Igor Montagner"
 minibio = "Igor Montagner é professor de Engenharia de Computação no Insper. Entusiasta de Software Livre, se dedica a entender como aliar conhecimento teórico e prático. Também contribui para o elementaryOS."
@@ -744,8 +826,9 @@ description = "Venha conhecer experiências envolvendo contribuições para soft
 name = "Experiências mentorando contribuições a software livre na faculdade"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Sarah Tuyani"
 minibio = "Publicitária, Psicóloga e Pesquisadora. Cursa mestrado em Psicologia e, também, especialização em Ciência de Dados e Machine Learning. Apaixonada por ciência, tem como temas de estudo: comportamento de consumo, fraudes e fake news. "
@@ -753,8 +836,9 @@ description = "Python pode contribuir com diferentes áreas do conhecimento, pri
 name = "Python e Ciência: O poder da Interdisciplinaridade!"
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Nicolas Melo"
 minibio = "Terminando graduação em marketing depois de desistir de SI mesmo tendo estudado por 4 anos. Por ironia da vida virou desenvolvedor de novo e hoje é único desenvolvedor, CTO e fundador da Reflow."
@@ -762,8 +846,9 @@ description = "Vou explicar um pouco da minha história. Primeiro sai de SI depo
 name = "Migrando de Sistemas de Informação para Marketing para Desenvolvedor"
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Geisa Rodrigues"
 minibio = "Criadora de conteúdo e consultora na área de Marketing de Conteúdo, exercito na escrita a minha criatividade. Possuo MBA em Marketing Digital pela Estácio de Sá e Certificação Internacional em Marketing Digital pela ESPM/DMI. Atualmente, sou Analista de Conteúdo na Evolux e tenho um projeto chamado Clube da G no Instagram, com um blog de mesmo nome."
@@ -771,8 +856,9 @@ description = "Todos somos uma marca hoje, no mundo de redes sociais e mídias d
 name = "Como usar as redes sociais para alavancar seu projeto"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Roberto Santos"
 minibio = "Roberto é atualmente um Senior Research SDE na Microsoft Research. Antes disso, passou 8 anos na Universidade de Nottingham, inicialmente fazendo um doutorado e em seguida trabalhando como Research Software Engineer em diversos projetos de pesquisa. "
@@ -780,8 +866,9 @@ description = "Contarei sobre a minha experiência com desenvolvimento de softwa
 name = "Python no mundo acadêmico, uma experiência no exterior"
 start_at = 2021-10-15T15:00:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Karin Crema"
 minibio = "Graduação em Medicina pela UFPR, pós-graduação em Data Science e informática na Saúde pelo Hospital Israelita Albert Einstein, doutoranda em Biotecnologia pela USP-SP, médica do Hospital Sírio Libanês. "
@@ -789,22 +876,25 @@ description = "Como as novas descobertas da neurociência e os processos de comp
 name = "Como o auto-conhecimento pode me avançar em Python?"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
+room = "Angelica Ross"
 
-[[slots]]
+[[slot]]
 type = "talk"
-author = "Ana Kuhn"
-minibio = ""
-description = ""
-name = "Pobreza, detrás del dato y propósito"
-start_at = 2021-10-12T15:50:00-03:00
-duration = 50
+author = "Juana Cadeñanes"
+minibio = "•Ingeniera de datos\n• CoFundadora Women in Data Science, Power and Engineering A.C.\n\nApasionada por la tecnología y demostrar como esta nos ayuda a encontrar que siempre hay una manera más eficaz, mejor y sencilla de hacer las cosas, es una de mis grandes metas en la vida; tanto personal, como profesionalmente. Dejar en claro que el principal beneficio de ejercer lo que amas es ser tú mismo ya que esto te hace ser más creativo y entrar en un círculo de renovación continuo que no solo te hace feliz, aun mejor, beneficia a tus clientes. La parte del pago del esfuerzo debe ser la libertad de ayudar a otros a descubrirse y crecer.\n\n"
+description = "Platicaremos como Python se ha posicionado como una herramienta mas para el personal de salud enfocado en la investigación y análisis de datos generados en los procesos dentro de las instituciones de salud; dando lugar a la creación de nuevas aéreas y roles que enriquecen el ecosistema de salud."
+name = "Python como herramienta de análisis para el personal de salud"
+start_at = 2021-10-12T19:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
 
-[[slots]]
+[[slot]]
 type = "talk"
 author = "Andres Pineda"
 minibio = ""
 description = ""
 name = "WebAssembly: El que, el porque y el como"
 start_at = 2021-10-11T19:00:00-03:00
-duration = 50
+duration = 45
+room = "Bonnie Prado Pinto"
 
