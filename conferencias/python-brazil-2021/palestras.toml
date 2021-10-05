@@ -7,6 +7,7 @@ name = "Detecção de anomalias em séries temporais de produtos digitais"
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/qu85TN0Ljok"
 
 [[slot]]
 type = "talk"
@@ -17,6 +18,7 @@ name = "factory_boy: testando objetos complexos"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/qu85TN0Ljok"
 
 [[slot]]
 type = "talk"
@@ -27,16 +29,18 @@ name = "Ativando superpoderes do Django Admin com Widgets"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/qu85TN0Ljok"
 
 [[slot]]
 type = "talk"
-author = "Israel Teixeira"
+author = "Israel Teixeira & Thiago Silva"
 minibio = "Sócio da NaN Systems e pythonista de longa data, tem levado tecnologia para o universo do direito desde 2013 ensinando advogados a programar e criando soluções como o minutario.online."
 description = "Compartilharemos nossa experiência criando aplicações full-stack usando Django REST Framework. Estendendo seus serializers e renderers é possível ir muito além de APIs JSON."
 name = "Full-stack Django Rest Framework"
 start_at = 2021-10-11T19:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/qu85TN0Ljok"
 
 [[slot]]
 type = "talk"
@@ -47,6 +51,7 @@ name = "Porque engenheiros de dados não devem escrever DAGs no Airflow"
 start_at = 2021-10-12T15:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/6_zE8tUjszM"
 
 [[slot]]
 type = "talk"
@@ -57,6 +62,7 @@ name = "Aprendizado Semissupervisionado - Diminua a Esparsidade e seja feliz!"
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/6_zE8tUjszM"
 
 [[slot]]
 type = "talk"
@@ -67,6 +73,7 @@ name = "Python avançado por fora dos frameworks: decorators para cache coordena
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/6_zE8tUjszM"
 
 [[slot]]
 type = "talk"
@@ -77,6 +84,7 @@ name = "Usando Airflow para orquestrar sua ETL."
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/6_zE8tUjszM"
 
 [[slot]]
 type = "talk"
@@ -87,6 +95,7 @@ name = "Explorando características faciais para inferir informações demográf
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/P2gQhRxgxpM"
 
 [[slot]]
 type = "talk"
@@ -97,6 +106,7 @@ name = "O limite do seu Banco de Dados Relacional"
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/P2gQhRxgxpM"
 
 [[slot]]
 type = "talk"
@@ -107,16 +117,18 @@ name = "Benchmark de Aplicações Python com pyperf"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/P2gQhRxgxpM"
 
 [[slot]]
 type = "talk"
-author = "Vinicius Sato"
+author = "Vinicius Sato & Gustavo Coelho"
 minibio = "Bacharel em Economia pela UnB, Mestre em Desenvolvimento Econômico pela UFPR, Consultor, Nômade, que ama carnaval e atualmente contribuindo para área de cenários econômicos de um banco."
 description = "Já pensou em encarar o desafio de otimizar espacialmente uma rede de ensino com aproximadamente 800 mil alunos num estado do tamanho da França? Topamos o desafio da rede de ensino estadual bahiana"
 name = "Desafio da otimização geoespacial da rede de ensino bahiana"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/P2gQhRxgxpM"
 
 [[slot]]
 type = "talk"
@@ -127,6 +139,7 @@ name = "pupyl - A biblioteca de busca por imagem para Python"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/2YAWmpVgn0g"
 
 [[slot]]
 type = "talk"
@@ -137,26 +150,18 @@ name = "Overhauling em IA: Tunando parâmetros de modelos de machine learning de
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/2YAWmpVgn0g"
 
 [[slot]]
 type = "talk"
-author = "André Silva"
-minibio = "Engenheiro de Machine Learning especialista na Creditas e experiência prévia em desenvolvimento de Software. Graduado em Engenharia de Automação e Controle e MBA em IA e Machine Learning."
-description = "Abordaremos a etapa final de um fluxo de um projeto de Data Science: a produtização de modelos. Mostraremos como podemos consultá-los e gerar predições em tempo real."
-name = "Terminei a modelagem, e agora?"
-start_at = 2021-10-14T16:40:00-03:00
-duration = 45
-room = "Timnit Gebru"
-
-[[slot]]
-type = "talk"
-author = "Vivian Yamassaki"
+author = "Vivian Silva & André Silva"
 minibio = "Mestra em Sistemas de Informação pela USP, é Cientista de Dados na Creditas. Também atua em projetos para incentivar mulheres na área de dados, como a comunidade Mulheres em Inteligência Artificial."
 description = "Abordaremos a etapa final de um fluxo de um projeto de Data Science: a produtização de modelos. Mostraremos como podemos consultá-los e gerar predições em tempo real."
 name = "Terminei a modelagem, e agora?"
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/2YAWmpVgn0g"
 
 [[slot]]
 type = "talk"
@@ -167,6 +172,7 @@ name = "Como algoritmos de otimização podem auxiliar a engenharia de software"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/2YAWmpVgn0g"
 
 [[slot]]
 type = "talk"
@@ -177,6 +183,7 @@ name = "cadCAD: Simulação de Sistemas Complexos em Python"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
 room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/tIfYm38Vag8"
 
 [[slot]]
 type = "talk"
@@ -187,6 +194,7 @@ name = "Al mal tiempo, buena data: Limpieza de datos con Python"
 start_at = 2021-10-12T15:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
 [[slot]]
 type = "talk"
@@ -197,6 +205,7 @@ name = "Colaborando con la Comunidad Python a través de la PSF\""
 start_at = 2021-10-15T15:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/HfJp03Q4lug"
 
 [[slot]]
 type = "talk"
@@ -207,6 +216,7 @@ name = "Inteligencia artificial creativa con python"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/RiZOD1fOHEs"
 
 [[slot]]
 type = "talk"
@@ -217,6 +227,7 @@ name = "Introducción a la programación con Python\n"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
 
 [[slot]]
 type = "talk"
@@ -227,6 +238,7 @@ name = "Testes Unitarios para Clasificación de Imágenes"
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
 
 [[slot]]
 type = "talk"
@@ -237,6 +249,7 @@ name = "I want to do Open Source, but I don't know how"
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
 
 [[slot]]
 type = "talk"
@@ -247,6 +260,7 @@ name = "Python Mutant Nation"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
 
 [[slot]]
 type = "talk"
@@ -257,6 +271,7 @@ name = "Reconocimiento de colores y formas con Visión Artificial en tiempo real
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/RiZOD1fOHEs"
 
 [[slot]]
 type = "talk"
@@ -267,16 +282,18 @@ name = "Transforma tu vida personal y profesional con Python"
 start_at = 2021-10-15T15:50:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/HfJp03Q4lug"
 
 [[slot]]
 type = "talk"
 author = "Ana Kuhn"
-minibio = ""
-description = ""
+minibio = "Economista, especialista en pobreza infantil. Co-organizadora de PyLadies Santiago Chile. En mis tiempos libres me dedico al análisis de datos y trading. "
+description = "En la charla revisaremos conceptos de pobreza y nociones de cómo se mide, para poder conectar con nuestro propósito profesional y tomar consciencia sobre lo que representan los datos."
 name = "Pobreza, detrás del dato y propósito"
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
 [[slot]]
 type = "talk"
@@ -287,6 +304,7 @@ name = "¿Que hacer cuando no puedo confiar en mis labels?"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/RiZOD1fOHEs"
 
 [[slot]]
 type = "talk"
@@ -297,6 +315,7 @@ name = "AyudaPy.org: De proyecto de fin de semana a movimiento ciudadano clave d
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
 
 [[slot]]
 type = "talk"
@@ -307,6 +326,7 @@ name = "Datos Abiertos en Ecuador, un análisis a las compras públicas durante 
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
 [[slot]]
 type = "talk"
@@ -317,6 +337,7 @@ name = "Teoría de juegos en la vida cotidiana"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/HfJp03Q4lug"
 
 [[slot]]
 type = "talk"
@@ -327,6 +348,7 @@ name = "Tierra digital, tecnologías geoespaciales y python"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
 
 [[slot]]
 type = "talk"
@@ -337,6 +359,7 @@ name = "Deep Learning para pronóstico de series de tiempo"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/RiZOD1fOHEs"
 
 [[slot]]
 type = "talk"
@@ -347,6 +370,7 @@ name = "Ingeniería Química aplicando algoritmos de optimización estocástica 
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
 
 [[slot]]
 type = "talk"
@@ -357,6 +381,7 @@ name = "HACKER na empresa CIDADE"
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 
 [[slot]]
 type = "talk"
@@ -367,6 +392,7 @@ name = "Code Review"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 
 [[slot]]
 type = "talk"
@@ -377,6 +403,7 @@ name = "Na verdade, é mais fácil pedir perdão do que permissão"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 
 [[slot]]
 type = "talk"
@@ -387,6 +414,7 @@ name = "Fatos interessantes sobre arrays, matrizes e tensores: o número 3 vai t
 start_at = 2021-10-11T19:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 
 [[slot]]
 type = "talk"
@@ -397,6 +425,7 @@ name = "Para além da treta \"lógica de programação primeiro\""
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/2jcvSbm1vNw"
 
 [[slot]]
 type = "talk"
@@ -407,6 +436,7 @@ name = "Tudo que você sempre quis saber sobre importar e empacotar código"
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/2jcvSbm1vNw"
 
 [[slot]]
 type = "talk"
@@ -417,6 +447,7 @@ name = "Levando seus dados pra passear: conhecendo a realidade por detrás dos n
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/2jcvSbm1vNw"
 
 [[slot]]
 type = "talk"
@@ -427,6 +458,7 @@ name = "Python em VS Code: 11 features e um segredo"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/XuqLH7wOu5g"
 
 [[slot]]
 type = "talk"
@@ -437,6 +469,7 @@ name = "Do Funk ao Punk com Python"
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/XuqLH7wOu5g"
 
 [[slot]]
 type = "talk"
@@ -447,16 +480,18 @@ name = "Meu TCC em Saúde: como eu poderia ter usado python e ciência de dados?
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/XuqLH7wOu5g"
 
 [[slot]]
 type = "talk"
-author = "Adorilson Araújo"
+author = "Adorilson Araújo & Breno Almeida"
 minibio = "Professor no IFRN, atualmente no Campus Ceará-Mirim, que incentiva e orienta as pessoas estudantes não só utilizarem mas também contribuírem com software livre."
 description = "Conheça o Free Python Games e como estudantes de cursos técnicos integrados ao ensino médio contribuem para este projeto.\n"
 name = "Free Python Games, uma coleção de jogos para ensino/aprendizagem de programação de computadores"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/XuqLH7wOu5g"
 
 [[slot]]
 type = "talk"
@@ -467,6 +502,7 @@ name = "Os Nerds e a Ciência de Dados na Guerra dos Mundos"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/AeYJSHnwyYU"
 
 [[slot]]
 type = "talk"
@@ -477,6 +513,7 @@ name = "Machine Learning! Conhecimentos que eu gostaria de ter aprendido como in
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/AeYJSHnwyYU"
 
 [[slot]]
 type = "talk"
@@ -487,6 +524,7 @@ name = "Escrevendo códigos seguros em Python"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/AeYJSHnwyYU"
 
 [[slot]]
 type = "talk"
@@ -497,6 +535,7 @@ name = "How to get away with algorithms: como ir bem em testes técnicos de proc
 start_at = 2021-10-15T15:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/z5zMwDET8Dc"
 
 [[slot]]
 type = "talk"
@@ -507,26 +546,18 @@ name = "Teoria dos Grafos com Python"
 start_at = 2021-10-15T15:50:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/z5zMwDET8Dc"
 
 [[slot]]
 type = "talk"
-author = "Débora Atanes"
+author = "Débora Golias & Débora Golias"
 minibio = "Debs é Tech Lead na Outsmart e mentora na comunidade Big Open Source Sibling. É apaixonada por desenvolvimento de software e também por ciência de dados. Nas horas vagas, você a encontra assistindo animes ou dançando o que estiver tocando 🍹 "
 description = "Se você quer aprender mais sobre os segredos das páginas web e crawlers, vem com a gente nesse papo super didático para iniciantes e que de quebra vai te fazer chegar mais perto da pessoa amada."
 name = "Conquiste a pessoa amada com Web Scraping: usando BeautifulSoup para pegar dados que vão impressionar qualquer crush"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
-
-[[slot]]
-type = "talk"
-author = "João Golias"
-minibio = "Goli é Tech Lead na Outsmart e estudante de ciência da computação na USP. Já trabalhou como professor de programação e é apaixonado por desenvolvimento, principalmente com backend. "
-description = "Se você quer aprender mais sobre os segredos das páginas web e crawlers, vem com a gente nesse papo super didático para iniciantes e que de quebra vai te fazer chegar mais perto da pessoa amada."
-name = "Conquiste a pessoa amada com Web Scraping: usando BeautifulSoup para pegar dados que vão impressionar qualquer crush"
-start_at = 2021-10-15T16:40:00-03:00
-duration = 45
-room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/z5zMwDET8Dc"
 
 [[slot]]
 type = "talk"
@@ -537,6 +568,7 @@ name = "Deploy: tudo que nunca te contaram sobre como colocar uma aplicação Py
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lsrVtD5qaW4"
 
 [[slot]]
 type = "talk"
@@ -547,6 +579,7 @@ name = "Paralelismo em python: dá pra assobiar e chupar cana ao mesmo tempo?"
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lsrVtD5qaW4"
 
 [[slot]]
 type = "talk"
@@ -557,16 +590,18 @@ name = "Experimentando a caixa de ferramentas do Querido Diário: trabalhando co
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lsrVtD5qaW4"
 
 [[slot]]
 type = "talk"
-author = "Angélica Custódio"
+author = "Angélica Custódio & Mariana Guilardi"
 minibio = "Estatística, mestra em Ciência da Computação e pesquisadora sobre interpretabilidade de modelos opacos. Cientista de Dados atuando em Recuperação. Membra das comunidades R-Ladies e Pyladies São Paulo."
 description = "Abordaremos as etapas que envolvem um projeto de Machine Learning, construindo a pipeline desde a preparação dos dados até aplicação dos algoritmos, ressaltando os pontos importantes desse processo."
 name = "Machine Learning do início ao fim: uma breve visão de um projeto de ML"
 start_at = 2021-10-11T19:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lsrVtD5qaW4"
 
 [[slot]]
 type = "talk"
@@ -577,6 +612,7 @@ name = "Analisando e processando sinais de áudio em Python"
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
 
 [[slot]]
 type = "talk"
@@ -587,6 +623,7 @@ name = "Viajando por uma API segura com Flask"
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
 
 [[slot]]
 type = "talk"
@@ -597,6 +634,7 @@ name = "Desenvolvendo um carro autônomo com Python e Carla"
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
 
 [[slot]]
 type = "talk"
@@ -607,6 +645,7 @@ name = "A recursão que pula"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lO3-tfEwzTc"
 
 [[slot]]
 type = "talk"
@@ -617,6 +656,7 @@ name = "Fazendo amizade com a Phyton reticulada: Introdução ao uso de Python e
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lO3-tfEwzTc"
 
 [[slot]]
 type = "talk"
@@ -627,6 +667,7 @@ name = "Usando Python e SQL para acessar APIs"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lO3-tfEwzTc"
 
 [[slot]]
 type = "talk"
@@ -637,6 +678,7 @@ name = "Botando os pés no mundo de Processamento de Linguagem Natural"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lO3-tfEwzTc"
 
 [[slot]]
 type = "talk"
@@ -647,6 +689,7 @@ name = "Desbravando HTTP com http.server"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/VC49d5frTbg"
 
 [[slot]]
 type = "talk"
@@ -657,16 +700,18 @@ name = "Criando monitores para spiders scrapy usando Spidermon"
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/VC49d5frTbg"
 
 [[slot]]
 type = "talk"
-author = "Rhenan Ferreira"
+author = "Rhenan Ferreira & Israel Teixeira"
 minibio = "Rhenan Bartels é programador e desenvolvedor de software com mais de 10 anos de experiência, cursou Sistemas de Computação na UFF e possui Mestrado e Doutorado em Engenharia Biomédica pela COPPE/UFRJ. Sua especialidade é a linguagem de programação Python e a utiliza tanto no desenvolvimento de ferramentas que facilitam e automatizam tarefas, quanto na análise de dados."
 description = "Com o advento da tecnologia, a desinformação é produzida e disseminada de forma cada vez mais rápida, em maior quantidade e com maior abrangência.\nPelo exposto, nosso trabalho tem sido de desenvolver soluções que identificam de forma automática publicações de baixa qualidade em redes sociais e respondam perguntas de usuários no Whatsapp através de um ChatBot"
 name = "Combatendo fakenews com Python"
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/VC49d5frTbg"
 
 [[slot]]
 type = "talk"
@@ -677,6 +722,7 @@ name = "Construindo API's REST de forma rápida e eficiente com fastAPI"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/VC49d5frTbg"
 
 [[slot]]
 type = "talk"
@@ -687,6 +733,7 @@ name = "As árveres somos nozes - manipulação de código via árvores sintáti
 start_at = 2021-10-15T15:00:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/2JtoCRtkMw4"
 
 [[slot]]
 type = "talk"
@@ -697,6 +744,7 @@ name = "Democratizando informações com visualização de dados"
 start_at = 2021-10-15T15:50:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/2JtoCRtkMw4"
 
 [[slot]]
 type = "talk"
@@ -707,6 +755,7 @@ name = "Desenvolvendo com segurança usando o Docker"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
 room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/2JtoCRtkMw4"
 
 [[slot]]
 type = "talk"
@@ -717,6 +766,7 @@ name = "Pesquisa reprodutível: como tornar sua análise de dados aberta e colab
 start_at = 2021-10-11T15:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
 
 [[slot]]
 type = "talk"
@@ -727,6 +777,7 @@ name = "Desafios do Home Office - Como melhorar o equilíbrio entre vida pessoal
 start_at = 2021-10-11T15:50:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
 
 [[slot]]
 type = "talk"
@@ -737,6 +788,7 @@ name = "Conectivismo Pedagógico: novas formas de ensinar e aprender no século 
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
 
 [[slot]]
 type = "talk"
@@ -747,6 +799,7 @@ name = "Traga mais valor e qualidade em suas entregas de desenvolvimento"
 start_at = 2021-10-13T19:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/OFKk416Zx9w"
 
 [[slot]]
 type = "talk"
@@ -757,6 +810,7 @@ name = "A importância da documentação no trabalho distribuído"
 start_at = 2021-10-12T15:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/aEc4FcD4MFg"
 
 [[slot]]
 type = "talk"
@@ -767,6 +821,7 @@ name = "The oscar goes to BOSS: software livre com mais diversidade"
 start_at = 2021-10-12T15:50:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/aEc4FcD4MFg"
 
 [[slot]]
 type = "talk"
@@ -777,6 +832,7 @@ name = "Eu não sinto que sou uma boa pessoa programadora"
 start_at = 2021-10-12T16:40:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/aEc4FcD4MFg"
 
 [[slot]]
 type = "talk"
@@ -787,6 +843,7 @@ name = "Como conseguir trabalhar pra fora e ganhar o salário do meu pai de 1 an
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/aEc4FcD4MFg"
 
 [[slot]]
 type = "talk"
@@ -797,6 +854,7 @@ name = "Como uma mulher se descobriu em Tech"
 start_at = 2021-10-13T15:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/OFKk416Zx9w"
 
 [[slot]]
 type = "talk"
@@ -807,6 +865,7 @@ name = "Porque Python importa"
 start_at = 2021-10-13T15:50:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/OFKk416Zx9w"
 
 [[slot]]
 type = "talk"
@@ -817,6 +876,7 @@ name = "Sucata eletrônica e seu potencial educacional"
 start_at = 2021-10-13T16:40:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/OFKk416Zx9w"
 
 [[slot]]
 type = "talk"
@@ -827,6 +887,7 @@ name = "Experiências mentorando contribuições a software livre na faculdade"
 start_at = 2021-10-14T15:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/PUsjycX4XR0"
 
 [[slot]]
 type = "talk"
@@ -837,6 +898,7 @@ name = "Python e Ciência: O poder da Interdisciplinaridade!"
 start_at = 2021-10-14T15:50:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/PUsjycX4XR0"
 
 [[slot]]
 type = "talk"
@@ -847,6 +909,7 @@ name = "Migrando de Sistemas de Informação para Marketing para Desenvolvedor"
 start_at = 2021-10-14T16:40:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/PUsjycX4XR0"
 
 [[slot]]
 type = "talk"
@@ -857,6 +920,7 @@ name = "Como usar as redes sociais para alavancar seu projeto"
 start_at = 2021-10-14T19:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/PUsjycX4XR0"
 
 [[slot]]
 type = "talk"
@@ -867,6 +931,7 @@ name = "Python no mundo acadêmico, uma experiência no exterior"
 start_at = 2021-10-15T15:00:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/7aYX9Sj9jmA"
 
 [[slot]]
 type = "talk"
@@ -877,6 +942,7 @@ name = "Como o auto-conhecimento pode me avançar em Python?"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
 room = "Angelica Ross"
+youtube_channel = "https://youtu.be/7aYX9Sj9jmA"
 
 [[slot]]
 type = "talk"
@@ -887,6 +953,7 @@ name = "Python como herramienta de análisis para el personal de salud"
 start_at = 2021-10-12T19:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
 [[slot]]
 type = "talk"
@@ -897,4 +964,5 @@ name = "WebAssembly: El que, el porque y el como"
 start_at = 2021-10-11T19:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
 
