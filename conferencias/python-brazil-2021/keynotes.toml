@@ -1,0 +1,100 @@
+[[slot]]
+type = "keynote"
+author = ""
+description = "Cuducos é um dos fundadores da Operação Serenata de Amor, doutor em sociologia, e desenvolvedor na Shopify. Trabalhou com tecnologia cívica em organizações como Banco Mundial e Open Knowledge Brasil."
+name = "Eduardo Cuducos"
+start_at = 2021-10-15T20:20:00-03:00
+duration = 70
+room = ""
+youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+
+[[slot]]
+type = "keynote"
+author = ""
+description = "Sou formada em análise e desenvolvimento de sistemas, trabalho como Apoio Pedagógico na Escola de Dados da Open Knowledge Brasil. Uma pessoa da exatas com dois pés em humanas.\n"
+name = "Anicely Santos"
+start_at = 2021-10-12T20:20:00-03:00
+duration = 70
+room = ""
+youtube_channel = "https://youtu.be/fXRGok6QbIw"
+
+[[slot]]
+type = "keynote"
+author = ""
+description = "Kizzy e Hallison são criadores do canal Programação Dinâmica no YouTube onde ensinam sobre programação, ciência de dados e interligência artificial e discutem sobre novas tecnologias na sociedade."
+name = "Kizzy Terra"
+start_at = 2021-10-11T20:20:00-03:00
+duration = 70
+room = ""
+youtube_channel = "https://youtu.be/-OMV8DEEN8E"
+
+[[slot]]
+type = "keynote"
+author = ""
+description = "Yaso é Principal Privacy Researcher na Unico IDTech. Trabalhou no Banco Mundial, e colaborou para a integração de tecnologia e inovação na infraestrutura de governança de países em desenvolvimento. Foi CEO do Serenata de Amor e cofundadora do Calango Hackerspace."
+name = "Yasodara Córdova "
+start_at = 2021-10-13T20:20:00-03:00
+duration = 70
+room = ""
+youtube_channel = "https://youtu.be/ia-W6GwDTto"
+
+[[slot]]
+type = "keynote"
+author = ""
+description = "Co-fundadora do PyLadies Brasil/Natal. Formada em Tecnologia da Informação (UFRN), sou desenvolvedora na Vinta, e estou sempre interessada em conversar sobre Python, Testes e Qualidade de Software."
+name = "Gabriela Cavalcante da Silva"
+start_at = 2021-10-14T20:20:00-03:00
+duration = 70
+room = ""
+youtube_channel = "https://youtu.be/Ul8aA8w7DTw"
+
+[[slot]]
+type = "panel"
+author = ""
+description = ""
+name = "AfroPython"
+start_at = 2021-10-11T10:00:00-03:00
+duration = 120
+room = ""
+youtube_channel = "https://youtu.be/HqRDZ5unNuo"
+
+[[slot]]
+type = "panel"
+author = ""
+description = ""
+name = "Associação Python Brasil"
+start_at = 2021-10-12T10:00:00-03:00
+duration = 120
+room = ""
+youtube_channel = "https://youtu.be/E78Ye0rQ1uA"
+
+[[slot]]
+type = "panel"
+author = ""
+description = ""
+name = "Dados Abertos"
+start_at = 2021-10-13T10:00:00-03:00
+duration = 120
+room = ""
+youtube_channel = "https://youtu.be/M2H44tQA_b8"
+
+[[slot]]
+type = "panel"
+author = ""
+description = ""
+name = "Segurança"
+start_at = 2021-10-15T10:00:00-03:00
+duration = 120
+room = ""
+youtube_channel = "https://youtu.be/4xrgUjNRqK4"
+
+[[slot]]
+type = "panel"
+author = ""
+description = ""
+name = "Educação não formal"
+start_at = 2021-10-15T10:00:00-03:00
+duration = 120
+room = ""
+youtube_channel = "https://youtu.be/cDoxtv2uwXo"
+
