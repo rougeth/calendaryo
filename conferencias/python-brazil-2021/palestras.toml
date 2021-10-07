@@ -187,83 +187,6 @@ youtube_channel = "https://youtu.be/tIfYm38Vag8"
 
 [[slot]]
 type = "talk"
-author = "Laura López"
-minibio = "Soy ingeniera de telecomunicaciones y científica de datos en formación. Me dedico a buscar soluciones basadas en datos. Soy voluntaria en Pyladies Medellín. Me apasiona la fotografía y el aprender cosas nuevas."
-description = "Hablaremos sobre ciencia de datos, algunos conceptos generales y limpieza de datos con pandas. Daremos una introducción al análisis descriptivo y limpieza de datos, los pasos que podemos seguir y algunas herramientas."
-name = "Al mal tiempo, buena data: Limpieza de datos con Python"
-start_at = 2021-10-12T15:00:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/aarQb_Dmy2U"
-
-[[slot]]
-type = "talk"
-author = "Denny Perez"
-minibio = "Es analista QA. Co-fundadora de Pyladies Santiago Chile. Co-organizadora de  PyConLatam y PyCon Chile. Le encanta involucrarse con conferencias en las que se promueve la diversidad y la inclusión."
-description = "PSF la organización que rige la comunidad de programadores del lenguaje Python. Los tipos de membresía para pertenecer a esta organización y las diferentes vías para colaborar con la comunidad Python."
-name = "Colaborando con la Comunidad Python a través de la PSF\""
-start_at = 2021-10-15T15:00:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/HfJp03Q4lug"
-
-[[slot]]
-type = "talk"
-author = "Maris Botero"
-minibio = "De profesión soy ingenieria Electrónica, me apasiona la inteligencia artificial y las matemáticas. Me dedico a buscar soluciones y responder preguntas usando datos y algortimos.Disfruto aprender cosas nuevas, escuchar historias y ver la belleza de lo simple"
-description = "Cientifica de datos apasado por la inteligencia artificial, por los patrones matemáticos y por contar historias con datos"
-name = "Inteligencia artificial creativa con python"
-start_at = 2021-10-13T15:00:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/RiZOD1fOHEs"
-
-[[slot]]
-type = "talk"
-author = "Patricia Vong"
-minibio = "Técnico en ingenería con especialización en desarrollo de software y estudiante de ingeniería estadística en la Universidad de Panamá"
-description = "Explicacion sobre qué es la programación, sus elementos y como comenzar a programar con Python."
-name = "Introducción a la programación con Python\n"
-start_at = 2021-10-14T15:00:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/fKTJRYUKwEo"
-
-[[slot]]
-type = "talk"
-author = "Nury Yanque"
-minibio = "Eu sou MSc. em Ciências da Computação pela USP,  sou peruana e venho trabalhando no mercado brasileiro a mais de um ano na area de Inteligencia Artificial com Visão Computacional para o AgroTec. "
-description = "Testes unitarios interrogam a lógica aprendida durante o treinamento, principalmente quando o modelo de clasificação de imagenes performa no ambiente real."
-name = "Testes Unitarios para Clasificación de Imágenes"
-start_at = 2021-10-11T15:00:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/c-ytboo__JI"
-
-[[slot]]
-type = "talk"
-author = "Leandro lecovi)"
-minibio = "FLOSS enthusiast. Python Lover. PSF Managing Member. Python Argentina treasurer. Entrepreneur. Currently working as Manager at Mercado Libre to improve Developer Experience inside MELI."
-description = "Una breve introducción al mundo Open Source y una guía para todos aquellos que quieran empezar a contribuir con el Open Source."
-name = "I want to do Open Source, but I don't know how"
-start_at = 2021-10-14T15:50:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/fKTJRYUKwEo"
-
-[[slot]]
-type = "talk"
-author = "Marco Carranza"
-minibio = "Cofundador técnico de Teamcore Solutions, empresa encargada de crear soluciones para la industria de Retail utilizando diversos modelos de machine learning y big data."
-description = "Las pruebas de mutación buscan asegurar que las pruebas unitarias fallen cuando el código fuente se cambia arbitrariamente y que estas sean capaces de distinguir el programa original del mutante"
-name = "Python Mutant Nation"
-start_at = 2021-10-11T15:50:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/c-ytboo__JI"
-
-[[slot]]
-type = "talk"
 author = "Alison Rios"
 minibio = "Ing. Informática de la Universidad Mayor de San Simón, Cochabamba - Bolivia\nMaestrante de Diseño y Producción Multimedia\nLead de Comunidad PyLadies Cochabamba\nInstructora en Cisco Networking Academy"
 description = "Conocer el área de Visión Artificial mediante la librería OpenCV con Python, y ver el procesamiento de imágenes en tiempo real para identificar elementos mediante reconocimiento de colores y formas. "
@@ -272,17 +195,6 @@ start_at = 2021-10-13T15:50:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/RiZOD1fOHEs"
-
-[[slot]]
-type = "talk"
-author = "Arnulfo Reyes"
-minibio = "Arnulfo Reyes es un apasionado por los datos con más de 5 años de experiencia en el sector de transporte.\nEs voluntario en las comunidades de Python Panamá y Fedora Panamá promoviendo la participación y aprendizaje del público en general."
-description = "¿Cuánto tiempo debes invertir para aprender Python, vale la pena todo este tiempo?\nPosiblemente has encontrado al menos un curso, un video o una publicación donde revelen que aprendieron Python en unos días y rápidamente pasaron a un trabajo bien remunerado. Algunas de estas historias pueden ser ciertas, pero no te ayudan a prepararte para un aprendizaje constante.\nObservaremos algunos de los motivos por el cual las personas quieren aprender a programar en Python. Tomaremos en cuenta algunos objetivos personales y luego podremos identificar dónde nos encontramos nosotros. Nos enfocaremos en las principales razones para aprender Python y que tanto nos afecta este enfoque en la cantidad de tiempo que necesita invertir."
-name = "Transforma tu vida personal y profesional con Python"
-start_at = 2021-10-15T15:50:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/HfJp03Q4lug"
 
 [[slot]]
 type = "talk"
@@ -297,91 +209,36 @@ youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
 [[slot]]
 type = "talk"
-author = "Ramiro Caro"
-minibio = "Científico de datos e Ingeniero Electrónico, egresado de la Universidad Nacional de Córdoba. Más de 10 años trabajando en proyectos enfocados en datos en industrias como ecommerce, petróleo/gas y distribución de energía eléctrica. Actualmente me desempeño como Senior Data Scientist en Mercado Libre en el área de detección de artículos prohibidos."
-description = "En muchos casos se considera que cuando iniciamos con un problema de ML, todos los datos de entrenamiento se encuentran evaluados con un 100% de precisión. Sin embargo, en sistemas productivos online, rara vez se nos presenta dicho escenario. En esta charla deseo mostrar cómo se atacaron problemas como targets incompletos, no confiables o feedback incompleto en el monitoreo, dentro de la iniciativa de moderación de artículos prohibidos en el marketplace de MercadoLibre."
-name = "¿Que hacer cuando no puedo confiar en mis labels?"
-start_at = 2021-10-13T16:40:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/RiZOD1fOHEs"
-
-[[slot]]
-type = "talk"
-author = "Marcelo Landó"
-minibio = "Marcelo Elizeche es un desarrollador de Asunción, Paraguay con background en Seguridad de la Información que usualmente pasa la mayoría de su tiempo haciendo proyectos que no le generan rédito económico pero que son divertidos, como organizar la comunidad Python Paraguay e impulsar la defensa de derechos digitales y privacidad"
-description = "Cuando una pandemia ataca donde el estado está ausente la única opción es recurrir a la creatividad y a la comunidad\n\nComo una idea simple terminó cambiando la vida de muchas personas durante la cuarentena sanitaria y el viaje de crear, mantener y sobrevivir al crecimiento exponencial de un proyecto social"
-name = "AyudaPy.org: De proyecto de fin de semana a movimiento ciudadano clave durante la pandemia"
-start_at = 2021-10-14T16:40:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/fKTJRYUKwEo"
-
-[[slot]]
-type = "talk"
-author = "Roberto Esteves"
-minibio = "Emprendedor, buscando siempre las mejores soluciones a los problemas, Innovador, descubriendo que cada problema tiene más de una solución\n\nProfesional en Transformación Digital con +20 años de experiencia, en desarrollo de estrategias digitales, manejo de crisis en redes sociales e innovación.\n\nManejo fluido del inglés y español."
-description = "Vamos a revisar el estado de los datos abiertos en Ecuador y un análisis de las compras públicas realizadas durante la emergencia declarada por el COVID - 19, utilizando PANDAS, MATPLOTLIB, SEABORN, PLOTLY, Procesamiento de Lenguaje Natural, y una introducción al OPEN CONTRACT STANDAR"
-name = "Datos Abiertos en Ecuador, un análisis a las compras públicas durante la emergencia Covid-19"
-start_at = 2021-10-12T16:40:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/aarQb_Dmy2U"
-
-[[slot]]
-type = "talk"
-author = "Pamela Faúndez"
-minibio = "Doctora(c) en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile. Magíster en Ingeniería Industrial e Ingeniera Civil Industrial de la Universidad del Bío-Bío."
-description = "Teoría de Juegos estudia a través de modelos matemáticos la competencia y cooperación entre agentes racionales. Esta charla se centra en el área de \"Juegos de Stackelberg\" en contextos de seguridad."
-name = "Teoría de juegos en la vida cotidiana"
-start_at = 2021-10-15T16:40:00-03:00
-duration = 45
-room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/HfJp03Q4lug"
-
-[[slot]]
-type = "talk"
-author = "Itzá Hernández"
-minibio = "Itzá Hernández es consultora en tecnologías geoespaciales para plataformas de monitoreo de la agricultura, el ambiente y prevención de desastres naturales. "
-description = "Cuando hablamos de tierra digital nos referimos a los sistemas de información geográfica, imágenes satelitales y sistemas de posicionamiento global. Pero, ¿qué tiene que ver python en todo esto?"
-name = "Tierra digital, tecnologías geoespaciales y python"
-start_at = 2021-10-11T16:40:00-03:00
+author = "Andres Pineda"
+minibio = ""
+description = ""
+name = "WebAssembly: El que, el porque y el como"
+start_at = 2021-10-11T19:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/c-ytboo__JI"
 
 [[slot]]
 type = "talk"
-author = "Federico Ramírez"
-minibio = "Economista y Matemático aplicado. He trabajado para el Banco de México, Banorte, Abraxas y actualmente soy cofundador y CDO de Nixtla, donde buscamos democratizar el uso de modelos estado del arte para series de tiempo usando machine learning y deep learning.  Creo en la ternura. https://github.com/FedericoGarza"
-description = "Presentaremos nixtlats (https://github.com/Nixtla/nixtlats/), librería de python que facilita el uso de modelos de deep learning para series de tiempo a data scientists y developers."
-name = "Deep Learning para pronóstico de series de tiempo"
-start_at = 2021-10-13T19:00:00-03:00
+author = "Arnulfo Reyes"
+minibio = "Arnulfo Reyes es un apasionado por los datos con más de 5 años de experiencia en el sector de transporte.\nEs voluntario en las comunidades de Python Panamá y Fedora Panamá promoviendo la participación y aprendizaje del público en general."
+description = "¿Cuánto tiempo debes invertir para aprender Python, vale la pena todo este tiempo?\nPosiblemente has encontrado al menos un curso, un video o una publicación donde revelen que aprendieron Python en unos días y rápidamente pasaron a un trabajo bien remunerado. Algunas de estas historias pueden ser ciertas, pero no te ayudan a prepararte para un aprendizaje constante.\nObservaremos algunos de los motivos por el cual las personas quieren aprender a programar en Python. Tomaremos en cuenta algunos objetivos personales y luego podremos identificar dónde nos encontramos nosotros. Nos enfocaremos en las principales razones para aprender Python y que tanto nos afecta este enfoque en la cantidad de tiempo que necesita invertir."
+name = "Transforma tu vida personal y profesional con Python"
+start_at = 2021-10-15T15:50:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/RiZOD1fOHEs"
+youtube_channel = "https://youtu.be/HfJp03Q4lug"
 
 [[slot]]
 type = "talk"
-author = "Jesús García"
-minibio = "Jesús Armando es un apasionado de la ciencia y la tecnología, actualmente es fundador y lead del Google Developer Student Club para la Universidad de Guanajuato, es coordinador en una comunidad de tecnología como Future Lab. Asimismo a colaborado en proyectos internacionales en el desarrollo de procesos químicos entre Kyoto University - Universidad de Guanajuato."
-description = "El caso de estudio propone usar una versión adaptada del algoritmo Simulated Annealing (SA) para la búsqueda del optimo global en carga energética y costos mediante un proceso de destilación."
-name = "Ingeniería Química aplicando algoritmos de optimización estocástica con Python"
-start_at = 2021-10-14T19:00:00-03:00
+author = "Denny Perez"
+minibio = "Es analista QA. Co-fundadora de Pyladies Santiago Chile. Co-organizadora de  PyConLatam y PyCon Chile. Le encanta involucrarse con conferencias en las que se promueve la diversidad y la inclusión."
+description = "PSF la organización que rige la comunidad de programadores del lenguaje Python. Los tipos de membresía para pertenecer a esta organización y las diferentes vías para colaborar con la comunidad Python."
+name = "Colaborando con la Comunidad Python a través de la PSF\""
+start_at = 2021-10-15T15:00:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/fKTJRYUKwEo"
-
-[[slot]]
-type = "talk"
-author = "Ana Gomes"
-minibio = "Baiana vivendo em Berlim, engenheira de software e mestre em Ciência da Computação (UFMG). Embaixadora de inovação cívica na Open Knowledge Brasil e fundadora do Dados Abertos de Feira, uma iniciativa de fomento à transparência em Feira de Santana - BA. A louca do open source."
-description = "Venha conversar sobre como é possível melhorar habilidades profissionais e ao mesmo tempo contribuir para uma cidade melhor. Falaremos muito de código, dados, open source e sobre como ser uma city hacker."
-name = "HACKER na empresa CIDADE"
-start_at = 2021-10-11T15:00:00-03:00
-duration = 45
-room = "Shirley Ann Jackson"
-youtube_channel = "https://youtu.be/s7B8Cd02MF8"
+youtube_channel = "https://youtu.be/HfJp03Q4lug"
 
 [[slot]]
 type = "talk"
@@ -407,6 +264,138 @@ youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 
 [[slot]]
 type = "talk"
+author = "Federico Ramírez"
+minibio = "Economista y Matemático aplicado. He trabajado para el Banco de México, Banorte, Abraxas y actualmente soy cofundador y CDO de Nixtla, donde buscamos democratizar el uso de modelos estado del arte para series de tiempo usando machine learning y deep learning.  Creo en la ternura. https://github.com/FedericoGarza"
+description = "Presentaremos nixtlats (https://github.com/Nixtla/nixtlats/), librería de python que facilita el uso de modelos de deep learning para series de tiempo a data scientists y developers."
+name = "Deep Learning para pronóstico de series de tiempo"
+start_at = 2021-10-13T19:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/RiZOD1fOHEs"
+
+[[slot]]
+type = "talk"
+author = "Itzá Sequeira"
+minibio = "Itzá Hernández es consultora en tecnologías geoespaciales para plataformas de monitoreo de la agricultura, el ambiente y prevención de desastres naturales. "
+description = "Cuando hablamos de tierra digital nos referimos a los sistemas de información geográfica, imágenes satelitales y sistemas de posicionamiento global. Pero, ¿qué tiene que ver python en todo esto?"
+name = "Tierra digital, tecnologías geoespaciales y python"
+start_at = 2021-10-11T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
+
+[[slot]]
+type = "talk"
+author = "Jesús García"
+minibio = "Jesús Armando es un apasionado de la ciencia y la tecnología, actualmente es fundador y lead del Google Developer Student Club para la Universidad de Guanajuato, es coordinador en una comunidad de tecnología como Future Lab. Asimismo a colaborado en proyectos internacionales en el desarrollo de procesos químicos entre Kyoto University - Universidad de Guanajuato."
+description = "El caso de estudio propone usar una versión adaptada del algoritmo Simulated Annealing (SA) para la búsqueda del optimo global en carga energética y costos mediante un proceso de destilación."
+name = "Ingeniería Química aplicando algoritmos de optimización estocástica con Python"
+start_at = 2021-10-14T19:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
+
+[[slot]]
+type = "talk"
+author = "Juana Martínez"
+minibio = "•Ingeniera de datos\n• CoFundadora Women in Data Science, Power and Engineering A.C.\n\nApasionada por la tecnología y demostrar como esta nos ayuda a encontrar que siempre hay una manera más eficaz, mejor y sencilla de hacer las cosas, es una de mis grandes metas en la vida; tanto personal, como profesionalmente. Dejar en claro que el principal beneficio de ejercer lo que amas es ser tú mismo ya que esto te hace ser más creativo y entrar en un círculo de renovación continuo que no solo te hace feliz, aun mejor, beneficia a tus clientes. La parte del pago del esfuerzo debe ser la libertad de ayudar a otros a descubrirse y crecer.\n\n"
+description = "Platicaremos como Python se ha posicionado como una herramienta mas para el personal de salud enfocado en la investigación y análisis de datos generados en los procesos dentro de las instituciones de salud; dando lugar a la creación de nuevas aéreas y roles que enriquecen el ecosistema de salud."
+name = "Python como herramienta de análisis para el personal de salud"
+start_at = 2021-10-12T19:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/aarQb_Dmy2U"
+
+[[slot]]
+type = "talk"
+author = "Laura Bedoya"
+minibio = "Soy ingeniera de telecomunicaciones y científica de datos en formación. Me dedico a buscar soluciones basadas en datos. Soy voluntaria en Pyladies Medellín. Me apasiona la fotografía y el aprender cosas nuevas."
+description = "Hablaremos sobre ciencia de datos, algunos conceptos generales y limpieza de datos con pandas. Daremos una introducción al análisis descriptivo y limpieza de datos, los pasos que podemos seguir y algunas herramientas."
+name = "Al mal tiempo, buena data: Limpieza de datos con Python"
+start_at = 2021-10-12T15:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/aarQb_Dmy2U"
+
+[[slot]]
+type = "talk"
+author = "Leandro Viña"
+minibio = "FLOSS enthusiast. Python Lover. PSF Managing Member. Python Argentina treasurer. Entrepreneur. Currently working as Manager at Mercado Libre to improve Developer Experience inside MELI."
+description = "Una breve introducción al mundo Open Source y una guía para todos aquellos que quieran empezar a contribuir con el Open Source."
+name = "I want to do Open Source, but I don't know how"
+start_at = 2021-10-14T15:50:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
+
+[[slot]]
+type = "talk"
+author = "Marcelo Landó"
+minibio = "Marcelo Elizeche es un desarrollador de Asunción, Paraguay con background en Seguridad de la Información que usualmente pasa la mayoría de su tiempo haciendo proyectos que no le generan rédito económico pero que son divertidos, como organizar la comunidad Python Paraguay e impulsar la defensa de derechos digitales y privacidad"
+description = "Cuando una pandemia ataca donde el estado está ausente la única opción es recurrir a la creatividad y a la comunidad\n\nComo una idea simple terminó cambiando la vida de muchas personas durante la cuarentena sanitaria y el viaje de crear, mantener y sobrevivir al crecimiento exponencial de un proyecto social"
+name = "AyudaPy.org: De proyecto de fin de semana a movimiento ciudadano clave durante la pandemia"
+start_at = 2021-10-14T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
+
+[[slot]]
+type = "talk"
+author = "Marco Carranza"
+minibio = "Cofundador técnico de Teamcore Solutions, empresa encargada de crear soluciones para la industria de Retail utilizando diversos modelos de machine learning y big data."
+description = "Las pruebas de mutación buscan asegurar que las pruebas unitarias fallen cuando el código fuente se cambia arbitrariamente y que estas sean capaces de distinguir el programa original del mutante"
+name = "Python Mutant Nation"
+start_at = 2021-10-11T15:50:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
+
+[[slot]]
+type = "talk"
+author = "Maris Botero"
+minibio = "De profesión soy ingenieria Electrónica, me apasiona la inteligencia artificial y las matemáticas. Me dedico a buscar soluciones y responder preguntas usando datos y algortimos.Disfruto aprender cosas nuevas, escuchar historias y ver la belleza de lo simple"
+description = "Cientifica de datos apasado por la inteligencia artificial, por los patrones matemáticos y por contar historias con datos"
+name = "Inteligencia artificial creativa con python"
+start_at = 2021-10-13T15:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/RiZOD1fOHEs"
+
+[[slot]]
+type = "talk"
+author = "Nury Yanque"
+minibio = "Eu sou MSc. em Ciências da Computação pela USP,  sou peruana e venho trabalhando no mercado brasileiro a mais de um ano na area de Inteligencia Artificial com Visão Computacional para o AgroTec. "
+description = "Testes unitarios interrogam a lógica aprendida durante o treinamento, principalmente quando o modelo de clasificação de imagenes performa no ambiente real."
+name = "Testes Unitarios para Clasificación de Imágenes"
+start_at = 2021-10-11T15:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
+
+[[slot]]
+type = "talk"
+author = "Pamela Faúndez"
+minibio = "Doctora(c) en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile. Magíster en Ingeniería Industrial e Ingeniera Civil Industrial de la Universidad del Bío-Bío."
+description = "Teoría de Juegos estudia a través de modelos matemáticos la competencia y cooperación entre agentes racionales. Esta charla se centra en el área de \"Juegos de Stackelberg\" en contextos de seguridad."
+name = "Teoría de juegos en la vida cotidiana"
+start_at = 2021-10-15T16:40:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/HfJp03Q4lug"
+
+[[slot]]
+type = "talk"
+author = "Patricia Vong"
+minibio = "Técnico en ingenería con especialización en desarrollo de software y estudiante de ingeniería estadística en la Universidad de Panamá"
+description = "Explicacion sobre qué es la programación, sus elementos y como comenzar a programar con Python."
+name = "Introducción a la programación con Python\n"
+start_at = 2021-10-14T15:00:00-03:00
+duration = 45
+room = "Bonnie Prado Pinto"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
+
+[[slot]]
+type = "talk"
 author = "Melissa Mendonça"
 minibio = "Melissa é matemática e trabalha com desenvolvimento de software na Quansight. É líder do time de documentação do NumPy, entusiasta de Python, LaTeX, Fortran e software livre em geral."
 description = "Vamos explorar o conceito de arrays no Python (e em outras linguagens de programação), sua representação interna e para quais tipos de dados e operações ela é vantajosa."
@@ -415,6 +404,28 @@ start_at = 2021-10-11T19:00:00-03:00
 duration = 45
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
+
+[[slot]]
+type = "talk"
+author = "Oswaldin Santos"
+minibio = "Coordenador do BB Data Driven,xa0um programa de transformação cultural dedicado a promover a cultura de dados no Banco do Brasil. Nerd, entusiasta da Transformação Digital, Educação e Ciência de Dados."
+description = "Oswaldin Santos mostra como os Nerds (e todas as outras pessoas) podem ajudar a salvar o futuro na Guerra dos Mundos, utilizando Ciência de Dados (e, claro, com uma boa dose de Python). "
+name = "Os Nerds e a Ciência de Dados na Guerra dos Mundos"
+start_at = 2021-10-11T15:00:00-03:00
+duration = 45
+room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/s7B8Cd02MF8"
+
+[[slot]]
+type = "talk"
+author = "Jéssica Bonson"
+minibio = "Jéssica trabalha como Principal Software Engineer no iFood. É formada e mestre em Ciências da Computação. Tem cerca de 9 anos de experiência como desenvolvedora em diversos projetos e techstacks."
+description = "Todo developer já teve que enfrentar diversos monstrinhos de código e fluxos legados nos sistemas das empresas. Essa palestra vai te ajudar a analisar e refatorar esses problemas."
+name = "O que fazer quando o sistema se torna um monstrinho?"
+start_at = 2021-10-12T15:00:00-03:00
+duration = 45
+room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/2jcvSbm1vNw"
 
 [[slot]]
 type = "talk"
@@ -495,17 +506,6 @@ youtube_channel = "https://youtu.be/XuqLH7wOu5g"
 
 [[slot]]
 type = "talk"
-author = "Oswaldin Santos"
-minibio = "Coordenador do BB Data Driven,xa0um programa de transformação cultural dedicado a promover a cultura de dados no Banco do Brasil. Nerd, entusiasta da Transformação Digital, Educação e Ciência de Dados."
-description = "Oswaldin Santos mostra como os Nerds (e todas as outras pessoas) podem ajudar a salvar o futuro na Guerra dos Mundos, utilizando Ciência de Dados (e, claro, com uma boa dose de Python). "
-name = "Os Nerds e a Ciência de Dados na Guerra dos Mundos"
-start_at = 2021-10-14T15:00:00-03:00
-duration = 45
-room = "Shirley Ann Jackson"
-youtube_channel = "https://youtu.be/AeYJSHnwyYU"
-
-[[slot]]
-type = "talk"
 author = "Juliana Alves"
 minibio = "Juliana Ferreira é graduanda em Eng. da Computação, faz IC em Bioinformática e Aprendizado de Máquina. Conselheira global das PyLadies eleita em 2020 e integrante do PyLadies São Carlos desde 2018."
 description = "Essa palestra é pra quem está se perguntando o que é (e como funciona) Machine Learning. O foco desta apresentação é introduzir conceitos de ML, abordando temas chaves e algumas de suas aplicações."
@@ -550,7 +550,7 @@ youtube_channel = "https://youtu.be/z5zMwDET8Dc"
 
 [[slot]]
 type = "talk"
-author = "Débora Golias & Débora Golias"
+author = "João Golias & Débora Golias"
 minibio = "Debs é Tech Lead na Outsmart e mentora na comunidade Big Open Source Sibling. É apaixonada por desenvolvimento de software e também por ciência de dados. Nas horas vagas, você a encontra assistindo animes ou dançando o que estiver tocando 🍹 "
 description = "Se você quer aprender mais sobre os segredos das páginas web e crawlers, vem com a gente nesse papo super didático para iniciantes e que de quebra vai te fazer chegar mais perto da pessoa amada."
 name = "Conquiste a pessoa amada com Web Scraping: usando BeautifulSoup para pegar dados que vão impressionar qualquer crush"
@@ -583,14 +583,25 @@ youtube_channel = "https://youtu.be/lsrVtD5qaW4"
 
 [[slot]]
 type = "talk"
+author = "Guilherme Latrova"
+minibio = ""
+description = ""
+name = ""
+start_at = 2021-10-11T16:40:00-03:00
+duration = 50
+room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lsrVtD5qaW4"
+
+[[slot]]
+type = "talk"
 author = "Giulio Carvalho"
 minibio = "Trabalha há 4 anos com raspagem e engenharia de dados e é graduando do curso de Engenharia da Computação pela UFPE. Desde 2019, é membro ativo e faz parte da organização do Grupo de Usuários de Python de Pernambuco (PUG-PE). Desde 2020, integra a equipe de mantenedoras do projeto Querido Diário e também a rede de Pessoas Embaixadoras de Inovação Cívica da Open Knowledge Brasil. Hoje atua como coordenador de Inovação Cívica da OKBR."
 description = "Como conseguimos converter diários oficiais de diversos formatos para texto puro e extrair dados como CNPJ? Como cruzar essas informações com outras bases de dados? Veremos isso com o QD Toolbox!"
 name = "Experimentando a caixa de ferramentas do Querido Diário: trabalhando com dados não estruturados"
-start_at = 2021-10-11T16:40:00-03:00
-duration = 45
+start_at = 2021-10-12T15:00:00-03:00
+duration = 50
 room = "Marie Van Brittan Brown"
-youtube_channel = "https://youtu.be/lsrVtD5qaW4"
+youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
 
 [[slot]]
 type = "talk"
@@ -946,23 +957,23 @@ youtube_channel = "https://youtu.be/7aYX9Sj9jmA"
 
 [[slot]]
 type = "talk"
-author = "Juana Cadeñanes"
-minibio = "•Ingeniera de datos\n• CoFundadora Women in Data Science, Power and Engineering A.C.\n\nApasionada por la tecnología y demostrar como esta nos ayuda a encontrar que siempre hay una manera más eficaz, mejor y sencilla de hacer las cosas, es una de mis grandes metas en la vida; tanto personal, como profesionalmente. Dejar en claro que el principal beneficio de ejercer lo que amas es ser tú mismo ya que esto te hace ser más creativo y entrar en un círculo de renovación continuo que no solo te hace feliz, aun mejor, beneficia a tus clientes. La parte del pago del esfuerzo debe ser la libertad de ayudar a otros a descubrirse y crecer.\n\n"
-description = "Platicaremos como Python se ha posicionado como una herramienta mas para el personal de salud enfocado en la investigación y análisis de datos generados en los procesos dentro de las instituciones de salud; dando lugar a la creación de nuevas aéreas y roles que enriquecen el ecosistema de salud."
-name = "Python como herramienta de análisis para el personal de salud"
-start_at = 2021-10-12T19:00:00-03:00
+author = "Ramiro Caro"
+minibio = "Científico de datos e Ingeniero Electrónico, egresado de la Universidad Nacional de Córdoba. Más de 10 años trabajando en proyectos enfocados en datos en industrias como ecommerce, petróleo/gas y distribución de energía eléctrica. Actualmente me desempeño como Senior Data Scientist en Mercado Libre en el área de detección de artículos prohibidos."
+description = "En muchos casos se considera que cuando iniciamos con un problema de ML, todos los datos de entrenamiento se encuentran evaluados con un 100% de precisión. Sin embargo, en sistemas productivos online, rara vez se nos presenta dicho escenario. En esta charla deseo mostrar cómo se atacaron problemas como targets incompletos, no confiables o feedback incompleto en el monitoreo, dentro de la iniciativa de moderación de artículos prohibidos en el marketplace de MercadoLibre."
+name = "¿Que hacer cuando no puedo confiar en mis labels?"
+start_at = 2021-10-13T16:40:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/aarQb_Dmy2U"
+youtube_channel = "https://youtu.be/RiZOD1fOHEs"
 
 [[slot]]
 type = "talk"
-author = "Andres Pineda"
-minibio = ""
-description = ""
-name = "WebAssembly: El que, el porque y el como"
-start_at = 2021-10-11T19:00:00-03:00
+author = "Roberto Esteves"
+minibio = "Emprendedor, buscando siempre las mejores soluciones a los problemas, Innovador, descubriendo que cada problema tiene más de una solución\n\nProfesional en Transformación Digital con +20 años de experiencia, en desarrollo de estrategias digitales, manejo de crisis en redes sociales e innovación.\n\nManejo fluido del inglés y español."
+description = "Vamos a revisar el estado de los datos abiertos en Ecuador y un análisis de las compras públicas realizadas durante la emergencia declarada por el COVID - 19, utilizando PANDAS, MATPLOTLIB, SEABORN, PLOTLY, Procesamiento de Lenguaje Natural, y una introducción al OPEN CONTRACT STANDAR"
+name = "Datos Abiertos en Ecuador, un análisis a las compras públicas durante la emergencia Covid-19"
+start_at = 2021-10-12T16:40:00-03:00
 duration = 45
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/c-ytboo__JI"
+youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
