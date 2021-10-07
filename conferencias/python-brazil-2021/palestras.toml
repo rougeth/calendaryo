@@ -588,7 +588,7 @@ minibio = ""
 description = ""
 name = ""
 start_at = 2021-10-11T16:40:00-03:00
-duration = 50
+duration = 45
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
 
@@ -599,7 +599,7 @@ minibio = "Trabalha há 4 anos com raspagem e engenharia de dados e é graduando
 description = "Como conseguimos converter diários oficiais de diversos formatos para texto puro e extrair dados como CNPJ? Como cruzar essas informações com outras bases de dados? Veremos isso com o QD Toolbox!"
 name = "Experimentando a caixa de ferramentas do Querido Diário: trabalhando com dados não estruturados"
 start_at = 2021-10-12T15:00:00-03:00
-duration = 50
+duration = 45
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
 
