@@ -1,0 +1,188 @@
+[[slot]]
+type = "tutorial"
+author = "João Carabetta"
+description = "A RAM do seu computador está sofrendo para analisar seus dados? Subir um cluster custa mais que seu salário? Seus problemas acabaram! Venha conferir como a Base dos Dados pode resolver seus problemas"
+name = "Analisando 250GB em segundos usando Python e a Base dos Dados"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Jessica Temporal"
+description = "Venha ver como construir um mapa para mostrar por onde você andou, colocar esse mapa no ar e, de quebra, aprender a proteger sua API escrita em Flask."
+name = "Viajando por uma API protegida: Implementando uma API com Flask"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+name = "Intervalo"
+description = ""
+start_at = 2021-10-16T13:00:00-03:00
+duration = 120
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = ""
+description = ""
+name = "Intervalo"
+start_at = 2021-10-17T13:00:00-03:00
+duration = 120
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Bruno Almeida"
+description = "Usaremos bases de dados científicas e faremos a análise exploratória e descritiva dos dados usando a linguagem Python e analisando os resultados obtidos."
+name = "Análise de Datasets Científicos usando Python (parte 1)"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Bruno Almeida"
+description = "Usaremos bases de dados científicas e faremos a análise exploratória e descritiva dos dados usando a linguagem Python e analisando os resultados obtidos."
+name = "Análise de Datasets Científicos usando Python (parte 2)"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "João Bueno"
+description = "Vamos aprendender muito Python  escrevendo um jogo do zero. Com o uso de  orientação a objetos de forma clara e só onde necessário a criação de jogos básicos é uma oportunidade única para aprendizado\n "
+name = "Criando um jogo de plataforma com Pygame do zero (parte 1)"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "João Bueno"
+description = "Vamos aprendender muito Python  escrevendo um jogo do zero. Com o uso de  orientação a objetos de forma clara e só onde necessário a criação de jogos básicos é uma oportunidade única para aprendizado\n "
+name = "Criando um jogo de plataforma com Pygame do zero (parte 2)"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Luciano Ramalho"
+description = "Vamos construir passo-a-passo um interpretador funcional para um dialeto da linguagem Lisp, inspirado em lis.py, uma obra-prima de 132 linhas escrita pelo prof. Peter Norvig (Stanford University)."
+name = "Anatomia de um interpretador Lisp em Python"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Joamila Brito"
+description = "Expectativas podem ser frustrantes, mas quando se trata dos dados da sua aplicação, expectativas passam a ser alentadoras. Neste tutorial, aprenderemos como criar Great Expectations."
+name = "Expectativas nem sempre machucam - Criando expectativas para os seus dados com Great Expectations."
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Alexandre Villares"
+description = "Nem toda pessoa que quer programar quer ser engenheira de software ou cientista da computação. Programação com Python é para todo mundo, artistas programam também e desenho pode ser um primeiro contato muito agradável, venha participar do tutorial!\n"
+name = "«Desenhando com Python: programação criativa ao alcance de todas as pessoas»"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Pâmella Balcaçar"
+description = "É um tutorial introdutório sobre a biblioteca biopython e suas aplicações na bioinformática."
+name = "Desvendando o código genético com Biopython"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Mariana Meireles"
+description = "Jupyter widgets são ferramentas poderosas para criar interfaces de usuários com controles gráficos como sliders, botões e caixas de texto. Mas widgets podem fazer muito mais que isso, de visualização de dados em forma de gráficos, à renderização de objetos 3D, à integração de softwares inteiros bem estabelecidos no mercado, tudo ao seu dispor para ser manipulado com o poder do Python (ou um dos muitos outros kernels disponíveis para Jupyter!). Conheça mais sobre as luas de Jupyter, ou as ferramentas que o orbitam."
+name = "As luas de Jupyter: widgets e outras ferramentas que o orbitam"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Gabriel Aragão"
+description = "Nesta atividade será utilizado o Micropython para viabilizar a execução de rotinas escritas em Python nos principais microcontroladores disponíveis."
+name = "Python para microcontroladores com MicroPython (parte 1)"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Gabriel Aragão"
+description = "Nesta atividade será utilizado o Micropython para viabilizar a execução de rotinas escritas em Python nos principais microcontroladores disponíveis."
+name = "Python para microcontroladores com MicroPython (parte 2)"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Guilherme Iablonovski"
+description = "Nesse workshop vamos replicar algumas das funções mais queridas dos softwares de GIS em um ambiente exclusivamente python e de código aberto! A ideia é iniciar desenvolvedores python nas práticas e ferramentas do mundo geoespacial e introduzir analistas SIG às possibilidades de automação com python das tarefas do dia a dia com GIS."
+name = "Python Geoespacial: automatizando processos de GIS e Sensoriamento Remoto com pacotes abertos em python"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Ramon Oliveira"
+description = "Aprenda a manipular imagens diretamente da webcam, aplicando filtros coloridos, usando a biblioteca openCV;"
+name = "Manipulando Imagens da webCam com python"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "jose junior"
+description = "Dashboards são aplicações versáteis assim como o nosso maravilhoso python. Aqui você vai aprender a aplicar python como o objetivo de gerar dashboards em páginas Web. #python#html#js#pythoncomdados"
+name = "Python para Dashboards"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Felipe Schuch"
+description = "Tutorial introdutório para Xarray, um pacote Python de código aberto que é capaz de tornar o trabalho com arranjos de dados multidimensionais e catalogados uma tarefa simples e eficiente. Destaca-se a sua sinergia com outras ferramentas para I/O, plotagem e computação paralela."
+name = "Acelerando a exploração de dados multidimensionais com Xarray"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+room = ""
+youtube_channel = ""
