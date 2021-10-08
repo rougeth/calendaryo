@@ -2,7 +2,7 @@
 type = "closing"
 author = ""
 description = "Momento para a comunidade Python brasileira lembrar e homenagear anualmente a(s) pessoa(s) que mais se destacou(aram) na comunidade e o encerramento oficial do evento com a organização de 2021 e a chamada para o evento de 2022"
-name = "Associação Python Brasil & Organização Python Brasil 2021"
+name = "Encerramento da Python Brasil 2021"
 start_at = 2021-10-15T19:50:00-03:00
 duration = 100
 room = ""
