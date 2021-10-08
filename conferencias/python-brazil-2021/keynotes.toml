@@ -82,7 +82,7 @@ youtube_channel = "https://youtu.be/M2H44tQA_b8"
 type = "panel"
 author = ""
 description = ""
-name = "Segurança"
+name = "Educação não formal"
 start_at = 2021-10-14T10:00:00-03:00
 duration = 120
 room = ""
@@ -92,9 +92,11 @@ youtube_channel = "https://youtu.be/4xrgUjNRqK4"
 type = "panel"
 author = ""
 description = ""
-name = "Educação não formal"
+name = "Segurança"
 start_at = 2021-10-15T10:00:00-03:00
 duration = 120
 room = ""
 youtube_channel = "https://youtu.be/cDoxtv2uwXo"
+
+
 
