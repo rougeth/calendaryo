@@ -336,7 +336,7 @@ youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
 [[slot]]
 type = "talk"
-author = "Laura Bedoya"
+author = "Laura López Bedoya"
 minibio = "Soy ingeniera de telecomunicaciones y científica de datos en formación. Me dedico a buscar soluciones basadas en datos. Soy voluntaria en Pyladies Medellín. Me apasiona la fotografía y el aprender cosas nuevas."
 description = "Hablaremos sobre ciencia de datos, algunos conceptos generales y limpieza de datos con pandas. Daremos una introducción al análisis descriptivo y limpieza de datos, los pasos que podemos seguir y algunas herramientas."
 name = "Al mal tiempo, buena data: Limpieza de datos con Python"
