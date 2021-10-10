@@ -316,11 +316,11 @@ author = "Jesús García"
 minibio = "Jesús Armando es un apasionado de la ciencia y la tecnología, actualmente es fundador y lead del Google Developer Student Club para la Universidad de Guanajuato, es coordinador en una comunidad de tecnología como Future Lab. Asimismo a colaborado en proyectos internacionales en el desarrollo de procesos químicos entre Kyoto University - Universidad de Guanajuato."
 description = "El caso de estudio propone usar una versión adaptada del algoritmo Simulated Annealing (SA) para la búsqueda del optimo global en carga energética y costos mediante un proceso de destilación."
 name = "Ingeniería Química aplicando algoritmos de optimización estocástica con Python"
-start_at = 2021-10-14T19:00:00-03:00
+start_at = 2021-10-15T16:40:00-03:00
 duration = 45
 discord_channel = "https://discord.gg/aMgVMKzc"
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/fKTJRYUKwEo"
+youtube_channel = "https://youtu.be/HfJp03Q4lug"
 
 [[slot]]
 type = "talk"
@@ -336,7 +336,7 @@ youtube_channel = "https://youtu.be/aarQb_Dmy2U"
 
 [[slot]]
 type = "talk"
-author = "Laura Bedoya"
+author = "Laura López Bedoya"
 minibio = "Soy ingeniera de telecomunicaciones y científica de datos en formación. Me dedico a buscar soluciones basadas en datos. Soy voluntaria en Pyladies Medellín. Me apasiona la fotografía y el aprender cosas nuevas."
 description = "Hablaremos sobre ciencia de datos, algunos conceptos generales y limpieza de datos con pandas. Daremos una introducción al análisis descriptivo y limpieza de datos, los pasos que podemos seguir y algunas herramientas."
 name = "Al mal tiempo, buena data: Limpieza de datos con Python"
@@ -400,23 +400,23 @@ author = "Nury Yanque"
 minibio = "Eu sou MSc. em Ciências da Computação pela USP,  sou peruana e venho trabalhando no mercado brasileiro a mais de um ano na area de Inteligencia Artificial com Visão Computacional para o AgroTec. "
 description = "Testes unitarios interrogam a lógica aprendida durante o treinamento, principalmente quando o modelo de clasificação de imagenes performa no ambiente real."
 name = "Testes Unitarios para Clasificación de Imágenes"
-start_at = 2021-10-11T15:00:00-03:00
+start_at = 2021-10-14T15:00:00-03:00
 duration = 45
 discord_channel = "https://discord.gg/aMgVMKzc"
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/c-ytboo__JI"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
 
 [[slot]]
 type = "talk"
-author = "Pamela Faúndez"
+author = "Pamela Bustamante"
 minibio = "Doctora(c) en Ciencias de la Ingeniería de la Pontificia Universidad Católica de Chile. Magíster en Ingeniería Industrial e Ingeniera Civil Industrial de la Universidad del Bío-Bío."
 description = "Teoría de Juegos estudia a través de modelos matemáticos la competencia y cooperación entre agentes racionales. Esta charla se centra en el área de \"Juegos de Stackelberg\" en contextos de seguridad."
 name = "Teoría de juegos en la vida cotidiana"
-start_at = 2021-10-15T16:40:00-03:00
+start_at = 2021-10-14T19:00:00-03:00
 duration = 45
 discord_channel = "https://discord.gg/aMgVMKzc"
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/HfJp03Q4lug"
+youtube_channel = "https://youtu.be/fKTJRYUKwEo"
 
 [[slot]]
 type = "talk"
@@ -424,11 +424,11 @@ author = "Patricia Vong"
 minibio = "Técnico en ingenería con especialización en desarrollo de software y estudiante de ingeniería estadística en la Universidad de Panamá"
 description = "Explicacion sobre qué es la programación, sus elementos y como comenzar a programar con Python."
 name = "Introducción a la programación con Python\n"
-start_at = 2021-10-14T15:00:00-03:00
+start_at = 2021-10-11T15:00:00-03:00
 duration = 45
 discord_channel = "https://discord.gg/aMgVMKzc"
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/fKTJRYUKwEo"
+youtube_channel = "https://youtu.be/c-ytboo__JI"
 
 [[slot]]
 type = "talk"
