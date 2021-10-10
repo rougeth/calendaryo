@@ -1,11 +1,97 @@
 [[slot]]
 type = "tutorial"
+author = "Mercado Livre (facilitador: Giovanni Almeida)"
+description = ""
+name = "Qual produto é o melhor para mim? Comparando produtos usando a API de MELI"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "patrocinadora"
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Ebury (facilitador: Gustavo Di Domenico)"
+description = ""
+name = "Como o dinheiro viaja internacionalmente?"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "patrocinadora"
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Carta (facilitador: Gabriel Saldanha)"
+description = ""
+name = "Desenvolvimento orientado a testes com Django"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "patrocinadora"
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Luizalabs (facilitador: Cassio Botaro)"
+description = ""
+name = "Construindo API's robustas utilizando Python"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "patrocinadora"
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Buser (facilitadora: Renzo Nuccitelli)"
+description = ""
+name = "Djavue - criando uma aplicação web do zero com Django e Vue.js"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "patrocinadora"
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "Buser (facilitadora: Renzo Nuccitelli)"
+description = ""
+name = "Djavue - criando uma aplicação web do zero com Django e Vue.js"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "patrocinadora"
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
+author = "JusBrasil (facilitador: Tarsis)"
+description = ""
+name = "Airflow na Pratica"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "patrocinadora"
+youtube_channel = ""
+
+[[slot]]
+type = "tutorial"
 author = "João Carabetta"
 description = "A RAM do seu computador está sofrendo para analisar seus dados? Subir um cluster custa mais que seu salário? Seus problemas acabaram! Venha conferir como a Base dos Dados pode resolver seus problemas"
 name = "Analisando 250GB em segundos usando Python e a Base dos Dados"
 start_at = 2021-10-16T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -15,7 +101,9 @@ description = "Venha ver como construir um mapa para mostrar por onde você ando
 name = "Viajando por uma API protegida: Implementando uma API com Flask"
 start_at = 2021-10-16T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -24,7 +112,9 @@ name = "Intervalo"
 description = ""
 start_at = 2021-10-16T13:00:00-03:00
 duration = 120
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -34,7 +124,9 @@ description = ""
 name = "Intervalo"
 start_at = 2021-10-17T13:00:00-03:00
 duration = 120
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -44,7 +136,9 @@ description = "Usaremos bases de dados científicas e faremos a análise explora
 name = "Análise de Datasets Científicos usando Python (parte 1)"
 start_at = 2021-10-16T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -54,7 +148,9 @@ description = "Usaremos bases de dados científicas e faremos a análise explora
 name = "Análise de Datasets Científicos usando Python (parte 2)"
 start_at = 2021-10-16T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -64,7 +160,9 @@ description = "Vamos aprendender muito Python  escrevendo um jogo do zero. Com o
 name = "Criando um jogo de plataforma com Pygame do zero (parte 1)"
 start_at = 2021-10-16T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -74,7 +172,9 @@ description = "Vamos aprendender muito Python  escrevendo um jogo do zero. Com o
 name = "Criando um jogo de plataforma com Pygame do zero (parte 2)"
 start_at = 2021-10-16T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -84,7 +184,9 @@ description = "Vamos construir passo-a-passo um interpretador funcional para um 
 name = "Anatomia de um interpretador Lisp em Python"
 start_at = 2021-10-16T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -94,7 +196,9 @@ description = "Expectativas podem ser frustrantes, mas quando se trata dos dados
 name = "Expectativas nem sempre machucam - Criando expectativas para os seus dados com Great Expectations."
 start_at = 2021-10-16T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -104,7 +208,9 @@ description = "Nem toda pessoa que quer programar quer ser engenheira de softwar
 name = "«Desenhando com Python: programação criativa ao alcance de todas as pessoas»"
 start_at = 2021-10-17T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -114,7 +220,9 @@ description = "É um tutorial introdutório sobre a biblioteca biopython e suas 
 name = "Desvendando o código genético com Biopython"
 start_at = 2021-10-17T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -124,7 +232,9 @@ description = "Jupyter widgets são ferramentas poderosas para criar interfaces 
 name = "As luas de Jupyter: widgets e outras ferramentas que o orbitam"
 start_at = 2021-10-17T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -134,7 +244,9 @@ description = "Nesta atividade será utilizado o Micropython para viabilizar a e
 name = "Python para microcontroladores com MicroPython (parte 1)"
 start_at = 2021-10-17T10:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -144,7 +256,9 @@ description = "Nesta atividade será utilizado o Micropython para viabilizar a e
 name = "Python para microcontroladores com MicroPython (parte 2)"
 start_at = 2021-10-17T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -154,7 +268,9 @@ description = "Nesse workshop vamos replicar algumas das funções mais queridas
 name = "Python Geoespacial: automatizando processos de GIS e Sensoriamento Remoto com pacotes abertos em python"
 start_at = 2021-10-17T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -164,7 +280,9 @@ description = "Aprenda a manipular imagens diretamente da webcam, aplicando filt
 name = "Manipulando Imagens da webCam com python"
 start_at = 2021-10-17T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -174,7 +292,9 @@ description = "Dashboards são aplicações versáteis assim como o nosso maravi
 name = "Python para Dashboards"
 start_at = 2021-10-17T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -184,5 +304,7 @@ description = "Tutorial introdutório para Xarray, um pacote Python de código a
 name = "Acelerando a exploração de dados multidimensionais com Xarray"
 start_at = 2021-10-17T15:00:00-03:00
 duration = 180
-room = ""
+discord_channel = ""
+room = "Tutorial"
+tutorial_type = "submissao"
 youtube_channel = ""
