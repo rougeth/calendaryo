@@ -97,7 +97,7 @@ for slot in slots:
     category = slot.get("category", "")
     discord_channel = slot.get("discord_channel", "")
     youtube_channel = slot.get("youtube_channel", "")
-    tutorial_type = slot.get("tutorial_type", "")
+    # tutorial_type = slot.get("tutorial_type", "")
 
     event = {
         "summary": title,

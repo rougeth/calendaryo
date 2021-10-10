@@ -7,7 +7,7 @@ start_at = 2021-10-17T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "patrocinadora"
+# tutorial_type = "patrocinadora"
 youtube_channel = ""
 
 [[slot]]
@@ -19,7 +19,7 @@ start_at = 2021-10-16T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "patrocinadora"
+# tutorial_type = "patrocinadora"
 youtube_channel = ""
 
 [[slot]]
@@ -31,7 +31,7 @@ start_at = 2021-10-17T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "patrocinadora"
+# tutorial_type = "patrocinadora"
 youtube_channel = ""
 
 [[slot]]
@@ -43,7 +43,7 @@ start_at = 2021-10-16T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "patrocinadora"
+# tutorial_type = "patrocinadora"
 youtube_channel = ""
 
 [[slot]]
@@ -55,7 +55,7 @@ start_at = 2021-10-16T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "patrocinadora"
+# tutorial_type = "patrocinadora"
 youtube_channel = ""
 
 [[slot]]
@@ -67,7 +67,7 @@ start_at = 2021-10-16T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "patrocinadora"
+# tutorial_type = "patrocinadora"
 youtube_channel = ""
 
 [[slot]]
@@ -79,7 +79,7 @@ start_at = 2021-10-16T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "patrocinadora"
+# tutorial_type = "patrocinadora"
 youtube_channel = ""
 
 [[slot]]
@@ -91,7 +91,7 @@ start_at = 2021-10-16T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -103,7 +103,7 @@ start_at = 2021-10-16T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -114,7 +114,7 @@ start_at = 2021-10-16T13:00:00-03:00
 duration = 120
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -126,7 +126,7 @@ start_at = 2021-10-17T13:00:00-03:00
 duration = 120
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -138,7 +138,7 @@ start_at = 2021-10-16T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -150,7 +150,7 @@ start_at = 2021-10-16T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -162,7 +162,7 @@ start_at = 2021-10-16T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -174,7 +174,7 @@ start_at = 2021-10-16T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -186,7 +186,7 @@ start_at = 2021-10-16T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -198,7 +198,7 @@ start_at = 2021-10-16T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -210,7 +210,7 @@ start_at = 2021-10-17T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -222,7 +222,7 @@ start_at = 2021-10-17T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -234,7 +234,7 @@ start_at = 2021-10-17T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -246,7 +246,7 @@ start_at = 2021-10-17T10:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -258,7 +258,7 @@ start_at = 2021-10-17T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -270,7 +270,7 @@ start_at = 2021-10-17T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -282,7 +282,7 @@ start_at = 2021-10-17T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -294,7 +294,7 @@ start_at = 2021-10-17T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
 
 [[slot]]
@@ -306,5 +306,5 @@ start_at = 2021-10-17T15:00:00-03:00
 duration = 180
 discord_channel = ""
 room = "Tutorial"
-tutorial_type = "submissao"
+# tutorial_type = "submissao"
 youtube_channel = ""
