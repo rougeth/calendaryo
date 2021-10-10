@@ -1,5 +1,5 @@
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Ana Paula Gomes"
 minibio = ""
 description = ""
@@ -11,7 +11,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/DadosAbertosDeFeira/"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Ana Paula Gomes"
 minibio = ""
 description = ""
@@ -23,7 +23,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/DadosAbertosDeFeira/"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Bruno Messias"
 minibio = ""
 description = ""
@@ -35,7 +35,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/fury-gl/helios"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Bruno Messias"
 minibio = ""
 description = ""
@@ -47,7 +47,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/fury-gl/helios"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Daniele Nazaré"
 minibio = ""
 description = ""
@@ -59,7 +59,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/Doomsk/c_dagger"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Daniele Nazaré"
 minibio = ""
 description = ""
@@ -71,7 +71,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/Doomsk/c_dagger"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Giulio Carvalho"
 minibio = ""
 description = ""
@@ -83,7 +83,7 @@ room = "Sprint"
 youtube_channel = "https://queridodiario.ok.org.br/"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Giulio Carvalho"
 minibio = ""
 description = ""
@@ -95,7 +95,7 @@ room = "Sprint"
 youtube_channel = "https://queridodiario.ok.org.br/"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Giulio Carvalho"
 minibio = ""
 description = ""
@@ -107,7 +107,7 @@ room = "Sprint"
 youtube_channel = "https://queridodiario.ok.org.br/"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Giulio Carvalho"
 minibio = ""
 description = ""
@@ -119,7 +119,7 @@ room = "Sprint"
 youtube_channel = "https://queridodiario.ok.org.br/"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "João JS Bueno"
 minibio = ""
 description = ""
@@ -131,7 +131,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/jsbueno/terminedia"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "João JS Bueno"
 minibio = ""
 description = ""
@@ -143,7 +143,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/jsbueno/terminedia"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Kadidja Valéria Reginaldo de Oliveira"
 minibio = ""
 description = ""
@@ -155,7 +155,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/pyladies-brazil/introducao-python"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Pâmella Araújo Balcaçar"
 minibio = ""
 description = ""
@@ -167,7 +167,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/BOSS-BigOpenSourceSibling/bot-da-boss"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Rafael Ferreira Fontenelle"
 minibio = ""
 description = ""
@@ -179,7 +179,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/python/python-docs-pt-br/wiki/Sprint-pybr2021"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Rafael Ferreira Fontenelle"
 minibio = ""
 description = ""
@@ -191,7 +191,7 @@ room = "Sprint"
 youtube_channel = "https://github.com/python/python-docs-pt-br/wiki/Sprint-pybr2021"
 
 [[slot]]
-type = "talk"
+type = "sprint"
 author = "Rafael Ferreira Fontenelle"
 minibio = ""
 description = ""
