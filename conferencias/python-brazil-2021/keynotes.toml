@@ -40,7 +40,7 @@ start_at = 2021-10-11T20:20:00-03:00
 duration = 70
 discord_channel = "895487732443389983"
 room = ""
-youtube_channel = "https://youtu.be/-OMV8DEEN8E"
+youtube_channel = "https://youtu.be/ia-W6GwDTto"
 
 [[slot]]
 type = "keynote"
@@ -51,7 +51,7 @@ start_at = 2021-10-13T20:20:00-03:00
 duration = 70
 discord_channel = "895487732443389983"
 room = ""
-youtube_channel = "https://youtu.be/ia-W6GwDTto"
+youtube_channel = "https://youtu.be/-OMV8DEEN8E"
 
 [[slot]]
 type = "keynote"
