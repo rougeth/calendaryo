@@ -48,7 +48,7 @@ youtube_channel = ""
 
 [[slot]]
 type = "tutorial"
-author = "Buser (facilitadora: Renzo Nuccitelli)"
+author = "Buser (facilitador: Renzo Nuccitelli)"
 description = ""
 name = "Djavue - criando uma aplicação web do zero com Django e Vue.js"
 start_at = 2021-10-16T15:00:00-03:00
@@ -60,7 +60,7 @@ youtube_channel = ""
 
 [[slot]]
 type = "tutorial"
-author = "Buser (facilitadora: Renzo Nuccitelli)"
+author = "Buser (facilitador: Renzo Nuccitelli)"
 description = ""
 name = "Djavue - criando uma aplicação web do zero com Django e Vue.js"
 start_at = 2021-10-16T10:00:00-03:00
