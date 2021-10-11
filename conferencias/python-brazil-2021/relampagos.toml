@@ -7,7 +7,7 @@ start_at = 2021-10-11T19:50:00-03:00
 duration = 50
 discord_channel = "895487732443389983"
 room = ""
-youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+youtube_channel = "https://youtu.be/ia-W6GwDTto"
 
 [[slot]]
 type = "light"
@@ -18,7 +18,7 @@ start_at = 2021-10-12T19:50:00-03:00
 duration = 40
 discord_channel = "895487732443389983"
 room = ""
-youtube_channel = "https://youtu.be/ia-W6GwDTto"
+youtube_channel = "https://youtu.be/fXRGok6QbIw"
 
 [[slot]]
 type = "light"
