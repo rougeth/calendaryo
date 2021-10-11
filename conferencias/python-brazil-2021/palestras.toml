@@ -236,7 +236,7 @@ start_at = 2021-10-11T19:00:00-03:00
 duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/c-ytboo__JI"
+youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
 
 [[slot]]
 type = "talk"
@@ -308,7 +308,7 @@ start_at = 2021-10-11T16:40:00-03:00
 duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/c-ytboo__JI"
+youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
 
 [[slot]]
 type = "talk"
@@ -380,7 +380,7 @@ start_at = 2021-10-11T15:50:00-03:00
 duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
-youtube_channel = "https://youtu.be/c-ytboo__JI"
+youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
 
 [[slot]]
 type = "talk"
