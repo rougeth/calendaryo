@@ -6,7 +6,7 @@ name = "Job Fair: LuizaLabs"
 start_at = 2021-10-11T10:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -16,7 +16,7 @@ name = "Job Fair: Jusbrasil"
 start_at = 2021-10-11T11:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -26,7 +26,7 @@ name = "Job Fair: Carta"
 start_at = 2021-10-11T13:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -36,7 +36,7 @@ name = "Job Fair: Buser"
 start_at = 2021-10-11T14:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -46,7 +46,7 @@ name = "Job Fair: Ebury"
 start_at = 2021-10-11T16:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -56,7 +56,7 @@ name = "Job Fair: MELI"
 start_at = 2021-10-11T17:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -66,7 +66,7 @@ name = "Job Fair: MELI"
 start_at = 2021-10-12T10:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -76,7 +76,7 @@ name = "Job Fair: LuizaLabs"
 start_at = 2021-10-12T11:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -86,7 +86,7 @@ name = "Job Fair: Jusbrasil"
 start_at = 2021-10-12T13:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -96,7 +96,7 @@ name = "Job Fair: Carta"
 start_at = 2021-10-12T14:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -106,7 +106,7 @@ name = "Job Fair: Buser"
 start_at = 2021-10-12T16:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -116,7 +116,7 @@ name = "Job Fair: Ebury"
 start_at = 2021-10-12T17:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -126,7 +126,7 @@ name = "Job Fair: Ebury"
 start_at = 2021-10-13T10:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -136,7 +136,7 @@ name = "Job Fair: MELI"
 start_at = 2021-10-13T11:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -146,7 +146,7 @@ name = "Job Fair: LuizaLabs"
 start_at = 2021-10-13T13:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -156,7 +156,7 @@ name = "Job Fair: Jusbrasil"
 start_at = 2021-10-13T14:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -166,7 +166,7 @@ name = "Job Fair: Carta"
 start_at = 2021-10-13T16:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -176,7 +176,7 @@ name = "Job Fair: Buser"
 start_at = 2021-10-13T17:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -186,7 +186,7 @@ name = "Job Fair: Buser"
 start_at = 2021-10-14T10:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -196,7 +196,7 @@ name = "Job Fair: Ebury"
 start_at = 2021-10-14T11:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -206,7 +206,7 @@ name = "Job Fair: MELI"
 start_at = 2021-10-14T13:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -216,7 +216,7 @@ name = "Job Fair: LuizaLabs"
 start_at = 2021-10-14T14:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -226,7 +226,7 @@ name = "Job Fair: Jusbrasil"
 start_at = 2021-10-14T16:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -236,7 +236,7 @@ name = "Job Fair: Carta"
 start_at = 2021-10-14T17:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -246,7 +246,7 @@ name = "Job Fair: Carta"
 start_at = 2021-10-15T10:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -256,7 +256,7 @@ name = "Job Fair: Buser"
 start_at = 2021-10-15T11:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -266,7 +266,7 @@ name = "Job Fair: Ebury"
 start_at = 2021-10-15T13:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -276,7 +276,7 @@ name = "Job Fair: MELI"
 start_at = 2021-10-15T14:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -286,7 +286,7 @@ name = "Job Fair: LuizaLabs"
 start_at = 2021-10-15T16:00:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"
 
 [[slot]]
 type = "jobfair"
@@ -296,4 +296,4 @@ name = "Job Fair: Jusbrasil"
 start_at = 2021-10-15T17:30:00-03:00
 duration = 90
 room = ""
-youtube_channel = ""
+youtube_channel = "https://discord.gg/AGe29Rsh"

@@ -1,0 +1,203 @@
+[[slot]]
+type = "sprint"
+author = "Ana Paula Gomes"
+minibio = ""
+description = ""
+name = "Análise de dados para cidades"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/DadosAbertosDeFeira/"
+
+[[slot]]
+type = "sprint"
+author = "Ana Paula Gomes"
+minibio = ""
+description = ""
+name = "Análise de dados para cidades"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/DadosAbertosDeFeira/"
+
+[[slot]]
+type = "sprint"
+author = "Bruno Messias"
+minibio = ""
+description = ""
+name = "Helios Network Visualization and Streaming"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/fury-gl/helios"
+
+[[slot]]
+type = "sprint"
+author = "Bruno Messias"
+minibio = ""
+description = ""
+name = "Helios Network Visualization and Streaming"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/fury-gl/helios"
+
+[[slot]]
+type = "sprint"
+author = "Daniele Nazaré"
+minibio = ""
+description = ""
+name = "C-dagger: Um novo paradigma de linguagem quântica"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/Doomsk/c_dagger"
+
+[[slot]]
+type = "sprint"
+author = "Daniele Nazaré"
+minibio = ""
+description = ""
+name = "C-dagger: Um novo paradigma de linguagem quântica"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/Doomsk/c_dagger"
+
+[[slot]]
+type = "sprint"
+author = "Giulio Carvalho"
+minibio = ""
+description = ""
+name = "Querido Diário"
+start_at = 2021-10-16T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://queridodiario.ok.org.br/"
+
+[[slot]]
+type = "sprint"
+author = "Giulio Carvalho"
+minibio = ""
+description = ""
+name = "Querido Diário"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://queridodiario.ok.org.br/"
+
+[[slot]]
+type = "sprint"
+author = "Giulio Carvalho"
+minibio = ""
+description = ""
+name = "Querido Diário"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://queridodiario.ok.org.br/"
+
+[[slot]]
+type = "sprint"
+author = "Giulio Carvalho"
+minibio = ""
+description = ""
+name = "Querido Diário"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://queridodiario.ok.org.br/"
+
+[[slot]]
+type = "sprint"
+author = "João JS Bueno"
+minibio = ""
+description = ""
+name = "Terminedia"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/jsbueno/terminedia"
+
+[[slot]]
+type = "sprint"
+author = "João JS Bueno"
+minibio = ""
+description = ""
+name = "Terminedia"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/jsbueno/terminedia"
+
+[[slot]]
+type = "sprint"
+author = "Kadidja Valéria Reginaldo de Oliveira"
+minibio = ""
+description = ""
+name = "Introdução a Python: para mulheres que sabem programar em outra linguagem "
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/pyladies-brazil/introducao-python"
+
+[[slot]]
+type = "sprint"
+author = "Pâmella Araújo Balcaçar"
+minibio = ""
+description = ""
+name = "Rasa Boilerplate"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/BOSS-BigOpenSourceSibling/bot-da-boss"
+
+[[slot]]
+type = "sprint"
+author = "Rafael Ferreira Fontenelle"
+minibio = ""
+description = ""
+name = "Tradução da documentação do Python"
+start_at = 2021-10-16T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/python/python-docs-pt-br/wiki/Sprint-pybr2021"
+
+[[slot]]
+type = "sprint"
+author = "Rafael Ferreira Fontenelle"
+minibio = ""
+description = ""
+name = "Tradução da documentação do Python"
+start_at = 2021-10-17T15:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/python/python-docs-pt-br/wiki/Sprint-pybr2021"
+
+[[slot]]
+type = "sprint"
+author = "Rafael Ferreira Fontenelle"
+minibio = ""
+description = ""
+name = "Tradução da documentação do Python"
+start_at = 2021-10-17T10:00:00-03:00
+duration = 180
+discord_channel = ""
+room = "Sprint"
+youtube_channel = "https://github.com/python/python-docs-pt-br/wiki/Sprint-pybr2021"

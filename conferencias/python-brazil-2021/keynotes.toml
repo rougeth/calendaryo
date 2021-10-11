@@ -5,6 +5,7 @@ description = "Momento para a comunidade Python brasileira lembrar e homenagear 
 name = "Encerramento da Python Brasil 2021"
 start_at = 2021-10-15T19:50:00-03:00
 duration = 100
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
 
@@ -15,6 +16,7 @@ description = "Cuducos é um dos fundadores da Operação Serenata de Amor, dout
 name = "Eduardo Cuducos"
 start_at = 2021-10-15T19:00:00-03:00
 duration = 50
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
 
@@ -25,6 +27,7 @@ description = "Sou formada em análise e desenvolvimento de sistemas, trabalho c
 name = "Anicely Santos"
 start_at = 2021-10-12T20:20:00-03:00
 duration = 70
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/fXRGok6QbIw"
 
@@ -35,8 +38,9 @@ description = "Kizzy e Hallison são criadores do canal Programação Dinâmica 
 name = "Kizzy Terra e Hallison Paz"
 start_at = 2021-10-11T20:20:00-03:00
 duration = 70
+discord_channel = "895487732443389983"
 room = ""
-youtube_channel = "https://youtu.be/-OMV8DEEN8E"
+youtube_channel = "https://youtu.be/ia-W6GwDTto"
 
 [[slot]]
 type = "keynote"
@@ -45,8 +49,9 @@ description = "Yaso é Principal Privacy Researcher na Unico IDTech. Trabalhou n
 name = "Yasodara Córdova "
 start_at = 2021-10-13T20:20:00-03:00
 duration = 70
+discord_channel = "895487732443389983"
 room = ""
-youtube_channel = "https://youtu.be/ia-W6GwDTto"
+youtube_channel = "https://youtu.be/-OMV8DEEN8E"
 
 [[slot]]
 type = "keynote"
@@ -55,6 +60,7 @@ description = "Co-fundadora do PyLadies Brasil/Natal. Formada em Tecnologia da I
 name = "Gabriela Cavalcante da Silva"
 start_at = 2021-10-14T20:20:00-03:00
 duration = 70
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/Ul8aA8w7DTw"
 
@@ -65,6 +71,7 @@ description = ""
 name = "AfroPython"
 start_at = 2021-10-11T10:00:00-03:00
 duration = 120
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/HqRDZ5unNuo"
 
@@ -75,6 +82,7 @@ description = ""
 name = "Associação Python Brasil"
 start_at = 2021-10-12T10:00:00-03:00
 duration = 120
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/E78Ye0rQ1uA"
 
@@ -85,6 +93,7 @@ description = ""
 name = "Dados Abertos"
 start_at = 2021-10-13T10:00:00-03:00
 duration = 120
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/M2H44tQA_b8"
 
@@ -95,6 +104,7 @@ description = ""
 name = "Educação não formal"
 start_at = 2021-10-14T10:00:00-03:00
 duration = 120
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/4xrgUjNRqK4"
 
@@ -105,5 +115,6 @@ description = ""
 name = "Segurança"
 start_at = 2021-10-15T10:00:00-03:00
 duration = 120
+discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/cDoxtv2uwXo"
