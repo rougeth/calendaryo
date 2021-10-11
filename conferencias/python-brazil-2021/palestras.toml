@@ -1,5 +1,65 @@
 [[slot]]
 type = "talk"
+author = "Débora Azevedo"
+minibio = "Professora da rede pública de ensino, mestranda em Inovação em Tecnologias Educacionais @ IMD/UFRN, Débora é cofundadora da PyLadies Brasil e membra eleita da diretoria da Python Software Foundation"
+description = ""
+name = "Python Software Foundation: o que é? o que faz?"
+start_at = 2021-10-11T19:00:00-03:00
+duration = 45
+discord_channel = "893958446909640734"
+room = "Angelica Ross"
+youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
+
+[[slot]]
+type = "talk"
+author = "Eduardo Mendes"
+minibio = "Eduardo Mendes é Pythonista, Esperantisto, padawan dos live codes e host das Lives de Python. Onde tenta mudar o mundo com piadas simples, litros de refrigerantes e redistribuição de todos os saberes acumulados pela nossa incrível comunidade."
+description = ""
+name = "Como ser você em um mundo de referências"
+start_at = 2021-10-15T15:50:00-03:00
+duration = 45
+discord_channel = "893958446909640734"
+room = "Angelica Ross"
+youtube_channel = "https://youtu.be/7aYX9Sj9jmA"
+
+[[slot]]
+type = "talk"
+author = "Francisco Fernandes"
+minibio = "Meu historico passa pelo movimento do Software Livre, tendo sido membro do Projeto Software Livre-PI, contribuido com a comunidade KDE e participante da comunidade PUG-PI. Ja atuei como modelador 3D e pesquisa em computação grafica, mais especificamente geométrica computacional.Atualmente estou programador na ThoughWorks Brasil. Meus interesses passam por politica, animação, quadrinhos e melhores práticas de programação em geral."
+description = ""
+name = "1+1=0: Testes na programação"
+start_at = 2021-10-14T16:40:00-03:00
+duration = 45
+discord_channel = "893958312985493584"
+room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/AeYJSHnwyYU"
+
+[[slot]]
+type = "talk"
+author = "Guilherme Magalhães Latrova"
+minibio = "Desenvolvedor apaixonado por código legível que funciona 🧑‍💻❤️. Amante de bom café ☕️ e atualmente trabalhando como engenheiro de software na Lumos Identity."
+description = ""
+name = "Como capturar exceções de maneira efetiva"
+start_at = 2021-10-11T16:40:00-03:00
+duration = 45
+discord_channel = "893958335383089223"
+room = "Marie Van Brittan Brown"
+youtube_channel = "https://youtu.be/lsrVtD5qaW4"
+
+[[slot]]
+type = "talk"
+author = "Jéssica Pauli de Castro Bonson"
+minibio = "Jéssica trabalha como Principal Software Engineer no iFood. É formada e mestre em Ciências da Computação. Tem cerca de 9 anos de experiência como desenvolvedora em diversos projetos e techstacks."
+description = ""
+name = "O que fazer quando o sistema se torna um monstrinho?"
+start_at = 2021-10-12T15:00:00-03:00
+duration = 45
+discord_channel = "893958312985493584"
+room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/2jcvSbm1vNw"
+
+[[slot]]
+type = "talk"
 author = "Paulo Vasconcellos"
 minibio = "Machine Learning Specialist na Hotmart, Mestrando na PUC Minas e Cofundador do Data Hackers. Com mais de 10 anos de experiência em Tecnologia, atua desde 2016 em projetos de Data Science e Machine Learning, desde liderança técnica e construção de times de dados, até projetos de ML de alto impacto, como Detecção de Fraudes, NLP, Sistemas de Recomendação e Forecasting. Já trabalhou em parceria com empresas referentes na indústria como Udacity e Datacamp."
 description = "Conheça como a Hotmart resolveu um problema antigo de negócio em identificar produtos com comportamento anormal de vendas na plataforma utilizando algoritmos de detecção de anomalias e clusterização"
