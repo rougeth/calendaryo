@@ -264,6 +264,30 @@ youtube_channel = "https://youtu.be/tIfYm38Vag8"
 
 [[slot]]
 type = "talk"
+author = "Álvaro Justen"
+minibio = ""
+description = ""
+name = "Python & PostgreSQL = <3"
+start_at = 2021-10-15T15:50:00-03:00
+duration = 45
+discord_channel = "893958356484620378"
+room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/tIfYm38Vag8"
+
+[[slot]]
+type = "talk"
+author = "Paula Campigotto"
+minibio = ""
+description = ""
+name = "Montando um Portfólio de Investimentos para Day Trade com Python"
+start_at = 2021-10-15T15:00:00-03:00
+duration = 45
+discord_channel = "893958356484620378"
+room = "Timnit Gebru"
+youtube_channel = "https://youtu.be/tIfYm38Vag8"
+
+[[slot]]
+type = "talk"
 author = "Alison Rios"
 minibio = "Ing. Informática de la Universidad Mayor de San Simón, Cochabamba - Bolivia\nMaestrante de Diseño y Producción Multimedia\nLead de Comunidad PyLadies Cochabamba\nInstructora en Cisco Networking Academy"
 description = "Conocer el área de Visión Artificial mediante la librería OpenCV con Python, y ver el procesamiento de imágenes en tiempo real para identificar elementos mediante reconocimiento de colores y formas. "
@@ -930,9 +954,9 @@ description = "Será abordado a obra do Pesquisador George Siemens a respeito da
 name = "Conectivismo Pedagógico: novas formas de ensinar e aprender no século XXI"
 start_at = 2021-10-11T16:40:00-03:00
 duration = 45
-discord_channel = "893958446909640734"
-room = "Angelica Ross"
-youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
+discord_channel = "893958312985493584"
+room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/AeYJSHnwyYU"	
 
 [[slot]]
 type = "talk"
