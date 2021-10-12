@@ -36,7 +36,7 @@ youtube_channel = "https://youtu.be/AeYJSHnwyYU"
 
 [[slot]]
 type = "talk"
-author = "Guilherme Magalhães Latrova"
+author = "Guilherme Latrova"
 minibio = "Desenvolvedor apaixonado por código legível que funciona 🧑‍💻❤️. Amante de bom café ☕️ e atualmente trabalhando como engenheiro de software na Lumos Identity."
 description = ""
 name = "Como capturar exceções de maneira efetiva"
@@ -45,18 +45,6 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-
-[[slot]]
-type = "talk"
-author = "Jéssica Pauli de Castro Bonson"
-minibio = "Jéssica trabalha como Principal Software Engineer no iFood. É formada e mestre em Ciências da Computação. Tem cerca de 9 anos de experiência como desenvolvedora em diversos projetos e techstacks."
-description = ""
-name = "O que fazer quando o sistema se torna um monstrinho?"
-start_at = 2021-10-12T15:00:00-03:00
-duration = 45
-discord_channel = "893958312985493584"
-room = "Shirley Ann Jackson"
-youtube_channel = "https://youtu.be/2jcvSbm1vNw"
 
 [[slot]]
 type = "talk"
@@ -152,7 +140,7 @@ start_at = 2021-10-12T19:00:00-03:00
 duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
-youtube_channel = "https://youtu.be/6_zE8tUjszM"
+youtube_channel = "https://youtu.be/2XklbYfqY60`"
 
 [[slot]]
 type = "talk"
@@ -713,18 +701,6 @@ minibio = "Nas horas pagas sou desenvolvedora back-end, trabalho com desenvolvim
 description = "Uma breve introdução ao paralelismo em python: conceitos básicos, o que é o GIL e porque ele existe, quais problemas ele resolve (e cria), além das ferramentas disponíveis. "
 name = "Paralelismo em python: dá pra assobiar e chupar cana ao mesmo tempo?"
 start_at = 2021-10-11T15:50:00-03:00
-duration = 45
-discord_channel = "893958335383089223"
-room = "Marie Van Brittan Brown"
-youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-
-[[slot]]
-type = "talk"
-author = "Guilherme Latrova"
-minibio = ""
-description = ""
-name = "Como capturar exceções de maneira efetiva"
-start_at = 2021-10-11T16:40:00-03:00
 duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
