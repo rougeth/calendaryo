@@ -384,10 +384,10 @@ youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
 
 [[slot]]
 type = "talk"
-author = "Jesús García"
-minibio = "Jesús Armando es un apasionado de la ciencia y la tecnología, actualmente es fundador y lead del Google Developer Student Club para la Universidad de Guanajuato, es coordinador en una comunidad de tecnología como Future Lab. Asimismo a colaborado en proyectos internacionales en el desarrollo de procesos químicos entre Kyoto University - Universidad de Guanajuato."
-description = "El caso de estudio propone usar una versión adaptada del algoritmo Simulated Annealing (SA) para la búsqueda del optimo global en carga energética y costos mediante un proceso de destilación."
-name = "Ingeniería Química aplicando algoritmos de optimización estocástica con Python"
+author = "Karla Alejandra Cutiva Alvarez"
+minibio = "Graduated in Physics from the National Pedagogical University, Master in Astronomy Sciences from the National University of Colombia and candidate for a Doctorate in Astrophysical Sciences from the University of Guanajuato, Guanajuato, Mexico. Experience in teaching 6th to 11th high school students in the subjects of physics and mathematics and University teaching in subjects such as Linear Algebra, Pre-Calculus, Inferential Statistics, Descriptive Statistics and Foundations of Mathematics. Speaker at national and international academic events related to the pedagogy of Physics, Astronomy and Astrophysics. I am an organized, serious, disciplined, enterprising person, I like challenges because they strengthen the way we learn and work on a day-to-day basis, and I have special attention to details. At the same time, I have the ability to lead and work as a team in pursuit of an effective ideal management of activities. I am a person committed to high ethical and moral values, ability to work as a team. Good interpersonal relationships, leadership, initiative, ability to make decisions, seek solutions and follow instructions."
+description = ""
+name = "El enigma del universo modelando con métodos computacionales"
 start_at = 2021-10-15T16:40:00-03:00
 duration = 45
 discord_channel = "893958471173689384"
