@@ -41,6 +41,10 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/ia-W6GwDTto"
+    [slot.streaming]
+    start_at = 1776
+    duration = 4211
+    filename = "pybr2021_keynote_kizzy_terra_e_hallison_paz__segundafeira__dia_1110_pybr2021_20211011_195206.mp4"
 
 [[slot]]
 type = "keynote"
@@ -74,6 +78,10 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/HqRDZ5unNuo"
+    [slot.streaming]
+    start_at = 798
+    duration = 7030
+    filename = "pybr2021_abertura__roda_de_conversa_sobre_afropython__segundafeira__dia_1110_pybr2021_20211011_100032.mp4"
 
 [[slot]]
 type = "panel"
@@ -85,6 +93,11 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/E78Ye0rQ1uA"
+    [slot.streaming]
+    start_at = 43
+    duration = 7134
+    filename = "[PyBr2021] Roda de conversa sobre APyB - Terça-feira - Dia 12_10 #PyBr2021.mp4"
+
 
 [[slot]]
 type = "panel"

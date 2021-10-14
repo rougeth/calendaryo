@@ -8,6 +8,10 @@ duration = 50
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/ia-W6GwDTto"
+    [slot.streaming]
+    start_at = 43
+    duration = 874
+    filename = "[PyBr2021] Keynote_ Kizzy Terra e Hallison Paz - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
 
 [[slot]]
 type = "light"
