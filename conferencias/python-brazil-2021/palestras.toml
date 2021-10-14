@@ -390,6 +390,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
+youtube_link = "https://www.youtube.com/watch?v=L2K2pyXVqGM"
     [slot.streaming]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 3505
@@ -407,6 +408,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
+youtube_link = "https://www.youtube.com/watch?v=eGKL_qb32bw"
     [slot.streaming]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 6593
@@ -567,6 +569,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/c-ytboo__JI"
+youtube_link = "https://www.youtube.com/watch?v=jpAsf6TlXYc"
     [slot.streaming]
     filename = "pybr2021_trilha_bonnie_prado_pinto__segundafeira__dia_1110_pybr2021_20211011_150258.mp4"
     start_at = 352
@@ -599,6 +602,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
+youtube_link = "https://www.youtube.com/watch?v=KUquDcNFUvU"
     [slot.streaming]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 712
