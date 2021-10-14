@@ -40,6 +40,18 @@ type = "light"
 author = "Você!!"
 description = ""
 name = "Palestras Relâmpago"
+start_at = 2021-10-14T17:30:00-03:00
+duration = 70
+discord_channel = "893958446909640734"
+room = "Angelica Ross"
+youtube_channel = "https://youtu.be/PUsjycX4XR0"
+
+
+[[slot]]
+type = "light"
+author = "Você!!"
+description = ""
+name = "Palestras Relâmpago"
 start_at = 2021-10-14T19:50:00-03:00
 duration = 40
 discord_channel = "895487732443389983"
