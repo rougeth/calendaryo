@@ -586,6 +586,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
+youtube_link = " https://www.youtube.com/watch?v=uOpjXabX3X4"
     [slot.streaming]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 14876
