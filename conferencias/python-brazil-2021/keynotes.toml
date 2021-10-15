@@ -21,6 +21,17 @@ room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
 
 [[slot]]
+type = "closing"
+author = ""
+description = ""
+name = "Algorave"
+start_at = 2021-10-15T22:00:00-03:00
+duration = 120
+discord_channel = "895487732443389983"
+room = ""
+youtube_channel = ""
+
+[[slot]]
 type = "keynote"
 author = ""
 description = "Cuducos é um dos fundadores da Operação Serenata de Amor, doutor em sociologia, e desenvolvedor na Shopify. Trabalhou com tecnologia cívica em organizações como Banco Mundial e Open Knowledge Brasil."
