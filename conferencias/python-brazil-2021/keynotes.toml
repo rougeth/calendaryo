@@ -1,10 +1,21 @@
 [[slot]]
 type = "closing"
 author = ""
+description = ""
+name = "Entrega do prêmio Dorneles Treméa/Jean Ferri"
+start_at = 2021-10-15T20:10:00-03:00
+duration = 50
+discord_channel = "895487732443389983"
+room = ""
+youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+
+[[slot]]
+type = "closing"
+author = ""
 description = "Momento para a comunidade Python brasileira lembrar e homenagear anualmente a(s) pessoa(s) que mais se destacou(aram) na comunidade e o encerramento oficial do evento com a organização de 2021 e a chamada para o evento de 2022"
 name = "Encerramento da Python Brasil 2021"
-start_at = 2021-10-15T20:10:00-03:00
-duration = 100
+start_at = 2021-10-15T21:00:00-03:00
+duration = 30
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
