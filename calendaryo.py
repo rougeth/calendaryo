@@ -1,12 +1,11 @@
-from pathlib import Path
 from datetime import datetime, timedelta
+from pathlib import Path
 
 import toml
 from decouple import config
-from googleapiclient import discovery
 from google.oauth2.service_account import Credentials
+from googleapiclient import discovery
 from slugify import slugify
-
 
 PHOTO_URL = "https://2019.pythonbrasil.org.br/assets/images/fotos/{}.jpeg"
 
@@ -98,6 +97,7 @@ for slot in slots:
     discord_channel = slot.get("discord_channel", "")
     youtube_channel = slot.get("youtube_channel", "")
     # tutorial_type = slot.get("tutorial_type", "")
+    seats_limits = slot.get("seats_limits", "")
 
     event = {
         "summary": title,
@@ -118,6 +118,7 @@ for slot in slots:
                 "photo_url": photo_url,
                 "discord_channel": discord_channel,
                 "youtube_channel": youtube_channel,
+                "seats_limits":seats_limits
             }
         },
     }
