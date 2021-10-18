@@ -808,6 +808,10 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
+[slot.stream]
+    start_at = 242
+    end_at = 2870
+    filename = "pybr2021_trilha_marie_van_brittan_brown__terçafeira__dia_1210_pybr2021_20211012_145748.mp4"
 
 [[slot]]
 type = "talk"
@@ -836,6 +840,10 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
+[slot.stream]
+    start_at = 3210
+    end_at = 5780
+    filename = "pybr2021_trilha_marie_van_brittan_brown__terçafeira__dia_1210_pybr2021_20211012_145748.mp4"
 
 [[slot]]
 type = "talk"
@@ -848,6 +856,10 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
+[slot.stream]
+    start_at = 6223
+    end_at = 8507
+    filename = "pybr2021_trilha_marie_van_brittan_brown__terçafeira__dia_1210_pybr2021_20211012_145748.mp4"
 
 [[slot]]
 type = "talk"
@@ -860,6 +872,10 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/SU7H9Qbj8R4"
+[slot.stream]
+    start_at = 14563
+    end_at = 16984
+    filename = "pybr2021_trilha_marie_van_brittan_brown__terçafeira__dia_1210_pybr2021_20211012_145748.mp4"
 
 [[slot]]
 type = "talk"
