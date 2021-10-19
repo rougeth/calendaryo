@@ -34,6 +34,10 @@ duration = 40
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/-OMV8DEEN8E"
+    [slot.streaming]
+    start_at = 22
+    end_at = 1386
+    filename = "pybr2021_keynote_yasodara_córdova__quartafeira__dia_1310_pybr2021_20211013_195128.mp4"
 
 [[slot]]
 type = "light"
