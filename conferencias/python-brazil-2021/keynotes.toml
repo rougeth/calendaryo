@@ -93,6 +93,10 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/Ul8aA8w7DTw"
+    [slot.streaming]
+    start_at = 2460
+    duration = 7102
+    filename = "pybr2021_keynote_gabi_cavalcante__quintafeira__dia_1410_pybr2021_20211014_195528.mp4"
 
 [[slot]]
 type = "panel"
