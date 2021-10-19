@@ -9,7 +9,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 14910
     duration = 2438
@@ -49,7 +49,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Marie Van Brittan Brown - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 6652
     duration = 1676
@@ -65,7 +65,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 905
     duration = 2246
@@ -81,7 +81,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 3940
     duration = 2013
@@ -97,7 +97,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 6836
     duration = 1748
@@ -113,7 +113,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 15345
     duration = 2085
@@ -129,7 +129,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Timnit Gebru - Terça-feira - Dia 12_10 #PyBr2021.mp4"
     start_at = 241
     duration = 2761
@@ -146,7 +146,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Timnit Gebru - Terça-feira - Dia 12_10 #PyBr2021.mp4"
     start_at = 3328
     duration = 2068
@@ -162,7 +162,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Timnit Gebru - Terça-feira - Dia 12_10 #PyBr2021.mp4"
     start_at = 6265
     duration = 2594
@@ -338,7 +338,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/aarQb_Dmy2U"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Terça-feira - Dia 12_10 #PyBr2021.mp4"
     start_at = 3350
     duration = 2763
@@ -354,7 +354,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Segunda-feira - Dia 11_10 #PyBr2021_2.mp4"
     start_at = 11278
     duration = 2785
@@ -395,7 +395,7 @@ discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 youtube_link = "https://www.youtube.com/watch?v=L2K2pyXVqGM"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 3505
     duration = 2471
@@ -413,7 +413,7 @@ discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 youtube_link = "https://www.youtube.com/watch?v=eGKL_qb32bw"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 6593
     duration = 2201
@@ -445,7 +445,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Segunda-feira - Dia 11_10 #PyBr2021_2.mp4"
     start_at = 3218
     duration = 2221
@@ -485,7 +485,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/aarQb_Dmy2U"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Terça-feira - Dia 12_10 #PyBr2021.mp4"
     start_at = 303
     duration = 2606
@@ -525,7 +525,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Segunda-feira - Dia 11_10 #PyBr2021_2.mp4"
     start_at = 398
     duration = 2588
@@ -582,7 +582,7 @@ discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/c-ytboo__JI"
 youtube_link = "https://www.youtube.com/watch?v=jpAsf6TlXYc"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "pybr2021_trilha_bonnie_prado_pinto__segundafeira__dia_1110_pybr2021_20211011_150258.mp4"
     start_at = 352
     duration = 2130
@@ -599,7 +599,7 @@ discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 youtube_link = " https://www.youtube.com/watch?v=uOpjXabX3X4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 14876
     duration = 2808
@@ -616,7 +616,7 @@ discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
 youtube_link = "https://www.youtube.com/watch?v=KUquDcNFUvU"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 712
     duration = 2593
@@ -804,7 +804,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Marie Van Brittan Brown - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 885
     duration = 2924
@@ -820,7 +820,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Marie Van Brittan Brown - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 3910
     duration = 1671
@@ -852,7 +852,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[pybr2021] trilha marie van brittan brown - segunda-feira - dia 11_10 #pybr2021.mp4"
     start_at = 15312
     duration = 2737
@@ -1064,7 +1064,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 385
     duration = 2765
@@ -1080,7 +1080,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
-    [slot.streaming]
+    [slot.streaming-error]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 3485
     duration = 1805
