@@ -11,7 +11,7 @@ youtube_channel = "https://youtu.be/ia-W6GwDTto"
     [slot.streaming]
     start_at = 43
     duration = 874
-    filename = "[PyBr2021] Keynote_ Kizzy Terra e Hallison Paz - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
+    filename = "pybr2021_keynote_kizzy_terra_e_hallison_paz__segundafeira__dia_1110_pybr2021_20211011_195206.mp4"
 
 [[slot]]
 type = "light"
@@ -61,3 +61,9 @@ duration = 40
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/Ul8aA8w7DTw"
+    [slot.streaming]
+    start_at = 24
+    end_at = 1900
+    filename = "pybr2021_keynote_gabi_cavalcante__quintafeira__dia_1410_pybr2021_20211014_195528.mp4"
+
+
