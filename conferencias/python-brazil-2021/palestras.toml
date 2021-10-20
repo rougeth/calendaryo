@@ -129,6 +129,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
+youtube_link = "https://youtu.be/iY0V45i4zMQ"
     [slot.stream]
     start_at = 108
     end_at = 3003
@@ -146,6 +147,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
+youtube_link = "https://youtu.be/E1j7VPkcaPQ"
     [slot.stream]
     start_at = 3092
     end_at = 5399
@@ -162,6 +164,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
+youtube_link = "https://youtu.be/oddzDoqbvvg"
     [slot.stream]
     start_at = 6186
     end_at = 8859
@@ -177,7 +180,8 @@ start_at = 2021-10-12T19:00:00-03:00
 duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
-youtube_channel = "https://youtu.be/2XklbYfqY60`"
+youtube_channel = "https://youtu.be/2XklbYfqY60"
+youtube_link = "https://youtu.be/jRAmqPktkJY"
     [slot.stream]
     start_at = 3531
     end_at = 6395
