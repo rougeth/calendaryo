@@ -129,10 +129,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
-    [slot.streaming-error]
-    filename = "[PyBr2021] Trilha Timnit Gebru - Terça-feira - Dia 12_10 #PyBr2021.mp4"
-    start_at = 241
-    duration = 2761
+    [slot.stream]
+    start_at = 108
+    end_at = 3003
+    filename = "pybr2021_trilha_timnit_gebru__terçafeira__dia_1210_pybr2021_20211012_145846.mp4"
 
 
 [[slot]]
@@ -146,10 +146,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
-    [slot.streaming-error]
-    filename = "[PyBr2021] Trilha Timnit Gebru - Terça-feira - Dia 12_10 #PyBr2021.mp4"
-    start_at = 3328
-    duration = 2068
+    [slot.stream]
+    start_at = 3092
+    end_at = 5399
+    filename = "pybr2021_trilha_timnit_gebru__terçafeira__dia_1210_pybr2021_20211012_145846.mp4"
 
 [[slot]]
 type = "talk"
@@ -162,10 +162,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/6_zE8tUjszM"
-    [slot.streaming-error]
-    filename = "[PyBr2021] Trilha Timnit Gebru - Terça-feira - Dia 12_10 #PyBr2021.mp4"
-    start_at = 6265
-    duration = 2594
+    [slot.stream]
+    start_at = 6186
+    end_at = 8859
+    filename = "pybr2021_trilha_timnit_gebru__terçafeira__dia_1210_pybr2021_20211012_145846.mp4"
 
 [[slot]]
 type = "talk"
@@ -178,6 +178,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/2XklbYfqY60`"
+    [slot.stream]
+    start_at = 3531
+    end_at = 6395
+    filename = "pybr2021_trilha_timnit_gebru__terçafeira__dia_1210_2_pybr2021__20211012_180138.mp4"
 
 [[slot]]
 type = "talk"
