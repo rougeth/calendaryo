@@ -648,6 +648,10 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/2jcvSbm1vNw"
+    [slot.stream]
+    start_at = 99
+    end_at = 2965
+    filename = "pybr2021_trilha_shirley_ann_jackson__terçafeira__dia_1210_pybr2021_20211012_145818.mp4"
 
 [[slot]]
 type = "talk"
@@ -660,6 +664,10 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/2jcvSbm1vNw"
+    [slot.stream]
+    start_at = 3212
+    end_at = 6250
+    filename = "pybr2021_trilha_shirley_ann_jackson__terçafeira__dia_1210_pybr2021_20211012_145818.mp4"
 
 [[slot]]
 type = "talk"
@@ -672,6 +680,10 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/2jcvSbm1vNw"
+    [slot.stream]
+    start_at = 6342
+    end_at = 9329
+    filename = "pybr2021_trilha_shirley_ann_jackson__terçafeira__dia_1210_pybr2021_20211012_145818.mp4"
 
 [[slot]]
 type = "talk"
@@ -684,6 +696,10 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/2jcvSbm1vNw"
+    [slot.stream]
+    start_at = 14548
+    end_at = 17263
+    filename = "pybr2021_trilha_shirley_ann_jackson__terçafeira__dia_1210_pybr2021_20211012_145818.mp4"
 
 [[slot]]
 type = "talk"
