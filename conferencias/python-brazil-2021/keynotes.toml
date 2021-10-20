@@ -93,6 +93,10 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/Ul8aA8w7DTw"
+    [slot.stream]
+    start_at = 2498
+    duration = 7016
+    filename = "pybr2021_keynote_gabi_cavalcante__quintafeira__dia_1410_pybr2021_20211014_195528.mp4"
 
 [[slot]]
 type = "panel"
@@ -150,7 +154,11 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/4xrgUjNRqK4"
-
+    [slot.stream]
+    start_at = 396
+    end_at = 7271
+    filename = "pybr2021_roda_de_conversa_sobre_dados_abertos__quartafeira__dia_1310_pybr2021_20211013_100502.mp4"
+    
 [[slot]]
 type = "panel"
 author = ""
