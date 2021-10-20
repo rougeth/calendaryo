@@ -49,7 +49,10 @@ duration = 70
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
-
+    [slot.stream]
+    start_at = 9430
+    end_at = 11763
+    filename = "pybr2021_trilha_angelica_ross__quintafeira__dia_1410_pybr2021_20211014_145749.mp4"
 
 [[slot]]
 type = "light"
