@@ -23,6 +23,10 @@ duration = 40
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/fXRGok6QbIw"
+    [slot.stream]
+    start_at = 177
+    end_at = 1432
+    filename = "pybr2021_keynote_anicely_santos__terçafeira__dia_1210_pybr2021_20211012_194808.mp4"
 
 [[slot]]
 type = "light"

@@ -52,6 +52,10 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/fXRGok6QbIw"
+    [slot.stream]
+    start_at = 2151
+    end_at = 6391
+    filename = "pybr2021_keynote_anicely_santos__terçafeira__dia_1210_pybr2021_20211012_194808.mp4"
 
 [[slot]]
 type = "keynote"
@@ -123,10 +127,10 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/E78Ye0rQ1uA"
-    [slot.streaming-error]
+    [slot.stream]
     start_at = 43
-    duration = 7134
-    filename = "[PyBr2021] Roda de conversa sobre APyB - Terça-feira - Dia 12_10 #PyBr2021.mp4"
+    end_at = 7182
+    filename = "pybr2021_roda_de_conversa_sobre_apyb__terçafeira__dia_1210_pybr2021_20211012_100001.mp4"
 
 
 [[slot]]
