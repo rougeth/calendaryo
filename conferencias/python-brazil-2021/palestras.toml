@@ -1265,6 +1265,10 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+    [slot.stream]
+    start_at = 170
+    end_at = 2917
+    filename = "pybr2021_trilha_angelica_ross__quintafeira__dia_1410_pybr2021_20211014_145749.mp4"
 
 [[slot]]
 type = "talk"
@@ -1277,6 +1281,10 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+[slot.stream]
+    start_at = 3195
+    end_at = 6022
+    filename = "pybr2021_trilha_angelica_ross__quintafeira__dia_1410_pybr2021_20211014_145749.mp4"
 
 [[slot]]
 type = "talk"
@@ -1289,6 +1297,10 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+[slot.stream]
+    start_at = 6229
+    end_at = 8751
+    filename = "pybr2021_trilha_angelica_ross__quintafeira__dia_1410_pybr2021_20211014_145749.mp4"
 
 [[slot]]
 type = "talk"
@@ -1301,6 +1313,10 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+[slot.stream]
+    start_at = 14555
+    end_at = 17220
+    filename = "pybr2021_trilha_angelica_ross__quintafeira__dia_1410_pybr2021_20211014_145749.mp4"
 
 [[slot]]
 type = "talk"
