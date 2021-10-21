@@ -775,6 +775,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/XuqLH7wOu5g"
+youtube_link = "https://youtu.be/3ee4YPnuQVg"
     [slot.stream]
     start_at = 97
     end_at = 2861
@@ -791,6 +792,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/XuqLH7wOu5g"
+youtube_link = "https://youtu.be/LNxmGwW3DeE"
     [slot.stream]
     start_at = 3133
     end_at = 5109
@@ -807,6 +809,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/XuqLH7wOu5g"
+youtube_link = "https://youtu.be/6fp3lLoe6m8"
     [slot.stream]
     start_at = 6123
     end_at = 8343
@@ -823,6 +826,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/XuqLH7wOu5g"
+youtube_link = "https://youtu.be/PxTyA0bj6pk"
     [slot.stream]
     start_at = 14512
     end_at = 17285
