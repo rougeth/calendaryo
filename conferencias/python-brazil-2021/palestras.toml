@@ -198,6 +198,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+    [slot.stream]
+    start_at = 341
+    end_at = 3063
+    filename = "pybr2021_trilha_timnit_gebru__quartafeira__dia_1310_pybr2021_20211013_145815.mp4"
 
 [[slot]]
 type = "talk"
@@ -210,6 +214,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+    [slot.stream]
+    start_at = 3331
+    end_at = 5965
+    filename = "pybr2021_trilha_timnit_gebru__quartafeira__dia_1310_pybr2021_20211013_145815.mp4"
 
 [[slot]]
 type = "talk"
@@ -222,6 +230,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+    [slot.stream]
+    start_at = 6239
+    end_at = 8568
+    filename = "pybr2021_trilha_timnit_gebru__quartafeira__dia_1310_pybr2021_20211013_145815.mp4"
 
 [[slot]]
 type = "talk"
@@ -234,6 +246,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+    [slot.stream]
+    start_at = 14729
+    end_at = 17220
+    filename = "pybr2021_trilha_timnit_gebru__quartafeira__dia_1310_pybr2021_20211013_145815.mp4"
 
 [[slot]]
 type = "talk"
