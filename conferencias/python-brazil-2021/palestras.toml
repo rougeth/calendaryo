@@ -362,6 +362,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/aarQb_Dmy2U"
+youtube_link = "https://youtu.be/T6-QRBGPm-M"
     [slot.stream]
     start_at = 3253
     end_at = 6113
@@ -509,6 +510,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/aarQb_Dmy2U"
+youtube_link = "https://youtu.be/WmuTbuW7lmA"
     [slot.stream]
     start_at = 14813
     end_at = 16703
@@ -525,6 +527,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/aarQb_Dmy2U"
+youtube_link = "https://youtu.be/twLG0l6VIUc"
     [slot.stream]
     start_at = 206
     end_at = 2909
@@ -1445,6 +1448,7 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/aarQb_Dmy2U"
+youtube_link = "https://youtu.be/0IxQ156IkDY"
     [slot.stream]
     start_at = 6320
     end_at = 9566
