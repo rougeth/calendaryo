@@ -52,6 +52,7 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/fXRGok6QbIw"
+youtube_link = "https://youtu.be/aLL_xQ-ia6Q"
     [slot.stream]
     start_at = 2151
     end_at = 6391
@@ -128,6 +129,7 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/E78Ye0rQ1uA"
+youtube_link = "https://youtu.be/E0GdXCbNDcE"
     [slot.stream]
     start_at = 43
     end_at = 7182
