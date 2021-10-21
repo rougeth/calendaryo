@@ -198,6 +198,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+youtube_link = "https://youtu.be/--MpmPMgQhM"
     [slot.stream]
     start_at = 341
     end_at = 3063
@@ -214,6 +215,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+youtube_link = "https://youtu.be/WCz9Ho_CwjY"
     [slot.stream]
     start_at = 3331
     end_at = 5965
@@ -230,6 +232,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+youtube_link = "https://youtu.be/37wrA39AQxw"
     [slot.stream]
     start_at = 6239
     end_at = 8568
@@ -237,7 +240,7 @@ youtube_channel = "https://youtu.be/P2gQhRxgxpM"
 
 [[slot]]
 type = "talk"
-author = "Vinicius Sato & Gustavo Coelho"
+author = "Vinicius Sato"
 minibio = "Bacharel em Economia pela UnB, Mestre em Desenvolvimento Econômico pela UFPR, Consultor, Nômade, que ama carnaval e atualmente contribuindo para área de cenários econômicos de um banco."
 description = "Já pensou em encarar o desafio de otimizar espacialmente uma rede de ensino com aproximadamente 800 mil alunos num estado do tamanho da França? Topamos o desafio da rede de ensino estadual bahiana"
 name = "Desafio da otimização geoespacial da rede de ensino bahiana"
@@ -246,6 +249,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/P2gQhRxgxpM"
+youtube_link = "https://youtu.be/PjLDcbwOa5M"
     [slot.stream]
     start_at = 14729
     end_at = 17220
@@ -1375,6 +1379,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+youtube_link = "https://youtu.be/mZnOf7BH4kY"
     [slot.stream]
     start_at = 170
     end_at = 2917
@@ -1391,6 +1396,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+youtube_link = "https://youtu.be/Lg8NkM9KYtI"
 [slot.stream]
     start_at = 3195
     end_at = 6022
@@ -1407,6 +1413,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+youtube_link = "https://youtu.be/9-IYpVsm04Y"
 [slot.stream]
     start_at = 6229
     end_at = 8751
@@ -1423,6 +1430,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/PUsjycX4XR0"
+youtube_link = "https://youtu.be/NEtxgdeGrTM"
 [slot.stream]
     start_at = 14555
     end_at = 17220
