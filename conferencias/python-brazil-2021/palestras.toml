@@ -1227,6 +1227,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/OFKk416Zx9w"
+youtube_link = "https://youtu.be/w1M9vLRY1-Y"
 [slot.stream]
     start_at = 14386
     end_at = 16431
@@ -1312,6 +1313,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/OFKk416Zx9w"
+youtube_link = "https://youtu.be/wGQoNa05hHs"
 [slot.stream]
     start_at = 61
     end_at = 2715
@@ -1328,6 +1330,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/OFKk416Zx9w"
+youtube_link = "https://youtu.be/_0vcsij-Dss"
 [slot.stream]
     start_at = 3090
     end_at = 5798
@@ -1344,6 +1347,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/OFKk416Zx9w"
+youtube_link = "https://youtu.be/Lyz3SOH8OmY"
 [slot.stream]
     start_at = 6148
     end_at = 8705
