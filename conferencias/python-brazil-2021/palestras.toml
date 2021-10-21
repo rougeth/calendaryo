@@ -1090,6 +1090,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/VC49d5frTbg"
+youtube_link = "https://youtu.be/RERLmVWSeS4"
     [slot.stream]
     start_at = 118
     end_at = 2745
@@ -1106,6 +1107,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/VC49d5frTbg"
+youtube_link = "https://youtu.be/7Si4YANKAE0"
     [slot.stream]
     start_at = 3231
     end_at = 5707
@@ -1122,6 +1124,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/VC49d5frTbg"
+youtube_link = "https://youtu.be/VeLLfujK8sM"
     [slot.stream]
     start_at = 6268
     end_at = 9160
@@ -1138,6 +1141,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/VC49d5frTbg"
+youtube_link = "https://youtu.be/tCQrTu9k9TE"
     [slot.stream]
     start_at = 14385
     end_at = 17403
