@@ -53,7 +53,8 @@ start_at = 2021-10-14T17:30:00-03:00
 duration = 70
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
-youtube_channel = "https://youtu.be/PUsjycX4XR0"
+youtube_channel = "https://youtu.be/PUsjycX4XR0" 
+youtube_link = "https://youtu.be/U91O9N4rK1g"
     [slot.stream]
     start_at = 9430
     end_at = 11763
