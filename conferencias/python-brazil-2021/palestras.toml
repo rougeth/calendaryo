@@ -25,6 +25,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7aYX9Sj9jmA"
+youtube_link = "https://youtu.be/8GIdoAO4XEg"
     [slot.stream]
     start_at = 3166
     end_at = 5888
@@ -1462,6 +1463,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7aYX9Sj9jmA"
+youtube_link = "https://youtu.be/hPBfWuvkXL8"
     [slot.stream]
     start_at = 177
     end_at = 2907
