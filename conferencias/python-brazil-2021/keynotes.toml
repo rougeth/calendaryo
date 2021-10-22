@@ -99,7 +99,7 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/-OMV8DEEN8E"
-    [slot.streaming-error]
+    [slot.stream]
     start_at = 2213
     end_at = 6651
     filename = "pybr2021_keynote_yasodara_córdova__quartafeira__dia_1310_pybr2021_20211013_195128.mp4"
@@ -162,7 +162,7 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/M2H44tQA_b8"
-    [slot.streaming-error]
+    [slot.stream]
     start_at = 154
     end_at = 6755
     filename = "pybr2021_roda_de_conversa_sobre_dados_abertos__quartafeira__dia_1310_pybr2021_20211013_100502.mp4"
