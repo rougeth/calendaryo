@@ -69,6 +69,7 @@ duration = 40
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/Ul8aA8w7DTw"
+youtube_link = "https://youtu.be/udyLjpG8mfI"
     [slot.stream]
     start_at = 24
     end_at = 1896
