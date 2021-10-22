@@ -8,6 +8,10 @@ duration = 50
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+    [slot.stream]
+    start_at = 4312
+    end_at = 7045
+    filename = "pybr2021_keynote_eduardo_cuducos__encerramento_oficial__sextafeira__dia_1510_pybr2021_20211015_185847.mp4"
 
 [[slot]]
 type = "closing"
@@ -19,6 +23,10 @@ duration = 30
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+    [slot.stream]
+    start_at = 7046
+    end_at = 8263
+    filename = "pybr2021_keynote_eduardo_cuducos__encerramento_oficial__sextafeira__dia_1510_pybr2021_20211015_185847.mp4"
 
 [[slot]]
 type = "closing"
@@ -30,6 +38,10 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/0tD2o4vbATE"
+    [slot.stream]
+    start_at = 5
+    end_at = 1390
+    filename = "pybr2021_algorave_pythonbrasil__20211015_220658.mp4"
 
 [[slot]]
 type = "keynote"
@@ -41,6 +53,10 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+    [slot.stream]
+    start_at = 470
+    end_at = 4280
+    filename = "pybr2021_keynote_eduardo_cuducos__encerramento_oficial__sextafeira__dia_1510_pybr2021_20211015_185847.mp4"
 
 [[slot]]
 type = "keynote"
