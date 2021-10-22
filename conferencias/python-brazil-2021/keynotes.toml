@@ -8,6 +8,7 @@ duration = 50
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+youtube_link = "https://youtu.be/E5JjBt5Ujh8"
     [slot.stream]
     start_at = 4312
     end_at = 7045
@@ -23,6 +24,7 @@ duration = 30
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+youtube_link = "https://youtu.be/3XApWptTdaY"
     [slot.stream]
     start_at = 7046
     end_at = 8263
@@ -38,6 +40,7 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/0tD2o4vbATE"
+youtube_link = "https://youtu.be/CPakIXcgsII"
     [slot.stream]
     start_at = 5
     end_at = 1390
@@ -53,6 +56,7 @@ duration = 70
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/5XN1r7Sf6wM"
+youtube_link = "https://youtu.be/qxlcZIvfBdM"
     [slot.stream]
     start_at = 470
     end_at = 4280
