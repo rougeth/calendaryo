@@ -54,8 +54,8 @@ start_at = 2021-10-14T17:30:00-03:00
 duration = 70
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
-youtube_channel = "https://youtu.be/PUsjycX4XR0" 
-https://youtu.be/xBvpUZSXGoo
+youtube_channel = "https://youtu.be/PUsjycX4XR0"
+youtube_link = "https://youtu.be/xBvpUZSXGoo"
     [slot.stream]
     start_at = 9430
     end_at = 11763
@@ -76,5 +76,3 @@ youtube_link = "https://youtu.be/udyLjpG8mfI"
     start_at = 24
     end_at = 1896
     filename = "pybr2021_keynote_gabi_cavalcante__quintafeira__dia_1410_pybr2021_20211014_195528.mp4"
-
-
