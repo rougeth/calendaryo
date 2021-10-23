@@ -33,18 +33,6 @@ youtube_link = "https://youtu.be/8GIdoAO4XEg"
 
 [[slot]]
 type = "talk"
-author = "Francisco Fernandes"
-minibio = "Meu historico passa pelo movimento do Software Livre, tendo sido membro do Projeto Software Livre-PI, contribuido com a comunidade KDE e participante da comunidade PUG-PI. Ja atuei como modelador 3D e pesquisa em computação grafica, mais especificamente geométrica computacional.Atualmente estou programador na ThoughWorks Brasil. Meus interesses passam por politica, animação, quadrinhos e melhores práticas de programação em geral."
-description = ""
-name = "1+1=0: Testes na programação"
-start_at = 2021-10-14T16:40:00-03:00
-duration = 45
-discord_channel = "893958312985493584"
-room = "Shirley Ann Jackson"
-youtube_channel = "https://youtu.be/AeYJSHnwyYU"
-
-[[slot]]
-type = "talk"
 author = "Guilherme Latrova"
 minibio = "Desenvolvedor apaixonado por código legível que funciona 🧑‍💻❤️. Amante de bom café ☕️ e atualmente trabalhando como engenheiro de software na Lumos Identity."
 description = ""
@@ -857,6 +845,22 @@ youtube_link = "https://youtu.be/PxTyA0bj6pk"
 
 [[slot]]
 type = "talk"
+author = "Pâmella Balcaçar"
+minibio = "É Bióloga e Tecnóloga em Informática, com MBA em Perícia, Auditoria e Análise Ambiental e Especialista em Biotecnologia e Bioprocessos. Atua na educação desde 2011. É Pylady e participante do grupo das Pyladies Bioinfo. "
+description = "Será abordado a obra do Pesquisador George Siemens a respeito da teoria de aprendizagem conectivista."
+name = "Conectivismo Pedagógico: novas formas de ensinar e aprender no século XXI"
+start_at = 2021-10-14T15:00:00-03:00
+duration = 45
+discord_channel = "893958312985493584"
+room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/AeYJSHnwyYU"
+[slot.stream]
+    start_at = 290   
+    end_at = 2582
+    filename = "pybr2021_trilha_shirley_ann_jackson__quintafeira__dia_1410_pybr2021_20211014_145924.mp4"
+
+[[slot]]
+type = "talk"
 author = "Juliana Alves"
 minibio = "Juliana Ferreira é graduanda em Eng. da Computação, faz IC em Bioinformática e Aprendizado de Máquina. Conselheira global das PyLadies eleita em 2020 e integrante do PyLadies São Carlos desde 2018."
 description = "Essa palestra é pra quem está se perguntando o que é (e como funciona) Machine Learning. O foco desta apresentação é introduzir conceitos de ML, abordando temas chaves e algumas de suas aplicações."
@@ -866,6 +870,26 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/AeYJSHnwyYU"
+    [slot.stream]
+    start_at = 3145   
+    end_at = 5339
+    filename = "pybr2021_trilha_shirley_ann_jackson__quintafeira__dia_1410_pybr2021_20211014_145924.mp4"
+
+[[slot]]
+type = "talk"
+author = "Francisco Fernandes"
+minibio = "Meu historico passa pelo movimento do Software Livre, tendo sido membro do Projeto Software Livre-PI, contribuido com a comunidade KDE e participante da comunidade PUG-PI. Ja atuei como modelador 3D e pesquisa em computação grafica, mais especificamente geométrica computacional.Atualmente estou programador na ThoughWorks Brasil. Meus interesses passam por politica, animação, quadrinhos e melhores práticas de programação em geral."
+description = ""
+name = "1+1=0: Testes na programação"
+start_at = 2021-10-14T16:40:00-03:00
+duration = 45
+discord_channel = "893958312985493584"
+room = "Shirley Ann Jackson"
+youtube_channel = "https://youtu.be/AeYJSHnwyYU"
+[slot.stream]
+    start_at = 6254   
+    end_at = 9155
+    filename = "pybr2021_trilha_shirley_ann_jackson__quintafeira__dia_1410_pybr2021_20211014_145924.mp4"
 
 [[slot]]
 type = "talk"
@@ -878,6 +902,11 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/AeYJSHnwyYU"
+[slot.stream]
+    start_at = 14510   
+    end_at = 17348
+    filename = "pybr2021_trilha_shirley_ann_jackson__quintafeira__dia_1410_pybr2021_20211014_145924.mp4"
+
 
 [[slot]]
 type = "talk"
@@ -914,6 +943,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/z5zMwDET8Dc"
+
 
 [[slot]]
 type = "talk"
@@ -1235,17 +1265,7 @@ youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
     start_at = 3485
     duration = 1805
 
-[[slot]]
-type = "talk"
-author = "Pâmella Balcaçar"
-minibio = "É Bióloga e Tecnóloga em Informática, com MBA em Perícia, Auditoria e Análise Ambiental e Especialista em Biotecnologia e Bioprocessos. Atua na educação desde 2011. É Pylady e participante do grupo das Pyladies Bioinfo. "
-description = "Será abordado a obra do Pesquisador George Siemens a respeito da teoria de aprendizagem conectivista."
-name = "Conectivismo Pedagógico: novas formas de ensinar e aprender no século XXI"
-start_at = 2021-10-14T15:00:00-03:00
-duration = 45
-discord_channel = "893958312985493584"
-room = "Shirley Ann Jackson"
-youtube_channel = "https://youtu.be/AeYJSHnwyYU"
+
 
 [[slot]]
 type = "talk"
