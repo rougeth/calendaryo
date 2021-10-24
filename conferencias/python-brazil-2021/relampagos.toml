@@ -8,9 +8,10 @@ duration = 50
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/ia-W6GwDTto"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/XUi8Al8PpHo"
+    [slot.stream]
     start_at = 43
-    duration = 874
+    end_at = 916
     filename = "pybr2021_keynote_kizzy_terra_e_hallison_paz__segundafeira__dia_1110_pybr2021_20211011_195206.mp4"
 
 [[slot]]

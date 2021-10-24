@@ -201,3 +201,8 @@ duration = 120
 discord_channel = "895487732443389983"
 room = ""
 youtube_channel = "https://youtu.be/cDoxtv2uwXo"
+youtube_link = "https://youtu.be/mnjr38XTmOc"
+    [slot.stream]
+    start_at = 100
+    end_at = 7237
+    filename = "pybr2021_roda_de_conversa_sobre_segurança__sextafeira__dia_1510_pybr2021_20211015_095924.mp4"
