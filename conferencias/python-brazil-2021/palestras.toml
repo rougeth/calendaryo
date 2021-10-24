@@ -42,10 +42,11 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/Hj6Y_IB6FYA"
+    [slot.stream]
     filename = "[PyBr2021] Trilha Marie Van Brittan Brown - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 6652
-    duration = 1676
+    start_at = 6578
+    end_at = 8771
 
 [[slot]]
 type = "talk"
@@ -327,6 +328,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/tIfYm38Vag8"
+youtube_link = "https://youtu.be/54r0EomAXJA"
     [slot.stream]
     start_at = 284
     end_at = 2668
@@ -343,6 +345,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/tIfYm38Vag8"
+youtube_link = "https://youtu.be/afG7OdsmdsI"
 [slot.stream]
     start_at = 3243
     end_at = 5895
@@ -359,6 +362,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/tIfYm38Vag8"
+youtube_link = "https://youtu.be/MK2BeyFV93I"
 [slot.stream]
     start_at = 3704
     end_at = 8815
@@ -459,11 +463,11 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
-youtube_link = "https://www.youtube.com/watch?v=L2K2pyXVqGM"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/qgouvDvfz6k"
+    [slot.stream]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
-    start_at = 3505
-    duration = 2471
+    start_at = 3362
+    end_at = 6070
 
 
 [[slot]]
@@ -477,11 +481,11 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
-youtube_link = "https://www.youtube.com/watch?v=eGKL_qb32bw"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/1boHJaB2qQc"
+    [slot.stream]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
-    start_at = 6593
-    duration = 2201
+    start_at = 6372
+    end_at = 8963
 
 [[slot]]
 type = "talk"
@@ -679,11 +683,11 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/c-ytboo__JI"
-youtube_link = "https://www.youtube.com/watch?v=jpAsf6TlXYc"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/XHf4KagUvB0"
+    [slot.stream]
     filename = "pybr2021_trilha_bonnie_prado_pinto__segundafeira__dia_1110_pybr2021_20211011_150258.mp4"
-    start_at = 352
-    duration = 2130
+    start_at = 222
+    end_at = 2593
 
 [[slot]]
 type = "talk"
@@ -696,11 +700,11 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
-youtube_link = " https://www.youtube.com/watch?v=uOpjXabX3X4"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/wWzi73WgfOs"
+    [slot.stream]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
-    start_at = 14876
-    duration = 2808
+    start_at = 14811
+    end_at = 17748
 
 [[slot]]
 type = "talk"
@@ -713,11 +717,11 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/s7B8Cd02MF8"
-youtube_link = "https://www.youtube.com/watch?v=KUquDcNFUvU"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/dIhSmySC6YQ"
+    [slot.stream]
     filename = "pybr2021_trilha_shirley_ann_jackson__segundafeira__dia_1110_pybr2021_20211011_145353.mp4"
     start_at = 712
-    duration = 2593
+    end_at = 3327
 
 [[slot]]
 type = "talk"
@@ -935,6 +939,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/z5zMwDET8Dc"
+youtube_link = "https://youtu.be/DaA3nTI6Nzg"
     [slot.stream]
     start_at = 110 
     end_at = 2611 
@@ -951,6 +956,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/z5zMwDET8Dc"
+youtube_link = "https://youtu.be/ycRI1tAsWnk"
     [slot.stream]
     start_at = 3125 
     end_at = 5665 
@@ -967,6 +973,7 @@ duration = 45
 discord_channel = "893958312985493584"
 room = "Shirley Ann Jackson"
 youtube_channel = "https://youtu.be/z5zMwDET8Dc"
+youtube_link = "https://youtu.be/9GKs_S_TFFw"
     [slot.stream]
     start_at = 6109 
     end_at = 9041 
@@ -983,10 +990,11 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/NXepKObd9d0"
+    [slot.stream]
     filename = "[PyBr2021] Trilha Marie Van Brittan Brown - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 885
-    duration = 2924
+    start_at = 784
+    end_at = 3810
 
 [[slot]]
 type = "talk"
@@ -999,10 +1007,11 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/SFqNapWl6ik"
+    [slot.stream]
     filename = "[PyBr2021] Trilha Marie Van Brittan Brown - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 3910
-    duration = 1671
+    start_at = 3830
+    end_at = 5988
 
 [[slot]]
 type = "talk"
@@ -1032,10 +1041,11 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/lsrVtD5qaW4"
-    [slot.streaming-error]
+youtube_link = "https://youtu.be/VVuCs9E5LrY"
+    [slot.stream]
     filename = "[pybr2021] trilha marie van brittan brown - segunda-feira - dia 11_10 #pybr2021.mp4"
-    start_at = 15312
-    duration = 2737
+    start_at = 15215
+    end_at = 18051
 
 [[slot]]
 type = "talk"
@@ -1235,11 +1245,11 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/2JtoCRtkMw4"
+youtube_link = "https://youtu.be/Cj-Dy_aKtx8"
     [slot.stream]
     start_at = 201
     end_at = 2777
     filename = "pybr2021_trilha_marie_van_brittan_brown__sextafeira__dia_1510_pybr2021_20211015_145804"
-
 
 [[slot]]
 type = "talk"
@@ -1252,6 +1262,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/2JtoCRtkMw4"
+youtube_link = "https://youtu.be/pDv5ty3FmU4"
 [slot.stream]
     start_at = 3237
     end_at = 5759
@@ -1268,6 +1279,7 @@ duration = 45
 discord_channel = "893958335383089223"
 room = "Marie Van Brittan Brown"
 youtube_channel = "https://youtu.be/2JtoCRtkMw4"
+youtube_link = "https://youtu.be/VCBcgq0K4nE"
 [slot.stream]
     start_at = 3705
     end_at = 8724
