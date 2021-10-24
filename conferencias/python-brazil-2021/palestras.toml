@@ -59,6 +59,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
+youtube_link = "https://youtu.be/hYvrJMdiSxs"
     [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 852
@@ -75,6 +76,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
+youtube_link = "https://youtu.be/gK-tuF_OPJQ"
     [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 3813
@@ -91,6 +93,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
+youtube_link = "https://youtu.be/nqVaM1Fcl_A"
     [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 6805
@@ -107,6 +110,7 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
+youtube_link = "https://youtu.be/Oq-P1ERPCew"
     [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 15230
