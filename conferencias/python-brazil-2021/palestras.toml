@@ -9,6 +9,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
+youtube_link = "https://youtu.be/lgGJyCg_kt8"
     [slot.stream]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 14838
@@ -1300,6 +1301,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
+youtube_link = "https://youtu.be/e-BBurwuVKs"
     [slot.stream]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 384
@@ -1316,6 +1318,7 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
+youtube_link = "https://youtu.be/LqlhqkRwamw"
     [slot.stream]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
     start_at = 3401
