@@ -9,10 +9,10 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 14910
-    duration = 2438
+    start_at = 14838
+    end_at = 17416
 
 [[slot]]
 type = "talk"
@@ -59,10 +59,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 905
-    duration = 2246
+    start_at = 852
+    end_at = 3425
 
 [[slot]]
 type = "talk"
@@ -75,10 +75,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 3940
-    duration = 2013
+    start_at = 3813
+    end_at = 6482
 
 [[slot]]
 type = "talk"
@@ -91,10 +91,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 6836
-    duration = 1748
+    start_at = 6805
+    end_at = 9106
 
 [[slot]]
 type = "talk"
@@ -107,10 +107,10 @@ duration = 45
 discord_channel = "893958356484620378"
 room = "Timnit Gebru"
 youtube_channel = "https://youtu.be/qu85TN0Ljok"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Timnit Gebru - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 15345
-    duration = 2085
+    start_at = 15230
+    end_at = 17703
 
 [[slot]]
 type = "talk"
@@ -1296,10 +1296,10 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 385
-    duration = 2765
+    start_at = 384
+    end_at = 3221
 
 [[slot]]
 type = "talk"
@@ -1312,12 +1312,10 @@ duration = 45
 discord_channel = "893958446909640734"
 room = "Angelica Ross"
 youtube_channel = "https://youtu.be/7Rgz3rnVPR4"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Angelica Ross - Segunda-feira - Dia 11_10 #PyBr2021.mp4"
-    start_at = 3485
-    duration = 1805
-
-
+    start_at = 3401
+    end_at = 6050
 
 [[slot]]
 type = "talk"
