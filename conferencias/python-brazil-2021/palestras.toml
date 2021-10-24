@@ -418,10 +418,10 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Segunda-feira - Dia 11_10 #PyBr2021_2.mp4"
-    start_at = 11278
-    duration = 2785
+    start_at = 11279
+    end_at = 14064
 
 [[slot]]
 type = "talk"
@@ -520,10 +520,10 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Segunda-feira - Dia 11_10 #PyBr2021_2.mp4"
     start_at = 3218
-    duration = 2221
+    end_at = 5510
 
 [[slot]]
 type = "talk"
@@ -621,10 +621,10 @@ duration = 45
 discord_channel = "893958471173689384"
 room = "Bonnie Prado Pinto"
 youtube_channel = "https://youtu.be/Z8oFrUY5DAU"
-    [slot.streaming-error]
+    [slot.stream]
     filename = "[PyBr2021] Trilha Bonnie Prado Pinto - Segunda-feira - Dia 11_10 #PyBr2021_2.mp4"
     start_at = 398
-    duration = 2588
+    end_at = 3013
 
 [[slot]]
 type = "talk"
