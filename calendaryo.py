@@ -97,6 +97,7 @@ for slot in slots:
     category = slot.get("category", "")
     discord_channel = slot.get("discord_channel", "")
     youtube_channel = slot.get("youtube_channel", "")
+    youtube_link = slot.get("youtube_link", "")
     # tutorial_type = slot.get("tutorial_type", "")
 
     event = {
@@ -118,6 +119,7 @@ for slot in slots:
                 "photo_url": photo_url,
                 "discord_channel": discord_channel,
                 "youtube_channel": youtube_channel,
+                "youtube_link": youtube_link,
             }
         },
     }
